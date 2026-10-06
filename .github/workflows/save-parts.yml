@@ -232,7 +232,7 @@ jobs:
             const out = [];
             for (const h of document.querySelectorAll('h1,h2,h3,h4,h5,h6,[role="heading"]')) {
               const text = (h.innerText || h.textContent || '').trim();
-              const m = text.match(/^([^:\n]{2,40}):/);
+              const m = text.match(/^([^:]{2,40}):/);
               if (!m) continue;
               for (const a of h.querySelectorAll('a[href]')) {
                 let path = null;
