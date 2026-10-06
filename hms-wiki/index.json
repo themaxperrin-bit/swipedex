@@ -1,119 +1,4 @@
 {
- "categories": [
-  "Category:HMS",
-  "Category:HMS Beyblades",
-  "Category:Heavy Metal System",
-  "Category:Heavy Metal System Beyblades",
-  "Category:Heavy Metal System Parts",
-  "Category:Shin Sedai Custom Beigoma Beyblade: HMS Heavy Metal Battle Beyblades"
- ],
- "lookups": {
-  "Gaia Dragoon MS": [
-   "Dragoon MS",
-   "Gaia Dragoon",
-   "Strata Dragoon MS"
-  ],
-  "Driger MS": [
-   "Driger MS",
-   "Dragoon MS",
-   "Dranzer MS"
-  ],
-  "Draciel MS": [
-   "Draciel MS",
-   "Draciel",
-   "Dragoon MS"
-  ],
-  "Dragoon MS": [
-   "Dragoon MS",
-   "Dragoon MF",
-   "Dragoon MS Ultimate Version"
-  ],
-  "Dranzer MS": [
-   "Dranzer MS",
-   "Dranzer MF",
-   "Dranzer MS/fr"
-  ],
-  "Dragoon MS Ultimate Version": [
-   "Dragoon MS Ultimate Version",
-   "Dragoon MS",
-   "Dragoon MS Ultimate Version/fr"
-  ],
-  "Death Gargoyle MS": [
-   "Dark Gargoyle",
-   "Dark Gargoyle MS",
-   "Dark Gargoyle MS/fr"
-  ],
-  "Wolborg MS": [
-   "Wolborg MS",
-   "Dragoon MS",
-   "Wolborg MS (manga)"
-  ],
-  "Advance Averazer": [
-   "Advance Averazer",
-   "Advance Averazer/fr",
-   "Attack Ring - Advance Balancer"
-  ],
-  "Advance Guardian": [
-   "Advance Guardian",
-   "Advance Guardian/fr",
-   "Advance Guardian/it"
-  ],
-  "Advance Striker": [
-   "Advance Striker",
-   "Advance Striker/fr",
-   "Attack Ring - Advance Attacker"
-  ],
-  "Advance Eterner": [
-   "Advance Eterner",
-   "Advance Eterner/fr",
-   "Advance Eterner/it"
-  ],
-  "Phantom Fox MS": [
-   "Phantom Fox MS",
-   "Phantom Fox MS/fr",
-   "Phantom Fox MS/it"
-  ],
-  "Dark Leopard MS": [
-   "Dark Leopard MS",
-   "Dark Leopard MS/fr",
-   "Dark Leopard MS/it"
-  ],
-  "Magical Ape MS": [
-   "Magical Ape MS",
-   "Magical Ape MS/fr",
-   "Magical Ape MS/it"
-  ],
-  "Round Shell MS": [
-   "Round Shell MS",
-   "Round Shell MS/fr",
-   "Round Shell MS/it"
-  ],
-  "Samurai Changer MS": [
-   "Samurai Changer MS",
-   "Attack Ring - Samurai Upper",
-   "Bit Protector - Samurai Emblem"
-  ],
-  "Aero Knight MS": [
-   "Aero Knight MS",
-   "Layer - Air Knight",
-   "Running Core - Aero Wing & Aero Core"
-  ],
-  "Jiraiya MS": [
-   "Jiraiya MS",
-   "Jiraiya MS/fr",
-   "Attack Ring - Jiraiya Blade"
-  ],
-  "Bloody Devil MS": [
-   "Bloody Devil MS",
-   "Bloody Devil MS/it",
-   "Bloody Devil MS/fr"
-  ],
-  "Shining God MS": [
-   "Shining God MS",
-   "Shining God MS/fr",
-   "Shining God MS/it"
-  ]
- },
  "pages": [
   {
    "title": "Advance Averazer",
@@ -197,6 +82,224 @@
       450
      ]
     }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Hard Metal Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Advance Balancer"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Balance"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Semi-Flat Core"
+    }
+   ]
+  },
+  {
+   "title": "Advance Averazer/fr",
+   "categories": [
+    "Category:Beyblades",
+    "Category:Beyblades (Fran\u00e7ais)",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System (Fran\u00e7ais)",
+    "Category:Hard Metal System Beyblades",
+    "Category:Hard Metal System Beyblades (Fran\u00e7ais)",
+    "Category:Parts"
+   ],
+   "main_image": "AA1.jpg",
+   "text": "{{Beyblade Infobox/fr\n|Image=AA1.jpg\n|JPName=\n|RomajiName=\n|AKA=\n|ProductCode=MA-09\n|Type=[[Balance/fr|\u00c9quilibre]]\n|Price=\n|System=Hard Metal System\n|Series=\n|ReleaseJP=March 27th, 2004\n|ReleaseUS=\n|BitProtector=Embl\u00e8me du HMS\n|AttackRing=Advance Balancer\n|WeightDisk=Circle Balance\n|RunningCore=Metal Semi-Flat Core\n}}\n{{Translation|'''Advance Averazer'''|\u30a2\u30c9\u30d0\u30f3\u30b9\u30a2\u30f4\u30a7\u30ec\u30a4\u30b6\u30fc|}} est une Beyblade de type \u00e9quilibre faisant partie du [[Hard Metal System]]. Elle est sortie au Japon le 27 mars 2004.\n\n==Protecteur Spectral(PS): Embl\u00e8me du HMS==\nLe protecteur spectral de cette toupie est l\u2019Embl\u00e8me du HMS et provient du premier moulage des protecteurs.\n\n==Anneau d'attaque(AA): Advance Balancer==\n{{Part|Anneau d'attaque - Advance Balancer}}\n==Disque de m\u00e9tal(DM): Circle Balance==\n{{Part|Disque de m\u00e9tal - Circle Balance}}\n==Gyrostat(GS): Metal Semi-Flat Core==\n{{Part|Gyrostat - Metal Semi-Flat Core}}\n==Variantes==\n*'''Blanc''' - Inclus dans MA-10 [[HMS Custom Try Set]].\n*'''Bleu p\u00e2le'''\n*'''Violet'''\n\n==Galerie==\n===Version originale===\n<gallery position=\"center\" widths=\"130\">\nImage : AA2.jpg|Autocollants\nImage : AA3.jpg|Advance Balancer \u2013 AA sans autocollant ni cadre de m\u00e9tal\nImage:AA4.jpg|Advance Balancer - cadre de m\u00e9tal\nImage : AA5.jpg|Advance Balancer sans autocollant\nImage : AA6.jpg|Advance Balancer\nImage : AA1.jpg|Prise de vue du dessus\nImage : AA7.jpg|Prise de vue 3/4\nImage : AA8.jpg|Prise de vue du dessous\n</gallery>\n\n==R\u00e9capitulatif==\n'''Advance Averazer''' est la premi\u00e8re toupie de la s\u00e9rie Advance et elle ne passe pas inaper\u00e7ue : elle d\u00e9passe les attentes et d\u00e9montre le mieux les diff\u00e9rences existant entre les toupies plastiques et HMS. L\u2019une des meilleures toupies de type \u00c9quilibre, jumelant une bonne attaque \u00e0 une bonne endurance et une grande vitesse \u00e0 une bonne capacit\u00e9 d\u2019absorption d\u2019\u00e9nergie rotationnelle, cette toupie est un bon achat.\n\n==Anecdotes==\n==R\u00e9f\u00e9rences==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "advance-averazer-fr",
+   "images": [
+    {
+     "file": "advance-averazer-fr/aa1.jpg",
+     "wiki_name": "File:AA1.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-fr/aa2.jpg",
+     "wiki_name": "File:AA2.jpg",
+     "size": [
+      450,
+      600
+     ]
+    },
+    {
+     "file": "advance-averazer-fr/aa3.jpg",
+     "wiki_name": "File:AA3.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-fr/aa4.jpg",
+     "wiki_name": "File:AA4.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-fr/aa5.jpg",
+     "wiki_name": "File:AA5.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-fr/aa6.jpg",
+     "wiki_name": "File:AA6.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-fr/aa7.jpg",
+     "wiki_name": "File:AA7.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-fr/aa8.jpg",
+     "wiki_name": "File:AA8.jpg",
+     "size": [
+      600,
+      450
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Embl\u00e8me du HMS"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Advance Balancer"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Balance"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Semi-Flat Core"
+    }
+   ]
+  },
+  {
+   "title": "Advance Averazer/it",
+   "categories": [
+    "Category:Beyblades",
+    "Category:Beyblades (Italiano)",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System (Italiano)",
+    "Category:Hard Metal System Beyblades",
+    "Category:Hard Metal System Beyblades (Italiano)",
+    "Category:Italiano"
+   ],
+   "main_image": "AA1.jpg",
+   "text": "{{Beyblade Infobox/it\n|Image=AA1.jpg\n|ImageCaption=\n|JPNome=\u30a2\u30c9\u30d0\u30f3\u30b9\u30a2\u30f4\u30a7\u30ec\u30a4\u30b6\u30fc\n|RomajiNome=Adobansuavu~ereiz\u0101\n|AKA=\n|CodiceProdotto=MA-09\n|Tipo=[[Balance/it|Equilibrio]]\n|Prezzo=\n|Sistema=Hard Metal System\n|Serie=\n|RilascioJP=March 27th, 2004\n|RilascioUS=\n|RilascioCA=\n|RilascioEU=\n|BitProtector=Heavy Metal Emblem\n|AttackRing=Advance Balancer\n|WeightDisk=Circle Balance\n|RunningCore=Metal Semi-Flat Core\n|Poseedor=\n|DebuttoAnime=\n|DebuttoManga=\n|Mosse Speciali=\n|WBO=\n}}\n\n==Bit Power (BP): Heavy Metal Emblem==\nIl Bit Protector di questo BeyBlade rappresenta l\u2019Emblema Heavy Metal. La sua struttura \u00e8 della prima versione.\n\n==Anello d'Attacco (AA): Advance Balancer==\n{{Part|Attack Ring - Advance Balancer/it|Attack Ring - Advance Balancer}}\n==Disco Peso (DP): Circle Balance==\n{{Part|Weight Disk - Circle Balance/it|Weight Disk - Circle Balance}}\n==Running Core (RC): Metal Semi-Flat Core==\n{{Part|Running Core - Metal Semi-Flat Core/it|Running Core - Metal Semi-Flat Core}}\n==Varianti==\n*'''Bianco''' - Inclus dans MA-10 [[HMS Custom Try Set]].\n*'''Azzurro'''\n*'''Viola'''\n\n==Galleria==\n===Version originale===\n<gallery position=\"center\" widths=\"130\">\nImage:AA2.jpg|Stickers\nImage:AA3.jpg|Advance Balancer AR senza stickers e Metal Frame\nImage:AA4.jpg|Advance Balancer Metal Frame\nImage:AA5.jpg|Advance Balancer AR senza stickers\nImage:AA6.jpg|Advance Balancer AR\nImage:AA1.jpg|Visto dall'alto\nImage:AA7.jpg|Visuale a 3/4\nImage:AA8.jpg|Visto dal basso\n</gallery>\n\n==Giudizio Complessivo==\nAverazer Advance fu il primo della serie Advance ad aver suscitato un\u2019ammirazione duratura. Le prestazioni di questo Beyblade furono superiori alle previsioni. Esso fu anche il miglior Beyblade per dimostrare la differenza di forza tra la serie plastic e la serie HMS. \nQuesto BeyBlade \u00e8 sempre stato uno dei migliori tipo [[Combination/it|Combinato]], con buon [[Attack/it|Attacco]] e una buona [[Stamina/it|Resistenza]] nello stesso Bey e con un movimento ad alta velocit\u00e0 capace di rubare lo spin del Bey avversario. \u00c8 sicuramente un buon acquisto. Ogni blader dovrebbe averne almeno uno nella sua collezione.\n\n==Trivia==\n==Riferimenti==\n{{Reflist}}\n{{Hard Metal System Beyblades}}\n[[Category:Italiano]]",
+   "key": "advance-averazer-it",
+   "images": [
+    {
+     "file": "advance-averazer-it/aa1.jpg",
+     "wiki_name": "File:AA1.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-it/aa2.jpg",
+     "wiki_name": "File:AA2.jpg",
+     "size": [
+      450,
+      600
+     ]
+    },
+    {
+     "file": "advance-averazer-it/aa3.jpg",
+     "wiki_name": "File:AA3.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-it/aa4.jpg",
+     "wiki_name": "File:AA4.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-it/aa5.jpg",
+     "wiki_name": "File:AA5.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-it/aa6.jpg",
+     "wiki_name": "File:AA6.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-it/aa7.jpg",
+     "wiki_name": "File:AA7.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "advance-averazer-it/aa8.jpg",
+     "wiki_name": "File:AA8.jpg",
+     "size": [
+      600,
+      450
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Heavy Metal Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Advance Balancer"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Balance"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Semi-Flat Core"
+    }
    ]
   },
   {
@@ -225,6 +328,68 @@
       250,
       250
      ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Hard Metal Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Advance Survivor"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Wide"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Sharp Core"
+    }
+   ]
+  },
+  {
+   "title": "Advance Eterner/fr",
+   "categories": [
+    "Category:Beyblade: G-Revolution",
+    "Category:Beyblade: G-Revolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Parts",
+    "Category:Stamina Types"
+   ],
+   "main_image": "AdvanceEterner2.jpg",
+   "text": "{{Beyblade Infobox\n|Image=File:AdvanceEterner2.jpg\n|JPName=\u30a2\u30c9\u30d0\u30f3\u30b9\u30a8\u30bf\u30fc\u30ca\n|RomajiName=Adobansu Etaana\n|AKA=\n|ProductCode=MA-14\n|Type=Stamina\n|Price=\n|System=Hard Metal System\n|Series=Beyblade: G-Revolution\n|ReleaseJP=June 26th, 2004\n|ReleaseUS=\n|BitProtector=Embl\u00e8me du HMS\n|AttackRing=Advance Survivor\n|WeightDisk=Circle Wide\n|RunningCore=Metal Sharp Core\n}}\n{{Translation|'''Advance Eterner'''|\u30a2\u30c9\u30d0\u30f3\u30b9\u30a8\u30bf\u30fc\u30ca}} est une Beyblade de type Endurance faisant partie du [[Hard Metal System]]. Elle est sortie au Japon le 26 juin 2004.\n\n==Protecteur spectral(PS) : Embl\u00e8me du HMS==\nLe protecteur spectral de cette toupie est l'Embl\u00e8me du HMS et provient du premier moulage des protecteurs. \n\n==Anneau d'attaque(AA) : Advance Survivor==\n{{Part|Anneau d'attaque - Advance Survivor}}\n==Disque de m\u00e9tal(DM) : Circle Wide==\n{{Part|Weight Disk - Circle Wide/fr}}\n\n==Gyrostat(GS) : Metal Sharp Core==\n{{Part|Gyrostat - Metal Sharp Core/fr}}\n\n==Variantes==\n*'''Bleu p\u00e2le''' - HMS Random Booster ACT 4\n*'''Vert kaki''' - HMS Random Booster ACT 4\n\n==R\u00e9capitulatif==\nAdvance Eterner a plusieurs bonnes pi\u00e8ces : pour les combinaisons d\u2019endurance, le Metal Sharp est le meilleur substitut aux Gyrostats ayant un roulement \u00e0 billes; Advance Survivor peut servir autant dans les combinaisons d\u2019absorption que d\u2019endurance et sa capacit\u00e9 \u00e0 renverser son cadre de m\u00e9tal pour s\u2019adapter au sens de rotation de la toupie est une caract\u00e9ristique ing\u00e9nieuse et bien appr\u00e9ci\u00e9e. \n\n==Galerie==\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n\n==Anecdotes==\n\n==R\u00e9f\u00e9rences==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "advance-eterner-fr",
+   "images": [
+    {
+     "file": "advance-eterner-fr/advanceeterner2.jpg",
+     "wiki_name": "File:AdvanceEterner2.jpg",
+     "size": [
+      250,
+      250
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Embl\u00e8me du HMS"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Advance Survivor"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Wide"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Sharp Core"
     }
    ]
   },
@@ -326,6 +491,113 @@
       1024
      ]
     }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Hard Metal Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Advance Defenser"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Grip Sharp Core"
+    }
+   ]
+  },
+  {
+   "title": "Advance Guardian/fr",
+   "categories": [
+    "Category:Beyblades",
+    "Category:D\u00e9fense Types",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades"
+   ],
+   "main_image": "800px-0AdvanceGuardian0.jpg",
+   "text": "{{Beyblade Infobox\n|Image=800px-0AdvanceGuardian0.jpg\n|JPName=\u30a2\u30c9\u30d0\u30f3\u30b9\u30ac\u30fc\u30c7\u30a3\u30a2\u30f3\n|RomajiName=Adobansu Gaadian\n|AKA=\n|ProductCode=MA-11\n|Type=D\u00e9fense\n|Price=\n|System=Hard Metal System\n|Series=\n|ReleaseJP=24 avril 2004\n|ReleaseUS=\n|BitProtector=Embl\u00e8me du HMS\n|AttackRing=Advance Defenser\n|WeightDisk=Circle Heavy\n|RunningCore=Metal Flat Core\n}}\n{{Translation|'''Advance Guardian'''|\u30a2\u30c9\u30d0\u30f3\u30b9\u30ac\u30fc\u30c7\u30a3\u30a2\u30f3|}} est une Beyblade de type d\u00e9fense faisant partie du [[Hard Metal System]]. Elle est sortie au Japon le 24 avril 2004.\n\n==Protecteur Spectral(PS): Embl\u00e8me du HMS==\nLe protecteur spectral de cette toupie est l'Embl\u00e8me du HMS et provient du premier moulage des protecteurs.\n\n==Anneau d'attaque(AA): Advance Defenser==\n{{Part|Anneau d'attaque - Advance Defenser}}\n==Disque de m\u00e9tal(DM): Circle Heavy==\n{{Part|Weight Disk - Circle Heavy/fr}}\n==Gyrostat(GS): Grip Sharp Core==\n{{Part|Gyrostat - Grip Sharp Core}}\n\n==Variantes==\n*'''Vert kaki''' - HMS Random Booster ACT 4\n*'''Vert''' - HMS Random Booster ACT 4\n\n==R\u00e9capitulatif==\n'''Advance Guardian''' a des pi\u00e8ces obsol\u00e8tes : Advance Defenser produit une attaque lat\u00e9rale surclass\u00e9e par d\u2019autres Anneaux et Grip Sharp est pareillement surclass\u00e9 en d\u00e9fense. Cette toupie a peu de valeur d\u2019un point de vue comp\u00e9titif.\n\n==Galerie==\n===Version originale===\n<gallery position=\"center\" widths=\"130\">\nImage:0AdvanceGuardian0.JPG|Advance Guardian\nImage:1AdvanceGuardian.JPG|Advance Guardian \u2013 prise de vue de c\u00f4t\u00e9\nImage:2AdvanceGuardian2.JPG|Advance Guardian \u2013 prise de vue du dessous\nImage:3AdvanceGuardian3.JPG|Advance Defenser\nImage:4AdvanceGuardian04.JPG|Advance Defenser \u2013 cadre de m\u00e9tal\nImage:5AdvanceGuardian5.JPG|Grip Sharp Core\n</gallery>\n\n==Anecdotes==\n==R\u00e9f\u00e9rences==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "advance-guardian-fr",
+   "images": [
+    {
+     "file": "advance-guardian-fr/800px-0advanceguardian0.jpg",
+     "wiki_name": "File:800px-0AdvanceGuardian0.jpg",
+     "size": [
+      800,
+      599
+     ]
+    },
+    {
+     "file": "advance-guardian-fr/0advanceguardian0.jpg",
+     "wiki_name": "File:0AdvanceGuardian0.JPG",
+     "size": [
+      801,
+      600
+     ]
+    },
+    {
+     "file": "advance-guardian-fr/1advanceguardian.jpg",
+     "wiki_name": "File:1AdvanceGuardian.JPG",
+     "size": [
+      801,
+      600
+     ]
+    },
+    {
+     "file": "advance-guardian-fr/2advanceguardian2.jpg",
+     "wiki_name": "File:2AdvanceGuardian2.JPG",
+     "size": [
+      801,
+      600
+     ]
+    },
+    {
+     "file": "advance-guardian-fr/3advanceguardian3.jpg",
+     "wiki_name": "File:3AdvanceGuardian3.JPG",
+     "size": [
+      801,
+      600
+     ]
+    },
+    {
+     "file": "advance-guardian-fr/4advanceguardian04.jpg",
+     "wiki_name": "File:4AdvanceGuardian04.JPG",
+     "size": [
+      801,
+      600
+     ]
+    },
+    {
+     "file": "advance-guardian-fr/5advanceguardian5.jpg",
+     "wiki_name": "File:5AdvanceGuardian5.JPG",
+     "size": [
+      801,
+      600
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Embl\u00e8me du HMS"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Advance Defenser"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Flat Core"
+    }
    ]
   },
   {
@@ -404,6 +676,115 @@
       602
      ]
     }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Hard Metal Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Advance Attacker"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Flat Core"
+    }
+   ]
+  },
+  {
+   "title": "Advance Striker/fr",
+   "categories": [
+    "Category:Attack/fr Types",
+    "Category:Beyblades",
+    "Category:Beyblades (Fran\u00e7ais)",
+    "Category:First Generation",
+    "Category:Fran\u00e7ais",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades"
+   ],
+   "main_image": "799px-0AdvanceStriker0.jpg",
+   "text": "{{Beyblade Infobox\n|Image=799px-0AdvanceStriker0.jpg\n|JPName=\u30a2\u30c9\u30d0\u30f3\u30b9\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc\n|RomajiName=Adobansu Sutoraikaa\n|AKA=\n|ProductCode=MA-12\n|Type=Attack/fr\n|Price=\n|System=Hard Metal System\n|Series=\n|ReleaseJP=22 mai 2004\n|ReleaseUS=\n|BitProtector=Embl\u00e8me du HMS\n|AttackRing=Advance Attacker\n|WeightDisk=Circle Heavy\n|RunningCore=Metal Flat Core\n}}\n{{Translation|'''Advance Striker'''|\u30a2\u30c9\u30d0\u30f3\u30b9\u30b9\u30c8\u30e9\u30a4\u30ab\u30fc|}} est une Beyblade de type attaque faisant partie du [[Hard Metal System]]. Elle est sortie au Japon le 22 mai 2004.\n\n==Protecteur Spectral(PS): Embl\u00e8me du HMS==\nCe Protecteur provient du deuxi\u00e8me moulage des protecteurs; il est plus serr\u00e9 que le premier moulage et s\u2019attache plus fermement.\n\n==Anneau d'attaque(AA): Advance Attacker==\n{{Part|Attack Ring - Advance Attacker/fr}}\n\n==Disque de m\u00e9tal(DM): Circle Heavy==\n{{Part|Weight Disk - Circle Heavy/fr}}\n==Gyrostat(GS): Metal Flat Core==\n{{Part|Gyrostat - Metal Flat Core}}\n\n==Variantes==\n*'''Bleu'''\n*'''Vert'''\n\n==R\u00e9capitulatif==\n'''Advance Striker''', dans son ensemble, est tr\u00e8s bien con\u00e7u. Son AA a une bonne attaque ascendante en rotation horaire, mais il est supplant\u00e9 par les deux Anneaux les plus populaires (Circle et Samurai Upper), ayant pour cons\u00e9quence qu\u2019il est tr\u00e8s peu utilis\u00e9 en tournois, sauf pour ceux appliquant le r\u00e8glement restrictif. La vraie force de l\u2019Anneau est dans son attaque descendante et sa ascendante antihoraire, deux styles d\u2019attaque ne b\u00e9n\u00e9ficiant que de tr\u00e8s peu de pi\u00e8ces.\n\nSon GS est une pi\u00e8ce tr\u00e8s utile : sa petite taille, sa grande rapidit\u00e9 et son excellente durabilit\u00e9 en font une pi\u00e8ce de choix pour toute combinaison d\u2019attaque et principalement pour les lat\u00e9rales, qui sont tr\u00e8s peu nombreuses par rapport aux l\u00e9gions d\u2019ascendantes. C\u2019est une toupie que tout enthousiaste du type Attaque et tout bladeur comp\u00e9titif se doivent de poss\u00e9der.\n\n==Galerie==\n===Version originale===\n<gallery position=\"center\" widths=\"130\">\nImage : 1AdvanceStriker.JPG|Advance Attacker (mode ascendant) \u2013 prise de vue de c\u00f4t\u00e9\nImage : 2AdvanceStriker.JPG|Advance Attacker (mode descendant) \u2013 prise de vue de c\u00f4t\u00e9\nImage : 3AdvanceStriker.JPG|Advance Attacker\nImage : 4AdvanceStriker.JPG|Advance Attacker \u2013 cadre de m\u00e9tal\nImage : 5AdvanceStriker5.JPG|Advance Attacker \u2013 cadre de m\u00e9tal d\u00e9tach\u00e9\nImage : 6AdvanceStriker.JPG|Metal Flat Core\n</gallery>\n\n==Anecdotes==\n==R\u00e9f\u00e9rences==\n{{Reflist}}\n{{Hard Metal System Beyblades}}\n[[Category:Beyblades (Fran\u00e7ais)]]\n[[Category:Fran\u00e7ais]]",
+   "key": "advance-striker-fr",
+   "images": [
+    {
+     "file": "advance-striker-fr/799px-0advancestriker0.jpg",
+     "wiki_name": "File:799px-0AdvanceStriker0.jpg",
+     "size": [
+      799,
+      600
+     ]
+    },
+    {
+     "file": "advance-striker-fr/1advancestriker.jpg",
+     "wiki_name": "File:1AdvanceStriker.JPG",
+     "size": [
+      802,
+      602
+     ]
+    },
+    {
+     "file": "advance-striker-fr/2advancestriker.jpg",
+     "wiki_name": "File:2AdvanceStriker.JPG",
+     "size": [
+      802,
+      602
+     ]
+    },
+    {
+     "file": "advance-striker-fr/3advancestriker.jpg",
+     "wiki_name": "File:3AdvanceStriker.JPG",
+     "size": [
+      802,
+      602
+     ]
+    },
+    {
+     "file": "advance-striker-fr/4advancestriker.jpg",
+     "wiki_name": "File:4AdvanceStriker.JPG",
+     "size": [
+      802,
+      602
+     ]
+    },
+    {
+     "file": "advance-striker-fr/5advancestriker5.jpg",
+     "wiki_name": "File:5AdvanceStriker5.JPG",
+     "size": [
+      802,
+      602
+     ]
+    },
+    {
+     "file": "advance-striker-fr/6advancestriker.jpg",
+     "wiki_name": "File:6AdvanceStriker.JPG",
+     "size": [
+      802,
+      602
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Embl\u00e8me du HMS"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Advance Attacker"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Flat Core"
+    }
    ]
   },
   {
@@ -465,6 +846,52 @@
       640,
       480
      ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Knight Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Knight Crusher"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Wide"
+    },
+    {
+     "type": "Running Core",
+     "name": "Aero Wing & Aero Core"
+    }
+   ]
+  },
+  {
+   "title": "Aryan",
+   "categories": [
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Provisional Articles"
+   ],
+   "main_image": null,
+   "text": "{{Provisional}}\n{{Beyblade Infobox\n|Image=\n|JPName=\n|RomajiName=\n|AKA=\n|ProductCode=\n|Type=\n|Price=\n|System=Hard Metal System\n|Series=\n|ReleaseJP=\n|ReleaseUS=\n|BitProtector=\n|AttackRing=\n|WeightDisk=\n|RunningCore=\n|Owner=\n|AppearAnime=\n|AppearManga=\n|SpecialMoves=\n}}\n{{Translation|'''NAME'''|KANJI|ROMAJI}} is a TYPE-Type Beyblade released as part of the [[Hard Metal System]]. It was released in Japan on RELEASEDATE for PRICE.\n\n==Bit Protector: MOTIF==\n{{Part|Bit Protector - MOTIF}}\n==Attack Ring<go go==\n==Weight Disk: PARTNAME==\n{{Part|Weight Disk - PARTNAME}}\n==Running Core: PARTNAME==\n{{Part|Running Core - PARTNAME}}\n==Gallery==\n===Toyline===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Anime===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Manga===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n\n==Trivia==\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "aryan",
+   "images": [],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "MOTIF"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "PARTNAME"
+    },
+    {
+     "type": "Running Core",
+     "name": "PARTNAME"
     }
    ]
   },
@@ -569,7 +996,175 @@
       600
      ]
     }
+   ],
+   "parts": []
+  },
+  {
+   "title": "Dark Gargoyle MS",
+   "categories": [
+    "Category:Balance Types",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Hasbro",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle Beyblades",
+    "Category:Takara Tomy"
+   ],
+   "main_image": "DEMS4.jpg",
+   "text": "{{Beyblade Infobox\n|Image=DEMS4.jpg\n|JPName=\u30c7\u30b9\u30ac\u30fc\u30b4\u30a4\u30eb{{Ruby|MS|\u30e1\u30bf\u30eb\u30b9\u30af\u30ea\u30fc\u30e0}}\n|RomajiName=Desu G\u0101goiru Metaru Sukur\u012bmu\n|AKA=Death Gargoyle MS (Japanese)<br>Death Gargoyle Metal Scream (Japanese)<br>Dark Gargoyle MS (manga, English)<br>Dark Effigy ([[Hasbro]])\n|ProductCode=MA-04\n|Type=Balance\n|Price=\n|System=Hard Metal System\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|ReleaseJP=January 2004\n|ReleaseEN=\n|BitProtector=Gargoyle Emblem\n|AttackRing=Circle Upper\n|WeightDisk=Circle Heavy\n|RunningCore=Metal Change Core\n|Owner=[[Miguel (Barthez Battalion)|Miguel]] (manga)\n|AppearAnime=\n|AppearManga=\n}}'''Dark Gargoyle MS''', known as {{Translation|'''Death Gargoyle MS'''|\u30c7\u30b9\u30ac\u30fc\u30b4\u30a4\u30eb{{Ruby|MS|\u30e1\u30bf\u30eb\u30b9\u30af\u30ea\u30fc\u30e0}}|Desu G\u0101goiru Metaru Sukur\u012bmu}} in Japan, is a Balance Type [[Hard Metal System]] Beyblade.\n\nIt is the successor to [[Dark Gargoyle]] in the toyline.\n\n==Bit Protector : Gargoyle Emblem==\nThe Bit Protector of this Beyblade is Gargoyle Emblem. It is the first mold version of Bit Protectors.\n\n==Attack Ring : Circle Upper==\n* '''Weight:'''\u00a020 grams\nCircle Upper is one of the most useful ARs available. This usefulness is due to the unique shape of its\u00a0Metal Frame; it is an almost perfect circle shape that completely surrounds the outside of the AR, with two large, deep slopes on either side that are used for\u00a0Upper Attack. Although it has some\u00a0Smash Attack\u00a0ability and\u00a0Force Smash\u00a0in left spin, these traits are negligible when compared to the effectiveness of its Upper Attack.\n\nBecause of the round shape of Circle Upper, many hits will not be incredibly effective against it. There are very few points of contact for another AR to latch onto during a hit, generally causing the Beyblade attacking Circle Upper to take the majority of the damage.\n\nCircle Upper is the second widest\u00a0HMS\u00a0AR available (The widest being\u00a0Samurai Changer MS's Samurai Upper) Because of this, it has one of the widest attack range of all HMS ARs. While not as much of an advantage in\u00a0Tornado Balance Type S, in wider stadiums where making early contact is crucial, the extra range can mean the difference between winning or losing.\n\nA point of note is the weight distribution on Circle Upper; because there is no metal near the center, only along the outside rim, all of the weight is focused there. This will generally lead to an AR with poor balance, and placing it on a tall RC will cause wobbling. However, there are two ways to negate this disadvantage:\n* The most popular combos with Circle Upper generally use very low RCs, e.g.\u00a0Dragoon MS's Grip Flat Core, so the poor balance is generally not an issue.\n\n* There are combos you can build where this poor balance can be used as an advantage, which is discussed on this page.\nIn contrast to the Metal Frame, the\u00a0ABS Caul\u00a0mostly serves to be a cradle for the\u00a0Bit Protector. Most of the contact with the opposing Beyblade will be with the Metal Frame, another one of Circle Upper's great advantages.\n\nCircle Upper has very few disadvantages and many advantages, and this is why it is one of the most-used ARs of all time.\n\n==='''Mould Differences'''===\nThere was a change made to the mould of Circle Upper's\u00a0Metal Frame. The change was first employed at the release of\u00a0HMS Random Booster ACT 3, and was also released byHasbro. The second mold has a Metal Frame that is reinforced along the entire\u00a0Upper Attack\u00a0slope. The result is that it is significantly thicker and weighs more. This does alter the balance so that it is even more prone to\u00a0wobbling. The previous mould is lighter and has better\u00a0Survival\u00a0capability. These moulds are referred to as \"first mould\" and \"second mould\", respectively. You can select one or the other depending on your strategy.\n\n===Use in\u00a0Upper Attack\u00a0Customization===\n<strong>Death Gargoyle MS</strong>'s Circle Upper and\u00a0Samurai Changer MS's Samurai Upper dominated as the top choice ARs for Attack-types. This style of combo can be used effectively to defeat\u00a0Survival\u00a0types such as\u00a0Wolborg MS\u00a0in many stadiums.\n* '''AR:'''\u00a0Circle Upper (<strong>Death Gargoyle MS</strong>)\n* '''WD:'''\u00a0Circle Wide\n* '''RC:'''\u00a0Grip Flat Core (Ultimate Version) (Dragoon MS UV)\n\n==='''Use in\u00a0Wobbling\u00a0Customization'''===\nWhile wobbling is a strategy that is often difficult to implement effectively, this is one of the few ARs that makes it a viable strategy. You can combine it with a\u00a0Survival-type core to beat other Survival-types. The\u00a0Smash Attack\u00a0gained from Wobbling, along with Circle Upper's innate\u00a0Upper Attack\u00a0and the Survival capabilities of its round shape make this a good strategy to attempt.\n* '''AR:'''\u00a0Circle Upper (<strong>Death Gargoyle MS</strong>)*\n* '''WD:'''\u00a0Circle Wide\n* '''RC:'''\u00a0Bearing Core (Wolborg MS)\n<nowiki>*</nowiki>''Select the first mould Circle Upper for more Survival ability, or the second mould for more\u00a0Attack\u00a0ability.''\n\n==='''Shared\u00a0Metal Frame'''===\nThe second mould of Circle Upper's Metal Frame is the same Metal Frame used in\u00a0Samurai Changer MS.\n\n==Weight Disk: Circle Heavy==\n'''Circle Heavy''' is a Weight Disk that, as its name suggests, features a circular design and a heavy weight. Due to its high Outward Weight Distribution (OWD), '''Circle Heavy''' excels in both Attack and Defense combinations. '''Circle Heavy''' can be used when the much rarer CWD Defense Ring and CWD God Ring Weight Disks are unavailable.\n\n==Running Core: Metal Change Core==\n* '''Weight:'''\u00a03 grams\nMetal Change Core has its roots early in the life of Beyblade, with the first incarnation being\u00a0Driger S's SG Metal Change Base. Since then, the tip was also used in\u00a0Driger V2\u00a0andGigars, but the Metal Change Core has the best implementation of it to date.\n\nThe design of the Metal Change Core is that there is a small metal tip on the end. At the very center of the tip it comes to a point, and all of the area of the tip surrounding the point is broad and flat. If the Beyblade is level to the angle of the stadium, it stands on the sharp tip and is stationary (Survival\u00a0mode). If the Beyblade is on an angle to the stadium, it will stand on the broad portion of the tip and move quickly around the stadium (Attack\u00a0mode). Metal Change Core's Attack mode is about the same speed as\u00a0Advance Striker's Metal Flat Core.\n\nAnother great advantage of Metal Change Core is its size. Its low height compliments the function of Circle Upper very well by allowing it to get under the opposing Beyblade and perform\u00a0Upper Attack.\n\n===Using Metal Change Core With\u00a0Sliding Shoot===\nWhen you shoot Metal Change Core using\u00a0Sliding Shoot, the Beyblade will move in a flower pattern through the center of the stadium, switching between\u00a0Attack\u00a0and\u00a0Survival. This works very well for beating Beyblades that spend most of their time at the center of the stadium.\n\n===Use in\u00a0Compact\u00a0Customization===\nMetal Change Core is a short, small part with both the sharpest tip available and the ability to move very quickly for\u00a0Attack-mode. This makes it the perfect candidate for a Compact combo.\n* '''AR:'''\u00a0Metal Ape (Magical Ape MS)\n* '''WD:'''\u00a0CWD Defense Ring (Sea Dragon)\n* '''RC:'''\u00a0Metal Change Core (<strong>Death Gargoyle MS</strong>)\n\n===Use in\u00a0Upper Attack\u00a0Customization===\nUpper Attack combos work very well with high\u00a0spin velocity\u00a0parts. The same attributes that make this part a perfect candidate for\u00a0Compact\u00a0customization also apply to Upper Attack. Although\u00a0<strong>Death Gargoyle MS</strong>\u00a0uncustomized can work fine for this, you can also try this combo for something with more\u00a0Survival\u00a0and spin velocity.\n* '''AR:'''\u00a0Advance Attacker (Advance Striker)\n* '''WD:'''\u00a0CWD Defense Ring (Sea Dragon)\n* '''RC:'''\u00a0Metal Change Core (<strong>Death Gargoyle MS</strong>)\n\n==Other Versions:==\n*'''Death Gargoyle MS (RED) : '''A red recoulour was released in [[HMS Random Booster Act 2]].\n*'''Death Gargoyle MS (Purple) : '''A purple recolour was released in [[HMS Random Booster Act 3]].\n*'''Death Gargoyle (Light Blue) : '''A light blue recolour was released in [[HMS Random Booster Act 3]].\n\n==Gallery==\n====Death Gar",
+   "key": "dark-gargoyle-ms",
+   "images": [
+    {
+     "file": "dark-gargoyle-ms/dems4.jpg",
+     "wiki_name": "File:DEMS4.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "dark-gargoyle-ms/death-gargoyle-ms-box.png",
+     "wiki_name": "File:Death Gargoyle MS Box.png",
+     "size": [
+      1500,
+      1964
+     ]
+    },
+    {
+     "file": "dark-gargoyle-ms/dems1.jpg",
+     "wiki_name": "File:DEMS1.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "dark-gargoyle-ms/dems2.jpg",
+     "wiki_name": "File:DEMS2.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "dark-gargoyle-ms/dems3.jpg",
+     "wiki_name": "File:DEMS3.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "dark-gargoyle-ms/dems5.jpg",
+     "wiki_name": "File:DEMS5.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "dark-gargoyle-ms/dems6.jpg",
+     "wiki_name": "File:DEMS6.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "dark-gargoyle-ms/dems7.jpg",
+     "wiki_name": "File:DEMS7.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "dark-gargoyle-ms/dems8.jpg",
+     "wiki_name": "File:DEMS8.jpg",
+     "size": [
+      600,
+      450
+     ]
+    },
+    {
+     "file": "dark-gargoyle-ms/dems-sticker.jpg",
+     "wiki_name": "File:Dems sticker.jpg",
+     "size": [
+      960,
+      767
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Gargoyle Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Circle Upper"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Change Core"
+    }
    ]
+  },
+  {
+   "title": "Dark Gargoyle MS/fr",
+   "categories": [
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Provisional Articles",
+    "Category:\u00c9quilibre Types"
+   ],
+   "main_image": "DEMS4.jpg",
+   "text": "{{Provisional}}\n{{Beyblade Infobox\n|Image=[[File:DEMS4.jpg|250px]]\n|JPName=\n|RomajiName=\n|AKA=Metal Scream\n|ProductCode=MA-04\n|Type=\u00c9quilibre\n|Price=\n|System=Hard Metal System\n|Series=\n|ReleaseJP=\n|ReleaseUS=\n|BitChip=\n|AttackRing=Circle Upper\n|WeightDisk=Circle Heavy\n|SpinGear=\n|BladeBase=\n|Owner=N/A\n|AppearAnime=N/A\n|AppearManga=N/A\n|SpecialMoves=\n|Name = Death Gargoyle MS|BitProtector = Embl\u00e8me du Gargoyle|RunningCore = Metal Change Core}}\n\n== Changement de nom ==\nDeath Gargoyle MS a \u00e9t\u00e9 renomm\u00e9e Dark Effigy MS par Hasbro.\n\n== Protecteur spectral (PS)\u00a0: Embl\u00e8me du Gargoyle ==\nLe Protecteur spectral de cette toupie est l\u2019embl\u00e8me du Gargoyle et provient du premier moulage des protecteurs.\n\n== Anneau d\u2019attaque (AA)\u00a0: Circle Upper ==\n* '''Poids\u00a0:'''\u00a020 grammes\nLe Circle Upper est l\u2019un des AA les plus utiles. Cette utilit\u00e9 est d\u00e9riv\u00e9e de la forme unique du cadre de m\u00e9tal, lequel d\u00e9limite l\u2019Anneau d\u2019un cercle presque parfait ayant deux grandes pentes oppos\u00e9es servant aux attaques ascendantes. Il poss\u00e8de \u00e9galement une certaine puissance lat\u00e9rale et descendante en rotation antihoraire, mais celle-ci est n\u00e9gligeable en comparaison \u00e0 la force de ses ascendantes.\n\nLa forme circulaire de Circle Upper a aussi pour avantage de r\u00e9duire l\u2019efficacit\u00e9 des coups port\u00e9s contre lui\u00a0: il n\u2019y a que tr\u00e8s peu de points de contact sur l\u2019anneau auxquels les autres toupies peuvent s\u2019accrocher, ayant comme cons\u00e9quence que ces toupies sont celles qui subissent la majorit\u00e9 des dommages. Cet Anneau est le plus large du HMS apr\u00e8s le Samurai Upper (Samurai Changer MS) et donc, poss\u00e8de presque la meilleure port\u00e9e d\u2019attaque. Cette qualit\u00e9 pr\u00e9sente peu d\u2019avantages dans une ar\u00e8ne Tornado Balance Type S, mais dans les ar\u00e8nes plus grandes, o\u00f9 frapper l\u2019adversaire t\u00f4t dans le match est crucial, elle peut se prouver \u00eatre la diff\u00e9rence entre gagner ou perdre.\n\nCaract\u00e9ristique notable du Circle Upper est la distribution de sa masse\u00a0: comme son centre est vide de m\u00e9tal, le cadre \u00e9tant situ\u00e9 en bordure de l\u2019anneau, tout son poids est concentr\u00e9 sur sa circonf\u00e9rence. Cela veut dire que l\u2019\u00e9quilibre du Circle Upper fait d\u00e9faut et que de l\u2019utiliser conjointement \u00e0 un grand Gyrostat fera osciller la toupie. Il existe par contre deux fa\u00e7ons de pallier ce d\u00e9savantage\u00a0:\n* Les combinaisons les plus populaires utilisant le Circle Upper ont souvent de petits GS (le Grip Flat Core, par exemple), et dans ces cas, le manque d\u2019\u00e9quilibre n\u2019est pas probl\u00e9matique.\n\n* Certaines combinaisons, d\u00e9crites dans cet article, sont construites sur ce mauvais \u00e9quilibre.\nDernier des impressionnants avantages du Circle Upper est qu\u2019\u00e0 l\u2019inverse du cadre de m\u00e9tal, la cale de plastique n\u2019est que tr\u00e8s peu expos\u00e9e aux attaques des toupies adverses et sert principalement \u00e0 loger le Protecteur spectral.\n\nCet AA a beaucoup d\u2019avantages et tr\u00e8s peu de d\u00e9savantages et c\u2019est pourquoi il est l\u2019un des AA les plus utilis\u00e9s du HMS.\n\n=== '''Moulages''' ===\nUn nouveau moule a \u00e9t\u00e9 utilis\u00e9 pour produire le cadre de m\u00e9tal du Circle Upper des toupies Takara \u00e0 partir du HMS Random Booster ACT 3 et des toupies Hasbro. Ce nouveau moulage est renforc\u00e9 sur toute la longueur de la pente d\u2019attaque ascendante et donc, est plus \u00e9pais et plus lourd que le pr\u00e9c\u00e9dent et l\u2019\u00e9quilibre de la toupie en est ainsi plus s\u00e9v\u00e8rement affect\u00e9. Le premier moulage est plus l\u00e9ger et a une meilleure endurance. On r\u00e9f\u00e8re \u00e0 ces moulages en tant que \u00ab\u00a0premier moulage\u00a0\u00bb et \u00ab\u00a0deuxi\u00e8me moulage\u00a0\u00bb, suivant la chronologie. L\u2019un ou l\u2019autre peut \u00eatre utilis\u00e9 selon la strat\u00e9gie employ\u00e9e.\n\n=== '''Utilisation dans une combinaison de type Attaque ascendante''' ===\nLe Circle Upper (Death Gargoyle MS) et le Samurai Upper (Samurai Changer MS) sont les choix dominant d\u2019AA des combinaisons d\u2019Attaque. Ces combinaisons sont efficaces pour vaincre les toupies d\u2019endurance comme Wolborg MS dans diff\u00e9rentes ar\u00e8nes.\n* '''AA\u00a0:'''\u00a0Circle Upper (Death Gargoyle MS)\n* '''DM\u00a0:'''\u00a0Circle Wide\n* '''GS\u00a0:'''\u00a0Grip Flat Core (Ultimate Version) (Dragoon MSUV)\n\n=== '''Utilisation dans une combinaison de type Oscillation''' ===\nLe Circle Upper est l\u2019un des seuls Anneaux \u00e0 faire de ce type de combinaisons g\u00e9n\u00e9ralement difficile \u00e0 utiliser un choix valable en tournoi. Avec un GS d\u2019endurance, cette combinaison peut vaincre d\u2019autres toupies d\u2019endurance. Les attaques lat\u00e9rales caus\u00e9es par l\u2019oscillation unies aux attaques ascendantes et \u00e0 l\u2019endurance naturelles du Circle Upper font de cette combinaison une bonne tactique \u00e0 essayer.\n* '''AA\u00a0:'''\u00a0Circle Upper (Death Gargoyle MS)*\n* '''DM\u00a0:'''\u00a0Circle Wide\n* '''GS\u00a0:'''\u00a0Bearing Core (Wolborg MS)\n<nowiki>*</nowiki>''Pour une meilleure endurance, utilisez le premier moulage de Circle Upper; pour une meilleure attaque, le deuxi\u00e8me.''\n\n=== '''Cadre de m\u00e9tal partag\u00e9''' ===\nLe deuxi\u00e8me moulage du Circle Upper est r\u00e9utilis\u00e9 sur la toupie Samurai Changer MS.\n\n== Disque de m\u00e9tal (DM)\u00a0: Circle Heavy ==\n* '''Poids\u00a0:'''\u00a0~16 grammes\nCircle Heavy est le plus lourd et le plus dense des trois Disques HMS originaux. Il est orn\u00e9 de huit petits clous ronds dispers\u00e9s \u00e9galement sur sa circonf\u00e9rence. Sa lourde masse centr\u00e9e lui accorde une d\u00e9fense consid\u00e9rable, quoique surclass\u00e9e, capable d\u2019acceptablement remplacer les DMM (17 g) Defense Ring (Sea Dragon) et God Ring (Shining God MS), lesquels sont respectivement plus lourd et meilleur \u00e0 absorber les chocs. Sa lourdeur offre \u00e9galement un plus grand potentiel de v\u00e9locit\u00e9, une caract\u00e9ristique essentielle aux combinaisons d\u2019attaques ascendantes, puisqu\u2019elle augmente la force rotationnelle d\u2019une toupie et r\u00e9duit son recul au contact et donc, augmente les chances de soulever les toupies adverses et \u00e0 l\u2019inverse, diminue celles d\u2019\u00eatre affaiss\u00e9.\n\nLe format compact du Circle Heavy laisse le dessous des Anneaux d\u2019attaque expos\u00e9, ce qui est id\u00e9al pour les combinaisons d\u2019attaques descendantes, lesquelles peuvent ainsi utiliser le plein potentiel des pentes et des protub\u00e9rances situ\u00e9es sous leur Anneau d\u2019attaque.\n\nEn tout et pour tout, le Circle Heavy partage nombre de ses qualit\u00e9s avec le DMM (17 g) Defense Ring, dont sa forme, son poids et la distribution de sa masse. M\u00eame si ce dernier est pr\u00e9f\u00e9rable, Circle Heavy demeure un choix de remplacement valable, surtout pour les combinaisons \u00e0 budget limit\u00e9.\n\n=== '''Moulages''' ===\n\n==== Moulages Sonokong ====\nLes encoches servant \u00e0 glisser le Disque de m\u00e9tal sur le Gyrostat sont l\u00e9g\u00e8rement plus petites sur les moulages Sonokong du Circle Heavy, Circle Balance et Circle Wide que sur ceux de Takara et d\u2019Hasbro. Prenant en compte les variations normales de la grosseur des pi\u00e8ces, cela veut dire que les Disques Sonokong pourraient s\u2019ins\u00e9rer plus difficilement sur les Gyrostats, ou bien ne pas pouvoir du tout.\n\n=== '''Utilisation dans une combinaison de type D\u00e9fense''' ===\n* '''AA\u00a0:'''\u00a0Samurai Upper (Samurai Changer MS)\n* '''DM\u00a0:'''\u00a0Circle Heavy\n* '''GS\u00a0:'''\u00a0Bearing Core 2 (Jiraiya MS)\n\n=== '''Utilisation dans une combinaison de type Attaque ascendante''' ===\n* '''AA\u00a0:'''\u00a0Circle Upper (Death Gargoyle MS)\n* '''DM\u00a0:'''\u00a0Circle Heavy\n* '''GS\u00a0:'''\u00a0Grip Flat Core (Ultimate Version) (Dragoon MSUV)\n\n=== '''Utilisation dans une combinaison de type Attaque descendante''' ===\n* '''AA\u00a0:'''\u00a0Advance Attacker (Force Smash Mode) (Advance Striker)\n* '''DM\u00a0:'''\u00a0Circle Heavy\n* '''GS\u00a0:'''\u00a0Tornado Change Core (Dark Leopard MS)/Manual Change Core (Dranzer MS)\n\n== Gyrostat (GS)\u00a0: Metal Change Core ==\n* '''Poids\u00a0:'''\u00a03 grammes\nLe Metal Change a ses racines profond\u00e9ment ancr\u00e9es dans le Beyblade, sa premi\u00e8re incarnation \u00e9tant la Base SG Metal Change du Driger S. Depuis, cette pointe a \u00e9t\u00e9 r\u00e9utilis\u00e9e sur les Bases du Driger V2 et du Gigars, mais la version du Death Gargoyle MS est la meilleure \u00e0 ce jour.\n\nLe concept du Metal Change se d\u00e9crit comme une pointe en m\u00e9tal plate ayant en son centre une minuscule pointe effil\u00e9e. Si la toupie est parall\u00e8le \u00e0 la surface de l\u2019ar\u00e8ne, elle tourne sur la petite pointe et se d\u00e9place peu (mode endurance); si elle est angl\u00e9e, elle tourne sur la partie plate et se d\u00e9place rapidement autour de l\u2019ar\u00e8ne (mode a",
+   "key": "dark-gargoyle-ms-fr",
+   "images": [
+    {
+     "file": "dark-gargoyle-ms-fr/dems4.jpg",
+     "wiki_name": "File:DEMS4.jpg",
+     "size": [
+      600,
+      450
+     ]
+    }
+   ],
+   "parts": []
+  },
+  {
+   "title": "Dark Gargoyle MS/it",
+   "categories": [
+    "Category:Balance Types",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Provisional Articles"
+   ],
+   "main_image": "DEMS4.jpg",
+   "text": "{{Provisional}}\n{{Beyblade Infobox\n|Image=[[File:DEMS4.jpg|250px]]\n|JPName=\n|RomajiName=\n|AKA=Metal Scream\n|ProductCode=MA-04\n|Type=Balance\n|Price=\n|System=Hard Metal System\n|Series=\n|ReleaseJP=\n|ReleaseUS=\n|BitProtector=Gargoyle Emblem\n|AttackRing=Circle Upper\n|WeightDisk=Circle Heavy\n|RunningCore=Metal Change Core\n|Owner=N/A\n|AppearAnime=N/A\n|AppearManga=N/A\n|SpecialMoves=\n|Name = Death Gargoyle MS}}Death Gargoyle MS fu rilasciato dalla Hasbro come Dark Effigy MS.\n\n== Bit Power o Bit Protector (BP): Gargoyle Emblem ==\nIl Bit Protector di questo Beyblade \u00e8 l'emblema di Gargoyle. E' la prima versione di stampo dei\u00a0Bit Protectors.\n\n== Anello d'Attacco o Attack Ring (AR): Circle Upper ==\n* '''Peso:'''\u00a020 g\nIl Circle Upper \u00e8 uno degli AR piu' utili disponibili. Questa utilit\u00e0 \u00e8 dovuta alla particolare forma del suo\u00a0Metal Frame, \u00e8 una forma circolare quasi perfetta che circonda completamente l'esterno dell'AR, con due grandi pendenze profonde su entrambi i lati che sono utilizzate per\u00a0Upper Attack. Anche se ha alcune capacit\u00e0 di\u00a0Smash Attack\u00a0e\u00a0Force Smash\u00a0in rotazione a sinistra, questi tratti sono trascurabili rispetto all'efficacia del suo Upper Attack.\n\nA causa della forma circolare del Circle Upper, molti colpi non saranno molto efficaci contro di essa. Ci sono pochi punti di contatto per un altro AR per agganciarsi durante un colpo, causando generalmente la maggio parte dei danni al Beyblade che attacca il Circle Upper.\n\nIl Circle Upper \u00e8 il secondo AR\u00a0HMS\u00a0pi\u00f9 ampio disponibile (Il pi\u00f9 ampio \u00e8 il Samurai Upper di\u00a0Samurai Changer MS) A causa di questo, esso ha una delle maggiori gittate di attacco di tutti gli AR HMS. Anche se non \u00e8 un gran vantaggio nel\u00a0Tornado Balance Type S, in stadi pi\u00f9 ampi dove si hanno brevi contatti \u00e8 fondamentale, la gittata extra pu\u00f2 fare la differenza tra vincere o perdere.\n\nUn punto di nota \u00e8 la distribuzione del peso sul Circle Upper; perch\u00e9 non c'\u00e8 metallo vicino al centro, solo lungo il bordo esterno, tutto il peso \u00e8 focalizzato l\u00ec. Questo in genere porta ad un AR con scarso equilibrio, e l'immissione su un RC alto provoca oscillazioni. Tuttavia, ci sono due modi per negare questo inconveniente:\n* Le combo pi\u00f9 popolari con Circle Upper usano generalmente RC molto bassi, ad esempio il Grip Flat Core di\u00a0Dragoon MS, cos\u00ec lo scarso equilibrio non \u00e8 generalmente un problema.\n\n* Ci sono combo che si possono costruire dove questo scarso equilibrio pu\u00f2 essere usato come un vantaggio, di cui si parla in questa pagina.\nIn contrasto con la struttura in metallo, la\u00a0ABS Caul\u00a0per lo pi\u00f9 serve per essere una culla per il\u00a0Bit Protector. La maggior parte del contatto con il Beyblade avversario sar\u00e0 con la struttura in metallo, un altro dei grandi vantaggi del Circle Upper.\n\nCircle Upper ha pochi svantaggi e molti vantaggi, e questo \u00e8 il motivo per cui \u00e8 uno degli AR pi\u00f9 utilizzati di tutti i tempi.\n\n=== '''Differenze delle versioni di stampo''' ===\nCi fu un cambiamento di versione di stampo del\u00a0Metal Frame\u00a0del Circle Upper. Il cambiamento \u00e8 stato impiegato con l'uscita dell'HMS Random Booster ACT 3, e fu rilasciato anche dalla\u00a0Hasbro. Il secondo stampo ha una struttura in metallo che \u00e8 rinforzata lungo tutto il pendio dell'Upper Attack. Il risultato \u00e8 che l'AR \u00e8 significativamente pi\u00f9 spesso e pesa di pi\u00f9. Ci\u00f2 altera l'equilibrio in modo che sia ancora pi\u00f9 incline all'oscillazione. Lo stampo precedente \u00e8 pi\u00f9 leggero e ha una migliore capacit\u00e0 di durata. Questi stampi sono indicati come \"primo stampo\" e \"secondo stampo\", rispettivamente. \u00c8 possibile selezionare uno o l'altro a seconda della strategia.\n\n=== '''Utilizzo in combinazioni\u00a0Upper Attack''' ===\nIl Circle Upper di\u00a0Death Gargoyle MS\u00a0e il Samurai Upper di\u00a0Samurai Changer MS\u00a0sono la scelta migliore nel campo dei bey di attacco. Questo tipo di combo lo si utilizza efficacemente per sconfiggere bey di durata come\u00a0Wolborg MS\u00a0in molti stadi.\n* '''AR:'''\u00a0Circle Upper (Death Gargoyle MS)\n* '''WD:'''\u00a0Circle Wide\n* '''RC:'''\u00a0Grip Flat Core Ultimate Mode (Dragoon MS UV)\n\n=== '''Utilizzo in combinazioni\u00a0Wobbling''' ===\nIl wobbling \u00e8 una strategia spesso difficile da attuare efficacemente, questo \u00e8 uno dei pochi AR che lo rende una strategia percorribile. Si pu\u00f2 combinare con un RC di durataper battere altri bey di durata. Lo\u00a0Smash Attack\u00a0ottenuto da; Wobbling, insieme all'innato\u00a0Upper Attack\u00a0del Circle Upper e le capacit\u00e0 di sopravvivenza della sua forma arrotondata fanno di questa una buona strategia da tentare.\n* '''AR:'''\u00a0Circle Upper (Death Gargoyle MS)*\n* '''WD:'''\u00a0Circle Wide\n* '''RC:'''\u00a0Bearing Core (Wolborg MS)\n<nowiki>*</nowiki>''Utilizza la prima versione di stampo del Circle Upper per maggiori capacit\u00e0 di durata, o la seconda per maggiori capacit\u00e0 di attacco.''\n\n=== '''Metal Frame\u00a0condiviso''' ===\nLa seconda versione di stampo del Metal Frame del Circle Upper \u00e8 lo stesso Metal Frame usato in\u00a0Samurai Changer MS.\n\n== Weight Disk (WD): Circle Heavy ==\n\n== Running Core (RC): Metal Change Core ==\n* '''Peso:'''\u00a03 g\nIl Metal Change Core ha presto le sue radici nella vita del Beyblade, con la prima incarnazione che fu l' SG Metal Change Base di\u00a0Driger S. Successivamente, la punta fu anche usata in\u00a0Driger V2\u00a0e\u00a0Gigars, ma il Metal Change Core ha la migliore attuazione di esso fino ad oggi.\n\nil design del Metal Change Core \u00e8 che vi \u00e8 una punta metallica sull'estremit\u00e0. Al centro della punta si ha una protuberanza, e tutta la zona della punta che circonda la protuberanza \u00e8 larga e piatta. Se il Beyblade \u00e8 parallelo all'angolo dello stadio, si presenter\u00e0 sulla punta sharp (Survival\u00a0mode). Se il Beyblade forma un angolo con lo stadio, si presenter\u00e0 sulla parte larga della punta per muoversi velocemente intorno allo stadio (Attack\u00a0mode). La modalit\u00e0 d'attacco del Metal Change Core's Attack ha circa la stessa velocit\u00e0 del Metal Flat Core di\u00a0Advance Striker.\n\nUn altro grande vantaggio del Metal Change Core \u00e8 la sua dimensione. L'altezza ridotta permette al Circle Upper di arrivare sotto il Beyblade avversario ed eseguire l'Upper Attack.\n\n=== '''Utilizzare il Metal Change Core con lo\u00a0Sliding Shoot''' ===\nQuando si lancia il Metal Change Core usando lo\u00a0Sliding Shoot, il Beyblade si muover\u00e0 come se percorresse la sagoma di un fiore verso il centro dello stadio, passando daAttack\u00a0a\u00a0Survival. Questo funziona molto bene per battere Beyblade che trascorrono la maggior parte del loro tempo al centro dello stadio.\n\n=== '''Utilizzo in combinazioni\u00a0Compact''' ===\nIl Metal Change Core \u00e8 una parte bassa e piccola con la punta pi\u00f9 acuta disponibile e la capacit\u00e0 di muoversi molto velocemente in modalit\u00e0 di attacco. Questo lo rende il candidato perfetto per una combo Compact.\n* '''AR:'''\u00a0Metal Ape (Magical Ape MS)\n* '''WD:'''\u00a0CWD Defense Ring (Sea Dragon)\n* '''RC:'''\u00a0Metal Change Core (Death Gargoyle MS)\n\n=== '''Utilizzo in combinazioni\u00a0Upper Attack''' ===\nUna combo Upper Attack funziona molto bene con parti che forniscono grande velocit\u00e0 di rotazione. Gli stessi attributi che rendono questa parte un candidato perfetto per comboCompact\u00a0valgono anche per l'Upper Attack. Anche se\u00a0Death Gargoyle MS\u00a0non personalizzato va bene per questo, si pu\u00f2 anche provare questa combo per avere qualcosa con pi\u00f9 durata e velocit\u00e0 di rotazione.\n* '''AR:'''\u00a0Advance Attacker (Advance Striker)\n* '''WD:'''\u00a0CWD Defense Ring (Sea Dragon)\n* '''RC:'''\u00a0Metal Change Core (Death Gargoyle MS)\n\n==Gallery==\n===Toyline===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Anime===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Manga===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n\n==Trivia==\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "dark-gargoyle-ms-it",
+   "images": [
+    {
+     "file": "dark-gargoyle-ms-it/dems4.jpg",
+     "wiki_name": "File:DEMS4.jpg",
+     "size": [
+      600,
+      450
+     ]
+    }
+   ],
+   "parts": []
   },
   {
    "title": "Dark Leopard MS",
@@ -672,6 +1267,24 @@
       802,
       602
      ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Dark Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Smash Leopard"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Needle Attacker"
+    },
+    {
+     "type": "Running Core",
+     "name": "Tornado Change Core"
     }
    ]
   },
@@ -776,7 +1389,259 @@
       2304
      ]
     }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Draciel Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Metal Defense"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Wide"
+    },
+    {
+     "type": "Running Core",
+     "name": "Sharp Core"
+    }
    ]
+  },
+  {
+   "title": "Draciel MS/fr",
+   "categories": [
+    "Category:Beyblade: G-Revolution",
+    "Category:Beyblade: G-Revolution Beyblades",
+    "Category:Beyblades",
+    "Category:D\u00e9fense Types",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Provisional Articles"
+   ],
+   "main_image": "Draciel_MS.JPG",
+   "text": "{{Provisional}}\n{{Beyblade Infobox\n|Image=[[Image:Draciel MS.JPG|250px]]\n|JPName=\u30c9\u30e9\u30b7\u30a8\u30eb\uff2d\uff33\uff08\u30e1\u30bf\u30eb\u30b7\u30fc\u30eb\u30c9\uff09\n|RomajiName=Dorashieru MS (Metaru Sh\u012brudo)\n|AKA=Draciel Metal Shield\n|ProductCode=A-125\n|Type=D\u00e9fense\n|Price=\n|System=Hard Metal System\n|Series=Beyblade: G-Revolution\n|ReleaseJP=\n|ReleaseUS=\n|BitProtector=Draciel Emblem\n|AttackRing=Metal Defense\n|WeightDisk=Circle Wide\n|RunningCore=Sharp Core\n|Owner=Max Tate\n|AppearAnime=Back to Basics\n|AppearManga=Beyblade Volume 13, Chapter 2:\nThe Strongest Enemy: Barthez Battalion!!\n|SpecialMoves=Aqua Shield\n|Name = Draciel MS}}\n==Bit Protector: Draciel Emblem==\n\n== Anneau d\u2019attaque (AA)\u00a0: Metal Shield/Metal Defense ==\n* '''Poids\u00a0:'''\u00a017 grammes\nLe Metal Defense a une cale de plastique et un cadre de m\u00e9tal presque identiques, chacun ayant quatre pointes en trap\u00e8ze. Cette pi\u00e8ce est plut\u00f4t inutile; elle a beaucoup de recul et tr\u00e8s peu de d\u00e9fense par rapport \u00e0 d\u2019autres Anneaux.\n\n== Disque de m\u00e9tal (DM)\u00a0: Circle Wide ==\n* '''Poids\u00a0:'''\u00a0~14 grammes\nCircle Wide est le plus grand, mais aussi le plus l\u00e9ger des trois Disques HMS originaux. Il forme un cercle parfait et la distribution de sa masse est favorable aux combinaisons d\u2019endurance et d\u2019attaques lat\u00e9rales\u00a0: en endurance, une masse \u00e9loign\u00e9e de l\u2019axe augmente l\u2019inertie et am\u00e9liore la conservation d\u2019\u00e9nergie; en attaque lat\u00e9rale, elle acc\u00e9l\u00e8re les mouvements de Gyrostats offensifs et place le poids sous les protub\u00e9rances de l\u2019Anneau.\n\n=== '''Moulages''' ===\nUn moulage plus lourd du Circle Wide est inclus avec la version Takara du Draciel MS. Cette augmentation varie entre 0,5 g et 0,7 g et ses effets ne sont que positifs\u00a0: plus grande vitesse, inertie et r\u00e9sistance \u00e0 la perte de v\u00e9locit\u00e9. Ce moulage est pr\u00e9f\u00e9r\u00e9 \u00e0 l\u2019original en toute circonstance, sans exception.\n\nEn raison de son poids, ce moulage peut \u00eatre utilis\u00e9 dans des combinaisons d\u2019attaques ascendantes, m\u00eame si d\u2019ordinaire le Circle Wide ne s\u2019y pr\u00eate pas, sacrifiant de la v\u00e9locit\u00e9 au profit de rapidit\u00e9 de mouvement.\n\n==== '''Moulages Sonokong''' ====\nLes encoches servant \u00e0 glisser le Disque de m\u00e9tal sur le Gyrostat sont l\u00e9g\u00e8rement plus petites sur les moulages Sonokong du Circle Heavy, Circle Balance et Circle Wide que sur ceux de Takara et d\u2019Hasbro. Prenant en compte les variations normales de la grosseur des pi\u00e8ces, cela veut dire que les Disques Sonokong pourraient s\u2019ins\u00e9rer plus difficilement sur les Gyrostats, ou bien ne pas pouvoir du tout.\n\n=== '''Utilisation dans une combinaison de type Endurance''' ===\n* '''AA\u00a0:'''\u00a0Advance Survivor (Advance Eterner)\n* '''DM\u00a0:'''\u00a0Circle Wide\n* '''GS\u00a0:'''\u00a0Bearing Core (Wolborg MS)\n\n=== '''Utilisation dans une combinaison de type Attaque lat\u00e9rale''' ===\n* '''AA\u00a0:'''\u00a0Slash Upper (Slash Riger MS)\n* '''DM\u00a0:'''\u00a0Circle Wide\n* '''GS\u00a0:'''\u00a0Grip Flat Core (Dragoon MS)\n\n== Gyrostat (GS)\u00a0: Sharp Core ==\n* '''Poids\u00a0:'''\u00a02 grammes\nCe Gyrostat est la version HMS du SG Sharp et comporte les m\u00eames faiblesses. Plus grand que la plupart des Gyrostats, il a peu d\u2019\u00e9quilibre et est facilement renvers\u00e9. Cette caract\u00e9ristique est avantageuse pour certaines combinaisons, mais de meilleures options existent pour l\u2019y substituer. Cette pi\u00e8ce est d\u00e9su\u00e8te et sans grande utilit\u00e9.\n\n==Gallery==\n===Toyline===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Anime===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Manga===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n\n==Trivia==\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "draciel-ms-fr",
+   "images": [
+    {
+     "file": "draciel-ms-fr/draciel-ms.jpg",
+     "wiki_name": "File:Draciel MS.JPG",
+     "size": [
+      200,
+      200
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Draciel Emblem"
+    }
+   ]
+  },
+  {
+   "title": "Draciel MS/it",
+   "categories": [
+    "Category:Beyblade: G-Revolution",
+    "Category:Beyblade: G-Revolution Beyblades",
+    "Category:Beyblades",
+    "Category:Difesa Types",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Provisional Articles"
+   ],
+   "main_image": "Draciel_MS.JPG",
+   "text": "{{Provisional}}\n{{Beyblade Infobox\n|Image=[[Image:Draciel MS.JPG|250px]]\n|JPName=\u30c9\u30e9\u30b7\u30a8\u30eb\uff2d\uff33\uff08\u30e1\u30bf\u30eb\u30b7\u30fc\u30eb\u30c9\uff09\n|RomajiName=Dorashieru MS (Metaru Sh\u012brudo)\n|AKA=Draciel Metal Shield\n|ProductCode=A-125\n|Type=Difesa\n|Price=\n|System=Hard Metal System\n|Series=Beyblade: G-Revolution\n|ReleaseJP=\n|ReleaseUS=\n|BitProtector=[[Draciel|Draciel Emblem]]\n|AttackRing=Metal Defense\n|WeightDisk=Circle Wide\n|RunningCore=Sharp Core\n|Owner=[[Max Tate]]\n|AppearAnime=[[Beyblade G-Revolution - Episode 40|Back to Basics]]\n|AppearManga=Beyblade Volume 13, Chapter 2:<br>'''The Strongest Enemy: Barthez Battalion!!'''\n|SpecialMoves=Aqua Shield\n|Name = Draciel MS}}\n\n==Bit Protector: Draciel Emblem==\n\n== Attack Ring (AR): Metal Shield/Metal Defense ==\n* '''Peso:'''\u00a017 grammi\nIl Metal Defense ha una retina di plastica con quattro punte e una Metal Frame con quattro punte in metallo. Questa parte \u00e8 abbastanza inutile, ha un contraccolpo molto alto e non lo rende un buon AR per scopi difensivi.\n\n== Weight Disk (WD): Circle Wide ==\n* '''Peso:'''\u00a014 grammi (Hasbro)/15 grammi (Takara)\n\n== Running Core (RC): Sharp Core ==\n* '''Peso:'''\u00a02 grammi\nQuesto Running Core \u00e8 probabilmente l'evoluzione della SG Sharp dei\u00a0Beyblade di plastica. Sfortunatamente per\u00f2, ha gli stessi punti deboli di un SG Sharp. L'altezza dello Sharp Core lo rende pi\u00f9 alto di molti altri Running Core e questo causa una maggiore facilit\u00e0 nella perdita di equilibrio. Usando certe combo, questo svantaggio si pu\u00f2 trasformare in un vantaggio anche se esistono scelte migliori rispetto ad uno Sharp Core. E' una delle parti pi\u00f9 vecchie e considerata inutile dalla Bey-Community.\n\n==Gallery==\n===Toyline===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Anime===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Manga===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n\n==Trivia==\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "draciel-ms-it",
+   "images": [
+    {
+     "file": "draciel-ms-it/draciel-ms.jpg",
+     "wiki_name": "File:Draciel MS.JPG",
+     "size": [
+      200,
+      200
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Draciel Emblem"
+    }
+   ]
+  },
+  {
+   "title": "Dragoon MF",
+   "categories": [
+    "Category:Attack Types",
+    "Category:Beyblade: G-Revolution",
+    "Category:Beyblade: G-Revolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Gimmick Specialty",
+    "Category:Gimmick Specialty Beyblades",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle Beyblades",
+    "Category:Tyson's Beyblades"
+   ],
+   "main_image": "DragoonMF1.jpg",
+   "text": "{{Beyblade Infobox\n|Image1=DragoonMF1.jpg\n|Image1Label=Product\n|Image2=MangaDragoonMF.jpg\n|Image2Label=Manga\n|JPName=\u30c9\u30e9\u30b0\u30fc\u30f3{{Ruby|MF|\u30e1\u30bf\u30eb\u30d5\u30a1\u30f3\u30c8\u30e0}}\n|RomajiName=Dorag\u016bn Metaru Fantomu\n|AKA = Dragoon Metal Fantom\n|ProductCode=N/A (RBA3 Prize)\n|Type=Attack\n|System=Hard Metal System\n|Toyline=Gimmick Specialty\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|Series2=Beyblade: G-Revolution\n|BitProtector=Dragoon Emblem\n|AttackRing=Upper Dragon \n|WeightDisk=CWD Chain Attacker\n|RunningCore=Metal Weight Grip Core\n|Owner=[[Tyson Granger]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Vol.14 Chapter 02|The Charge on the Night Before the Final Battle!!]]\n}}'''Dragoon MF''' is an Attack Type [[Beyblade (toy)|Beyblade]] released by [[Takara]] as part of the '''Hard Metal System'''. In the toyline, it is the successor of [[Dragoon MS Ultimate Version]] and is the last form of [[Tyson Granger]]'s Dragoon Beyblades in the [[Original Series]].\n\nIt is succeeded by [[Dragoon Storm Wing Xtreme (Takara Tomy)|Dragoon Storm Wing Xtreme]] in the sequel manga series ''[[Bakuten Shoot Beyblade: Rising]]''.\n\n==Bit Protector (BP): Dragoon Emblem ==\nThe Bit Protector is composed entirely of white ABS caul plastic and comes with two sticker options:\n*Dragoon Emblem: A circular sticker which features a stylized tattoo resembling Dragoon's head with the words \"DRAGOON\" and \"Beyblade Metal System\" (in a smaller italicized font) written in white beneath it, Behind is a red background.\n*Dragoon: The sticker depicts Dragoon.\n\n==Attack Ring: Upper Dragon ==\n{{Part|Attack Ring - Upper Dragon}}\n\n==Weight Disk: CWD Chain Attacker==\n{{Part|Weight Disk - CWD Chain Attacker}}\n\n==Spinning Core: Metal Weight Grip Core ==\n\n: ''Main article: [[Running Core - Metal Weight Grip Core]]''\n\nThe Metal Weight Grip Core is a medium-profile, [[Attack]]-type Running Core featuring a flat, rubber tip and metal weight core. Similar to other classic flat-shaped rubber tips, the tip on this Running Core generates impressive amounts of traction on smooth, dry surfaces such as Beystadium floors.\n\nWhile this RC performs well in Attack-type combat, when compared to the [[Running Core - Grip Flat Core|Grip Flat Core]] and [[Running Core - Grip Flat Core (Ultimate Mode)|Ultimate Grip Flat Core]] (two RCs with extraordinary [[Statistic#Speed|speed]] and [[Statistic#Agility|mobility]]), there is a glaring difference in performance.\n\nInexperienced Bladers will find controlling both Grip Flat Cores difficult. The Metal Weight Grip Core offers a more controllable alternative, due to its three defining factors: the diameter of the tip, the metal weight core, and the tip's hardened rubber. \n\nWith a smaller diameter, the tip of Metal Weight Grip Core covers a smaller surface area for tighter, shorter movements; the rubber material used for the base is also stiffer than previous rubber tipped RCs; and the metal core gives the RC an overall weight that is 2 to 3 times greater than both Grip Flat Core and Ultimate Grip Flat Core. On the subject of the metal weight core, this component provides a subtle increased to [[Statistic#Stamina|Stamina]]. \n\n==Other Versions ==\n*'''Dragoon MF Fire Red Version:''' Released with Red BP, Attack Ring, and Spin Core\n*'''Dragoon MF Blue:'''Released in HMS Booster ACT 5\n*'''Dragoon MF Black:'''Released in HMS Booster ACT 5\n\n==Gallery==\n===Toyline===\n====Dragoon MF - Original Version====\n<gallery widths=\"130\">\nDragoonMF1.jpg|Dragoon MF\nDragoonMF2.JPG|Dragoon MF side view\nDragoonMF3.JPG|Dragoon MF bottom view\nDragoonMF4.jpg|Upper Dragon\nDragoonMF5.JPG|Upper Dragon bottom view, Metal Frame pictured\nDragoonMF6.jpg|CWD Chain Attacker\nDragoonMF7.jpg|Metal Weight Grip Core\n</gallery>\n\n====Dragoon MF - Fire Red Version====\n<gallery widths=\"130\">\nRDragoonMFfrontview.jpg|Front view\nRDragoonMFbottom.jpg|Bottom view\nRDragoonMFbottomview2.png|Bottom view 2\n</gallery>\n\n====Dragoon MF - Black Version====\n<gallery widths=\"130\">\nDmY7X1MXoAUthO1.jpg|Front view\n</gallery>\n\n===Manga===\n<gallery widths=\"130\">\nDragoonMFManga.jpg|Brief appearance in the final chapter.\n</gallery>\n\n==Name in Other Languages==\n{| border=1 width=\"100%\" class=\"sortable roundy\" style=\"margin:auto; background: #FFF; border:1px solid #ddf; border-collapse:collapse\"\n|- style=\"background: #ddf\"\n!width=\"15%\"|Language\n!width=\"20%\"|Script\n!width=\"30%\"|Pronunciation\n!width=\"35%\"|Etymology\n|-\n|Japanese\n|<small>\u30c9\u30e9\u30b0\u30fc\u30f3\uff2d\uff26<br>(\u30e1\u30bf\u30eb\u30d5\u30a1\u30f3\u30c8\u30e0)</small>\n|''Dorag\u016bn Metaru Fantomu''\n|Same as Japanese name\n|-\n|Korean\n|<small>\ub4dc\ub798\uace4\uff2d\uff26 (\uba54\ud0c8 \ud32c\ud140)</small>\n|''Deulaegon Metal Paenteom''\n|Same as Japanese name\n|}\n\n==Trivia==\n*Until the [[Burst Series]] [[Random Booster Vol. 22]], Dragoon MF was the only protagonist Beyblade to only be available in a Random Booster set.\n\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}\n{{Gimmick Specialty Beyblades}}\n[[Category:Tyson's Beyblades]]",
+   "key": "dragoon-mf",
+   "images": [
+    {
+     "file": "dragoon-mf/dragoonmf1.jpg",
+     "wiki_name": "File:DragoonMF1.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dragoon-mf/dragoonmf2.jpg",
+     "wiki_name": "File:DragoonMF2.JPG",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dragoon-mf/dragoonmf3.jpg",
+     "wiki_name": "File:DragoonMF3.JPG",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dragoon-mf/dragoonmf4.jpg",
+     "wiki_name": "File:DragoonMF4.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dragoon-mf/dragoonmf5.jpg",
+     "wiki_name": "File:DragoonMF5.JPG",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dragoon-mf/dragoonmf6.jpg",
+     "wiki_name": "File:DragoonMF6.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dragoon-mf/dragoonmf7.jpg",
+     "wiki_name": "File:DragoonMF7.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dragoon-mf/dragoonmfmanga.jpg",
+     "wiki_name": "File:DragoonMFManga.jpg",
+     "size": [
+      425,
+      490
+     ]
+    },
+    {
+     "file": "dragoon-mf/mangadragoonmf.jpg",
+     "wiki_name": "File:MangaDragoonMF.jpg",
+     "size": [
+      160,
+      163
+     ]
+    },
+    {
+     "file": "dragoon-mf/rdragoonmfbottom.jpg",
+     "wiki_name": "File:RDragoonMFbottom.jpg",
+     "size": [
+      1024,
+      764
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Dragoon Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Upper Dragon"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "CWD Chain Attacker"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Weight Grip Core"
+    }
+   ]
+  },
+  {
+   "title": "Dragoon MF/fr",
+   "categories": [
+    "Category:Attaque Types",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Provisional Articles"
+   ],
+   "main_image": "DragoonMF1.jpg",
+   "text": "{{Provisional}}\n{{Beyblade Infobox\n|Image=[[File:DragoonMF1.jpg|250px]]\n|JPName=\u30c9\u30e9\u30b0\u30fc\u30f3\uff2d\uff26 \uff08\u30e1\u30bf\u30eb\u30d5\u30a1\u30f3\u30c8\u30e0\uff09\n|RomajiName=Dorag\u016bn MF (Metaru Fantomu)\n|AKA=Dragoon Metal Fantom\n|ProductCode=Prix du RBA3\n|Type=Attaque\n|Price=\n|System=Hard Metal System\n|Series=\n|ReleaseJP=\n|ReleaseUS=\n|BitProtector=[[Dragoon|Dragoon Emblem]]\n|AttackRing=Upper Dragon\n|WeightDisk=CWD Chain Attacker\n|RunningCore=Metal Weight Grip Core\n|Owner=[[Tyson Granger]]\n|AppearAnime=N/A\n|AppearManga=Beyblade Vol. 14 - Chapter 3:\n\"Endless Explosive Rotation\"\n|SpecialMoves=\n|Name = Dragoon MF}}'''Dragoon MF'''\u00a0fut distribu\u00e9 la premi\u00e8re fois \u00e0 l\u2019int\u00e9rieur du HMS Random Booster ACT 3. Outre la version normale, une version rare secr\u00e8te de couleur rouge feu existe ayant pour DMM l\u2019Eternal Survivor plut\u00f4t que le Chain Attacher.\n\n== Protecteur spectral (PS): Embl\u00e8me du Dragoon ==\nLe Protecteur spectral de cette toupie est l\u2019embl\u00e8me du Dragoon et provient du deuxi\u00e8me moulage des protecteurs.\n\n== Anneau d\u2019attaque (AA): Upper Dragon ==\n* Poids\u00a0: 19 grammes\nL\u2019Upper Dragon est utilis\u00e9 pour ses attaques ascendantes en rotation horaire et lat\u00e9rales en sens antihoraire, l\u2019apparentant au Devil Crusher (Bloody Devil MS) et \u00e0 l\u2019Upper Fox (Phantom Fox). Ses lat\u00e9rales sont cependant sup\u00e9rieures \u00e0 celles de ces derniers, en raison de la forme de sa cale de plastique qui, entre autres choses, est munie de petites pointes. En rotation horaire, l\u2019angle des pentes de l\u2019Upper Dragon est clairement con\u00e7u pour des attaques ascendantes, mais en comparaison au Devil Crusher, elles sont plus faibles, car la cale de plastique entrave la partie inf\u00e9rieure des pentes.\n\nPris dans son ensemble, de meilleurs Anneaux existent autant pour des attaques lat\u00e9rales qu\u2019ascendantes.\n\n=== Cadre de m\u00e9tal partag\u00e9 ===\nL\u2019Upper Dragon partage avec le Devil Crusher et l\u2019Upper Fox le m\u00eame cadre de m\u00e9tal.\n\n=== Utilisation dans une combinaison de type Attaque lat\u00e9rale ===\nL\u2019Upper Dragon n\u2019est pas le meilleur choix pour une toupie d\u2019attaque lat\u00e9rale, mais en raison des pointes de m\u00e9tal faisant contact en rotation antihoraire, il demeure une option ad\u00e9quate en l\u2019absence d\u2019AA tels que Jiraiya Blade (Jiraiya MS).\n* '''AA\u00a0:'''\u00a0Upper Dragon ('''Dragoon MF''')\n* '''DM\u00a0:'''\u00a0Circle Wide\n* '''GS\u00a0:'''\u00a0Grip Flat Core (Ultimate Version) (Dragoon MS UV)\n\n== Disque de m\u00e9tal (DM)\u00a0: DMM Chain Attacker ==\n* Poids\u00a0: 17 grammes\nLe DMM Chain Attacker a une longue port\u00e9e d\u2019attaque, plus longue m\u00eame que bien des AA, mais l\u00e9g\u00e8rement plus petite que celle du DMM Devil Saucer (Bloody Devil MS). Cette port\u00e9e est attribu\u00e9e aux neuf longues pointes adornant sa circonf\u00e9rence. Puisqu\u2019il tourne sur lui-m\u00eame, l\u2019utilit\u00e9 du Chain Attacker se veut de gruger l\u2019endurance de l\u2019adversaire, mais en pratique, c\u2019est plut\u00f4t la toupie qui l\u2019utilise qui sub\u00eet la majorit\u00e9 des d\u00e9g\u00e2ts. Le fait qu\u2019il n\u2019est pas fixe implique que les pointes sont d\u00e9plac\u00e9es chaque fois qu\u2019il y a contact et qu\u2019aucun coup ne sera jamais assez puissant. Ce DMM n\u2019est pas valable dans un contexte de comp\u00e9tition.\n\n== Gyrostat (GS)\u00a0: Metal Weight Grip Core ==\n* Poids\u00a0: 3 grammes\nLe Metal Weight Grip Core, avec sa pointe plate en caoutchouc, est sans \u00e9quivoque destin\u00e9 aux toupies d\u2019Attaque. Ses caract\u00e9ristiques force la comparaison aux Gyrostats Grip Flat et Grip Flat (Ultimate Version), tous deux r\u00e9put\u00e9s pour leur grande puissance d\u2019attaque, souvent si impr\u00e9visible que les nouveaux joueurs peinent \u00e0 les contr\u00f4ler. Sur ce dernier point, le Metal Weight Grip est avantag\u00e9 pour trois raisons: le diam\u00e8tre de sa pointe, son poids et la duret\u00e9 du caoutchouc. Sa pointe plus petite se meut moins; son poids est deux ou trois fois plus grand que les Grip Flat et Grip Flat (Ultimate Version); et le caoutchouc est \u00e9galement plus dur que celui de ces derniers.\n\nCe Gyrostat devrait \u00eatre pris en consid\u00e9ration pour son l\u00e9ger avantage en Endurance en raison de son poids et pour sa hauteur, qui peut \u00eatre un avantage ou non selon le contexte (contre un attaquant ascendant utilisant le Grip Flat, par exemple).\n\n=== Utilisation dans une combinaison de type Attaque ascendante ===\nEn utilisant ce GS, vous pouvez cr\u00e9er une version plus contr\u00f4l\u00e9e d\u2019une des combinaisons d\u2019attaque les plus populaires du HMS.\n* '''AA\u00a0:'''\u00a0Samurai Upper (Samurai Changer MS)\n* '''DM\u00a0:'''\u00a0CWD Defense Ring (Sea Dragon)\n* '''GS\u00a0:'''\u00a0Metal Weight Grip Core ('''Dragoon MF''')\n\n==Gallery==\n===Toyline===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Anime===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Manga===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n\n==Trivia==\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "dragoon-mf-fr",
+   "images": [
+    {
+     "file": "dragoon-mf-fr/dragoonmf1.jpg",
+     "wiki_name": "File:DragoonMF1.jpg",
+     "size": [
+      800,
+      600
+     ]
+    }
+   ],
+   "parts": []
+  },
+  {
+   "title": "Dragoon MF/it",
+   "categories": [
+    "Category:Attacco Types",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Provisional Articles"
+   ],
+   "main_image": "DragoonMF1.jpg",
+   "text": "{{Provisional}}\n{{Beyblade Infobox\n|Image=[[File:DragoonMF1.jpg|250px]]\n|JPName=\u30c9\u30e9\u30b0\u30fc\u30f3\uff2d\uff26 \uff08\u30e1\u30bf\u30eb\u30d5\u30a1\u30f3\u30c8\u30e0\uff09\n|RomajiName=Dorag\u016bn MF (Metaru Fantomu)\n|AKA=Metal Fantom\n|ProductCode=RBA3 Prize\n|Type=Attacco\n|Price=\n|System=Hard Metal System\n|Series=\n|ReleaseJP=\n|ReleaseUS=\n|BitProtector=[[Dragoon|Dragoon Emblem]]\n|AttackRing=Upper Dragon\n|WeightDisk=CWD Chain Attacker\n|RunningCore=Metal Weight Grip Core\n|Owner=[[Tyson Granger]]\n|AppearAnime=N/A\n|AppearManga=Beyblade Vol. 14 - Chapter 3:\n\"Endless Explosive Rotation\"\n|SpecialMoves=\n|Name = Dragoon MF}}'''Dragoon MF'''\u00a0\u00e8 stato prima venduto nell'\u00a0HMS Random Booster ACT 3, ed oltre a questa versione, ne fu messa in commercio anche una pi\u00f9 rara di colore rosso fuoco che aveva la CWD Eternal Survivor invece della CWD Chain Attacker.\n\n== Bit Protector (BP): Dragoon Emblem ==\nIl\u00a0Bit Protector\u00a0di questo Beyblade \u00e8 il Dragoon Emblem. E' la seconda versione di stampa dei Bit Protector.\n\n== Anello d' Attacco o Attack Ring (AR): Upper Dragon ==\n* Peso: 19 grammi\nL'Upper Dragon \u00e8 usato per l'\u00a0Upper Attack\u00a0in rotazione oraria e per lo\u00a0Smash Attack\u00a0in senso anti-orario. In questo modo, esso \u00e8 simile al\u00a0Bloody Devil MS\u00a0Devil Crusher e alPhantom Fox MS\u00a0Upper Fox, ma grazie alla forma del suo\u00a0ABS Caul\u00a0lo\u00a0Smash Attack\u00a0\u00e8 pi\u00f9 potente in quanto le punte metalliche sono esposte su ogni lato dell' AR\u00a0Metal Frame. In pi\u00f9, ci sono un p\u00f2 di piccole punte sull'ABS Caul che aiutano ad avere uno Smash Attack migliore. In rotazione oraria, l'angolo acuto formato dalle alette della Metal Frame dell' Upper Dragon sono chiaramente destinate ad essere usate per l'Upper Attack, ma messe a paragone con il Devil Crusher, il suo Upper Attack \u00e8 debole poich\u00e8 le alette sono ostacolate dall' ABS Caul.\n\nDetto tutto ci\u00f2, ci sono un gran numero di scelte migliori sia per lo Smash che per l' Upper Attack.\n\n=== '''La condivisione della\u00a0Metal Frame''' ===\nUpper Dragon condivide la stessa\u00a0Metal Frame\u00a0di Devil Crusher from\u00a0Bloody Devil MS, e l' Upper Fox dal\u00a0Phanotm Fox MS.\n\n=== '''Utilizzato in combo di Smash Attack''' ===\nUpper Dragon non \u00e8 la migliore scelta per lo\u00a0Smash Attack, ma grazie alle punte di metallo in rotazione anti-oraria,\u00e8 una soluzione buona rispetto ad altri AR come quando per esempio la Jiraiya Blade di\u00a0Jiraiya MS\u00a0non la si ha.\n* '''AR:'''\u00a0Upper Dragon ('''Dragoon MF''')\n* '''WD:'''\u00a0Circle Wide\n* '''RC:'''\u00a0Grip Flat Core (Ultimate Mode) (\u00a0Dragoon MS UV)\n\n== Disco Peso o Weight Disk (WD): CWD Chain Attacker ==\n* Peso: 17 grammi\nCWD Chain Attacker ha un ampio raggio d'azione, in quanto \u00e8 pi\u00f9 grande della maggior parte degli altri AR\u00a0HMS. Tuttavia,\u00e8 leggermente pi\u00f9 piccolo del\u00a0Bloody Devil MS\u00a0CWD Devil Saucer. Il suo grande raggio d'attacco \u00e8 attribuito alle 9 punte larghe che circondano il suo perimetro. Grazie alla sua libera rotazione , lo scopo del CWD Chain Attacker \u00e8 quello di abbassare la resistenza del Beyblade avversario, ma in pratica tuttavia, farebbe pi\u00f9 danni al Beyblade se fosse fisso e non avesse una rotazione libera. Il fatto che si muove significa che i vari punti d'attacco saranno sempre in movimento quando colpiranno il Beyblade avversario e non creeranno mai un colpo fatale. Questa CWD non \u00e8 una buona scelta per uso competitivo.\n\n== Running Core (RC): Metal Weight Grip Core ==\n* Peso: 3 grammi\nLa Metal Weight Grip Core \u00e8 stata realizzata per l'\u00a0Attacco\u00a0a causa della sua base piatta e di gomma. A causa di queste propriet\u00e0, \u00e8 spesso paragonata alla Grip Flat Core diDragoon MS\u00a0ed alla Grip Flat Core (Ultgimate Mode) di\u00a0Dragoon MS UV. Le RC sia di Dragoon MS che di Dragoon MS UV sono conosciute per le loro propriet\u00e0 d'attacco sfrenato; alcune volte talmente sfrenato che i Beybladers inesperti non riescono ad avere un buon controllo su di loro. La Metal Weight Grip Core \u00e8 pi\u00f9 controllabile per 3 ragioni: larghezza della punta, peso e compattezza della gomma. Con una punta pi\u00f9 larga, la Metal Weight Grip Core ha movimenti pi\u00f9 piccoli ed il suo peso \u00e8 circa 2-3 volte della Grip Flat Core e della Grip Flat Core (Ultimate Mode). La cosa pi\u00f9 importante, la gomma utilizzata \u00e8 pi\u00f9 dura rispetto a quella usata per le RC precedenti.\n\nLa Metal Weight Grip Core dovrebbe essere considerata per la sua\u00a0Resistenza; a causa del suo peso (la sua altezza potrebbe rivelarsi un problema in quanto bisogna stare attenti ai possibili Upper Attack dal basso provenienti da Beyblade pi\u00f9 bassi, \u00e8 bene tenerlo a mente)che pu\u00f2 essere utile in certe situazioni.\n\n=== '''Utilizzo in combo Upper Attack''' ===\nUdanso questa RC, puoi costruie una variante pi\u00f9 controllabile della pi\u00f9 popolare combo HMS Attack.\n* '''AR:'''\u00a0Samurai Upper (\u00a0Samurai Changer MS)\n* '''WD:'''\u00a0CWD Defense Ring (\u00a0Sea Dragon)\n* '''RC:'''\u00a0Metal Weight Grip Core ('''Dragoon MF''')\n\n==Gallery==\n===Toyline===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Anime===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Manga===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n\n==Trivia==\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "dragoon-mf-it",
+   "images": [
+    {
+     "file": "dragoon-mf-it/dragoonmf1.jpg",
+     "wiki_name": "File:DragoonMF1.jpg",
+     "size": [
+      800,
+      600
+     ]
+    }
+   ],
+   "parts": []
   },
   {
    "title": "Dragoon MS",
@@ -880,6 +1745,24 @@
       398
      ]
     }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Dragoon Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Metal Attacker"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Wide"
+    },
+    {
+     "type": "Running Core",
+     "name": "Grip Flat Core"
+    }
    ]
   },
   {
@@ -980,6 +1863,185 @@
       530,
       396
      ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Dragoon Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Ultimate Attacker"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Wide"
+    },
+    {
+     "type": "Running Core",
+     "name": "Grip Flat Core (Ultimate Mode)"
+    }
+   ]
+  },
+  {
+   "title": "Dragoon MS/fr",
+   "categories": [
+    "Category:Attaque Types",
+    "Category:Beyblade: G-Revolution",
+    "Category:Beyblade: G-Revolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Provisional Articles"
+   ],
+   "main_image": null,
+   "text": "{{Provisional}}\n{{Beyblade Infobox\n|Image=[[File:150px-DragoonMS (1).jpg]]\n|JPName=\u30c9\u30e9\u30b0\u30fc\u30f3\uff2d\uff33 \uff08\u30e1\u30bf\u30eb\u30b9\u30c8\u30fc\u30e0\uff09\n|RomajiName=Dorag\u016bn MS (Metaru Sut\u014dmu)\n|AKA=Dragoon Metal Storm\n|ProductCode=A-126\n|Type=Attaque\n|Price=\n|System=Hard Metal System\n|Series=Beyblade: G-Revolution\n|ReleaseJP=September 2003\n|ReleaseUS=2004\n|BitProtector=[[Dragoon|Dragoon Emblem]]\n|AttackRing=Metal Attacker\n|WeightDisk=Circle Wide\n|RunningCore=Grip Flat Core\n|Owner=[[Tyson Granger]]\n|AppearAnime=[[Beyblade G-Revolution - Episode 39|Rebel Alliance]]\n|AppearManga=Beyblade Volume 12, Chapter 2: '''Get Beyond the Steel Wall!!'''\n|SpecialMoves=Evolution Storm\n|Name = Dragoon MS}}\n\n== Protecteur spectral (PS)\u00a0: Embl\u00e8me du Dragoon ==\nLe protecteur spectral de cette toupie est l\u2019Embl\u00e8me du Dragoon et provient du premier moulage des protecteurs.\n\n== Anneau d\u2019attaque (AA)\u00a0: Metal Attacker ==\n* '''Poids\u00a0:'''\u00a014 grammes\nCet Anneau d\u2019attaque a quatre pointes arrondies en m\u00e9tal \u00e0 d\u00e9couvert. Au moment de sa sortie, ses attaques lat\u00e9rales \u00e9taient ad\u00e9quates, mais ont depuis \u00e9t\u00e9 surclass\u00e9es et l\u2019Anneau ne pr\u00e9sente plus aucun int\u00e9r\u00eat comp\u00e9titif.\n\n== Disque de m\u00e9tal (DM)\u00a0: Circle Wide ==\n* '''Poids\u00a0:'''\u00a0~14 grammes\nCircle Wide est le plus grand, mais aussi le plus l\u00e9ger des trois Disques HMS originaux. Il forme un cercle parfait et la distribution de sa masse est favorable aux combinaisons d\u2019endurance et d\u2019attaques lat\u00e9rales\u00a0: en endurance, une masse \u00e9loign\u00e9e de l\u2019axe augmente l\u2019inertie et am\u00e9liore la conservation d\u2019\u00e9nergie; en attaque lat\u00e9rale, elle acc\u00e9l\u00e8re les mouvements de Gyrostats offensifs et place le poids sous les protub\u00e9rances de l\u2019Anneau.\n\n=== Moulages ===\nUn moulage plus lourd du Circle Wide est inclus avec la version Takara du Draciel MS. Cette augmentation varie entre 0,5 g et 0,7 g et ses effets ne sont que positifs\u00a0: plus grande vitesse, inertie et r\u00e9sistance \u00e0 la perte de v\u00e9locit\u00e9. Ce moulage est pr\u00e9f\u00e9r\u00e9 \u00e0 l\u2019original en toute circonstance, sans exception.\n\nEn raison de son poids, ce moulage peut \u00eatre utilis\u00e9 dans des combinaisons d\u2019attaques ascendantes, m\u00eame si d\u2019ordinaire le Circle Wide ne s\u2019y pr\u00eate pas, sacrifiant de la v\u00e9locit\u00e9 au profit de rapidit\u00e9 de mouvement.\n\n==== Moulages Sonokong ====\nLes encoches servant \u00e0 glisser le Disque de m\u00e9tal sur le Gyrostat sont l\u00e9g\u00e8rement plus petites sur les moulages Sonokong du Circle Heavy, Circle Balance et Circle Wide que sur ceux de Takara et d\u2019Hasbro. Prenant en compte les variations normales de la grosseur des pi\u00e8ces, cela veut dire que les Disques Sonokong pourraient s\u2019ins\u00e9rer plus difficilement sur les Gyrostats, ou bien ne pas pouvoir du tout.\n\n=== Utilisation dans une combinaison de type Endurance ===\n* '''AA\u00a0:'''\u00a0Advance Survivor (Advance Eterner)\n* '''DM\u00a0:'''\u00a0Circle Wide\n* '''GS\u00a0:'''\u00a0Bearing Core (Wolborg MS)\n\n=== Utilisation dans une combinaison de type Attaque lat\u00e9rale ===\n* '''AA\u00a0:'''\u00a0Slash Upper (Slash Riger MS)\n* '''DM\u00a0:'''\u00a0Circle Wide\n* '''GS\u00a0:'''\u00a0Grip Flat Core (Dragoon MS)\n\n== Gyrostat (GS)\u00a0: Grip Flat Core ==\n* '''Poids\u00a0:'''\u00a01 gramme\nLe Grip Flat Core est le deuxi\u00e8me Gyrostat d\u2019attaque \u00e0 \u00eatre produit, le Flat Core (Gaia Dragoon MS) \u00e9tant le premier. La comparaison, cependant, s\u2019arr\u00eate l\u00e0\u00a0: le Grip Flat surpasse le Flat \u00e0 tous les niveaux.\n\nLa pointe de ce GS fait environ 4 mm de diam\u00e8tre et est constitu\u00e9e d\u2019un caoutchouc tr\u00e8s souple. Pr\u00e8s de 2 mm au-dessus de cette pointe se trouve une pi\u00e8ce conique \u2013 \u00e9galement en caoutchouc \u2013 qui permet \u00e0 la toupie de s\u2019accrocher \u00e0 la couronne de l\u2019ar\u00e8ne lorsqu\u2019elle la frappe en angle, produisant un mouvement beaucoup plus rapide qu\u2019\u00e0 l\u2019habitude.\n\nAux atouts du Grip Flat s\u2019ajoute \u00e9galement sa hauteur. Lui et le Grip Flat (Ultimate Version) se partagent non seulement le titre du plus petit Gyrostat offert, une caract\u00e9ristique parfaite pour les toupies d\u2019attaque ascendante, mais aussi du plus l\u00e9ger\u00a0: atteignant seulement 1 gramme, il raisonne de sa vitesse. \u00c0 ce jour, le Grip Flat demeure l\u2019un des meilleurs GS d\u2019attaque.\n\n=== Utilisation dans une combinaison de type Attaque ascendante ===\nCe GS entre dans la cr\u00e9ation de la combinaison d\u2019attaque la plus populaire du HMS.\n* '''AA\u00a0:'''\u00a0Samurai Upper (Samurai Changer MS)\n* '''DM\u00a0:'''\u00a0CWD Defense Ring (Sea Dragon)\n* '''GS\u00a0:'''\u00a0Grip Flat Core (Dragoon MS)\n\n=== Utilisation dans une combinaison de type Attaque lat\u00e9rale ===\nLa grande vitesse du Grip Flat peut servir dans une combinaison d\u2019attaque lat\u00e9rale.\n* '''AA\u00a0:'''\u00a0Slash Upper (Slash Riger MS)\n* '''DM\u00a0:'''\u00a0Circle Wide\n* '''GS\u00a0:'''\u00a0Grip Flat Core (Dragoon MS)\n==Gallery==\n===Toyline===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Anime===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Manga===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n\n==Trivia==\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "dragoon-ms-fr",
+   "images": [],
+   "parts": []
+  },
+  {
+   "title": "Dragoon MS/it",
+   "categories": [
+    "Category:Attacco Types",
+    "Category:Beyblade: G-Revolution",
+    "Category:Beyblade: G-Revolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Provisional Articles"
+   ],
+   "main_image": null,
+   "text": "{{Provisional}}\n{{Beyblade Infobox\n|Image=[[File:150px-DragoonMS (1).jpg]]\n|JPName=\u30c9\u30e9\u30b0\u30fc\u30f3\uff2d\uff33 \uff08\u30e1\u30bf\u30eb\u30b9\u30c8\u30fc\u30e0\uff09\n|RomajiName=Dorag\u016bn MS (Metaru Sut\u014dmu)\n|AKA=Dragoon Metal Storm\n|ProductCode=A-126\n|Type=Attacco\n|Price=\n|System=Hard Metal System\n|Series=Beyblade: G-Revolution\n|ReleaseJP=September 2003\n|ReleaseUS=2004\n|BitProtector=[[Dragoon|Dragoon Emblem]]\n|AttackRing=Metal Attacker\n|WeightDisk=Circle Wide\n|RunningCore=Grip Flat Core\n|Owner=[[Tyson Granger]]\n|AppearAnime=[[Beyblade G-Revolution - Episode 39|Rebel Alliance]]\n|AppearManga=Beyblade Volume 12, Chapter 2: '''Get Beyond the Steel Wall!!'''\n|SpecialMoves=Evolution Storm\n|Name = Dragoon MS}}\n\n== Bit Protector (BP): Emblema di Dragoon ==\nIl Bit Protector di questo BeyBlade ha disegnato l\u2019emblema di Dragoon. Per quanto riguarda la stuttura, Dragoon MS ha la prima versione di Bit Protector. La prima versione \u00e8 pi\u00f9 sconveniente rispetto alle altre perch\u00e9 lascia uno spazio vuoto quando viene montanto sul Running Core.\n\n== Attack Ring (AR): Metal Attacker ==\n* '''Peso:'''\u00a014 grammi\nQuesto AR ha quattro punte metalliche esposte secondo una configurazione speculare. Quando venne rilasciata, questa release fu degna di nota per le particolari abilit\u00e0 nelloSmash Attack\u00a0ma ora \u00e8 sorpassata.\n\n== Weight Disk (WD): Circle Wide ==\n\n== Running Core (RC): Grip Flat Core ==\n* '''Peso:'''\u00a01 grammo\nGrip Flat Core fu il secondo RC tipo\u00a0Attacco\u00a0ad essere rilasciato con il Flat core di\u00a0Gaia Dragoon MS. Tuttavia, non ci sono paragoni: il Grip Flat Core \u00e8 il migliore sotto ogni aspetto. Il Grip Flat Core \u00e8 costruito in gomma soffice e il diametro della punta \u00e8 approssimatamente di 4mm. Inoltre, ci sono, sempre approssimativamente, 2mm dalla base della punta al WD.\n\nUtilizzando questo RC il BeyBlade avr\u00e0 molta pi\u00f9 grip causata dall\u2019attrito generato dalla punta a contatto con lo stadio e si muover\u00e0 pi\u00f9 rapidamente.\n\nUn altro vantaggio \u00e8 l\u2019altezza della Grip Flat Core. Questa RC insieme alla Grip Flat Core (Ultimate Mode) di\u00a0Dragoon MS UV, \u00e8 la pi\u00f9 bassa RC disponibile. Questa caratteristica la rende perfetta per l\u2019Upper Attack. Un\u2019 altra caratteristica in comune tra i 2 RC \u00e8 il peso; solo 1 grammo, che li rende i pi\u00f9 leggeri RC. Questo peso incrementa la velocit\u00e0 del Beyblade. La Grip Flat Core rimane uno dei top-tier RC tipo attacco.\n\n=== '''Utilizzo nelle combinazioni con\u00a0Upper Attack''' ===\nUsando questo RC, puoi costruire la pi\u00f9 popolare personalizzazione di tipo\u00a0Attacco\u00a0degli HMS.\n* '''AR:'''\u00a0Samurai Upper (Samurai Changer MS)\n* '''WD:'''\u00a0CWD Defense Ring (Sea Dragoon MS)\n* '''RC:'''\u00a0Grip Flat Core (<strong>Dragoon MS</strong>)\n\n=== '''Utilizzo nelle combinazioni con\u00a0Smash Attack''' ===\nPuoi utilizzare a tuo vantaggio l\u2019incredibile velocit\u00e0 del Grip Flat Core per un perfetto Smash Attack, costruendo questa combo:\n* '''AR:'''\u00a0Slash Upper (Slash Riger MS)\n* '''WD:'''\u00a0Circle Wide\n* '''RC:'''\u00a0Grip Flat Core (<strong>Dragoon MS</strong>)\n\n==Gallery==\n===Toyline===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Anime===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n===Manga===\n<gallery position=\"center\" widths=\"130\">\n</gallery>\n\n==Trivia==\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}",
+   "key": "dragoon-ms-it",
+   "images": [],
+   "parts": []
+  },
+  {
+   "title": "Dranzer MF",
+   "categories": [
+    "Category:Balance Types",
+    "Category:Beyblade: G-Revolution",
+    "Category:Beyblade: G-Revolution Beyblades",
+    "Category:Beyblades",
+    "Category:Dual-Spin",
+    "Category:Dual-Spin Beyblades",
+    "Category:First Generation",
+    "Category:Gimmick Specialty",
+    "Category:Gimmick Specialty Beyblades",
+    "Category:Gimmick Specialty Series",
+    "Category:Gimmick Specialty Series Beyblades",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle Beyblades",
+    "Category:Takara Tomy",
+    "Category:Takara Tomy Exclusives"
+   ],
+   "main_image": "DranzerMF.png",
+   "text": "{{Beyblade Infobox\n|Image1=DranzerMF.png\n|Image1Label=Product\n|Image2=MangaDranzerMF.jpg\n|Image2Label=Manga\n|JPName=\u30c9\u30e9\u30f3\u30b6\u30fc{{Ruby|MF|\u30e1\u30bf\u30eb\u30d5\u30ec\u30a4\u30e0}}\n|RomajiName=Doranz\u0101 Metaru Fureimu\n|AKA=Dranzer Metal Flame\n|ProductCode=N/A\n|Type=Balance\n|SpinDirection=Dual-Spin\n|Price=\n|System=Hard Metal System\n|Toyline=Gimmick Specialty Series\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|Series2=Beyblade: G-Revolution\n|ReleaseJP=January 2004\n|BitProtector=Dranzer Emblem\n|AttackRing=Smash Phoenix\n|WeightDisk=Wing Attacker\n|RunningCore=Free Shaft Core\n|Owner=[[Kai Hiwatari]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Vol.14 Chapter 02|The Charge on the Night Before the Final Battle!!]]\n}}{{Translation|'''Dranzer MF'''|\u30c9\u30e9\u30f3\u30b6\u30fc{{Ruby|MF|\u30e1\u30bf\u30eb\u30d5\u30ec\u30a4\u30e0}}|Doranz\u0101 Metaru Fureimu|Dranzer Metal Flame}} is a Balance Type Beyblade released by [[Takara]] as part of the [[Hard Metal System]] as well as the [[Gimmick Specialty Series]]. It was released as part of [[HMS Random Booster Act 4]] in Japan in January 2004.\n\nIt is the successor to [[Dranzer MS]] and is succeeded by [[Dranzer Spiral Spread Trans]] in the sequel manga series ''[[Bakuten Shoot Beyblade: Rising]]''.\n\n==Bit Protector - Dranzer Emblem==\n{{Part|Bit Protector - Dranzer Emblem}}\n\n==Attack Ring - Smash Phoenix==\n{{Part|Attack Ring - Smash Phoenix}}\n\n==Weight Disk - Wing Attacker==\n{{Part|Weight Disk - Wing Attacker}}\n\n==Running Core - Free Shaft Core==\n{{Part|Running Core - Free Shaft Core}}\n\n==Releases==\n* [[HMS Random Booster Act 4]] - [[Dranzer MF]] (Limited Blue Version)\n* [[HMS Random Booster Act 4]] - [[Dranzer MF]] (Limited Light Orange Version)\n* [[HMS Random Booster Act 4]] - [[Dranzer MF]] (Limited Purple Version)\n* [[HMS Random Booster Act 4]] - [[Dranzer MF]] (Secret Black Version)\n* [[HMS Random Booster Act 5]] - [[Dranzer MF]] (Limited Red Version)\n* [[HMS Random Booster Act 5]] - [[Dranzer MF]] (Limited Yellow Version)\n\n==Gallery==\n===Toyline===\n====RBA4 - Limited Light Orange====\n<gallery widths=\"130\">\n180px-RBA4.jpg\nRBA5 DranzerMF-1.jpg\nRBA5 DranzerMF-2.jpg\nRBA5 DranzerMF-3.jpg\nRBA5 DranzerMF-4.jpg\nRBA5 DranzerMF-5.jpg\nRBA5 DranzerMF-6.jpg\nRBA5 DranzerMF-7.jpg\nRBA5 DranzerMF-8.jpg\n</gallery>\n\n====RBA4 - Secret Black====\n<gallery widths=\"130\">\nDranzer MF (Secret Black).jpg|Secret Black Version top view\n</gallery>\n\n===Manga===\n<gallery widths=\"130\">\nDranzerMFManga.jpg|Brief appearance in the final chapter.\n</gallery>\n\n==Trivia==\n* The Black, Red, and Yellow versions of this Beyblade come with the [[Weight Disk - Reverse Defenser|Reverse Defenser]] Weight Disk, rather than Wing Attacker.\n\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}\n{{Gimmick Specialty Beyblades}}\n[[Category:Takara Tomy]]\n[[Category:Takara Tomy Exclusives]]",
+   "key": "dranzer-mf",
+   "images": [
+    {
+     "file": "dranzer-mf/dranzermf.png",
+     "wiki_name": "File:DranzerMF.png",
+     "size": [
+      540,
+      377
+     ]
+    },
+    {
+     "file": "dranzer-mf/dranzer-mf-secret-black.jpg",
+     "wiki_name": "File:Dranzer MF (Secret Black).jpg",
+     "size": [
+      399,
+      400
+     ]
+    },
+    {
+     "file": "dranzer-mf/dranzermfmanga.jpg",
+     "wiki_name": "File:DranzerMFManga.jpg",
+     "size": [
+      425,
+      563
+     ]
+    },
+    {
+     "file": "dranzer-mf/mangadranzermf.jpg",
+     "wiki_name": "File:MangaDranzerMF.jpg",
+     "size": [
+      653,
+      526
+     ]
+    },
+    {
+     "file": "dranzer-mf/rba5-dranzermf-1.jpg",
+     "wiki_name": "File:RBA5 DranzerMF-1.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dranzer-mf/rba5-dranzermf-2.jpg",
+     "wiki_name": "File:RBA5 DranzerMF-2.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dranzer-mf/rba5-dranzermf-3.jpg",
+     "wiki_name": "File:RBA5 DranzerMF-3.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dranzer-mf/rba5-dranzermf-4.jpg",
+     "wiki_name": "File:RBA5 DranzerMF-4.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dranzer-mf/rba5-dranzermf-5.jpg",
+     "wiki_name": "File:RBA5 DranzerMF-5.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "dranzer-mf/rba5-dranzermf-6.jpg",
+     "wiki_name": "File:RBA5 DranzerMF-6.jpg",
+     "size": [
+      800,
+      600
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Dranzer Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Smash Phoenix"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Wing Attacker"
+    },
+    {
+     "type": "Running Core",
+     "name": "Free Shaft Core"
     }
    ]
   },
@@ -1084,6 +2146,24 @@
       600
      ]
     }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Dranzer Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Spiral Upper"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Balance"
+    },
+    {
+     "type": "Running Core",
+     "name": "Manual Change Core"
+    }
    ]
   },
   {
@@ -1187,233 +2267,210 @@
       2304
      ]
     }
-   ]
-  },
-  {
-   "title": "HMS Custom Try Set",
-   "key": "hms-custom-try-set",
-   "found_by": [
-    "Category:Shin Sedai Custom Beigoma Beyblade: HMS Heavy Metal Battle Beyblades"
    ],
-   "categories": [
-    "Category:Beyblade: G-Revolution",
-    "Category:Beyblade Sets",
-    "Category:Hard Metal System",
-    "Category:Shin Sedai Custom Beigoma Beyblade: HMS Heavy Metal Battle",
-    "Category:Shin Sedai Custom Beigoma Beyblade: HMS Heavy Metal Battle Beyblades",
-    "Category:Starter Sets"
-   ],
-   "main_image": null,
-   "text": "{{Beyblade Set Infobox\n|Name=HMS Custom Try Set\n|Image=<tabber>\n|-| Image 1=\n|-| Image 2=\n</tabber>\n|ImageCaption=\n|JPName=HMS\u30ab\u30b9\u30bf\u30e0\u30c8\u30e9\u30a4\u30bb\u30c3\u30c8\n|RomajiName=<small>Heb\u012b Metaru Shisutemu Kasutamu Torai Setto</small>\n|OtherName=<small>Heavy Metal System Custom Try Set</small>\n|ProductCode=MA-10\n|ProductType=Starter Set\n|Classification=\n|Element=\n|Price=\n|System=Hard Metal System\n|Series=Beyblade: G-Revolution\n|ProductLine=Shin Sedai Custom Beigoma Beyblade: HMS Heavy Metal Battle\n|ReleaseJP=March 2004\n|ReleaseUS=\n|ReleaseCA=\n|ReleaseEU=\n|Contents=\n*<small>2 \u00d7 [[Bit Protector]]</small>\n*<small>2 \u00d7 [[Attack Ring]]</small>\n*<small>2 \u00d7 [[Weight Disk]]</small>\n*<small>2 \u00d7 [[Running Core]]</small>\n*<small>1 \u00d7 [[Beystadium|HMS Beystadium Balance Type S (Tornado Type)]]</small>\n*<small>8 \u00d7 Over Fence</small>\n*<small>1 \u00d7 [[Launcher|2-Way Launcher]] (Red)</small>\n*<small>1 \u00d7 [[Ripcord]] (Yellow)</small>\n*<small>1 \u00d7 Decal sheet</small>\n|Other=\n}}The '''HMS Custom Try Set''' (HMS\u30ab\u30b9\u30bf\u30e0\u30c8\u30e9\u30a4\u30bb\u30c3\u30c8, ''HMS Kasutamu Torai Setto'') was a [[Set|Starter Set]] released by [[Takara Tomy]] in March 2004 as part of their \"''Shin Sedai Custom Beigoma Beyblade: HMS Heavy Metal Battle''\" product line.\n\n==Product Details==\nThe ''HMS Custom Try Set'' was a multi-piece Starter Set that included all the essential tools to introduce [[Blader]]s to the basics of the [[Hard Metal System]]. With an apparent emphasis of basic play, this Starter Set enabled [[Blader]]s, new and old, easy access to the new product line and allowed them learn the basics of HMS [[Beybattle]]s with the recommended tools, using this Starter Set as a base to build their own unique toolbox as they collected other HMS tops from other different releases including the [[Driger MS|A-124 Starter: Beyblade Driger MS]] and [[Dark Gargoyle MS|MA-04 Booster: Beyblade Dark Gargoyle MS]]. In regards to the product list, the Custom Try Set came with 2 Hard Metal System tops, 1 HMS Beystadium, 1 [[Launcher|Two-Way Launcher]], 1 [[Ripcord]], 6-panel Over Fence, 1 decal sheet and 1 instructional sheet. The featured [[Beyblade (toy)|Beyblades]] of this set, the [[Dranzer MS|Dranzer MS (Black Version)]] and [[Advance Averazer|Advance Averazer (Off-White Version)]], were simple recolors of previously released HMS Beyblade tops. Like their common retail counterparts, these Beyblade tops consisted of the following parts:\n*'''Dranzer MS (Black Version)''': 1 Dranzer [[Bit Protector]], 1 [[Attack Ring - Spiral Upper|Spiral Upper]] [[Attack Ring]], 1 [[Weight Disk - Circle Balance|Circle Balance]] [[Weight Disk]], 1 [[Running Core - Manual Change Core|Manual Change]] [[Running Core]].\n*'''Advance Averazer (Off-white Version)''': 1 HMS Balance [[Bit Protector]], 1 [[Attack Ring - Advance Balancer|Advance Balancer]] [[Attack Ring]], 1 [[Weight Disk - Circle Balance|Circle Balance]] [[Weight Disk]], and 1 [[Running Core - Metal Semi-Flat Core|Metal Semi-Flat]] [[Running Core]].\nThese items aside, this set gave [[Blader]]s the opportunity to acquire the [[HMS Beystadium Balance Type S (Tornado Type)]].\n\n==Reception==\nDespite providing little competitive value, the mystique of a black-colored [[Dranzer MS]] proved to be a source of motivation for many fans to buy this set. Advance Averazer consists of useful parts for Stamina and Wobbler combos. Since the normal versions of both Beyblades are relatively easy to find, this set should be only bought for collection purposes. However, as such, it is one of the rarest collector's items and should be purchased if found at a reasonable price.",
-   "images": []
-  },
-  {
-   "title": "HMS Random Booster Act 1",
-   "key": "hms-random-booster-act-1",
-   "found_by": [
-    "Category:Heavy Metal System"
-   ],
-   "categories": [
-    "Category:Heavy Metal System",
-    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
-    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle s",
-    "Category:Plastic Random Boosters",
-    "Category:Random Boosters"
-   ],
-   "main_image": "HRandomBooster1A.jpg",
-   "text": "{{Product Infobox\n|Image=HRandomBooster1A.jpg\n|ImageCaption=\n|ProductCode=\n|ProductType=\n|Price=\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|System=Heavy Metal System\n|ReleaseJP=\n}}\n\n==Contents of Random Booster Act 1==\n* [[Thunder Serpent|Thunder Serpent]] (Prize Beyblade)\n* [[Wyvern DJ]] (Secret Beyblade) (Green)\n* [[Dragoon MS]] (Red)\n* [[Driger MS]] (Light Grey)\n==Gallery==\n<gallery widths=\"130\">\nHRandomBooster1B.jpg|Booster Contents\n</gallery>\n\n==Trivia==\n\n==References==\n==Complete List==\nSee ''[[HMS Boosters|here]]'' for complete list.\n{{Reflist}}\n[[Category:Plastic Random Boosters]]\n[[Category:Random Boosters]]",
-   "images": [
+   "parts": [
     {
-     "file": "hms-random-booster-act-1/hrandombooster1a.jpg",
-     "wiki_name": "File:HRandomBooster1A.jpg",
-     "size": [
-      444,
-      615
-     ]
+     "type": "Bit Protector",
+     "name": "Driger"
     },
     {
-     "file": "hms-random-booster-act-1/hrandombooster1b.jpg",
-     "wiki_name": "File:HRandomBooster1B.jpg",
-     "size": [
-      464,
-      616
-     ]
-    }
-   ]
-  },
-  {
-   "title": "HMS Random Booster Act 2",
-   "key": "hms-random-booster-act-2",
-   "found_by": [
-    "Category:Heavy Metal System"
-   ],
-   "categories": [
-    "Category:Hard Metal System Random Boosters",
-    "Category:Heavy Metal System",
-    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
-    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle s",
-    "Category:Random Boosters"
-   ],
-   "main_image": null,
-   "text": "{{Template:Languages}}\n{{Product Infobox\n|Image=\n|ImageCaption=\n|ProductCode=\n|ProductType=\n|Price=\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|System=Heavy Metal System\n|ReleaseJP=\n}}\n'''HMS Random Booster Act 2 '''is the second HMS Random Booster Released by [[Takara]].\n\n==Complete List==\nSee ''[[HMS Boosters/it|here]]'' for complete list.\n\n==Contents==\n*'''Sea Dragon: '''Prize Beyblade\n*'''[[Einstein MS|Einsten MS]]: '''Secret Beyblade.\n*'''[[Death Gargoyle MS]]: '''Red Version\n*'''[[Dragoon MS Ultimate Version]]: '''Bright Green Version\n[[Category:Random Boosters]]\n[[Category:Hard Metal System Random Boosters]]",
-   "images": []
-  },
-  {
-   "title": "HMS Random Booster Act 3",
-   "key": "hms-random-booster-act-3",
-   "found_by": [
-    "Category:Heavy Metal System"
-   ],
-   "categories": [
-    "Category:Hard Metal System",
-    "Category:Hard Metal System Random Boosters",
-    "Category:Heavy Metal System",
-    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
-    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle s",
-    "Category:Random Boosters"
-   ],
-   "main_image": "HMSRandomBoosterAct3.jpg",
-   "text": "{{Languages}}\n{{Product Infobox\n|Image=HMSRandomBoosterAct3.jpg\n|ImageCaption=\n|ProductCode=\n|ProductType=\n|Price=\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|System=Heavy Metal System\n|ReleaseJP=\n}}'''HMS Random Booster Act 3 '''is the Third HMS Booster released by [[Takara]].\n\n==Complete List==\nSee ''[[HMS Boosters|here]]'' for complete list.\n\n==Contents==\n*'''[[Dragoon MF]]: '''Prize Beyblade\n*'''[[Dragoon MF]]:''' Secret Beyblade Fire Red Version.\n*'''Death Gargoyle MS: '''Purple Version.\n*'''Death Gargoyle MS: '''Light Blue Version.\n*'''Advance Averazer: '''Purple Version.\n*'''Advance Averazer: '''Light Blue Version\n*'''Advance Striker: '''Dark Blue Version.\n*'''Advance Striker: '''Green Version\n[[Category:Random Boosters]]\n[[Category:Hard Metal System Random Boosters]]\n[[Category:Hard Metal System]]",
-   "images": [
+     "type": "Attack Ring",
+     "name": "Metal Upper"
+    },
     {
-     "file": "hms-random-booster-act-3/hmsrandomboosteract3.jpg",
-     "wiki_name": "File:HMSRandomBoosterAct3.jpg",
-     "size": [
-      180,
-      279
-     ]
+     "type": "Weight Disk",
+     "name": "Circle Balance"
+    },
+    {
+     "type": "Running Core",
+     "name": "Semi-Flat Core"
     }
    ]
   },
   {
-   "title": "HMS Random Booster Act 4",
-   "key": "hms-random-booster-act-4",
-   "found_by": [
-    "Category:Heavy Metal System"
-   ],
+   "title": "Falborg MS",
    "categories": [
-    "Category:Hard Metal System",
-    "Category:Hard Metal System Random Boosters",
-    "Category:Heavy Metal System",
-    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
-    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle s",
-    "Category:Random Boosters"
-   ],
-   "main_image": null,
-   "text": "{{Languages}}\n{{Product Infobox\n|Image=\n|ImageCaption=\n|ProductCode=\n|ProductType=\n|Price=\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|System=Heavy Metal System\n|ReleaseJP=\n}}'''HMS Random Booster Act 4 '''is the fourth HMS random booster released by [[Takara]].\n\n==Complete List==\nSee ''[[HMS Boosters|here]]'' for complete list.\n\n==Contents==\n*'''[[Dranzer MF]]: '''Prize Beyblade.\n*'''[[Dranzer MF]]: '''Secret Beyblade Black Version.\n*'''[[Advance Guardian]]: '''Combat Green Version.\n*'''[[Advance Guardian]]: '''Combat Yellow Version.\n*'''[[Dranzer MS]]: '''Light Orange Version.\n*'''[[Dranzer MS]]: '''Purple Version.\n*'''[[Advance Eterner]]:''' Combat Green Version.\n*'''[[Advance Eterner]]: '''Blue Version.\n[[Category:Random Boosters]]\n[[Category:Hard Metal System Random Boosters]]\n[[Category:Hard Metal System]]",
-   "images": []
-  },
-  {
-   "title": "HMS Random Booster Act 5",
-   "key": "hms-random-booster-act-5",
-   "found_by": [
-    "Category:Heavy Metal System"
-   ],
-   "categories": [
-    "Category:Hard Metal System",
-    "Category:Hard Metal System Random Boosters",
-    "Category:Heavy Metal System",
-    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
-    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle s",
-    "Category:Random Boosters"
-   ],
-   "main_image": null,
-   "text": "{{Languages}}\n{{Product Infobox\n|Image=\n|ImageCaption=\n|ProductCode=\n|ProductType=\n|Price=\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|System=Heavy Metal System\n|ReleaseJP=\n}}'''HMS Random Booster Act 5 '''is the fifth and final HMS Booster released by [[Takara]].\n\n==Complete List==\nSee ''[[HMS Boosters|here]]'' for complete list.\n\n==Contents==\n'''Note:''' There is no prize Beyblade in this booster, because it is a compilation of the prizes from the previous HMS Random Booster Acts, save for the red [[Jiraiya MS]].\n<br />\n* [[Jiraiya MS]] (Secret Beyblade)(Red)\n* [[Thunder Dragon]] (Off White)\n* [[Sea Dragon]] (Light Blue)\n* [[Dragoon MF]] (Blue)\n* [[Dragoon MF]] (Black)\n* [[Dranzer MF]] (Red)\n* [[Dranzer MF]] (Yellow)\n\n[[Category:Random Boosters]]\n[[Category:Hard Metal System Random Boosters]]\n[[Category:Hard Metal System]]",
-   "images": []
-  },
-  {
-   "title": "Heavy Metal System Award",
-   "key": "heavy-metal-system-award",
-   "found_by": [
-    "Category:Heavy Metal System"
-   ],
-   "categories": [
+    "Category:Attack Types",
     "Category:Beyblade GRevolution",
-    "Category:Beyblade Sets",
-    "Category:Heavy Metal System"
+    "Category:Beyblade GRevolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Right-Spin",
+    "Category:Right-Spin Beyblades"
    ],
-   "main_image": "Heavy_Metal_System_Award_case.jpg",
-   "text": "{{Beyblade Set Infobox\n|Image=Heavy Metal System Award case.jpg\n|JPName={{Ruby|HMS|\u30d8\u30f4\u30a3\u30e1\u30bf\u30eb\u30b7\u30b9\u30c6\u30e0}}\u8cde\n|RomajiName=Hevi Metaru Shisutemu Sh\u014d\n|ProductCode=N/A\n|Price=N/A\n|System=Heavy Metal System\n|Series=Beyblade GRevolution\n|Toyline=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battley\n|ReleaseJP=2004\n|Beyblades=5\n}}The {{Translation|'''Heavy Metal System Award'''|{{Ruby|HMS|\u30d8\u30f4\u30a3\u30e1\u30bf\u30eb\u30b7\u30b9\u30c6\u30e0}}\u8cde|Hevi Metaru Shisutemu Sh\u014d|HMS Prize}} is a set released as part of the ''[[New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle]]'' toyline. It was released in Japan in 2004 as part of the \"Beyblade 5th Anniversary Commemorative Campaign\". Up to 50 units were given away as lottery prizes (translated as \"award\" on the set) for this campaign.<ref>[https://www.suruga-ya.jp/product/detail/607141567 Suruga-ya listing]</ref>\n\nThe set includes a display case, along with the {{Translation|'''Gold Plated'''|\u91d1\u30e1\u30c3\u30ad|Kinmekki}} versions of the 5 Saint Beasts as they appear in the ''[[Beyblade GRevolution]]'' series.\n\n==Contents==\n*MA-01 [[Dragoon MS Ultimate Version]] (Gold Plated Version)\n*A-123 [[Gaia Dragoon MS]] (Gold Plated Version)\n*A-124 [[Driger MS]] (Gold Plated Version)\n*A-125 [[Draciel MS]] (Gold Plated Version)\n*A-131 [[Dranzer MS]] (Gold Plated Version)\n\n==Gallery==\n<gallery widths=\"130\">\nHeavy Metal System Award case.jpg\nHeavy Metal System Award front.jpg\nHeavy Metal System Award back.jpg\nHeavy Metal System Award contents top.jpg\nHeavy Metal System Award contents bottom.jpg\nDragoon MSUV (Gold Plated Version).jpg\nDragoon MSUV (Gold Plated Version) bottom.jpg\nDriger MS (Gold Plated Version).jpg\nDriger MS (Gold Plated Version) bottom.jpg\nDraciel MS (Gold Plated Version).jpg\nDranzer MS (Gold Plated Version) bottom.jpg\nDranzer MS (Gold Plated Version).jpg\nDraciel MS (Gold Plated Version) bottom.jpg\n</gallery>\n\n==Videos==\n<gallery widths=\"130\">\n</gallery>\n\n==Trivia==\n*The same selection of Beys were also available in the [[HMS 5 Saint Beasts Booster]].\n\n==References==\n{{Reflist}}\n[[Category:Beyblade Sets]]",
+   "main_image": "Falborg_MS.jpg",
+   "text": "{{Beyblade Infobox\n|Image=Falborg MS.jpg\n|JPName=\u30d5\u30a1\u30eb\u30dc\u30fc\u30b0MS\n|RomajiName=Farub\u014dgu MS\n|Type=Attack\n|SpinDirection=Right-Spin\n|System=Hard Metal System\n|Series=Beyblade GRevolution\n|BitProtector=Falborg Emblem\n|AttackRing=\n|WeightDisk=\n|RunningCore=\n|Owner=[[Bryan Kuznetsov]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Chapter 39|Desperate Battle! Tyson vs. Ray]]\n}}{{Translation|'''Falborg MS'''|\u30d5\u30a1\u30eb\u30dc\u30fc\u30b0MS|Farub\u014dgu MS}} is a manga-exclusive [[Hard Metal System]] Beyblade in the ''[[Bakuten Shoot Beyblade (manga)|Bakuten Shoot Beyblade]]'' manga.\n\nIn the manga, It is the successor to [[Falborg 2]] and is succeeded by [[Falborg (Burst)]].\n\n==Bit Protector - Falborg Emblem==\n{{Part|Bit Protector - Falborg Emblem}}\n\n==Gallery==\n<gallery widths=\"130\">\nFalborg MS.jpg\n</gallery>\n\n==Trivia==\n*Like all the manga-exclusive [[Hard Metal System]] Beyblades, it's unknown what \"MS\" at the end of the Beyblade's name refers to.\n\n{{Hard Metal System Beyblades}}",
+   "key": "falborg-ms",
    "images": [
     {
-     "file": "heavy-metal-system-award/heavy-metal-system-award-case.jpg",
-     "wiki_name": "File:Heavy Metal System Award case.jpg",
+     "file": "falborg-ms/falborg-ms.jpg",
+     "wiki_name": "File:Falborg MS.jpg",
      "size": [
-      512,
-      363
+      343,
+      291
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Falborg Emblem"
+    }
+   ]
+  },
+  {
+   "title": "Galeon MS",
+   "categories": [
+    "Category:Balance Types",
+    "Category:Beyblade GRevolution",
+    "Category:Beyblade GRevolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Right-Spin",
+    "Category:Right-Spin Beyblades"
+   ],
+   "main_image": "Galeon_MS.jpg",
+   "text": "{{Beyblade Infobox\n|Image=Galeon MS.jpg\n|JPName=\u30ac\u30eb\u30aa\u30f3MS\n|RomajiName=Garuon MS\n|Type=Balance\n|SpinDirection=Right-Spin\n|System=Hard Metal System\n|Series=Beyblade GRevolution\n|BitProtector=Galeon Emblem\n|AttackRing=Howling Leo (HMS)\n|WeightDisk=\n|RunningCore=\n|Owner=[[Lee]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Chapter 38|A Beast with Bared Fangs!!]]\n}}{{Translation|'''Galeon MS'''|\u30ac\u30eb\u30aa\u30f3MS|Garuon MS}} is a manga-exclusive [[Hard Metal System]] Beyblade in the ''[[Bakuten Shoot Beyblade (manga)|Bakuten Shoot Beyblade]]'' manga.\n\nIn the manga, it is the successor to [[Galeon 2]] and is succeeded by [[Galeon (Burst)|Galeon]].\n\n==Bit Protector - Galeon Emblem==\n{{Part|Bit Protector - Galeon Emblem}}\n\n==Gallery==\n<gallery widths=\"130\">\nGaleon MS.jpg\n</gallery>\n\n==Trivia==\n*Like all the manga-exclusive [[Hard Metal System]] Beyblades, it's unknown what \"MS\" at the end of the Beyblade's name refers to.\n\n{{Hard Metal System Beyblades}}",
+   "key": "galeon-ms",
+   "images": [
+    {
+     "file": "galeon-ms/galeon-ms.jpg",
+     "wiki_name": "File:Galeon MS.jpg",
+     "size": [
+      738,
+      669
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Galeon Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Howling Leo (HMS)"
+    }
+   ]
+  },
+  {
+   "title": "Hopper Attack",
+   "categories": [
+    "Category:Balance Types",
+    "Category:Beyblade: G-Revolution",
+    "Category:Beyblade: G-Revolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Hasbro",
+    "Category:Takara Tomy"
+   ],
+   "main_image": "Einstein_MS.jpg",
+   "text": "{{Beyblade Infobox\n|Image1=<gallery>\nEinstein MS.jpg|Takara\nHopper Attack.jpg|Hasbro\n</gallery>\n|Image1Label=Product\n|Image2=Einstein MS (Manga).png\n|Image2Label=Manga\n|JPName=\u30a2\u30a4\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3{{Ruby|MS|\u30e1\u30bf\u30eb\u30b9\u30d7\u30ea\u30f3\u30b0}}\n|RomajiName=Ainshutain Metaru Supuringu\n|AKA=Einstein MS<br>Einstein Metal Spring\n|ProductCode=A-136 \n|Type=Balance\n|Price=\n|System=Hard Metal System\n|Series=Beyblade: G-Revolution\n|ReleaseJP=\n|ReleaseEN=\n|BitProtector=Heavy Metal Emblem \n|AttackRing=Metal Spring\n|WeightDisk=Circle Heavy \n|RunningCore=Spring Core \n|Owner=[[Kenny]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Special Section 14|The Arrival of the Invincible Blader?!]]\n}}'''Hopper Attack''' or {{Translation|'''Einstein MS'''|\u30a2\u30a4\u30f3\u30b7\u30e5\u30bf\u30a4\u30f3{{Ruby|MS|\u30e1\u30bf\u30eb\u30b9\u30d7\u30ea\u30f3\u30b0}}|Ainshutain Metaru Supuringu|Einstein Metal Spring}} in Japan, is a Balance Type [[Beyblade (toy)|Beyblade]] used by [[Kenny]] in the ''[[Bakuten Shoot Beyblade (manga)|Bakuten Shoot Beyblade]]'' manga.\n\nIt is the successor to [[Hopper]] in the manga.\n\n==Name Change==\nTakara originally named\u00a0'''Hopper Attack''' as '''Einstein MS'''; Hasbro changed the name for their release.\n\nHasbro had changed the names from '''Einstein MS''' to '''Hopper Attack''' on both the box and stickers.\n\n==Bit Protector (BP): Heavy Metal Emblem==\nThe Bit Protector of this Beyblade is Heavy Metal Emblem. It is the first mold version of Bit Protectors.\n\n==Attack Ring (AR): Metal Spring==\n*'''Weight:''' 16 grams\nMetal Spring is a triangular shaped attack ring. The edges of this beyblade are jagged, though they don't extend far. There are also three head shaped figures that allow for some attack, though it also results in some recoil.\n\n=== Use in Smash Attack/Compact Customization ===\nDue to Metal Spring's small size and aggressive shape it can be used similarly to Jiraiya Blade.\n* '''AR:''' Metal Spring\n* '''WD: '''CWD Defense Ring (Sea Drake), Circle Heavy (Strata Dragoon MS)\n* '''RC: '''Metal Flat Core (Advance Striker)\n\n==Weight Disk (WD): Circle Heavy==\n'''Circle Heavy''' is a Weight Disk that, as its name suggests, features a circular design and a heavy weight. Due to its high Outward Weight Distribution (OWD), '''Circle Heavy''' excels in both Attack and Defense combinations. '''Circle Heavy''' can be used when the much rarer CWD Defense Ring and CWD God Ring Weight Disks are unavailable.\n\n==Running Core (RC): Spring Core==\n*'''Weight:''' 3 grams\nThis RC is very tall and has a spring inside that lets the tip bounce on the launch. Its tip is a plastic semi-flat. The RC is not only tall, but it moves itself into a position where it is easily hit by Attack-type Beyblades. Because of its height and the separation between the two halves of the RC (which causes the tip to stray from the axis often), this RC has very bad balance. So, this RC has no competitive use, but can be fun to use just for the gimmick.\n\n==Other Versions==\n'''Einstein MS\u00a0'''- Original Release by Takara (Light Green)\n\n'''Hopper Attack''' - Hasbro Release with name change (Light Green)\u00a0\n\n'''Einstein MS''' - HMS Random Booster ACT 2 Version (Fuschia)\n\n'''Einstein MS''' - Beyblade Fukubako 2004 Version (Light Blue)\n\n'''Einstein MS '''- Coro Coro Limited (Gold)\n\n'''Einstein MS '''- Tournament Limited (Dark Green)\u00a0\n==Gallery==\n====Einstein MS - Original Version (Light green)====\n<gallery>\nEinstein ms sticker.jpg|Sticker sheet\nEinsteinMS 1.jpg|Einstein MS top view\nEinsteinMS 2.jpg|Einstein MS side view\nEinsteinMS 3.jpg|Einstein MS underside view\nEinsteinMS 4.jpg|Einstein Bit Protector\nEinsteinMS 5.jpg|Metal Spring AR\nEinsteinMS 6.jpg|Circle Heavy Weight Disk\nEinsteinMS 7.jpg|Circle Heavy Weight Disk underside view\nEinsteinMS 8.jpg|Spring Core Running Core\n</gallery>\n====Einstein MS - Beyblade Fukubako 2004 (Light blue)====\n<gallery>\nEinsteinMSBlue 1.jpg|Einstein MS light blue top view\nEinsteinMSBlue 2.jpg|Einstein MS light blue underside view\n</gallery>\n====Einstein MS - HMS Random Booster ACT 2 Version (Fuschia)====\n<gallery>\nEinsteinMS Purple1.jpg|Einstein MS fuschia top view\nEinsteinMS Purple1.jpg|Einstein MS fuschia underside view\n</gallery>\n\n==References==\n{{Hard Metal System Beyblades}}\n[[Category:Takara Tomy]]\n[[Category:Hasbro]]",
+   "key": "hopper-attack",
+   "images": [
+    {
+     "file": "hopper-attack/einstein-ms.jpg",
+     "wiki_name": "File:Einstein MS.jpg",
+     "size": [
+      429,
+      399
      ]
     },
     {
-     "file": "heavy-metal-system-award/heavy-metal-system-award-back.jpg",
-     "wiki_name": "File:Heavy Metal System Award back.jpg",
+     "file": "hopper-attack/hopper-attack.jpg",
+     "wiki_name": "File:Hopper Attack.jpg",
+     "size": [
+      280,
+      280
+     ]
+    },
+    {
+     "file": "hopper-attack/einstein-ms-manga.png",
+     "wiki_name": "File:Einstein MS (Manga).png",
+     "size": [
+      148,
+      148
+     ]
+    },
+    {
+     "file": "hopper-attack/einstein-ms-sticker.jpg",
+     "wiki_name": "File:Einstein ms sticker.jpg",
+     "size": [
+      960,
+      689
+     ]
+    },
+    {
+     "file": "hopper-attack/einsteinms-1.jpg",
+     "wiki_name": "File:EinsteinMS 1.jpg",
      "size": [
       1024,
-      747
+      764
      ]
     },
     {
-     "file": "heavy-metal-system-award/heavy-metal-system-award-contents-bottom.jpg",
-     "wiki_name": "File:Heavy Metal System Award contents bottom.jpg",
-     "size": [
-      1200,
-      1200
-     ]
-    },
-    {
-     "file": "heavy-metal-system-award/heavy-metal-system-award-contents-top.jpg",
-     "wiki_name": "File:Heavy Metal System Award contents top.jpg",
-     "size": [
-      1199,
-      1200
-     ]
-    },
-    {
-     "file": "heavy-metal-system-award/heavy-metal-system-award-front.jpg",
-     "wiki_name": "File:Heavy Metal System Award front.jpg",
+     "file": "hopper-attack/einsteinms-2.jpg",
+     "wiki_name": "File:EinsteinMS 2.jpg",
      "size": [
       1024,
-      747
+      764
      ]
     },
     {
-     "file": "heavy-metal-system-award/draciel-ms-gold-plated-version-bottom.jpg",
-     "wiki_name": "File:Draciel MS (Gold Plated Version) bottom.jpg",
+     "file": "hopper-attack/einsteinms-3.jpg",
+     "wiki_name": "File:EinsteinMS 3.jpg",
      "size": [
-      1200,
-      1200
+      1024,
+      764
      ]
     },
     {
-     "file": "heavy-metal-system-award/draciel-ms-gold-plated-version.jpg",
-     "wiki_name": "File:Draciel MS (Gold Plated Version).jpg",
+     "file": "hopper-attack/einsteinms-4.jpg",
+     "wiki_name": "File:EinsteinMS 4.jpg",
      "size": [
-      1200,
-      1200
+      1024,
+      764
      ]
     },
     {
-     "file": "heavy-metal-system-award/dragoon-msuv-gold-plated-version-bottom.jpg",
-     "wiki_name": "File:Dragoon MSUV (Gold Plated Version) bottom.jpg",
+     "file": "hopper-attack/einsteinms-5.jpg",
+     "wiki_name": "File:EinsteinMS 5.jpg",
      "size": [
-      1200,
-      1200
+      1024,
+      764
      ]
     },
     {
-     "file": "heavy-metal-system-award/dragoon-msuv-gold-plated-version.jpg",
-     "wiki_name": "File:Dragoon MSUV (Gold Plated Version).jpg",
+     "file": "hopper-attack/einsteinms-6.jpg",
+     "wiki_name": "File:EinsteinMS 6.jpg",
      "size": [
-      1200,
-      1200
+      1024,
+      764
      ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Heavy Metal Emblem"
     },
     {
-     "file": "heavy-metal-system-award/dranzer-ms-gold-plated-version-bottom.jpg",
-     "wiki_name": "File:Dranzer MS (Gold Plated Version) bottom.jpg",
-     "size": [
-      1200,
-      1199
-     ]
+     "type": "Attack Ring",
+     "name": "Metal Spring"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Spring Core"
     }
    ]
   },
@@ -1493,64 +2550,8 @@
       600
      ]
     }
-   ]
-  },
-  {
-   "title": "MS Double Stadium Set",
-   "key": "ms-double-stadium-set",
-   "found_by": [
-    "Category:Heavy Metal System"
    ],
-   "categories": [
-    "Category:Battle Sets",
-    "Category:Beyblade Sets",
-    "Category:Heavy Metal System",
-    "Category:Sonokong"
-   ],
-   "main_image": "Bey,_MS_Double_Stadium_Set_(Front)_View.jpg",
-   "text": "'''MS Double Stadium Set''' (MS \ub354\ube14 \uc2a4\ud0c0\ub514\uc6c0 \uc138\ud2b8, MS Deobeul Seutadium Seteu) -  is a [[Sonokong]]-exclusive set released during their ''[[Beyblade: G-Revolution|Tops World War G-Blade]]'' toyline.\n\n== Contents ==\n\n* [[Dragoon MS]] \n* [[Strata Dragoon MS]] \n* [[Driger MS]] \n* [[Draciel MS]] \n* [[Double Beystadium]]\n* [[Dual Shooter|Dual Shooters]]: Blue, Black, Gray, & Green\n* [[G-Winder|G-Winders]]: Red, Blue, Black, and Yellow\n\n===== Gallery =====\n<gallery>\nFile:Bey, MS Double Stadium Set (Front) View.jpg\nFile:Bey, MS Double Stadium Set (Back) View.jpg\nFile:Bey, MS Double Stadium Set's Contents pt 1.jpg\nFile:Bey, MS Double Stadium Set's Contents pt 2.jpg\nFile:Bey, MS Double Stadium Set's Contents pt 3.jpg\n</gallery>\n\n===== Trivia & Notes =====\n[[Category:Battle Sets]]\n[[Category:Beyblade Sets]]\n[[Category:Sonokong]]\n[[Category:Heavy Metal System]]",
-   "images": [
-    {
-     "file": "ms-double-stadium-set/bey-ms-double-stadium-set-front-view.jpg",
-     "wiki_name": "File:Bey, MS Double Stadium Set (Front) View.jpg",
-     "size": [
-      794,
-      529
-     ]
-    },
-    {
-     "file": "ms-double-stadium-set/bey-ms-double-stadium-set-back-view.jpg",
-     "wiki_name": "File:Bey, MS Double Stadium Set (Back) View.jpg",
-     "size": [
-      798,
-      551
-     ]
-    },
-    {
-     "file": "ms-double-stadium-set/bey-ms-double-stadium-set-s-contents-pt-1.jpg",
-     "wiki_name": "File:Bey, MS Double Stadium Set's Contents pt 1.jpg",
-     "size": [
-      764,
-      571
-     ]
-    },
-    {
-     "file": "ms-double-stadium-set/bey-ms-double-stadium-set-s-contents-pt-2.jpg",
-     "wiki_name": "File:Bey, MS Double Stadium Set's Contents pt 2.jpg",
-     "size": [
-      439,
-      571
-     ]
-    },
-    {
-     "file": "ms-double-stadium-set/bey-ms-double-stadium-set-s-contents-pt-3.jpg",
-     "wiki_name": "File:Bey, MS Double Stadium Set's Contents pt 3.jpg",
-     "size": [
-      755,
-      571
-     ]
-    }
-   ]
+   "parts": []
   },
   {
    "title": "Magical Ape MS",
@@ -1652,6 +2653,24 @@
       799,
       599
      ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Ape Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Metal Ape"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Flat Core"
     }
    ]
   },
@@ -1756,6 +2775,162 @@
       582
      ]
     }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Phantom Fox Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Upper Fox"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Needle Attacker"
+    },
+    {
+     "type": "Running Core",
+     "name": "CWD Circle Attacker"
+    }
+   ]
+  },
+  {
+   "title": "Pierce Hedgehog MS",
+   "categories": [
+    "Category:Beyblade GRevolution",
+    "Category:Beyblade GRevolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Right-Spin",
+    "Category:Right-Spin Beyblades"
+   ],
+   "main_image": "Pierce_Hedgehog_MS.jpg",
+   "text": "{{Beyblade Infobox\n|Image=Pierce Hedgehog MS.jpg\n|JPName=\u30d4\u30a2\u30b9\u30d8\u30c3\u30b8\u30db\u30c3\u30b0MS\n|RomajiName=Piasu Hejjihoggu MS\n|SpinDirection=Right-Spin\n|System=Hard Metal System\n|Series=Beyblade GRevolution\n|BitProtector=Hedgehog Emblem\n|AttackRing=Circle Upper\n|WeightDisk=Circle Heavy\n|RunningCore=Metal Change Core\n|Owner=[[Mathilda]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Chapter 40|The Strongest Enemy: Barthez Battalion!!]]\n}}{{Translation|'''Pierce Hedgehog MS'''|\u30d4\u30a2\u30b9\u30d8\u30c3\u30b8\u30db\u30c3\u30b0MS|Piasu Hejjihoggu MS}} is a manga-exclusive [[Hard Metal System]] Beyblade in the ''[[Bakuten Shoot Beyblade (manga)|Bakuten Shoot Beyblade]]'' manga.\n\n==Bit Protector - Hedgehog Emblem==\n{{Part|Bit Protector - Hedgehog Emblem}}\n==Attack Ring - Circle Upper==\n{{Part|Attack Ring - Circle Upper}}\n==Weight Disk - Circle Heavy==\n{{Part|Weight Disk - Circle Heavy}}\n==Running Core - Metal Change Core==\n{{Part|Running Core - Metal Change Core}}\n\n==Gallery==\n<gallery widths=\"130\">\nPierce Hedgehog MS.jpg\nPierce Hedgehog MS destroyed.jpg|Destroyed by [[Death Gargoyle MS]].\n</gallery>\n\n==Trivia==\n*Like all the manga-exclusive [[Hard Metal System]] Beyblades, it's unknown what \"MS\" at the end of the Beyblade's name refers to.\n*Pierce Hedgehog MS, [[Death Gargoyle MS|Dark Gargoyle MS]], and [[Rapid Eagle MS]], all use the same parts.\n\n{{Hard Metal System Beyblades}}",
+   "key": "pierce-hedgehog-ms",
+   "images": [
+    {
+     "file": "pierce-hedgehog-ms/pierce-hedgehog-ms.jpg",
+     "wiki_name": "File:Pierce Hedgehog MS.jpg",
+     "size": [
+      648,
+      471
+     ]
+    },
+    {
+     "file": "pierce-hedgehog-ms/pierce-hedgehog-ms-destroyed.jpg",
+     "wiki_name": "File:Pierce Hedgehog MS destroyed.jpg",
+     "size": [
+      667,
+      1362
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Hedgehog Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Circle Upper"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Change Core"
+    }
+   ]
+  },
+  {
+   "title": "Rapid Eagle MS",
+   "categories": [
+    "Category:Balance Types",
+    "Category:Beyblade GRevolution",
+    "Category:Beyblade GRevolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Right-Spin",
+    "Category:Right-Spin Beyblades"
+   ],
+   "main_image": "BarthezBattalionHMS.jpg",
+   "text": "{{Beyblade Infobox\n|Image=Rapid Eagle MS.jpg\n|JPName=\u30ad\u30e9\u30fc\u30a4\u30fc\u30b0\u30ebMS\n|RomajiName=Kir\u0101 \u012aguru MS\n|AKA=Killer Eagle MS (manga, Japanese)\n|Type=Balance\n|SpinDirection=Right-Spin\n|System=Hard Metal System\n|Series=Beyblade GRevolution\n|BitProtector=Eagle Emblem\n|AttackRing=Circle Upper\n|WeightDisk=Circle Heavy\n|RunningCore=Metal Change Core\n|Owner=[[Claude]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Chapter 40|The Strongest Enemy: Barthez Battalion!!]]\n}}'''Rapid Eagle MS''', known as {{Translation|'''Killer Eagle MS'''|\u30ad\u30e9\u30fc\u30a4\u30fc\u30b0\u30ebMS|Kir\u0101 \u012aguru MS}} in Japan, is a manga-exclusive [[Hard Metal System]] Beyblade in the ''[[Bakuten Shoot Beyblade (manga)|Bakuten Shoot Beyblade]]'' manga.\n\n==Bit Protector - Eagle Emblem==\n{{Part|Bit Protector - Eagle Emblem}}\n==Attack Ring - Circle Upper==\n{{Part|Attack Ring - Circle Upper}}\n==Weight Disk - Circle Heavy==\n{{Part|Weight Disk - Circle Heavy}}\n==Running Core - Metal Change Core==\n{{Part|Running Core - Metal Change Core}}\n\n==Gallery==\n<gallery widths=\"130\">\nRapid Eagle MS.jpg\n</gallery>\n\n==Trivia==\n*Like all the manga-exclusive [[Hard Metal System]] Beyblades, it's unknown what \"MS\" at the end of the Beyblade's name refers to.\n*Rapid Eagle MS, along with [[Torch Pegasus MS]] and [[Thunder Pegasus MS]], are not fully visible in the manga.\n*Rapid Eagle MS, [[Death Gargoyle MS|Dark Gargoyle MS]], and [[Pierce Hedgehog MS]], all use the same parts.\n\n{{Hard Metal System Beyblades}}",
+   "key": "rapid-eagle-ms",
+   "images": [
+    {
+     "file": "rapid-eagle-ms/barthezbattalionhms.jpg",
+     "wiki_name": "File:BarthezBattalionHMS.jpg",
+     "size": [
+      224,
+      182
+     ]
+    },
+    {
+     "file": "rapid-eagle-ms/rapid-eagle-ms.jpg",
+     "wiki_name": "File:Rapid Eagle MS.jpg",
+     "size": [
+      224,
+      182
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Eagle Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Circle Upper"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Change Core"
+    }
+   ]
+  },
+  {
+   "title": "Rock Bison MS",
+   "categories": [
+    "Category:Beyblade GRevolution",
+    "Category:Beyblade GRevolution Beyblades",
+    "Category:Beyblades",
+    "Category:Defense Types",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Right-Spin",
+    "Category:Right-Spin Beyblades"
+   ],
+   "main_image": "Rock_Bison_MS.jpg",
+   "text": "{{Beyblade Infobox\n|Image=Rock Bison MS.jpg\n|JPName=\u30ed\u30c3\u30af\u30d0\u30a4\u30bd\u30f3MS\n|RomajiName=Rokku Baison MS\n|Type=Defense\n|SpinDirection=Right-Spin\n|System=Hard Metal System\n|Series=Beyblade GRevolution\n|BitProtector=Bison Emblem\n|AttackRing=\n|WeightDisk=\n|RunningCore=\n|Owner=[[Rick Anderson]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Chapter 38|A Beast with Bared Fangs!!]]\n}}{{Translation|'''Rock Bison MS'''|\u30ed\u30c3\u30af\u30d0\u30a4\u30bd\u30f3MS|Rokku Baison MS}} is a manga-exclusive [[Hard Metal System]] Beyblade in the ''[[Bakuten Shoot Beyblade (manga)|Bakuten Shoot Beyblade]]'' manga.\n\nIn the manga, it is the successor to [[Rock Bison]] and is succeeded by [[Rock Bison MK-2]].\n\n==Bit Protector - Bison Emblem==\n{{Part|Bit Protector - Bison Emblem}}\n\n==Gallery==\n<gallery widths=\"130\">\nRock Bison MS.jpg\n</gallery>\n\n==Trivia==\n*Like all the manga-exclusive [[Hard Metal System]] Beyblades, it's unknown what \"MS\" at the end of the Beyblade's name refers to.\n\n{{Hard Metal System Beyblades}}",
+   "key": "rock-bison-ms",
+   "images": [
+    {
+     "file": "rock-bison-ms/rock-bison-ms.jpg",
+     "wiki_name": "File:Rock Bison MS.jpg",
+     "size": [
+      521,
+      474
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Bison Emblem"
+    }
    ]
   },
   {
@@ -1858,6 +3033,20 @@
       3264,
       2448
      ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Turtle Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Turtle Crusher"
+    },
+    {
+     "type": "Running Core",
+     "name": "Rubber Weight Core"
     }
    ]
   },
@@ -1967,6 +3156,147 @@
       600
      ]
     }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Samurai Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Samurai Upper"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Battle Change Core"
+    }
+   ]
+  },
+  {
+   "title": "Sea Drake",
+   "categories": [
+    "Category:Beyblades",
+    "Category:Defense Types",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle Beyblades"
+   ],
+   "main_image": "SeaDragonStock.jpg",
+   "text": "{{Beyblade Infobox\n|RefName = Sea Dragon\n|Image=File:SeaDragonStock.jpg\n|JPName=\u30b7\u30fc\u30c9\u30e9\u30b4\u30f3\n|RomajiName=Shii Doragon\n|AKA = Sea Drake (Hasbro)\n|ProductCode=None\n|Type=Defense\n|Price=\n|System=Hard Metal System\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|ReleaseJP=\n|ReleaseEN=\n|BitProtector = Sea Dragon Emblem\n|AttackRing = Seagon Attacker\n|WeightDisk = CWD Defense Ring\n|RunningCore = Metal Ball Core\n|Owner = None\n}}{{Translation|'''Sea Dragon'''|\u30b7\u30fc\u30c9\u30e9\u30b4\u30f3|Shii Doragon}} is a Defense Type [[Beyblade (toy)|Beyblade]] implementing the '''Hard Metal System'''. It was first released in Japan as the prize Beyblade in the [[HMS Boosters|HMS Random Booster Act 2]]. Hasbro later released it as '''Sea Drake'''.\n\n==Bit Protector (BP): Sea Dragon Emblem==\n{{Main|Bit Protector - Sea Dragon Emblem}}\n\n{{:Bit Protector - Sea Dragon Emblem}}\n\n==Attack Ring (AR): Seagon Attacker==\n{{Main|Attack Ring - Seagon Attacker}}\n\n{{:Attack Ring - Seagon Attacker}}\n\n==Weight Disk (WD): CWD Defense Ring==\n{{Main|Weight Disk - CWD Defense Ring}}\n\n{{:Weight Disk - CWD Defense Ring}}\n\n==Running Core (RC): Metal Ball Core==\n{{Main|Running Core - Metal Ball Core}}\n\n{{:Running Core - Metal Ball Core}}\n\n== Other Versions ==\n* '''Sea Dragon''' - HMS Random Booster 5 (Light Blue)\n\n== Gallery ==\n<gallery>\nSeaDragonStickers.jpg|Sea Dragon sticker sheet\n</gallery>\n\n====Sea Dragon - Original Version====\n<gallery>\nSeaDragon_1.jpg|Sea Dragon top view\nSeaDragon_2.jpg|Sea Dragon side view\nSeaDragon_3.jpg|Sea Dragon underside view\nSeaDragon_4.jpg|Seagon Attacker AR\nSeaDragon_5.jpg|CWD Defense Ring\nSeaDragon_6.jpg\nSeaDragon_7.jpg\n</gallery>\n\n== Overall ==\nSeagon Attacker and Metal Ball Core are negligible as parts. However, CWD Defense Ring is not negligible; it is one of the most basic parts for customizing with HMS. Combine this with the 17g metal piece for the [[Customize Weight Disks|CWD]], and it becomes a must-have item.\n{{Hard Metal System Beyblades}}",
+   "key": "sea-drake",
+   "images": [
+    {
+     "file": "sea-drake/seadragonstock.jpg",
+     "wiki_name": "File:SeaDragonStock.jpg",
+     "size": [
+      265,
+      215
+     ]
+    },
+    {
+     "file": "sea-drake/seadragon-1.jpg",
+     "wiki_name": "File:SeaDragon 1.jpg",
+     "size": [
+      1024,
+      764
+     ]
+    },
+    {
+     "file": "sea-drake/seadragon-2.jpg",
+     "wiki_name": "File:SeaDragon 2.jpg",
+     "size": [
+      1024,
+      764
+     ]
+    },
+    {
+     "file": "sea-drake/seadragon-3.jpg",
+     "wiki_name": "File:SeaDragon 3.jpg",
+     "size": [
+      1024,
+      764
+     ]
+    },
+    {
+     "file": "sea-drake/seadragon-4.jpg",
+     "wiki_name": "File:SeaDragon 4.jpg",
+     "size": [
+      1024,
+      764
+     ]
+    },
+    {
+     "file": "sea-drake/seadragon-5.jpg",
+     "wiki_name": "File:SeaDragon 5.jpg",
+     "size": [
+      1024,
+      764
+     ]
+    },
+    {
+     "file": "sea-drake/seadragon-6.jpg",
+     "wiki_name": "File:SeaDragon 6.jpg",
+     "size": [
+      1024,
+      764
+     ]
+    },
+    {
+     "file": "sea-drake/seadragon-7.jpg",
+     "wiki_name": "File:SeaDragon 7.jpg",
+     "size": [
+      1024,
+      764
+     ]
+    },
+    {
+     "file": "sea-drake/seadragonstickers.jpg",
+     "wiki_name": "File:SeaDragonStickers.jpg",
+     "size": [
+      523,
+      432
+     ]
+    }
+   ],
+   "parts": []
+  },
+  {
+   "title": "Seaborg MS",
+   "categories": [
+    "Category:Beyblade GRevolution",
+    "Category:Beyblade GRevolution Beyblades",
+    "Category:Beyblades",
+    "Category:Defense Types",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Right-Spin",
+    "Category:Right-Spin Beyblades"
+   ],
+   "main_image": "Seaborg_MS.jpg",
+   "text": "{{Beyblade Infobox\n|Image=Seaborg MS.jpg\n|JPName=\u30b7\u30fc\u30dc\u30fc\u30b0MS\n|RomajiName=Sh\u012bb\u014dgu MS\n|Type=Defense\n|SpinDirection=Right-Spin\n|System=Hard Metal System\n|Series=Beyblade GRevolution\n|BitProtector=Seaborg Emblem\n|AttackRing=\n|WeightDisk=\n|RunningCore=\n|Owner=[[Spencer]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Chapter 42|Extreme Battle! Endurance vs. Offense?!]]\n}}{{Translation|'''Seaborg MS'''|\u30b7\u30fc\u30dc\u30fc\u30b0MS|Sh\u012bb\u014dgu MS}} is a manga-exclusive [[Hard Metal System]] Beyblade in the ''[[Bakuten Shoot Beyblade (manga)|Bakuten Shoot Beyblade]]'' manga.\n\nIt is the successor to [[Seaborg 2]] in the manga.\n\n==Bit Protector - Seaborg Emblem==\n{{Part|Bit Protector - Seaborg Emblem}}\n\n==Gallery==\n<gallery widths=\"130\">\nSeaborg MS.jpg\n</gallery>\n\n==Trivia==\n*Like all the manga-exclusive [[Hard Metal System]] Beyblades, it's unknown what \"MS\" at the end of the Beyblade's name refers to.\n\n{{Hard Metal System Beyblades}}",
+   "key": "seaborg-ms",
+   "images": [
+    {
+     "file": "seaborg-ms/seaborg-ms.jpg",
+     "wiki_name": "File:Seaborg MS.jpg",
+     "size": [
+      245,
+      238
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Seaborg Emblem"
+    }
    ]
   },
   {
@@ -2070,6 +3400,427 @@
       876,
       797
      ]
+    }
+   ],
+   "parts": []
+  },
+  {
+   "title": "Slash Riger MS",
+   "categories": [
+    "Category:Attack Types",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Gimmick Specialty",
+    "Category:Gimmick Specialty Beyblades",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle Beyblades",
+    "Category:Takara Tomy"
+   ],
+   "main_image": "SlashRigerMS11.JPG",
+   "text": "{{Beyblade Infobox\n|RefName = Slash Riger MS\n|Image=SlashRigerMS11.JPG\n|JPName=\u30b9\u30e9\u30c3\u30b7\u30e5\u30e9\u30a4\u30ac\u30fcMS\n|RomajiName=Surasshu Raigaa MS\n|AKA = Slash Riger Metal Scratch\n|ProductCode=\n|Type=Attack\n|Price=\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|System=Hard Metal System\n|Toyline=Gimmick Specialty\n|ReleaseJP=2005\n|ReleaseEN=\n|BitProtector = Riger Emblem\n|AttackRing = Slash Upper\n|WeightDisk = CWD Free Crusher\n|RunningCore = Free Wing Cross\n}}'''Slash Riger MS''' is an Attack Type [[Beyblade (toy)|Beyblade]] implementing the '''Hard Metal System'''. It is part of the Gimmick Specialty Series. It was released as part of a random package, Beyblade Fukobako (Lucky Box) 2005.\n\n==Bit-Protector: Riger Emblem==\nThe [[Bit Protector]] for it is the Riger Emblem. It is a third gen mold bit-protector. The sticker depicts a stylized motif of a [[Wikipedia:Liger|Liger]].\n\n== Attack Ring: Slash Upper ==\n\n* '''Weight:''' 18 grams\n\nSlash Upper is the most useful part of Slash Riger MS. It is strong in not just one, but two types of Attack: [[Smash Attack]] and [[Upper Attack]]. The Metal Frame of Slash Upper has two steep Upper Attack slopes, both of which abruptly end with a blunt edge, giving it simultaneous Upper and Smash Attack in right spin. In left spin, Slash Upper loses its Upper Attack abilities, but retains its strong Smash Attack attributes in other areas; in the ABS Caul, along with the Metal Frame where an exposed piece of metal give it some Smash Attack in that direction.\n\nCompared to Samurai Upper and Circle Upper, Slash Upper's attack range is in fact, smaller, but this should not be a detriment to its performance, especially in small stadiums like Tornado Balance Type S. However, one factor which could be considered a disadvantage in certain situations is its light weight compared to the other staple Attack based ARs. Two of the best ARs in the HMS series, Jiraiya Blade and Samurai Upper are both heavier by approximately four grams. Unless you are making a purely Smash Attack based custom, where weight is not of huge importance, generally, it would be a better idea to choose a heavier AR than Slash Upper. That being said, Slash Upper's versatility should also be considered when deciding on whether or not to use it.\n\n=== Use in Upper Attack Customization ===\nSlash Upper can be used to great effect in any Upper Attack based custom, with added Smash Attack.\n\n* '''AR:''' Slash Upper ('''Slash Riger MS''')\n* '''WD:''' CWD God Ring ([[Shining God MS]])\n* '''RC:''' Metal Flat Core ([[Advance Striker]])\n\n== Weight Disk: CWD Free Crusher ==\n\n* '''Weight:''' 18 grams\n\nCWD Free Crusher has a wide attack range, bigger than any other [[HMS]] AR or CWD. Its wide attack range can be attributed to the six sharp spikes surrounding its perimeter. CWD Free Crusher's intended purpose is to use its blunt spikes to [[Smash Attack]] the opposing Beyblade. However, because it is free-spinning it does more damage to the Beyblade it is being used on rather than the opponent's own. The fact that it is moving means that the attack points will always be moving when hitting the opposing Beyblade and will never make a severe enough blow. If it had been a fixed CWD rather than free-spinning, the Smash Attack would have been brutal, likely with extreme recoil. This CWD is not viable for any competitive situation, aside from one specialized customization, outlined below.\n\n=== Use in Smash Attack Customization ===\nThere is an interesting trick you can perform with this RC. CWD Free Crusher is generally free-spinning so it cannot do any damage. However, by combining it with [[Samurai Changer MS]]'s Battle Change Core, the CWD plastic part of Battle Change Core will prevent the CWD Free Crusher from spinning. This combo has very high [[Smash Attack]], but also has high recoil. If it doesn't finish the battle almost immediately, it has very little chance to win.\n\n* '''AR:''' Samurai Upper ([[Samurai Changer MS]])\n* '''WD:''' CWD Free Crusher ('''Slash Riger MS''')\n* '''RC:''' Battle Change Core (Samurai Changer MS)\n\n== Running Core: Free Wing Core ==\n\n:* '''Weight:''' 7 grams\n\nFree Wing Core has two gimmicks. It has three foldable claws which hang down while not spinning, and float up due to inertia while spinning. Similar to CWD Free Crusher, Free Wing Core's claws also spin freely. These claws will more often than not, make next to no contact with the opposing Beyblade due to the massive height of the RC (to allow for the claws to hang down), which also makes it quite easy to knock off balance. Even if the claws somehow manage to make contact, they will only perform in a similarly ineffective way as CWD Free Crusher's spikes do. Free Wing Core has no use whatsoever.\n\n== Trivia ==\n\n==Other Versions==\n* [[Slash Riger MS]] - Fukobako Box 2005 Version (Dark Blue)\n\n==Gallery==\n====Slash Riger MS - Original Version====\n<gallery position=\"center\">\nSlah riger sticker.jpg|Sticker sheet\nfukubako2005_back.JPG\nSlashRigerMS11.JPG|Slash Riger MS\nSlashRigerMS3.JPG|Slash Riger MS side view\nSlashRigerMS2.JPG|Slash Riger MS side view\nSlashRigerMS4.JPG|Slash Upper\nSlashRigerMS12.JPG|Slash Upper, Metal Frame pictured\nSlashRigerMS7.JPG|Slash Upper side view\nFreeCrusher.jpg|CWD Free Crusher\nSlashRigerMS8.JPG|Free Wing Core\nSlashRigerMS9.JPG|Free Wing Core bottom view\nSlashRigerMS10.JPG|Riger Emblem\n</gallery>\n\n====Slash Riger MS - Fukubako Box 2005 Version (Dark Blue)====\n<gallery>\nSlashRigerDarkBlue1.jpg|Slash Riger MS Dark blue top view\nSlashRigerDarkBlue2.jpg|Slash Riger MS Dark blue side view\nSlashRigerDarkBlue3.jpg|Slash Riger MS Dark blue underside view\n</gallery>\n\n==Overall==\nSlash Riger MS, while it does have a very aesthetically pleasing design, contains a number of useless parts in its CWD and RC. What makes this Beyblade a worthy addition to any Bladers collection however is its third mold BP, Riger Emblem. The third mold [[Bit Protector | Bit Protectors]] were only released in five different [[HMS]] Beyblades. More important than this is its AR, Slash Upper. Slash Upper is a versatile AR which employs the use of Smash and [[Upper Attack]] at the same time to an effective degree. Slash Upper alone makes Slash Riger MS a great buy for any Beyblader looking to get away from the staple Upper and Smash ARs such as Samurai Upper and Jiraiya Blade.\n\n==Trivia==\n* \"Riger\" is a likely mistranslation of the Katakana, which can also be translated as \"[[wikipedia:Liger|Liger]]\", which is the offspring of a male lion and a female tiger.\n* there is a possibility that Slash Riger MS and [[Round Shell MS]] were once Driger and Draciel MF prototypes.\n\n{{Hard Metal System Beyblades}}\n{{Gimmick Specialty Beyblades}}\n[[Category:Takara Tomy]]",
+   "key": "slash-riger-ms",
+   "images": [
+    {
+     "file": "slash-riger-ms/slashrigerms11.jpg",
+     "wiki_name": "File:SlashRigerMS11.JPG",
+     "size": [
+      798,
+      599
+     ]
+    },
+    {
+     "file": "slash-riger-ms/slashrigerdarkblue1.jpg",
+     "wiki_name": "File:SlashRigerDarkBlue1.jpg",
+     "size": [
+      800,
+      656
+     ]
+    },
+    {
+     "file": "slash-riger-ms/slashrigerdarkblue2.jpg",
+     "wiki_name": "File:SlashRigerDarkBlue2.jpg",
+     "size": [
+      800,
+      553
+     ]
+    },
+    {
+     "file": "slash-riger-ms/slashrigerdarkblue3.jpg",
+     "wiki_name": "File:SlashRigerDarkBlue3.jpg",
+     "size": [
+      800,
+      664
+     ]
+    },
+    {
+     "file": "slash-riger-ms/slashrigerms10.jpg",
+     "wiki_name": "File:SlashRigerMS10.JPG",
+     "size": [
+      798,
+      599
+     ]
+    },
+    {
+     "file": "slash-riger-ms/slashrigerms12.jpg",
+     "wiki_name": "File:SlashRigerMS12.JPG",
+     "size": [
+      798,
+      599
+     ]
+    },
+    {
+     "file": "slash-riger-ms/slashrigerms2.jpg",
+     "wiki_name": "File:SlashRigerMS2.JPG",
+     "size": [
+      798,
+      599
+     ]
+    },
+    {
+     "file": "slash-riger-ms/slashrigerms3.jpg",
+     "wiki_name": "File:SlashRigerMS3.JPG",
+     "size": [
+      798,
+      599
+     ]
+    },
+    {
+     "file": "slash-riger-ms/slashrigerms4.jpg",
+     "wiki_name": "File:SlashRigerMS4.JPG",
+     "size": [
+      798,
+      599
+     ]
+    },
+    {
+     "file": "slash-riger-ms/slashrigerms7.jpg",
+     "wiki_name": "File:SlashRigerMS7.JPG",
+     "size": [
+      798,
+      599
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Attack Ring",
+     "name": "Slash Upper"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "CWD Free Crusher"
+    },
+    {
+     "type": "Running Core",
+     "name": "Free Wing Core"
+    }
+   ]
+  },
+  {
+   "title": "Strata Dragoon MS",
+   "categories": [
+    "Category:Attack Types",
+    "Category:Beyblade: G-Revolution",
+    "Category:Beyblade: G-Revolution Beyblades",
+    "Category:Beyblades",
+    "Category:Daichi's Beyblades",
+    "Category:Dual-Spin",
+    "Category:Dual-Spin Beyblades",
+    "Category:First Generation",
+    "Category:First Generation Parts",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Hard Metal System Parts",
+    "Category:Parts",
+    "Category:Provisional Articles"
+   ],
+   "main_image": "Strata_Dragoon_Metal_Spike.jpg",
+   "text": "{{Provisional}}\n{{Beyblade Infobox\n|Image=Strata Dragoon Metal Spike.jpg\n|JPName=\u30ac\u30a4\u30a2\u30c9\u30e9\u30b0\u30fc\u30f3\uff2d\uff33 \uff08\u30e1\u30bf\u30eb\u30b9\u30d1\u30a4\u30af\uff09\n|RomajiName=Gaia Dorag\u016bn MS (Metaru Supaiku)\n|AKA=Gaia Dragoon MS<br>\nStrata Dragoon Metal Spike\n|ProductCode=A-123\n|Type=Attack\n|SpinDirection=Dual-Spin\n|Price=\n|System=Hard Metal System\n|Series=Beyblade: G-Revolution\n|ReleaseJP=August 2003\n|ReleaseUS=\n|BitProtector=Strata Dragoon Emblem\n|AttackRing=Metal Saucer\n|WeightDisk=Circle Heavy\n|RunningCore=Flat Core\n|Owner=[[Daichi Sumeragi]]\n|AppearAnime=[[Beyblade: G-Revolution - Episode 40|Back to Basics]]\n|AppearManga=\n|SpecialMoves=[[Spike Saw]]\n}}'''Strata Dragoon MS''' or {{Translation|'''Gaia Dragoon MS'''|\u30ac\u30a4\u30a2\u30c9\u30e9\u30b0\u30fc\u30f3\uff2d\uff33|Gaia Dorag\u016bn MS}} is an Attack Type [[Beyblade (toy)|Beyblade]] implementing the '''Hard Metal System'''. It is [[Daichi Sumeragi|Daichi's]] fourth Beyblade. It evolves from [[Strata Dragoon G]].\n\n==Bit Protector: Strata Dragoon==\n{{Part|Bit Protector - Strata Dragoon}}\n\n==Attack Ring: Metal Saucer==\n{{Part|Attack Ring - Metal Saucer}}\n\n==Weight Disk: Circle Heavy==\n{{Part|Weight Disk - Circle Heavy}}\n\n==Running Core: Flat Core==\n{{Part|Running Core - Flat Core}}\nFlat core is a completely flat running core. Because of being flat the running core is an attack type but is now easily outclassed.\n\n==Overall==\nEven though [[Strata Dragoon MS]] was one of the very first HMS to be released, but is still very easily obtained, it has very little collectible value. Its parts are also severely outdated in all respects. There is no reason to buy Strata Dragoon MS, unless you decide to get one for collection purposes.\n\n==Variants==\n*'''Proto Grey''' - Released in the 5 Saints Booster.\n*'''White''' - Released as a tournament prize for a limited time.\n*'''Yellow''' - Released in the [[Twin Battle Bey Double Shooter Set]].\n*'''Silver''' - Released as part of a limited-time campaign from Takara-Tomy.\n*'''Gold''' - Released as a tournament prize for a limited time.\n*'''Black''' - Released in the Beyblade Fukobako Lucky Box.\n*'''Light Blue''' - Released as a tournament prize for a limited time.\n*'''Gold Plated''' - Released in the [[Heavy Metal System Award]] prize set. Up to 50 sets were given away to celebrate the \"Beyblade 5th Anniversary Commemorative Campaign\".\n*'''Pure White''' - Released as part of a limited-time campaign from Takara-Tomy.\n*'''Silver''' - Released as a tournament prize for a limited time.\n*'''Brown''' - Unknown\n\n==Gallery==\n===Toyline===\n<gallery position=\"center\" spacing=\"small\" captionalign=\"center\" bordersize=\"none\">\nGaia dragoon ms sticker.jpg|Sticker sheet\n1GaiaDragoonMS.JPG|Metal Saucer\n2GaiaDragoonMS.JPG|Metal Saucer, Metal Frame pictured\n3GaiaDragoonMS3.JPG|Metal Saucer with Metal Frame detached\n4GaiaDragoonMS.JPG|Flat Core\n5GaiaDragoonMS.JPG|Strata Dragoon MS\n6GaiaDragoonMS.JPG|Strata Dragoon MS side view\n7GaiaDragoonMS7.JPG|Strata Dragoon MS bottom view\nWhiteGaiaDragoonMS.jpg|Tournament limited white Gaia Dragoon MS\nGaiaDragoonMS_White1.jpg|Gaia Dragoon MS White\nGaiaDragoonMS_White2.jpg|Gaia Dragoon MS White bottom view\nGaiaDragoonMS_Yellow1.jpg|Gaia Dragoon MS Yellow\nGaiaDragoonMS_Yellow2.jpg|Gaia Dragoon MS Yellow bottom view\nPC232103.JPG|Gaia Dragoon MS Black\nPC232104.JPG|Gaia Dragoon MS Black bottom\nStrataDragoonMSBox.png|Strata Dragoon Hasbro packaging\n</gallery>\n\n===Anime===\n<gallery position=\"center\" spacing=\"small\" captionalign=\"center\" bordersize=\"none\"></gallery>\n\n===Manga===\n<gallery position=\"center\" spacing=\"small\" captionalign=\"center\" bordersize=\"none\">\n</gallery>\n\n==Trivia==\n==References==\n{{Reflist}}\n{{Hard Metal System Beyblades}}\n[[Category:Daichi's Beyblades]]",
+   "key": "strata-dragoon-ms",
+   "images": [
+    {
+     "file": "strata-dragoon-ms/strata-dragoon-metal-spike.jpg",
+     "wiki_name": "File:Strata Dragoon Metal Spike.jpg",
+     "size": [
+      500,
+      500
+     ]
+    },
+    {
+     "file": "strata-dragoon-ms/stratadragoonmsbox.png",
+     "wiki_name": "File:StrataDragoonMSBox.png",
+     "size": [
+      828,
+      1280
+     ]
+    },
+    {
+     "file": "strata-dragoon-ms/1gaiadragoonms.jpg",
+     "wiki_name": "File:1GaiaDragoonMS.JPG",
+     "size": [
+      799,
+      599
+     ]
+    },
+    {
+     "file": "strata-dragoon-ms/2gaiadragoonms.jpg",
+     "wiki_name": "File:2GaiaDragoonMS.JPG",
+     "size": [
+      799,
+      599
+     ]
+    },
+    {
+     "file": "strata-dragoon-ms/3gaiadragoonms3.jpg",
+     "wiki_name": "File:3GaiaDragoonMS3.JPG",
+     "size": [
+      799,
+      599
+     ]
+    },
+    {
+     "file": "strata-dragoon-ms/4gaiadragoonms.jpg",
+     "wiki_name": "File:4GaiaDragoonMS.JPG",
+     "size": [
+      799,
+      599
+     ]
+    },
+    {
+     "file": "strata-dragoon-ms/5gaiadragoonms.jpg",
+     "wiki_name": "File:5GaiaDragoonMS.JPG",
+     "size": [
+      799,
+      599
+     ]
+    },
+    {
+     "file": "strata-dragoon-ms/6gaiadragoonms.jpg",
+     "wiki_name": "File:6GaiaDragoonMS.JPG",
+     "size": [
+      799,
+      599
+     ]
+    },
+    {
+     "file": "strata-dragoon-ms/7gaiadragoonms7.jpg",
+     "wiki_name": "File:7GaiaDragoonMS7.JPG",
+     "size": [
+      799,
+      599
+     ]
+    },
+    {
+     "file": "strata-dragoon-ms/gaia-dragoon-ms-sticker.jpg",
+     "wiki_name": "File:Gaia dragoon ms sticker.jpg",
+     "size": [
+      442,
+      599
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Strata Dragoon Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Metal Saucer"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "Circle Heavy"
+    },
+    {
+     "type": "Running Core",
+     "name": "Flat Core"
+    }
+   ]
+  },
+  {
+   "title": "Thunder Pegasus MS",
+   "categories": [
+    "Category:Attack Types",
+    "Category:Beyblade GRevolution",
+    "Category:Beyblade GRevolution Beyblades",
+    "Category:Beyblades",
+    "Category:Dual-Spin",
+    "Category:Dual-Spin Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades"
+   ],
+   "main_image": "Thunder_Pegasus_MS.jpg",
+   "text": "{{Beyblade Infobox\n|Image=Thunder Pegasus MS.jpg\n|JPName=\u30b5\u30f3\u30c0\u30fc\u30da\u30ac\u30b5\u30b9MS\n|RomajiName=Sand\u0101 Pegasasu MS\n|Type=Attack\n|SpinDirection=Dual-Spin\n|System=Hard Metal System\n|Series=Beyblade GRevolution\n|BitProtector=Thunder Pegasus Emblem\n|AttackRing=\n|WeightDisk=\n|RunningCore=\n|Owner=[[Julia Fernandez]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Chapter 38|A Beast with Bared Fangs!!]]\n}}{{Translation|'''Thunder Pegasus MS'''|\u30b5\u30f3\u30c0\u30fc\u30da\u30ac\u30b5\u30b9MS|Sand\u0101 Pegasasu MS}} is a manga-exclusive [[Hard Metal System]] Beyblade in the ''[[Bakuten Shoot Beyblade (manga)|Bakuten Shoot Beyblade]]'' manga.\n\nIt is the successor to [[Thunder Pegasus]] in the manga.\n\n==Bit Protector - Thunder Pegasus Emblem==\n{{Part|Bit Protector - Thunder Pegasus Emblem}}\n\n==Gallery==\n<gallery widths=\"130\">\nThunder Pegasus MS.jpg\n</gallery>\n\n==Trivia==\n*Like all the manga-exclusive [[Hard Metal System]] Beyblades, it's unknown what \"MS\" at the end of the Beyblade's name refers to.\n*Thunder Pegasus MS, along with [[Torch Pegasus MS]] and [[Rapid Eagle MS]], are not fully visible in the manga.\n\n{{Hard Metal System Beyblades}}",
+   "key": "thunder-pegasus-ms",
+   "images": [
+    {
+     "file": "thunder-pegasus-ms/thunder-pegasus-ms.jpg",
+     "wiki_name": "File:Thunder Pegasus MS.jpg",
+     "size": [
+      413,
+      318
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Thunder Pegasus Emblem"
+    }
+   ]
+  },
+  {
+   "title": "Thunder Serpent",
+   "categories": [
+    "Category:Attack Types",
+    "Category:Beyblade: G-Revolution",
+    "Category:Beyblade: G-Revolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle",
+    "Category:New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle Beyblades",
+    "Category:Plastic Beyblades"
+   ],
+   "main_image": "ThunderDragonStock.jpg",
+   "text": "{{Beyblade Infobox\n|Image=ThunderDragonStock.jpg\n|ImageCaption=\n|JPName=\u30b5\u30f3\u30c0\u30fc\u30c9\u30e9\u30b4\u30f3\n|RomajiName=Sand\u0101 Doragon\n|AKA=Thunder Dragon (Takara Tomy)\n|ProductCode=MA-16\n|Type=Attack\n|Price=\n|System=Hard Metal System\n|Series=New Generation Custom Beigoma - Beyblade: HMS Heavy Metal Battle\n|Series2=Beyblade: G-Revolution\n|ReleaseJP=2004\n|ReleaseUS=\n|ReleaseCA=\n|ReleaseEU=\n|BitProtector=Thunder Emblem\n|AttackRing=Spark Dragon\n|WeightDisk=CWD Free Surviver\n|RunningCore=Metal Weight Flat Core\n|Owner=[[Tenmaru Shishi]]\n|AppearManga=\n|SpecialMoves=\n|WBO=\n}}'''Thunder Serpent''' or {{Translation|'''Thunder Dragon'''|\u30b5\u30f3\u30c0\u30fc\u30c9\u30e9\u30b4\u30f3|Sand\u0101 Doragon}} in Japan, is an Attack Type [[Beyblade (toy)|Beyblade]], and 1 of the 2 winners of the 2003 [[CoroCoro Comic]] [[HMS]] Beyblade design contest, the other winner being [[Sea Drake]] (Sea Dragon). It was the first Beyblade to use a [[Customize Weight Disks|Customize Weight Disk (CWD)]].\n\n==Name Change==\nHasbro released '''Thunder Dragon''' as ''Thunder Serpent''.\n\n==Bit Protector (BP): Thunder Emblem==\nThe [[Bit Protector]] of this Beyblade is the Thunder Emblem. It is the second mold version of Bit Protectors.\n\n==Attack Ring (AR): Spark Dragon==\n{{Part|Attack Ring - Spark Dragon}}\n\n==Weight Disk (WD): CWD Free Survivor==\n{{Part|Weight Disk - CWD Free Survivor}}\n\n==Running Core (RC): Metal Weight Flat Core==\n{{Part|Running Core - Metal Weight Flat Core}}\n\n==Other Versions==\n'''Thunder Dragon''' - [[HMS Random Booster ACT 1]] Version (Black, Prize Beyblade)<br />\n'''Thunder Dragon''' - [[HMS Random Booster Act 5|HMS Random Booster ACT 5]] Version (Off White)\n==Gallery==\n<gallery>\nSpark dragoon sticker.jpg|Sticker sheet\nThunder Dragon2.jpg|All Thunder Dragon Parts (plus CWD Free Saucer)\nThunder Dragon12.jpg|Thunder Dragon\nThunder Dragon3.jpg|Spark Dragon\nThunder Dragon4.jpg|Spark Dragon ABS Caul\nThunder Dragon5.jpg|Spark Dragon Metal Frame\nThunder Dragon6.jpg|Left: Takara Metal Frame, Right: Hasbro Metal FrameFreeSurvivor.jpg|\nThunder Dragon1.jpg|CWD Free Survivor\nThunder Dragon8.jpg|Metal Weight Flat Core, metal weight pictured\nThunder Dragon9.jpg|Left: Hasbro MWFC, Right, Takara MWFC; notice tip width difference\n</gallery>\n==Overall==\nAside from CWD Free Survivor, Thunder Dragon does not have a lot to offer, and even CWD Free Survivor has been outclassed by other parts. If you already have CWD Defense Ring, or even CWD God Ring from [[Shining God MS]], there is no reason for you to buy this Beyblade.\n\n==Trivia==\n*The Bit Protector contains the English words \"Spark Dragon\", which is the name of the Attack Ring rather than the Beyblade itself.\n\n{{Hard Metal System Beyblades}}\n[[Category:Attack Types]]\n[[Category:Plastic Beyblades]]",
+   "key": "thunder-serpent",
+   "images": [
+    {
+     "file": "thunder-serpent/thunderdragonstock.jpg",
+     "wiki_name": "File:ThunderDragonStock.jpg",
+     "size": [
+      280,
+      252
+     ]
+    },
+    {
+     "file": "thunder-serpent/thunder-dragon1.jpg",
+     "wiki_name": "File:Thunder Dragon1.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "thunder-serpent/thunder-dragon12.jpg",
+     "wiki_name": "File:Thunder Dragon12.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "thunder-serpent/thunder-dragon2.jpg",
+     "wiki_name": "File:Thunder Dragon2.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "thunder-serpent/thunder-dragon3.jpg",
+     "wiki_name": "File:Thunder Dragon3.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "thunder-serpent/thunder-dragon4.jpg",
+     "wiki_name": "File:Thunder Dragon4.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "thunder-serpent/thunder-dragon5.jpg",
+     "wiki_name": "File:Thunder Dragon5.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "thunder-serpent/thunder-dragon6.jpg",
+     "wiki_name": "File:Thunder Dragon6.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "thunder-serpent/thunder-dragon8.jpg",
+     "wiki_name": "File:Thunder Dragon8.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "thunder-serpent/thunder-dragon9.jpg",
+     "wiki_name": "File:Thunder Dragon9.jpg",
+     "size": [
+      800,
+      600
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Thunder Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Spark Dragon"
+    },
+    {
+     "type": "Weight Disk",
+     "name": "CWD Free Surviver"
+    },
+    {
+     "type": "Running Core",
+     "name": "Metal Weight Flat Core"
+    }
+   ]
+  },
+  {
+   "title": "Torch Pegasus MS",
+   "categories": [
+    "Category:Attack Types",
+    "Category:Beyblade GRevolution",
+    "Category:Beyblade GRevolution Beyblades",
+    "Category:Beyblades",
+    "Category:Dual-Spin",
+    "Category:Dual-Spin Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades"
+   ],
+   "main_image": "Torch_Pegasus_MS.jpg",
+   "text": "{{Beyblade Infobox\n|Image=Torch Pegasus MS.jpg\n|JPName=\u30d5\u30ec\u30a4\u30e0\u30da\u30ac\u30b5\u30b9MS\n|RomajiName=Fureimu Pegasasu MS\n|AKA=Flame Pegasus MS (manga, Japanese)\n|Type=Attack\n|SpinDirection=Dual-Spin\n|System=Hard Metal System\n|Series=Beyblade GRevolution\n|BitProtector=Torch Pegasus Emblem\n|AttackRing=\n|WeightDisk=\n|RunningCore=\n|Owner=[[Raul Fernandez]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Chapter 38|A Beast with Bared Fangs!!]]\n}}'''Torch Pegasus MS''', known as {{Translation|'''Flame Pegasus MS'''|\u30d5\u30ec\u30a4\u30e0\u30da\u30ac\u30b5\u30b9MS|Fureimu Pegasasu MS}} in Japan, is a manga-exclusive [[Hard Metal System]] Beyblade in the ''[[Bakuten Shoot Beyblade (manga)|Bakuten Shoot Beyblade]]'' manga.\n\nIt is the successor to [[Torch Pegasus]] in the manga.\n\n==Bit Protector - Torch Pegasus Emblem==\n{{Part|Bit Protector - Torch Pegasus Emblem}}\n\n==Gallery==\n<gallery widths=\"130\">\nTorch Pegasus MS.jpg\n</gallery>\n\n==Trivia==\n*Like all the manga-exclusive [[Hard Metal System]] Beyblades, it's unknown what \"MS\" at the end of the Beyblade's name refers to.\n*Torch Pegasus MS, along with [[Thunder Pegasus MS]] and [[Rapid Eagle MS]], are not fully visible in the manga.\n\n{{Hard Metal System Beyblades}}",
+   "key": "torch-pegasus-ms",
+   "images": [
+    {
+     "file": "torch-pegasus-ms/torch-pegasus-ms.jpg",
+     "wiki_name": "File:Torch Pegasus MS.jpg",
+     "size": [
+      555,
+      225
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Torch Pegasus Emblem"
     }
    ]
   },
@@ -2176,6 +3927,44 @@
       480
      ]
     }
+   ],
+   "parts": []
+  },
+  {
+   "title": "Wolborg MS (manga)",
+   "categories": [
+    "Category:Beyblade GRevolution",
+    "Category:Beyblade GRevolution Beyblades",
+    "Category:Beyblades",
+    "Category:First Generation",
+    "Category:Hard Metal System",
+    "Category:Hard Metal System Beyblades",
+    "Category:Right-Spin",
+    "Category:Right-Spin Beyblades",
+    "Category:Stamina Types"
+   ],
+   "main_image": "Wolborg_MS_(early,_manga).jpg",
+   "text": "{{Beyblade Infobox\n|Name=Wolborg MS\n|Image=Wolborg MS (early, manga).jpg\n|JPName=\u30a6\u30eb\u30dc\u30fc\u30b0MS\n|RomajiName=Urub\u014dgu MS\n|Type=Stamina\n|SpinDirection=Right-Spin\n|System=Hard Metal System\n|Series=Beyblade GRevolution\n|BitProtector=Wolborg Emblem\n|AttackRing=Star Wolf (HMS)\n|WeightDisk=\n|RunningCore=\n|Owner=[[Tala]] (Manga)\n|AppearManga=[[Bakuten Shoot Beyblade - Chapter 40|The Strongest Enemy: Barthez Battalion!!]] (flashback)\n}}{{Translation|'''Wolborg MS'''|\u30a6\u30eb\u30dc\u30fc\u30b0MS|Urub\u014dgu MS}} is a manga-exclusive [[Hard Metal System]] Beyblade in the ''[[Bakuten Shoot Beyblade (manga)|Bakuten Shoot Beyblade]]'' manga.\n\nIn the manga, it is the successor to [[Wolborg 4]] and is succeeded by [[Wolborg Metal Survive]].\n\n==Bit Protector - Wolborg Emblem==\n{{Part|Bit Protector - Wolborg Emblem}}\n\n==Attack Ring - Star Wolf==\n{{Part|Attack Ring - Star Wolf (HMS)}}\n\n==Gallery==\n<gallery widths=\"130\">\nWolborg MS (early, manga).jpg\n</gallery>\n\n==Trivia==\n\n{{Hard Metal System Beyblades}}",
+   "key": "wolborg-ms-manga",
+   "images": [
+    {
+     "file": "wolborg-ms-manga/wolborg-ms-early-manga.jpg",
+     "wiki_name": "File:Wolborg MS (early, manga).jpg",
+     "size": [
+      748,
+      649
+     ]
+    }
+   ],
+   "parts": [
+    {
+     "type": "Bit Protector",
+     "name": "Wolborg Emblem"
+    },
+    {
+     "type": "Attack Ring",
+     "name": "Star Wolf (HMS)"
+    }
    ]
   },
   {
@@ -2281,7 +4070,1191 @@
       674
      ]
     }
-   ]
+   ],
+   "parts": []
+  }
+ ],
+ "parts": [
+  {
+   "type": "Attack Ring",
+   "name": "Advance Attacker",
+   "used_by": [
+    "Advance Striker",
+    "Advance Striker/fr"
+   ],
+   "key": "attack-ring-advance-attacker",
+   "images": [],
+   "title": "Attack Ring - Advance Attacker",
+   "main_image": null
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Advance Balancer",
+   "used_by": [
+    "Advance Averazer",
+    "Advance Averazer/fr",
+    "Advance Averazer/it"
+   ],
+   "key": "attack-ring-advance-balancer",
+   "images": [],
+   "title": "Attack Ring - Advance Balancer",
+   "main_image": null
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Advance Defenser",
+   "used_by": [
+    "Advance Guardian",
+    "Advance Guardian/fr"
+   ],
+   "key": "attack-ring-advance-defenser",
+   "images": [],
+   "title": "Attack Ring - Advance Defenser",
+   "main_image": null
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Advance Survivor",
+   "used_by": [
+    "Advance Eterner",
+    "Advance Eterner/fr"
+   ],
+   "key": "attack-ring-advance-survivor",
+   "images": [],
+   "title": "Attack Ring - Advance Survivor",
+   "main_image": null
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Circle Upper",
+   "used_by": [
+    "Dark Gargoyle MS",
+    "Pierce Hedgehog MS",
+    "Rapid Eagle MS"
+   ],
+   "key": "attack-ring-circle-upper",
+   "images": [
+    {
+     "file": "parts/attack-ring-circle-upper/dems2.jpg",
+     "wiki_name": "File:DEMS2.jpg",
+     "size": [
+      600,
+      450
+     ]
+    }
+   ],
+   "title": "Attack Ring - Circle Upper",
+   "main_image": "DEMS2.jpg"
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Howling Leo (HMS)",
+   "used_by": [
+    "Galeon MS"
+   ],
+   "key": "attack-ring-howling-leo-hms",
+   "images": [
+    {
+     "file": "parts/attack-ring-howling-leo-hms/galeon-2-a-r.jpg",
+     "wiki_name": "File:Galeon 2 A.R.jpg",
+     "size": [
+      203,
+      193
+     ]
+    },
+    {
+     "file": "parts/attack-ring-howling-leo-hms/galeon2attackring.jpg",
+     "wiki_name": "File:Galeon2AttackRing.jpg",
+     "size": [
+      894,
+      854
+     ]
+    }
+   ],
+   "title": "Attack Ring - Howling Leo",
+   "main_image": "Galeon_2_A.R.jpg"
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Knight Crusher",
+   "used_by": [
+    "Aero Knight MS"
+   ],
+   "key": "attack-ring-knight-crusher",
+   "images": [],
+   "title": "Attack Ring - Knight Crusher",
+   "main_image": null
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Metal Ape",
+   "used_by": [
+    "Magical Ape MS"
+   ],
+   "key": "attack-ring-metal-ape",
+   "images": [
+    {
+     "file": "parts/attack-ring-metal-ape/magicalapems16.jpg",
+     "wiki_name": "File:MagicalApeMS16.JPG",
+     "size": [
+      799,
+      599
+     ]
+    }
+   ],
+   "title": "Attack Ring - Metal Ape",
+   "main_image": "MagicalApeMS16.JPG"
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Metal Attacker",
+   "used_by": [
+    "Dragoon MS"
+   ],
+   "key": "attack-ring-metal-attacker",
+   "images": [
+    {
+     "file": "parts/attack-ring-metal-attacker/attack-ring-metal-attacker.webp",
+     "wiki_name": "File:Attack Ring - Metal Attacker.webp",
+     "size": [
+      533,
+      398
+     ]
+    }
+   ],
+   "title": "Attack Ring - Metal Attacker",
+   "main_image": "Attack_Ring_-_Metal_Attacker.webp"
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Metal Defense",
+   "used_by": [
+    "Draciel MS"
+   ],
+   "key": "attack-ring-metal-defense",
+   "images": [
+    {
+     "file": "parts/attack-ring-metal-defense/dsc04566.jpg",
+     "wiki_name": "File:DSC04566.JPG",
+     "size": [
+      3072,
+      2304
+     ]
+    }
+   ],
+   "title": "Attack Ring - Metal Defense",
+   "main_image": "DSC04566.JPG"
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Metal Saucer",
+   "used_by": [
+    "Strata Dragoon MS"
+   ],
+   "key": "attack-ring-metal-saucer",
+   "images": [
+    {
+     "file": "parts/attack-ring-metal-saucer/1gaiadragoonms.jpg",
+     "wiki_name": "File:1GaiaDragoonMS.JPG",
+     "size": [
+      799,
+      599
+     ]
+    },
+    {
+     "file": "parts/attack-ring-metal-saucer/2gaiadragoonms.jpg",
+     "wiki_name": "File:2GaiaDragoonMS.JPG",
+     "size": [
+      799,
+      599
+     ]
+    },
+    {
+     "file": "parts/attack-ring-metal-saucer/3gaiadragoonms3.jpg",
+     "wiki_name": "File:3GaiaDragoonMS3.JPG",
+     "size": [
+      799,
+      599
+     ]
+    }
+   ],
+   "title": "Attack Ring - Metal Saucer",
+   "main_image": "1GaiaDragoonMS.JPG"
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Metal Spring",
+   "used_by": [
+    "Hopper Attack"
+   ],
+   "key": "attack-ring-metal-spring",
+   "images": []
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Metal Upper",
+   "used_by": [
+    "Driger MS"
+   ],
+   "key": "attack-ring-metal-upper",
+   "images": []
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Samurai Upper",
+   "used_by": [
+    "Samurai Changer MS"
+   ],
+   "key": "attack-ring-samurai-upper",
+   "images": [],
+   "title": "Attack Ring - Samurai Upper",
+   "main_image": null
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Slash Upper",
+   "used_by": [
+    "Slash Riger MS"
+   ],
+   "key": "attack-ring-slash-upper",
+   "images": [],
+   "title": "Attack Ring - Slash Upper",
+   "main_image": null
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Smash Leopard",
+   "used_by": [
+    "Dark Leopard MS"
+   ],
+   "key": "attack-ring-smash-leopard",
+   "images": [],
+   "title": "Attack Ring - Smash Leopard",
+   "main_image": null
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Smash Phoenix",
+   "used_by": [
+    "Dranzer MF"
+   ],
+   "key": "attack-ring-smash-phoenix",
+   "images": []
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Spark Dragon",
+   "used_by": [
+    "Thunder Serpent"
+   ],
+   "key": "attack-ring-spark-dragon",
+   "images": [],
+   "title": "Attack Ring - Spark Dragon",
+   "main_image": null
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Spiral Upper",
+   "used_by": [
+    "Dranzer MS"
+   ],
+   "key": "attack-ring-spiral-upper",
+   "images": [
+    {
+     "file": "parts/attack-ring-spiral-upper/dranzerms-6.jpg",
+     "wiki_name": "File:DranzerMS-6.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "parts/attack-ring-spiral-upper/dranzerms-7.jpg",
+     "wiki_name": "File:DranzerMS-7.jpg",
+     "size": [
+      800,
+      600
+     ]
+    }
+   ],
+   "title": "Attack Ring - Spiral Upper",
+   "main_image": "DranzerMS-6.jpg"
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Star Wolf (HMS)",
+   "used_by": [
+    "Wolborg MS (manga)"
+   ],
+   "key": "attack-ring-star-wolf-hms",
+   "images": [
+    {
+     "file": "parts/attack-ring-star-wolf-hms/wolborg4-7.jpg",
+     "wiki_name": "File:Wolborg4-7.jpg",
+     "size": [
+      800,
+      600
+     ]
+    }
+   ],
+   "title": "Attack Ring - Star Wolf",
+   "main_image": "Wolborg4-7.jpg"
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Turtle Crusher",
+   "used_by": [
+    "Round Shell MS"
+   ],
+   "key": "attack-ring-turtle-crusher",
+   "images": [],
+   "title": "Attack Ring - Turtle Crusher",
+   "main_image": null
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Ultimate Attacker",
+   "used_by": [
+    "Dragoon MS Ultimate Version"
+   ],
+   "key": "attack-ring-ultimate-attacker",
+   "images": [
+    {
+     "file": "parts/attack-ring-ultimate-attacker/dgmsuv3.png",
+     "wiki_name": "File:DGMSUV3.png",
+     "size": [
+      530,
+      397
+     ]
+    }
+   ],
+   "title": "Attack Ring - Ultimate Attacker",
+   "main_image": "DGMSUV3.png"
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Upper Dragon",
+   "used_by": [
+    "Dragoon MF"
+   ],
+   "key": "attack-ring-upper-dragon",
+   "images": [
+    {
+     "file": "parts/attack-ring-upper-dragon/dragoonmf4.jpg",
+     "wiki_name": "File:DragoonMF4.jpg",
+     "size": [
+      800,
+      600
+     ]
+    }
+   ],
+   "title": "Attack Ring - Upper Dragon",
+   "main_image": "DragoonMF4.jpg"
+  },
+  {
+   "type": "Attack Ring",
+   "name": "Upper Fox",
+   "used_by": [
+    "Phantom Fox MS"
+   ],
+   "key": "attack-ring-upper-fox",
+   "images": [],
+   "title": "Attack Ring - Upper Fox",
+   "main_image": null
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Ape Emblem",
+   "used_by": [
+    "Magical Ape MS"
+   ],
+   "key": "bit-protector-ape-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Bison Emblem",
+   "used_by": [
+    "Rock Bison MS"
+   ],
+   "key": "bit-protector-bison-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Dark Emblem",
+   "used_by": [
+    "Dark Leopard MS"
+   ],
+   "key": "bit-protector-dark-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Draciel Emblem",
+   "used_by": [
+    "Draciel MS",
+    "Draciel MS/fr",
+    "Draciel MS/it"
+   ],
+   "key": "bit-protector-draciel-emblem",
+   "images": [],
+   "title": "Bit Protector - Draciel Emblem",
+   "main_image": null
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Dragoon Emblem",
+   "used_by": [
+    "Dragoon MF",
+    "Dragoon MS",
+    "Dragoon MS Ultimate Version"
+   ],
+   "key": "bit-protector-dragoon-emblem",
+   "images": [],
+   "title": "Bit Protector - Dragoon Emblem",
+   "main_image": null
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Dranzer Emblem",
+   "used_by": [
+    "Dranzer MF",
+    "Dranzer MS"
+   ],
+   "key": "bit-protector-dranzer-emblem",
+   "images": [],
+   "title": "Bit Protector - Dranzer Emblem",
+   "main_image": null
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Driger",
+   "used_by": [
+    "Driger MS"
+   ],
+   "key": "bit-protector-driger",
+   "images": [
+    {
+     "file": "parts/bit-protector-driger/driger096.jpg",
+     "wiki_name": "File:Driger096.jpg",
+     "size": [
+      475,
+      346
+     ]
+    },
+    {
+     "file": "parts/bit-protector-driger/gatling-claw.jpg",
+     "wiki_name": "File:Gatling Claw.jpg",
+     "size": [
+      720,
+      540
+     ]
+    }
+   ],
+   "title": "Driger",
+   "main_image": "Driger096.jpg"
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Eagle Emblem",
+   "used_by": [
+    "Rapid Eagle MS"
+   ],
+   "key": "bit-protector-eagle-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Embl\u00e8me du HMS",
+   "used_by": [
+    "Advance Averazer/fr",
+    "Advance Eterner/fr",
+    "Advance Guardian/fr",
+    "Advance Striker/fr"
+   ],
+   "key": "bit-protector-embl-me-du-hms",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Falborg Emblem",
+   "used_by": [
+    "Falborg MS"
+   ],
+   "key": "bit-protector-falborg-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Galeon Emblem",
+   "used_by": [
+    "Galeon MS"
+   ],
+   "key": "bit-protector-galeon-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Gargoyle Emblem",
+   "used_by": [
+    "Dark Gargoyle MS"
+   ],
+   "key": "bit-protector-gargoyle-emblem",
+   "images": [
+    {
+     "file": "parts/bit-protector-gargoyle-emblem/xcirp.jpg",
+     "wiki_name": "File:XCiRP.jpg",
+     "size": [
+      134,
+      134
+     ]
+    },
+    {
+     "file": "parts/bit-protector-gargoyle-emblem/bey-manga-death-gargoyle-settei.jpg",
+     "wiki_name": "File:Bey Manga, Death Gargoyle settei.jpg",
+     "size": [
+      800,
+      1130
+     ]
+    },
+    {
+     "file": "parts/bit-protector-gargoyle-emblem/death-gargoyle.png",
+     "wiki_name": "File:Death Gargoyle.png",
+     "size": [
+      116,
+      104
+     ]
+    }
+   ],
+   "title": "Bit Chip - Dark Gargoyle",
+   "main_image": "XCiRP.jpg"
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Hard Metal Emblem",
+   "used_by": [
+    "Advance Averazer",
+    "Advance Eterner",
+    "Advance Guardian",
+    "Advance Striker"
+   ],
+   "key": "bit-protector-hard-metal-emblem",
+   "images": [],
+   "title": "Bit Protector - Hard Metal Emblem",
+   "main_image": null
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Heavy Metal Emblem",
+   "used_by": [
+    "Advance Averazer/it",
+    "Hopper Attack"
+   ],
+   "key": "bit-protector-heavy-metal-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Hedgehog Emblem",
+   "used_by": [
+    "Pierce Hedgehog MS"
+   ],
+   "key": "bit-protector-hedgehog-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Knight Emblem",
+   "used_by": [
+    "Aero Knight MS"
+   ],
+   "key": "bit-protector-knight-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "MOTIF",
+   "used_by": [
+    "Aryan"
+   ],
+   "key": "bit-protector-motif",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Phantom Fox Emblem",
+   "used_by": [
+    "Phantom Fox MS"
+   ],
+   "key": "bit-protector-phantom-fox-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Samurai Emblem",
+   "used_by": [
+    "Samurai Changer MS"
+   ],
+   "key": "bit-protector-samurai-emblem",
+   "images": [],
+   "title": "Bit Protector - Samurai Emblem",
+   "main_image": null
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Seaborg Emblem",
+   "used_by": [
+    "Seaborg MS"
+   ],
+   "key": "bit-protector-seaborg-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Strata Dragoon Emblem",
+   "used_by": [
+    "Strata Dragoon MS"
+   ],
+   "key": "bit-protector-strata-dragoon-emblem",
+   "images": [],
+   "title": "Bit Protector - Strata Dragoon Emblem",
+   "main_image": null
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Thunder Emblem",
+   "used_by": [
+    "Thunder Serpent"
+   ],
+   "key": "bit-protector-thunder-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Thunder Pegasus Emblem",
+   "used_by": [
+    "Thunder Pegasus MS"
+   ],
+   "key": "bit-protector-thunder-pegasus-emblem",
+   "images": []
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Torch Pegasus Emblem",
+   "used_by": [
+    "Torch Pegasus MS"
+   ],
+   "key": "bit-protector-torch-pegasus-emblem",
+   "images": [
+    {
+     "file": "parts/bit-protector-torch-pegasus-emblem/bey-manga-torch-flame-pegasus-settei.jpg",
+     "wiki_name": "File:Bey Manga, Torch Flame Pegasus settei.jpg",
+     "size": [
+      800,
+      1130
+     ]
+    }
+   ],
+   "title": "Bit Chip - Torch Pegasus",
+   "main_image": "Bey_Manga,_Torch_Flame_Pegasus_settei.jpg"
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Turtle Emblem",
+   "used_by": [
+    "Round Shell MS"
+   ],
+   "key": "bit-protector-turtle-emblem",
+   "images": [],
+   "title": "Bit Protector - Turtle Emblem",
+   "main_image": null
+  },
+  {
+   "type": "Bit Protector",
+   "name": "Wolborg Emblem",
+   "used_by": [
+    "Wolborg MS (manga)"
+   ],
+   "key": "bit-protector-wolborg-emblem",
+   "images": [],
+   "title": "Bit Protector - Wolborg Emblem",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "Aero Wing & Aero Core",
+   "used_by": [
+    "Aero Knight MS"
+   ],
+   "key": "running-core-aero-wing-aero-core",
+   "images": [],
+   "title": "Running Core - Aero Wing & Aero Core",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "Battle Change Core",
+   "used_by": [
+    "Samurai Changer MS"
+   ],
+   "key": "running-core-battle-change-core",
+   "images": [],
+   "title": "Running Core - Battle Change Core",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "CWD Circle Attacker",
+   "used_by": [
+    "Phantom Fox MS"
+   ],
+   "key": "running-core-cwd-circle-attacker",
+   "images": []
+  },
+  {
+   "type": "Running Core",
+   "name": "Flat Core",
+   "used_by": [
+    "Magical Ape MS",
+    "Strata Dragoon MS"
+   ],
+   "key": "running-core-flat-core",
+   "images": [
+    {
+     "file": "parts/running-core-flat-core/running-core-flat-core.webp",
+     "wiki_name": "File:Running Core - Flat Core.webp",
+     "size": [
+      799,
+      599
+     ]
+    }
+   ],
+   "title": "Running Core - Flat Core",
+   "main_image": "Running_Core_-_Flat_Core.webp"
+  },
+  {
+   "type": "Running Core",
+   "name": "Free Shaft Core",
+   "used_by": [
+    "Dranzer MF"
+   ],
+   "key": "running-core-free-shaft-core",
+   "images": []
+  },
+  {
+   "type": "Running Core",
+   "name": "Free Wing Core",
+   "used_by": [
+    "Slash Riger MS"
+   ],
+   "key": "running-core-free-wing-core",
+   "images": [],
+   "title": "Running Core - Free Wing Cross",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "Grip Flat Core",
+   "used_by": [
+    "Dragoon MS"
+   ],
+   "key": "running-core-grip-flat-core",
+   "images": [
+    {
+     "file": "parts/running-core-grip-flat-core/running-core-grip-flat-core.webp",
+     "wiki_name": "File:Running Core - Grip Flat Core.webp",
+     "size": [
+      530,
+      397
+     ]
+    }
+   ],
+   "title": "Running Core - Grip Flat Core",
+   "main_image": "Running_Core_-_Grip_Flat_Core.webp"
+  },
+  {
+   "type": "Running Core",
+   "name": "Grip Flat Core (Ultimate Mode)",
+   "used_by": [
+    "Dragoon MS Ultimate Version"
+   ],
+   "key": "running-core-grip-flat-core-ultimate-mode",
+   "images": [
+    {
+     "file": "parts/running-core-grip-flat-core-ultimate-mode/running-core-flat-core-ultimate-version.webp",
+     "wiki_name": "File:Running core - Flat Core (Ultimate Version).webp",
+     "size": [
+      532,
+      397
+     ]
+    }
+   ],
+   "title": "Running Core - Grip Flat Core (Ultimate Mode)",
+   "main_image": "Running_core_-_Flat_Core_(Ultimate_Version).webp"
+  },
+  {
+   "type": "Running Core",
+   "name": "Grip Sharp Core",
+   "used_by": [
+    "Advance Guardian"
+   ],
+   "key": "running-core-grip-sharp-core",
+   "images": [],
+   "title": "Running Core - Grip Sharp Core",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "Manual Change Core",
+   "used_by": [
+    "Dranzer MS"
+   ],
+   "key": "running-core-manual-change-core",
+   "images": [
+    {
+     "file": "parts/running-core-manual-change-core/dranzerms-9.jpg",
+     "wiki_name": "File:DranzerMS-9.jpg",
+     "size": [
+      800,
+      600
+     ]
+    },
+    {
+     "file": "parts/running-core-manual-change-core/dranzerms-10.jpg",
+     "wiki_name": "File:DranzerMS-10.jpg",
+     "size": [
+      800,
+      600
+     ]
+    }
+   ],
+   "title": "Running Core - Manual Change Core",
+   "main_image": "DranzerMS-9.jpg"
+  },
+  {
+   "type": "Running Core",
+   "name": "Metal Change Core",
+   "used_by": [
+    "Dark Gargoyle MS",
+    "Pierce Hedgehog MS",
+    "Rapid Eagle MS"
+   ],
+   "key": "running-core-metal-change-core",
+   "images": [],
+   "title": "Running Core - Metal Change Core",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "Metal Flat Core",
+   "used_by": [
+    "Advance Guardian/fr",
+    "Advance Striker",
+    "Advance Striker/fr"
+   ],
+   "key": "running-core-metal-flat-core",
+   "images": [],
+   "title": "Running Core - Metal Flat Core",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "Metal Semi-Flat Core",
+   "used_by": [
+    "Advance Averazer",
+    "Advance Averazer/fr",
+    "Advance Averazer/it"
+   ],
+   "key": "running-core-metal-semi-flat-core",
+   "images": [],
+   "title": "Running Core - Metal Semi-Flat Core",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "Metal Sharp Core",
+   "used_by": [
+    "Advance Eterner",
+    "Advance Eterner/fr"
+   ],
+   "key": "running-core-metal-sharp-core",
+   "images": [],
+   "title": "Running Core - Metal Sharp Core",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "Metal Weight Flat Core",
+   "used_by": [
+    "Thunder Serpent"
+   ],
+   "key": "running-core-metal-weight-flat-core",
+   "images": [],
+   "title": "Running Core - Metal Weight Flat Core",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "Metal Weight Grip Core",
+   "used_by": [
+    "Dragoon MF"
+   ],
+   "key": "running-core-metal-weight-grip-core",
+   "images": [],
+   "title": "Running Core - Metal Weight Grip Core",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "PARTNAME",
+   "used_by": [
+    "Aryan"
+   ],
+   "key": "running-core-partname",
+   "images": []
+  },
+  {
+   "type": "Running Core",
+   "name": "Rubber Weight Core",
+   "used_by": [
+    "Round Shell MS"
+   ],
+   "key": "running-core-rubber-weight-core",
+   "images": [],
+   "title": "Running Core - Rubber Weight Core",
+   "main_image": null
+  },
+  {
+   "type": "Running Core",
+   "name": "Semi-Flat Core",
+   "used_by": [
+    "Driger MS"
+   ],
+   "key": "running-core-semi-flat-core",
+   "images": [
+    {
+     "file": "parts/running-core-semi-flat-core/driger-ms-bottom-view.jpg",
+     "wiki_name": "File:Driger MS BOTTOM VIEW.JPG",
+     "size": [
+      160,
+      120
+     ]
+    }
+   ],
+   "title": "Running Core - Semi-Flat Core",
+   "main_image": "Driger_MS_BOTTOM_VIEW.JPG"
+  },
+  {
+   "type": "Running Core",
+   "name": "Sharp Core",
+   "used_by": [
+    "Draciel MS"
+   ],
+   "key": "running-core-sharp-core",
+   "images": [
+    {
+     "file": "parts/running-core-sharp-core/running-core-sharp-core.webp",
+     "wiki_name": "File:Running Core - Sharp Core.webp",
+     "size": [
+      1000,
+      750
+     ]
+    }
+   ],
+   "title": "Running Core - Sharp Core",
+   "main_image": "Running_Core_-_Sharp_Core.webp"
+  },
+  {
+   "type": "Running Core",
+   "name": "Spring Core",
+   "used_by": [
+    "Hopper Attack"
+   ],
+   "key": "running-core-spring-core",
+   "images": [
+    {
+     "file": "parts/running-core-spring-core/einsteinms-8.jpg",
+     "wiki_name": "File:EinsteinMS 8.jpg",
+     "size": [
+      1024,
+      764
+     ]
+    }
+   ],
+   "title": "Running Core - Spring Core",
+   "main_image": "EinsteinMS_8.jpg"
+  },
+  {
+   "type": "Running Core",
+   "name": "Tornado Change Core",
+   "used_by": [
+    "Dark Leopard MS"
+   ],
+   "key": "running-core-tornado-change-core",
+   "images": [],
+   "title": "Running Core - Tornado Change Core",
+   "main_image": null
+  },
+  {
+   "type": "Weight Disk",
+   "name": "CWD Chain Attacker",
+   "used_by": [
+    "Dragoon MF"
+   ],
+   "key": "weight-disk-cwd-chain-attacker",
+   "images": [
+    {
+     "file": "parts/weight-disk-cwd-chain-attacker/dragoonmf6.jpg",
+     "wiki_name": "File:DragoonMF6.jpg",
+     "size": [
+      800,
+      600
+     ]
+    }
+   ],
+   "title": "Weight Disk - CWD Chain Attacker",
+   "main_image": "DragoonMF6.jpg"
+  },
+  {
+   "type": "Weight Disk",
+   "name": "CWD Free Crusher",
+   "used_by": [
+    "Slash Riger MS"
+   ],
+   "key": "weight-disk-cwd-free-crusher",
+   "images": [],
+   "title": "Weight Disk - CWD Free Crusher",
+   "main_image": null
+  },
+  {
+   "type": "Weight Disk",
+   "name": "CWD Free Surviver",
+   "used_by": [
+    "Thunder Serpent"
+   ],
+   "key": "weight-disk-cwd-free-surviver",
+   "images": [],
+   "title": "Weight Disk - CWD Free Survivor",
+   "main_image": null
+  },
+  {
+   "type": "Weight Disk",
+   "name": "Circle Balance",
+   "used_by": [
+    "Advance Averazer",
+    "Advance Averazer/fr",
+    "Advance Averazer/it",
+    "Dranzer MS",
+    "Driger MS"
+   ],
+   "key": "weight-disk-circle-balance",
+   "images": [
+    {
+     "file": "parts/weight-disk-circle-balance/300px-circlebalance.jpg",
+     "wiki_name": "File:300px-CircleBalance.jpg",
+     "size": [
+      300,
+      225
+     ]
+    }
+   ],
+   "title": "Weight Disk - Circle Balance",
+   "main_image": "300px-CircleBalance.jpg"
+  },
+  {
+   "type": "Weight Disk",
+   "name": "Circle Heavy",
+   "used_by": [
+    "Advance Guardian",
+    "Advance Guardian/fr",
+    "Advance Striker",
+    "Advance Striker/fr",
+    "Dark Gargoyle MS",
+    "Hopper Attack",
+    "Magical Ape MS",
+    "Pierce Hedgehog MS",
+    "Rapid Eagle MS",
+    "Samurai Changer MS",
+    "Strata Dragoon MS"
+   ],
+   "key": "weight-disk-circle-heavy",
+   "images": [],
+   "title": "Weight Disk - Circle Heavy",
+   "main_image": null
+  },
+  {
+   "type": "Weight Disk",
+   "name": "Circle Wide",
+   "used_by": [
+    "Advance Eterner",
+    "Advance Eterner/fr",
+    "Aero Knight MS",
+    "Draciel MS",
+    "Dragoon MS",
+    "Dragoon MS Ultimate Version"
+   ],
+   "key": "weight-disk-circle-wide",
+   "images": [],
+   "title": "Weight Disk - Circle Wide",
+   "main_image": null
+  },
+  {
+   "type": "Weight Disk",
+   "name": "Needle Attacker",
+   "used_by": [
+    "Dark Leopard MS",
+    "Phantom Fox MS"
+   ],
+   "key": "weight-disk-needle-attacker",
+   "images": [],
+   "title": "Weight Disk - Needle Attacker",
+   "main_image": null
+  },
+  {
+   "type": "Weight Disk",
+   "name": "PARTNAME",
+   "used_by": [
+    "Aryan"
+   ],
+   "key": "weight-disk-partname",
+   "images": []
+  },
+  {
+   "type": "Weight Disk",
+   "name": "Wing Attacker",
+   "used_by": [
+    "Dranzer MF"
+   ],
+   "key": "weight-disk-wing-attacker",
+   "images": [
+    {
+     "file": "parts/weight-disk-wing-attacker/wingattacker.jpg",
+     "wiki_name": "File:WingAttacker.jpg",
+     "size": [
+      355,
+      335
+     ]
+    },
+    {
+     "file": "parts/weight-disk-wing-attacker/winga.jpg",
+     "wiki_name": "File:Winga.jpg",
+     "size": [
+      260,
+      276
+     ]
+    },
+    {
+     "file": "parts/weight-disk-wing-attacker/51uy8y2bsyl-sy355.jpg",
+     "wiki_name": "File:51UY8Y2bSyL. SY355 .jpg",
+     "size": [
+      265,
+      355
+     ]
+    }
+   ],
+   "title": "Wing Attacker",
+   "main_image": "WingAttacker.jpg"
   }
  ]
 }
