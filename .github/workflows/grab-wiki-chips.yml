@@ -20,11 +20,6 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install a hidden Chrome browser
-        run: |
-          pip install playwright pillow
-          python -m playwright install --with-deps chromium
-
       - name: Get the upscaler
         continue-on-error: true
         run: |
@@ -35,53 +30,33 @@ jobs:
 
       - name: Save every bit chip picture from the wiki
         run: |
+          pip install requests pillow >/dev/null
           python -u - <<'PY'
           import io, json, os, re, subprocess, time
+          import requests
           from PIL import Image
-          from playwright.sync_api import sync_playwright
 
-          CATEGORY = "https://beyblade.fandom.com/wiki/Category:Bit_Chips"
+          API = "https://beyblade.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
           os.makedirs("wiki-chips", exist_ok=True); os.makedirs("wiki-chips-hd", exist_ok=True)
           esr = "/tmp/esr/realesrgan-ncnn-vulkan"
           print("Upscaler available:", os.path.exists(esr))
 
-          def key(s):
-              return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", s.lower())).strip("-")
+          def api(**params):
+              params.update(format="json", formatversion="2")
+              for attempt in range(4):
+                  try:
+                      r = s.get(API, params=params, timeout=60)
+                      if r.status_code == 200: return r.json()
+                      print("    api status", r.status_code)
+                  except Exception as e:
+                      print("    api error", str(e)[:100])
+                  time.sleep(5 * (attempt + 1))
+              raise SystemExit("The wiki's API isn't answering")
 
-          def full_size(url):
-              return re.sub(r"/(scale-to-width-down|scale-to-height-down|smart/width)/[0-9]+(/height/[0-9]+)?", "", url)
-
-          MEMBERS = """() => {
-            const links = [...document.querySelectorAll('a[href*="/wiki/Bit_Chip"]')]
-              .map(a => new URL(a.getAttribute('href'), location.href))
-              .filter(u => !u.pathname.includes('Category:') && u.pathname.includes('/wiki/Bit_Chip_-_'))
-              .map(u => u.origin + u.pathname);
-            const next = document.querySelector('a.category-page__pagination-next, a[rel="next"]');
-            return {links: [...new Set(links)], next: next ? new URL(next.getAttribute('href'), location.href).href : null};
-          }"""
-
-          IMAGES = """() => {
-            const root = document.querySelector('.mw-parser-output') || document.querySelector('#content') || document.body;
-            const out = [], seen = new Set();
-            for (const img of root.querySelectorAll('img')) {
-              let src = null;
-              for (const a of ['data-src', 'src']) {
-                const v = img.getAttribute(a);
-                if (v && !v.startsWith('data:')) { src = new URL(v, location.href).href; break; }
-              }
-              if (!src || !src.includes('nocookie.net') || seen.has(src)) continue;
-              seen.add(src);
-              const fig = img.closest('figure, .wikia-gallery-item, .gallerybox, .pi-image, td, li');
-              let caption = '';
-              if (fig) {
-                const c = fig.querySelector('figcaption, .lightbox-caption, .gallerytext, .pi-caption');
-                caption = c ? (c.innerText || c.textContent || '').trim() : '';
-              }
-              out.push({src, alt: img.getAttribute('alt') || '', caption,
-                        w: parseInt(img.getAttribute('width') || '0', 10), h: parseInt(img.getAttribute('height') || '0', 10)});
-            }
-            return {title: (document.querySelector('h1') || {}).textContent || document.title, images: out};
-          }"""
+          def key(t):
+              return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
 
           def enhance(src_png, out_png):
               im = Image.open(src_png).convert("RGBA")
@@ -96,67 +71,50 @@ jobs:
                       return "AI x4"
                   print("    upscaler failed:", (r.stderr or r.stdout)[-200:])
               if max(im.size) < 1000:
-                  s = 1000 / max(im.size); im = im.resize((round(im.width * s), round(im.height * s)), Image.LANCZOS)
+                  f = 1000 / max(im.size); im = im.resize((round(im.width * f), round(im.height * f)), Image.LANCZOS)
               im.save(out_png, "PNG", optimize=True)
               return "smooth"
 
-          with sync_playwright() as p:
-              browser = p.chromium.launch()
-              ctx = browser.new_context(viewport={"width": 1280, "height": 1600},
-                  user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140 Safari/537.36")
-              page = ctx.new_page()
+          # 1) every page in the Bit Chips category
+          titles, cont = [], {}
+          while True:
+              d = api(action="query", list="categorymembers", cmtitle="Category:Bit_Chips", cmlimit="500", cmtype="page", **cont)
+              titles += [m["title"] for m in d["query"]["categorymembers"]]
+              if "continue" not in d: break
+              cont = d["continue"]; time.sleep(1)
+          print(f"Found {len(titles)} bit chip pages" + chr(10))
 
-              def open_page(url):
-                  for attempt in range(3):
-                      try:
-                          r = page.goto(url, wait_until="domcontentloaded", timeout=60000)
-                          page.wait_for_timeout(1500)
-                          for _ in range(15):
-                              page.mouse.wheel(0, 1500); page.wait_for_timeout(120)
-                          if r and r.status >= 400:
-                              print("    status", r.status, url); time.sleep(3 * (attempt + 1)); continue
-                          return True
-                      except Exception as e:
-                          print("    retry", url, str(e)[:100]); time.sleep(3 * (attempt + 1))
-                  return False
-
-              pages, url = [], CATEGORY
-              while url:
-                  if not open_page(url): raise SystemExit("Couldn't open " + url)
-                  m = page.evaluate(MEMBERS)
-                  pages += [l for l in m["links"] if l not in pages]
-                  url = m["next"] if m["next"] and m["next"] != url else None
-              print(f"Found {len(pages)} bit chip pages\n")
-
-              index = []
-              for n, link in enumerate(pages, 1):
-                  if not open_page(link): print(f"{n:3} SKIP {link}"); continue
-                  info = page.evaluate(IMAGES)
-                  title = re.sub(r"\s+", " ", info["title"]).strip()
-                  pk = key(title.replace("Bit Chip - ", ""))
-                  os.makedirs(f"wiki-chips/{pk}", exist_ok=True); os.makedirs(f"wiki-chips-hd/{pk}", exist_ok=True)
-                  saved = []
-                  for i, im in enumerate(info["images"], 1):
-                      raw, hd = f"wiki-chips/{pk}/{i}.png", f"wiki-chips-hd/{pk}/{i}.png"
-                      try:
-                          if not os.path.exists(raw):
-                              resp = page.request.get(full_size(im["src"]), headers={"Referer": "https://beyblade.fandom.com/"})
-                              if not resp.ok: continue
-                              pic = Image.open(io.BytesIO(resp.body())).convert("RGBA")
-                              if max(pic.size) < 60: continue      # icons, not chips
-                              pic.save(raw, "PNG", optimize=True)
-                          size = Image.open(raw).size
-                          how = enhance(raw, hd) if not os.path.exists(hd) else "had"
-                          saved.append({"file": f"{pk}/{i}.png", "caption": im["caption"], "alt": im["alt"], "size": size})
-                          print(f"    {i}: {size[0]}x{size[1]} {how}  {im['caption'] or im['alt']}")
-                      except Exception as e:
-                          print("    picture error", str(e)[:100])
-                  index.append({"page": link, "title": title, "key": pk, "images": saved})
-                  print(f"{n:3} {title}: {len(saved)} pictures")
-              browser.close()
+          # 2) every picture on each page, at full size
+          index = []
+          for n, title in enumerate(titles, 1):
+              d = api(action="query", generator="images", titles=title, gimlimit="500", prop="imageinfo", iiprop="url|size|mime")
+              files = (d.get("query") or {}).get("pages") or []
+              pk = key(title.replace("Bit Chip - ", ""))
+              os.makedirs(f"wiki-chips/{pk}", exist_ok=True); os.makedirs(f"wiki-chips-hd/{pk}", exist_ok=True)
+              saved = []
+              for f in sorted(files, key=lambda x: x.get("title", "")):
+                  info = (f.get("imageinfo") or [{}])[0]
+                  url, w, h = info.get("url"), info.get("width", 0), info.get("height", 0)
+                  if not url or "image" not in info.get("mime", "image") or max(w, h) < 60: continue
+                  name = key(re.sub(r"\.[a-z0-9]+$", "", f["title"].replace("File:", "")))
+                  raw, hd = f"wiki-chips/{pk}/{name}.png", f"wiki-chips-hd/{pk}/{name}.png"
+                  try:
+                      if not os.path.exists(raw):
+                          r = s.get(url, timeout=60, headers={"Referer": "https://beyblade.fandom.com/"})
+                          if r.status_code != 200: print("    picture status", r.status_code, url); continue
+                          Image.open(io.BytesIO(r.content)).convert("RGBA").save(raw, "PNG", optimize=True)
+                          time.sleep(0.5)
+                      how = enhance(raw, hd) if not os.path.exists(hd) else "had"
+                      saved.append({"file": f"{pk}/{name}.png", "wiki_name": f["title"], "size": [w, h]})
+                      print(f"    {w}x{h} {how}  {f['title']}")
+                  except Exception as e:
+                      print("    picture error", f.get("title"), str(e)[:100])
+              index.append({"title": title, "key": pk, "images": saved})
+              print(f"{n:3} {title}: {len(saved)} pictures")
+              time.sleep(1)
 
           json.dump(index, open("wiki-chips/index.json", "w"), indent=1)
-          print(f"\nDone: {len(index)} pages, {sum(len(x['images']) for x in index)} pictures")
+          print(chr(10) + f"Done: {len(index)} pages, {sum(len(x['images']) for x in index)} pictures")
           PY
 
       - name: Save the results
