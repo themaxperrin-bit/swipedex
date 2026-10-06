@@ -1,0 +1,88 @@
+name: Sharpen HMS photos
+
+# Run it from the Actions tab ("Run workflow").
+# Makes sharp, high-resolution copies of the HMS photos the app uses (hms-hd folder).
+# Small pictures are enlarged with Real-ESRGAN (the photo model); bigger ones are just cleaned up.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sharpen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Get the upscaler
+        continue-on-error: true
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q mesa-vulkan-drivers libvulkan1 unzip
+          curl -sSL -o esr.zip https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-ubuntu.zip
+          mkdir -p /tmp/esr && unzip -q -o esr.zip -d /tmp/esr && chmod +x /tmp/esr/realesrgan-ncnn-vulkan
+
+      - name: Sharpen the photos
+        run: |
+          pip install pillow >/dev/null
+          cat > /tmp/jobs.json <<'JSON'
+          {"strata-dragoon-ms":"hms-wiki/strata-dragoon-ms/strata-dragoon-metal-spike.jpg","parts/hms-attack-ring-metal-saucer":"hms-wiki/parts/attack-ring-metal-saucer/1gaiadragoonms.jpg","parts/hms-running-core-flat-core":"hms-wiki/parts/running-core-flat-core/running-core-flat-core.webp","driger-ms":"hms-wiki/driger-ms/driger-ms.png","parts/hms-weight-disk-circle-balance":"hms-wiki/parts/weight-disk-circle-balance/300px-circlebalance.jpg","parts/hms-running-core-semi-flat-core":"hms-wiki/parts/running-core-semi-flat-core/driger-ms-bottom-view.jpg","draciel-ms":"hms-wiki/draciel-ms/draciel-ms.jpg","parts/hms-attack-ring-metal-defense":"hms-wiki/parts/attack-ring-metal-defense/dsc04566.jpg","parts/hms-running-core-sharp-core":"hms-wiki/parts/running-core-sharp-core/running-core-sharp-core.webp","dragoon-ms":"hms-wiki/dragoon-ms/dragoonms.jpg","parts/hms-attack-ring-metal-attacker":"hms-wiki/parts/attack-ring-metal-attacker/attack-ring-metal-attacker.webp","parts/hms-running-core-grip-flat-core":"hms-wiki/parts/running-core-grip-flat-core/running-core-grip-flat-core.webp","wyvern-dj":"hms-wiki/wyvern-dj/wybern-dj-a-130.jpg","dranzer-ms":"hms-wiki/dranzer-ms/dranzerms-2.jpg","parts/hms-attack-ring-spiral-upper":"hms-wiki/parts/attack-ring-spiral-upper/dranzerms-6.jpg","parts/hms-running-core-manual-change-core":"hms-wiki/parts/running-core-manual-change-core/dranzerms-9.jpg","hopper-attack":"hms-wiki/hopper-attack/einstein-ms.jpg","parts/hms-running-core-spring-core":"hms-wiki/parts/running-core-spring-core/einsteinms-8.jpg","dragoon-ms-ultimate-version":"hms-wiki/dragoon-ms-ultimate-version/dgmsuv.png","parts/hms-attack-ring-ultimate-attacker":"hms-wiki/parts/attack-ring-ultimate-attacker/dgmsuv3.png","parts/hms-running-core-grip-flat-core-ultimate-mode":"hms-wiki/parts/running-core-grip-flat-core-ultimate-mode/running-core-flat-core-ultimate-version.webp","dark-gargoyle-ms":"hms-wiki/dark-gargoyle-ms/dems4.jpg","parts/hms-bit-protector-gargoyle-emblem":"hms-wiki/parts/bit-protector-gargoyle-emblem/xcirp.jpg","parts/hms-attack-ring-circle-upper":"hms-wiki/dark-gargoyle-ms/dems1.jpg","wolborg-ms":"hms-wiki/wolborg-ms/wolborgms00.jpg","parts/hms-attack-ring-wolf-crusher":"hms-wiki/wolborg-ms/img1713ly3.jpg","parts/hms-running-core-bearing-core":"hms-wiki/wolborg-ms/wolborgms2.jpg","advance-averazer":"hms-wiki/advance-averazer/aa1.jpg","parts/hms-attack-ring-advance-balancer":"hms-wiki/advance-averazer/aa5.jpg","advance-guardian":"hms-wiki/advance-guardian/800px-0advanceguardian0.jpg","parts/hms-attack-ring-advance-defenser":"hms-wiki/advance-guardian/4advanceguardian04.jpg","parts/hms-running-core-grip-sharp-core":"hms-wiki/advance-guardian/5advanceguardian5.jpg","advance-striker":"hms-wiki/advance-striker/799px-0advancestriker0.jpg","parts/hms-attack-ring-advance-attacker":"hms-wiki/advance-striker/4advancestriker.jpg","parts/hms-running-core-metal-flat-core":"hms-wiki/advance-striker/6advancestriker.jpg","phantom-fox-ms":"hms-wiki/phantom-fox-ms/pf.png","dark-leopard-ms":"hms-wiki/dark-leopard-ms/darkleopardmsmain.jpg","parts/hms-running-core-tornado-change-core":"hms-wiki/dark-leopard-ms/darkleopardms13.jpg","magical-ape-ms":"hms-wiki/magical-ape-ms/magicalapems2.jpg","parts/hms-attack-ring-metal-ape":"hms-wiki/parts/attack-ring-metal-ape/magicalapems16.jpg","round-shell-ms":"hms-wiki/round-shell-ms/roundshellms-002.jpg","samurai-changer-ms":"hms-wiki/samurai-changer-ms/samuraichangerms.jpg","aero-knight-ms":"hms-wiki/aero-knight-ms/aeroknight.png","jiraiya-ms":"hms-wiki/jiraiya-ms/jiraiyams.jpg","parts/hms-attack-ring-jiraiya-blade":"hms-wiki/jiraiya-ms/jirayams4.jpg","parts/hms-running-core-bearing-core-2":"hms-wiki/jiraiya-ms/jirayams6.jpg","bloody-devil-ms":"hms-wiki/bloody-devil-ms/bloodydevilms.jpg","parts/hms-attack-ring-devil-crusher":"hms-wiki/bloody-devil-ms/devilcrusher-bottom.jpg","parts/hms-weight-disk-cwd-devil-saucer":"hms-wiki/bloody-devil-ms/cwddevilsaucer.jpg","shining-god-ms":"hms-wiki/shining-god-ms/shininggodms.png","parts/hms-attack-ring-god-smasher":"hms-wiki/shining-god-ms/0shininggodms.jpg","parts/hms-weight-disk-cwd-god-ring":"hms-wiki/shining-god-ms/7shininggodms.jpg","parts/hms-running-core-shooter-change-core-gamma":"hms-wiki/shining-god-ms/8shininggodms.jpg","thunder-serpent":"hms-wiki/thunder-serpent/thunderdragonstock.jpg","parts/hms-attack-ring-spark-dragon":"hms-wiki/thunder-serpent/thunder-dragon5.jpg","sea-drake":"hms-wiki/sea-drake/seadragonstock.jpg","parts/hms-attack-ring-seagon-attacker":"hms-wiki/sea-drake/seadragon-5.jpg","parts/hms-running-core-metal-ball-core":"hms-wiki/sea-drake/seadragon-7.jpg","dranzer-mf":"hms-wiki/dranzer-mf/rba5-dranzermf-1.jpg","dragoon-mf":"hms-wiki/dragoon-mf/dragoonmf1.jpg","parts/hms-attack-ring-upper-dragon":"hms-wiki/parts/attack-ring-upper-dragon/dragoonmf4.jpg","parts/hms-weight-disk-cwd-chain-attacker":"hms-wiki/parts/weight-disk-cwd-chain-attacker/dragoonmf6.jpg","parts/hms-running-core-metal-weight-grip-core":"hms-wiki/dragoon-mf/dragoonmf7.jpg","slash-riger-ms":"hms-wiki/slash-riger-ms/slashrigerms11.jpg"}
+          JSON
+          python -u - <<'PY'
+          import json, os, subprocess, time
+          from PIL import Image, ImageFilter
+          jobs = json.load(open("/tmp/jobs.json"))
+          esr = "/tmp/esr/realesrgan-ncnn-vulkan"
+          print("Upscaler available:", os.path.exists(esr), "| pictures:", len(jobs))
+          os.makedirs("hms-hd/parts", exist_ok=True)
+          deadline = time.time() + 100 * 60
+          # Beyblades first, then parts; smallest pictures first (they gain the most)
+          order = sorted(jobs, key=lambda k: (k.startswith("parts/"), max(Image.open(jobs[k]).size)))
+          done = 0
+          for i, key in enumerate(order, 1):
+              src, out = jobs[key], f"hms-hd/{key}.jpg"
+              if os.path.exists(out): done += 1; continue
+              if time.time() > deadline:
+                  print("Time's up. Run the job again to finish the rest."); break
+              t = time.time()
+              im = Image.open(src)
+              if im.mode in ("RGBA", "LA", "P"):
+                  im = im.convert("RGBA"); bg = Image.new("RGB", im.size, "white"); bg.paste(im, mask=im.getchannel("A")); im = bg
+              else:
+                  im = im.convert("RGB")
+              how = "cleaned"
+              if max(im.size) < 700 and os.path.exists(esr):
+                  im.save("/tmp/in.png")
+                  scale = "4" if max(im.size) < 400 else "2"
+                  model = "realesrgan-x4plus" if scale == "4" else "realesr-animevideov3"
+                  args = [esr, "-i", "/tmp/in.png", "-o", "/tmp/up.png", "-n", model, "-s", scale, "-m", "/tmp/esr/models", "-t", "128"]
+                  r = subprocess.run(args, capture_output=True, text=True, timeout=900)
+                  if r.returncode == 0 and os.path.exists("/tmp/up.png"):
+                      im = Image.open("/tmp/up.png").convert("RGB"); os.remove("/tmp/up.png"); how = f"AI x{scale}"
+                  else:
+                      print("   upscaler failed:", (r.stderr or r.stdout)[-200:])
+              if max(im.size) < 1000:   # still small: smooth enlarge so it fills the card
+                  f = 1000 / max(im.size); im = im.resize((round(im.width * f), round(im.height * f)), Image.LANCZOS)
+              im.thumbnail((1200, 1200), Image.LANCZOS)
+              im = im.filter(ImageFilter.UnsharpMask(radius=1.2, percent=60, threshold=2))
+              os.makedirs(os.path.dirname(out), exist_ok=True)
+              im.save(out, "JPEG", quality=90, optimize=True); done += 1
+              print(f"{i:3}/{len(order)} {how:8} {time.time() - t:5.0f}s  {key}")
+          json.dump(sorted(k for k in jobs if os.path.exists(f"hms-hd/{k}.jpg")), open("hms-hd/index.json", "w"))
+          print(f"Sharp copies: {done} of {len(jobs)}")
+          PY
+
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A hms-hd
+          git commit -m "Sharpen HMS photos" || echo "No changes"
+          git pull --rebase || true
+          git push
