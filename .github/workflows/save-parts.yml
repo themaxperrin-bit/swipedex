@@ -226,17 +226,18 @@ jobs:
               return re.sub(r"[^A-Za-z0-9._-]", "_", urllib.parse.unquote(path).lower())
 
           # The part links in the page's main content (not the site menu), in page order.
+          # Every link to a part page anywhere on the page, in page order (repeats included).
+          # (Google Sites sometimes wraps links as google.com/url?q=..., so those are unwrapped.)
           PARTS = """() => {
-            const main = document.querySelector('[role="main"]') || document.body;
-            const out = [], seen = new Set();
-            for (const a of main.querySelectorAll('a[href*="/parts/"]')) {
-              if (a.closest('nav,[role="navigation"],header')) continue;
+            const out = [];
+            for (const a of document.querySelectorAll('a[href]')) {
               let u; try { u = new URL(a.getAttribute('href'), location.href); } catch (e) { continue; }
-              if (!u.hostname.includes('plasticsdb.com')) continue;
+              if (u.hostname.endsWith('google.com') && u.searchParams.get('q')) {
+                try { u = new URL(u.searchParams.get('q')); } catch (e) { continue; }
+              }
               const segs = u.pathname.split('/').filter(Boolean), i = segs.indexOf('parts');
               if (i < 0 || segs.length - i < 3) continue;          // skip category pages
               const path = segs.slice(i + 1).join('/');
-              if (seen.has(path)) continue; seen.add(path);
               out.push({path, name: (a.innerText || a.textContent || '').trim()});
             }
             return out;
@@ -283,12 +284,30 @@ jobs:
                           print("    retry", url, str(e)[:100]); time.sleep(3 * (attempt + 1))
                   return False
 
+              # 0) links that are in the site menu on every page (taken from a page with no parts)
+              # A part linked from a Beyblade's page appears there one more time than on a page with no parts.
+              from collections import Counter
+              menu = Counter()
+              if open_page(SITE + "contact-me"):
+                  menu = Counter(f["path"] for f in page.evaluate(PARTS))
+              print(f"The site menu links to {len(menu)} part pages\n")
+
+              def content_parts(links):
+                  seen, out = Counter(), []
+                  for f in links:
+                      seen[f["path"]] += 1
+                      if seen[f["path"]] == menu[f["path"]] + 1:   # first link beyond the menu's copies
+                          out.append(f)
+                  return out
+
               # 1) each Beyblade's parts list
               for n, slug in enumerate(slugs, 1):
                   bkey = key(slug)
                   found = []
                   if open_page(SITE + "beyblades/" + slug):
-                      found = page.evaluate(PARTS)
+                      everything = page.evaluate(PARTS)
+                      found = content_parts(everything)
+                      if n <= 3: print(f"    (page had {len(everything)} part links, {len(found)} after removing the menu)")
                   lst = []
                   for f in found:
                       cat = f["path"].split("/")[0]
