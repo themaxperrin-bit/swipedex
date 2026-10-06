@@ -12,7 +12,7 @@ permissions:
 jobs:
   grab:
     runs-on: ubuntu-latest
-    timeout-minutes: 90
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -61,14 +61,16 @@ jobs:
           def enhance(src_png, out_png):
               im = Image.open(src_png).convert("RGBA")
               if max(im.size) < 1000 and os.path.exists(esr):
-                  r = subprocess.run([esr, "-i", src_png, "-o", "/tmp/up.png", "-n", "realesrgan-x4plus-anime", "-s", "4", "-m", "/tmp/esr/models"],
-                                     capture_output=True, text=True, timeout=900)
+                  scale = "4" if max(im.size) < 350 else ("3" if max(im.size) < 500 else "2")
+                  # realesr-animevideov3 is the light, fast anime model (the big one takes minutes per picture without a graphics card)
+                  r = subprocess.run([esr, "-i", src_png, "-o", "/tmp/up.png", "-n", "realesr-animevideov3", "-s", scale, "-m", "/tmp/esr/models"],
+                                     capture_output=True, text=True, timeout=600)
                   if r.returncode == 0 and os.path.exists("/tmp/up.png"):
                       up = Image.open("/tmp/up.png").convert("RGBA")
                       up.putalpha(im.getchannel("A").resize(up.size, Image.LANCZOS))
                       if max(up.size) > 1400: up.thumbnail((1400, 1400), Image.LANCZOS)
                       up.save(out_png, "PNG", optimize=True); os.remove("/tmp/up.png")
-                      return "AI x4"
+                      return "AI x" + scale
                   print("    upscaler failed:", (r.stderr or r.stdout)[-200:])
               if max(im.size) < 1000:
                   f = 1000 / max(im.size); im = im.resize((round(im.width * f), round(im.height * f)), Image.LANCZOS)
@@ -104,9 +106,8 @@ jobs:
                           if r.status_code != 200: print("    picture status", r.status_code, url); continue
                           Image.open(io.BytesIO(r.content)).convert("RGBA").save(raw, "PNG", optimize=True)
                           time.sleep(0.5)
-                      how = enhance(raw, hd) if not os.path.exists(hd) else "had"
                       saved.append({"file": f"{pk}/{name}.png", "wiki_name": f["title"], "size": [w, h]})
-                      print(f"    {w}x{h} {how}  {f['title']}")
+                      print(f"    {w}x{h}  {f['title']}")
                   except Exception as e:
                       print("    picture error", f.get("title"), str(e)[:100])
               index.append({"title": title, "key": pk, "images": saved})
@@ -114,7 +115,18 @@ jobs:
               time.sleep(1)
 
           json.dump(index, open("wiki-chips/index.json", "w"), indent=1)
-          print(chr(10) + f"Done: {len(index)} pages, {sum(len(x['images']) for x in index)} pictures")
+          print(chr(10) + f"Downloaded: {len(index)} pages, {sum(len(x['images']) for x in index)} pictures" + chr(10))
+
+          # 3) sharpen them, up to 60 minutes per run (run it again to finish the rest)
+          deadline = time.time() + 60 * 60
+          todo = [img["file"] for page in index for img in page["images"] if not os.path.exists("wiki-chips-hd/" + img["file"])]
+          for i, f in enumerate(todo, 1):
+              if time.time() > deadline:
+                  print(f"Time's up: {len(todo) - i + 1} pictures still to sharpen. Run the job again to finish them."); break
+              t = time.time()
+              how = enhance("wiki-chips/" + f, "wiki-chips-hd/" + f)
+              print(f"{i:3}/{len(todo)} {how} in {time.time() - t:.0f}s  {f}")
+          print("Sharpened pictures:", sum(1 for page in index for img in page["images"] if os.path.exists("wiki-chips-hd/" + img["file"])))
           PY
 
       - name: Save the results
