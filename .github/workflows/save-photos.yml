@@ -1,6 +1,8 @@
 name: Save Beyblade photos
 
 # Run it from the Actions tab ("Run workflow"). It also re-checks once a month for new Beyblades.
+# Opens each PlasticsDB page in a real (hidden) Chrome browser and keeps the photo that page shows,
+# because Google refuses photo requests that don't come from a real browser.
 on:
   workflow_dispatch:
   schedule:
@@ -9,9 +11,14 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: save-photos
+  cancel-in-progress: true
+
 jobs:
   photos:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
 
@@ -19,10 +26,12 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Install helpers
-        run: pip install requests pillow
+      - name: Install a hidden Chrome browser
+        run: |
+          pip install playwright pillow
+          python -m playwright install --with-deps chromium
 
-      - name: Download every Beyblade photo from PlasticsDB
+      - name: Save every Beyblade photo from PlasticsDB
         run: |
           cat > slugs.txt <<'SLUGS'
             ultimate-dragoon
@@ -205,58 +214,83 @@ jobs:
           SLUGS
           python - <<'PY'
           import io, json, os, re, time, urllib.parse
-          import requests
           from PIL import Image
+          from playwright.sync_api import sync_playwright
 
-          UA = "Mozilla/5.0 (Linux; Android 16) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140 Mobile Safari/537.36"
-          s = requests.Session()
-          s.headers["User-Agent"] = UA
           os.makedirs("bey", exist_ok=True)
-          IMG = re.compile(r"https://lh\d-[a-z]+\.googleusercontent\.com/sitesv-images[^\"'\s)\\<>]+")
 
           def key(slug):
               return re.sub(r"[^A-Za-z0-9._-]", "_", urllib.parse.unquote(slug).lower())
 
-          def photo_url(html):
-              for m in IMG.finditer(html):
-                  u = m.group(0).replace("&amp;", "&")
-                  if "=w16383" in u:  # site logo
-                      continue
-                  return re.sub(r"=[wsh]\d+[^\"'\s]*$", "", u) + "=w1280"
-              return None
+          # Finds the Beyblade photo on the page: the first real photo, skipping the site logo.
+          FIND = """() => {
+            const ims = [...document.images].filter(i => {
+              const s = i.currentSrc || i.src || "";
+              return s.includes("googleusercontent.com") && !s.includes("=w16383")
+                     && i.complete && i.naturalWidth >= 200 && i.naturalHeight >= 200;
+            });
+            if (!ims.length) return null;
+            ims[0].scrollIntoView({block: "center"});
+            return ims[0].currentSrc || ims[0].src;
+          }"""
+
+          def save(data, out):
+              im = Image.open(io.BytesIO(data)).convert("RGB")
+              im.thumbnail((1000, 1000))
+              im.save(out, "JPEG", quality=88, optimize=True)
 
           slugs = [x.strip() for x in open("slugs.txt") if x.strip()]
-          saved, failed = [], []
-          for slug in slugs:
-              out = f"bey/{key(slug)}.jpg"
-              if os.path.exists(out) and os.path.getsize(out) > 1000:
-                  saved.append(key(slug)); continue
-              ok = False
-              for attempt in range(3):
+          saved, missed = [], []
+          with sync_playwright() as p:
+              browser = p.chromium.launch()
+              ctx = browser.new_context(viewport={"width": 1280, "height": 1600}, device_scale_factor=2)
+              page = ctx.new_page()
+              photos = {}
+              def grab(resp):
                   try:
-                      page = s.get("https://www.plasticsdb.com/beyblades/" + slug, timeout=30)
-                      page.raise_for_status()
-                      url = photo_url(page.text)
-                      if not url:
-                          break  # this page has no photo
-                      img = s.get(url, timeout=60, headers={"Referer": "https://www.plasticsdb.com/"})
-                      img.raise_for_status()
-                      im = Image.open(io.BytesIO(img.content)).convert("RGB")
-                      im.thumbnail((1000, 1000))
-                      im.save(out, "JPEG", quality=88, optimize=True)
-                      ok = True
-                      break
-                  except Exception as e:
-                      print("retry", slug, e)
-                      time.sleep(3 * (attempt + 1))
-              (saved if ok else failed).append(key(slug) if ok else slug)
-              print("OK  " if ok else "MISS", slug)
-              time.sleep(1)
+                      if resp.request.resource_type == "image" and "googleusercontent.com" in resp.url:
+                          photos[resp.url] = resp.body()
+                  except Exception:
+                      pass
+              page.on("response", grab)
+
+              for n, slug in enumerate(slugs, 1):
+                  k = key(slug)
+                  out = f"bey/{k}.jpg"
+                  if os.path.exists(out) and os.path.getsize(out) > 1000:
+                      saved.append(k); print(f"{n:3} HAVE", slug); continue
+                  ok = False
+                  for attempt in range(3):
+                      try:
+                          photos.clear()
+                          page.goto("https://www.plasticsdb.com/beyblades/" + slug, wait_until="networkidle", timeout=60000)
+                          src = None
+                          for _ in range(10):  # give the photo up to 5 seconds to finish loading
+                              src = page.evaluate(FIND)
+                              if src: break
+                              page.mouse.wheel(0, 600); page.wait_for_timeout(500)
+                          if not src:
+                              raise Exception("no photo on page")
+                          page.wait_for_timeout(300)
+                          data = photos.get(src)
+                          if data and len(data) > 1000:
+                              save(data, out)
+                          else:  # fall back to a picture of the photo exactly as shown
+                              page.locator(f'img[src="{src}"]').first.screenshot(path="shot.png")
+                              save(open("shot.png", "rb").read(), out)
+                          ok = True
+                          break
+                      except Exception as e:
+                          print("    retry", slug, str(e)[:120])
+                          time.sleep(3 * (attempt + 1))
+                  (saved if ok else missed).append(k if ok else slug)
+                  print(f"{n:3} {'OK  ' if ok else 'MISS'}", slug)
+              browser.close()
 
           json.dump(sorted(saved), open("bey/index.json", "w"))
-          print(f"\nSaved {len(saved)} photos, missed {len(failed)}:", failed)
+          print(f"\nSaved {len(saved)} of {len(slugs)} photos. Missed: {missed}")
           PY
-          rm slugs.txt
+          rm -f slugs.txt shot.png
 
       - name: Store the photos in this repository
         run: |
