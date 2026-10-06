@@ -1,0 +1,158 @@
+name: Grab HMS beyblades
+
+# Run it from the Actions tab ("Run workflow").
+# Finds every Heavy Metal System (HMS / MS) Beyblade and HMS part on the Beyblade Wiki,
+# saves their pictures into the "hms-wiki" folder and writes hms-wiki/index.json.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Save HMS pictures from the wiki
+        run: |
+          pip install requests pillow >/dev/null
+          python -u - <<'PY'
+          import io, json, os, re, time
+          import requests
+          from PIL import Image
+
+          API = "https://beyblade.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT = "hms-wiki"
+          os.makedirs(OUT, exist_ok=True)
+
+          def api(**params):
+              params.update(format="json", formatversion="2")
+              for attempt in range(4):
+                  try:
+                      r = s.get(API, params=params, timeout=60)
+                      if r.status_code == 200: return r.json()
+                      print("    api status", r.status_code)
+                  except Exception as e:
+                      print("    api error", str(e)[:100])
+                  time.sleep(5 * (attempt + 1))
+              raise SystemExit("The wiki's API isn't answering")
+
+          def make_key(t):
+              return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
+
+          def members(cat):
+              out, cont = [], {}
+              while True:
+                  d = api(action="query", list="categorymembers", cmtitle=cat, cmlimit="500", cmtype="page|subcat", **cont)
+                  out += d["query"]["categorymembers"]
+                  if "continue" not in d: break
+                  cont = d["continue"]; time.sleep(1)
+              return out
+
+          # 1) find the wiki's HMS categories
+          cats = set()
+          for q in ["HMS", "Heavy Metal System", "Metal System", "MS Beyblades"]:
+              d = api(action="query", list="search", srsearch=q, srnamespace="14", srlimit="50")
+              for r in d["query"]["search"]:
+                  if re.search(r"HMS|Heavy Metal|Metal System|\bMS\b", r["title"]): cats.add(r["title"])
+          for c in ["Category:Heavy Metal System", "Category:HMS", "Category:HMS Beyblades", "Category:Heavy Metal System Beyblades",
+                    "Category:Beyblades (HMS)", "Category:HMS Parts", "Category:Heavy Metal System Parts"]:
+              d = api(action="query", titles=c)
+              if not d["query"]["pages"][0].get("missing"): cats.add(c)
+          print("HMS categories found:", sorted(cats))
+
+          pages, seen_cats = {}, set()
+          todo = list(cats)
+          while todo:
+              c = todo.pop()
+              if c in seen_cats or len(seen_cats) > 40: continue
+              seen_cats.add(c)
+              for m in members(c):
+                  if m["ns"] == 14: todo.append(m["title"])
+                  elif m["ns"] == 0: pages.setdefault(m["title"], set()).add(c)
+          print(f"Pages from categories: {len(pages)}")
+
+          # 2) also look up each known HMS Beyblade by name, in case a category was missed
+          known = ["Gaia Dragoon MS", "Driger MS", "Draciel MS", "Dragoon MS", "Dranzer MS", "Dragoon MS Ultimate Version",
+                   "Death Gargoyle MS", "Wolborg MS", "Advance Averazer", "Advance Guardian", "Advance Striker",
+                   "Advance Eterner", "Phantom Fox MS", "Dark Leopard MS", "Magical Ape MS", "Round Shell MS",
+                   "Samurai Changer MS", "Aero Knight MS", "Jiraiya MS", "Bloody Devil MS", "Shining God MS",
+                   "Dranzer MF", "Driger MF", "Draciel MF", "Dragoon MF", "Dark Wolf", "Metal Draciel", "Metal Driger", "Metal Dranzer"]
+          lookups = {}
+          for name in known:
+              d = api(action="query", list="search", srsearch=name, srnamespace="0", srlimit="3")
+              hits = [r["title"] for r in d["query"]["search"]]
+              lookups[name] = hits
+              print(f"  search {name!r}: {hits}")
+              for h in hits[:2]:
+                  words = [w for w in re.findall(r"[a-z]+", name.lower()) if w not in ("ms", "mf")]
+                  if words and words[0] in h.lower(): pages.setdefault(h, set()).add("search:" + name)
+              time.sleep(0.5)
+          print(f"Pages to save: {len(pages)}" + chr(10))
+
+          # 3) for each page: categories, main picture, other pictures, start of the page text (for parts)
+          index = []
+          for n, title in enumerate(sorted(pages), 1):
+              pk = make_key(title)
+              d = api(action="query", titles=title, prop="categories|pageimages|revisions", cllimit="100",
+                      piprop="original|name", rvprop="content", rvslots="main", redirects="1")
+              p = d["query"]["pages"][0]
+              if p.get("missing"): continue
+              text = (((p.get("revisions") or [{}])[0].get("slots") or {}).get("main") or {}).get("content", "")
+              entry = {"title": p["title"], "key": pk, "found_by": sorted(pages[title]),
+                       "categories": [c["title"] for c in p.get("categories", [])],
+                       "main_image": p.get("pageimage"), "text": text[:6000], "images": []}
+
+              d = api(action="query", generator="images", titles=p["title"], gimlimit="200", prop="imageinfo", iiprop="url|size|mime")
+              files = (d.get("query") or {}).get("pages") or []
+              words = set(re.findall(r"[a-z]{3,}", p["title"].lower())) - {"beyblade", "the"}
+              def score(f):
+                  nm = f["title"].lower()
+                  return (0 if entry["main_image"] and nm.endswith(entry["main_image"].lower().replace("_", " ")) else 1,
+                          -sum(w in nm for w in words), nm)
+              files = sorted(files, key=score)
+              os.makedirs(f"{OUT}/{pk}", exist_ok=True)
+              for f in files:
+                  if len(entry["images"]) >= 10: break
+                  info = (f.get("imageinfo") or [{}])[0]
+                  url, w, h, mime = info.get("url"), info.get("width", 0), info.get("height", 0), info.get("mime", "")
+                  if not url or not mime.startswith("image/") or "svg" in mime or max(w, h) < 120: continue
+                  ext = {"image/png": "png", "image/jpeg": "jpg", "image/gif": "gif", "image/webp": "webp"}.get(mime, "img")
+                  name = make_key(re.sub(r"\.[A-Za-z0-9]+$", "", f["title"].replace("File:", "")))
+                  path = f"{OUT}/{pk}/{name}.{ext}"
+                  try:
+                      if not os.path.exists(path):
+                          r = s.get(url, timeout=60, headers={"Referer": "https://beyblade.fandom.com/"})
+                          if r.status_code != 200: print("    picture status", r.status_code, f["title"]); continue
+                          Image.open(io.BytesIO(r.content)).verify()
+                          open(path, "wb").write(r.content)
+                          time.sleep(0.4)
+                      entry["images"].append({"file": f"{pk}/{name}.{ext}", "wiki_name": f["title"], "size": [w, h]})
+                  except Exception as e:
+                      print("    picture error", f.get("title"), str(e)[:100])
+              index.append(entry)
+              print(f"{n:3}/{len(pages)} {p['title']}: {len(entry['images'])} pictures (main: {entry['main_image']})")
+              time.sleep(0.8)
+
+          json.dump({"categories": sorted(seen_cats), "lookups": lookups, "pages": index},
+                    open(f"{OUT}/index.json", "w"), indent=1)
+          print(chr(10) + f"Done: {len(index)} pages, {sum(len(x['images']) for x in index)} pictures")
+          PY
+
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add hms-wiki
+          git commit -m "Grab HMS beyblades from the wiki" || echo "No changes"
+          git pull --rebase || true
+          git push
