@@ -302,7 +302,7 @@ jobs:
                   if "base" in l: return "blade-bases"
                   return "misc-parts"
 
-              def slug(name):
+              def make_slug(name):
                   return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", name.lower())).strip("-")
 
               # 1) each Beyblade's parts list
@@ -317,7 +317,7 @@ jobs:
                       name = f["name"] or (f["path"] or "").split("/")[-1].replace("-", " ").title()
                       if not name: continue
                       # editor links don't include the public address, so build it from the heading and name
-                      path = f["path"] or (category(f["label"]) + "/" + slug(name))
+                      path = f["path"] or (category(f["label"]) + "/" + make_slug(name))
                       if path in seen: continue
                       seen.add(path)
                       cat = path.split("/")[0]
