@@ -1,0 +1,75 @@
+name: Finish bit chips
+
+# Run it from the Actions tab ("Run workflow").
+# Makes one fast-loading, sharp picture per bit chip the app uses (chips-final folder).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  finish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Get the upscaler
+        continue-on-error: true
+        run: |
+          sudo apt-get update -q
+          sudo apt-get install -y -q mesa-vulkan-drivers libvulkan1 unzip
+          curl -sSL -o esr.zip https://github.com/xinntao/Real-ESRGAN/releases/download/v0.2.5.0/realesrgan-ncnn-vulkan-20220424-ubuntu.zip
+          mkdir -p /tmp/esr && unzip -q -o esr.zip -d /tmp/esr && chmod +x /tmp/esr/realesrgan-ncnn-vulkan
+
+      - name: Make the chip pictures
+        run: |
+          pip install pillow >/dev/null
+          cat > /tmp/chips.json <<'JSON'
+          {"draciel-s":"wiki-chips/draciel/draciel-s-bit-chip.png","draciel-v2":"wiki-chips/draciel/dracielv2bitchip.png","dragoon-s":"wiki-chips/dragoon/dg.png","dragoon-grip":"wiki-chips/dragoon/dragoonbitchip.png","cerberus":"wiki-chips/cerberus/cerberus-bit-chip.png","cyber-dragoon":"wiki-chips/cyber-dragoon-battle-spec/bit-chip-sticker-cyber-dragoon.png","gaia-dragoon":"wiki-chips/strata-dragoon/strata-dragoon-vurst.png","black-dranzer":"wiki-chips/black-dranzer/black-dranzer-jp2-04-zps4bdifsfa-1.png","gabriel":"wiki-chips/bit-chip/bit-chip-gabriel.png","griffolyon":"wiki-chips/griffolyon/griffoylonbitchip.png","makendo":"wiki-chips/makendo/bit-chip-makendo.png","orthrus":"wiki-chips/orthrus/orthrusbitchip.png","rapid-eagle":"wiki-chips/rapid-eagle/bitchip-rapideagle.png","trygator":"wiki-chips/trygator/bey-trygator-bit-sticker-ver-1.png","trygle":"wiki-chips/trygle/trygle-bit-chip.png","trygle-2":"wiki-chips/trygle/trygle2bitchip.png","uriel":"wiki-chips/uriel/img-2354.png","voltaic-ape":"wiki-chips/vortex-ape/voltaicapebitchip1.png","wolborg":"wiki-chips/wolborg/wolborgbitchip.png","wyborg":"wiki-chips/wyborg/bey-wyborg-s-bit-chip-sticker.png","flash-leopard-2":"wiki-chips/flash-leopard/flashleopard2bitchip.png","flash-leopard":"wiki-chips/flash-leopard/fl1-copy-1.png","galeon-2":"wiki-chips/galeon/galeon2bitchip-second-version.png","galeon":"wiki-chips/galeon/galeonbitchip.png","dragoon-f":"wiki-chips/dragoon/dragoon-f-bit-chip.png","dragoon-v":"wiki-chips/dragoon/dragoon-v.png","dragoon-v2":"wiki-chips/dragoon/dragoon-v2-bit-chip.png","dragoon-gt":"wiki-chips/dragoon/dragoon-gt-sticker.png","dragoon-g":"wiki-chips/dragoon/dragoongbitchip.png","dranzer-s":"wiki-chips/dranzer/dranzer-s-bit-chip.png","dranzer-f":"wiki-chips/dranzer/dranzer-f-bit-chip.png","dranzer-v2":"wiki-chips/dranzer/dranzerv2-bitchip.png","driger-f":"wiki-chips/driger/driger-f-bit-chip.png","driger-s":"wiki-chips/driger/driger-s-bit-chip.png","driger-v":"wiki-chips/driger/driger-v.png","driger-v2":"wiki-chips/driger/driger-v2.png","driger-g":"wiki-chips/driger/drigergbitchip.png","gigars":"wiki-chips/gigars/gigars-bit-chip.png","rock-bison":"wiki-chips/rock-bison/bitchiprockbison.png","seaborg":"wiki-chips/seaborg/seaborg-bit-chip.png","death-gargoyle":"wiki-chips/dark-gargoyle/xcirp.png"}
+          JSON
+          python -u - <<'PY'
+          import json, os, subprocess, time
+          from PIL import Image, ImageFilter
+          chips = json.load(open("/tmp/chips.json"))
+          esr = "/tmp/esr/realesrgan-ncnn-vulkan"
+          os.makedirs("chips-final", exist_ok=True)
+          for i, (cid, src) in enumerate(sorted(chips.items()), 1):
+              t = time.time()
+              hd = src.replace("wiki-chips/", "wiki-chips-hd/", 1)
+              how = "sharpened copy"
+              if os.path.exists(hd):
+                  im = Image.open(hd)
+              else:
+                  im = Image.open(src); how = "original"
+                  if max(im.size) < 700 and os.path.exists(esr):
+                      im.convert("RGB").save("/tmp/in.png")
+                      r = subprocess.run([esr, "-i", "/tmp/in.png", "-o", "/tmp/up.png", "-n", "realesr-animevideov3", "-s", "4",
+                                          "-m", "/tmp/esr/models"], capture_output=True, text=True, timeout=900)
+                      if r.returncode == 0 and os.path.exists("/tmp/up.png"):
+                          im = Image.open("/tmp/up.png"); os.remove("/tmp/up.png"); how = "AI x4"
+              if im.mode in ("RGBA", "LA", "P"):
+                  im = im.convert("RGBA"); bg = Image.new("RGB", im.size, "white"); bg.paste(im, mask=im.getchannel("A")); im = bg
+              else:
+                  im = im.convert("RGB")
+              if max(im.size) < 1000:
+                  f = 1000 / max(im.size); im = im.resize((round(im.width * f), round(im.height * f)), Image.LANCZOS)
+              im.thumbnail((1000, 1000), Image.LANCZOS)
+              im.save(f"chips-final/{cid}.jpg", "JPEG", quality=88, optimize=True)
+              print(f"{i:3}/{len(chips)} {how:15} {time.time() - t:4.0f}s  {cid}")
+          json.dump(sorted(chips), open("chips-final/index.json", "w"))
+          PY
+
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A chips-final
+          git commit -m "Finish bit chips" || echo "No changes"
+          git pull --rebase || true
+          git push
