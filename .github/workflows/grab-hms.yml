@@ -1,8 +1,8 @@
 name: Grab HMS beyblades
 
 # Run it from the Actions tab ("Run workflow").
-# Finds every Heavy Metal System (HMS / MS) Beyblade and HMS part on the Beyblade Wiki,
-# saves their pictures into the "hms-wiki" folder and writes hms-wiki/index.json.
+# Pass 2: adds the HMS Beyblades the first pass missed, grabs a picture of every HMS part,
+# and makes small fast-loading copies of everything in "hms-small".
 on:
   workflow_dispatch:
 
@@ -32,8 +32,10 @@ jobs:
           s = requests.Session()
           s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
           OUT = "hms-wiki"
-          import shutil; shutil.rmtree(OUT, ignore_errors=True)   # start clean (removes the earlier Metal Saga pictures)
           os.makedirs(OUT, exist_ok=True)
+          old = json.load(open(f"{OUT}/index.json")) if os.path.exists(f"{OUT}/index.json") else {"pages": []}
+          done = {p["title"]: p for p in old["pages"] if p.get("images")}
+          print(f"Already saved: {len(done)} pages")
 
           def api(**params):
               params.update(format="json", formatversion="2")
@@ -53,92 +55,38 @@ jobs:
           def members(cat):
               out, cont = [], {}
               while True:
-                  d = api(action="query", list="categorymembers", cmtitle=cat, cmlimit="500", cmtype="page|subcat", **cont)
-                  out += d["query"]["categorymembers"]
+                  d = api(action="query", list="categorymembers", cmtitle=cat, cmlimit="500", cmtype="page", **cont)
+                  out += [m["title"] for m in d["query"]["categorymembers"] if m["ns"] == 0]
                   if "continue" not in d: break
                   cont = d["continue"]; time.sleep(1)
               return out
 
-          # 1) find the wiki's HMS categories
-          cats = set()
-          HMS_CAT = re.compile(r"\bHMS\b|Heavy Metal System", re.I)
-          # Metal Saga (Metal Fight / Fusion / Masters / Fury, 4D, Zero-G) and Burst pages are NOT wanted
-          OTHER = re.compile(r"Metal Saga|Metal Fight|Metal Fusion|Metal Masters|Metal Fury|Hybrid Wheel|4D|Zero-G|Shogun|Burst|Beyblade X|Bakuten|Plastic", re.I)
-          for q in ["HMS", "Heavy Metal System"]:
-              d = api(action="query", list="search", srsearch=q, srnamespace="14", srlimit="50")
-              for r in d["query"]["search"]:
-                  if HMS_CAT.search(r["title"]) and not OTHER.search(r["title"]): cats.add(r["title"])
-          for c in ["Category:Heavy Metal System", "Category:HMS", "Category:HMS Beyblades", "Category:Heavy Metal System Beyblades",
-                    "Category:Beyblades (HMS)", "Category:HMS Parts", "Category:Heavy Metal System Parts"]:
-              d = api(action="query", titles=c)
-              if not d["query"]["pages"][0].get("missing"): cats.add(c)
-          print("HMS categories found:", sorted(cats))
-
-          pages, seen_cats = {}, set()
-          todo = list(cats)
-          while todo:
-              c = todo.pop()
-              if c in seen_cats or len(seen_cats) > 40: continue
-              seen_cats.add(c)
-              for m in members(c):
-                  if m["ns"] == 14:
-                      if HMS_CAT.search(m["title"]) and not OTHER.search(m["title"]): todo.append(m["title"])
-                  elif m["ns"] == 0: pages.setdefault(m["title"], set()).add(c)
-          print(f"Pages from categories: {len(pages)}")
-
-          # 2) also look up each known HMS Beyblade by name, in case a category was missed
-          known = ["Gaia Dragoon MS", "Driger MS", "Draciel MS", "Dragoon MS", "Dranzer MS", "Dragoon MS Ultimate Version",
-                   "Death Gargoyle MS", "Wolborg MS", "Advance Averazer", "Advance Guardian", "Advance Striker",
-                   "Advance Eterner", "Phantom Fox MS", "Dark Leopard MS", "Magical Ape MS", "Round Shell MS",
-                   "Samurai Changer MS", "Aero Knight MS", "Jiraiya MS", "Bloody Devil MS", "Shining God MS"]
-          lookups = {}
-          for name in known:
-              d = api(action="query", list="search", srsearch=name, srnamespace="0", srlimit="3")
-              hits = [r["title"] for r in d["query"]["search"]]
-              lookups[name] = hits
-              print(f"  search {name!r}: {hits}")
-              hits.sort(key=lambda h: (h.lower() != name.lower(), len(h)))   # exact name first, then the shortest
-              for h in hits[:3]:
-                  # the page title must contain every word of the name (e.g. "Driger MS", not "Driger" or "Metal Driger")
-                  hw = set(re.findall(r"[a-z0-9]+", h.lower()))
-                  if all(w in hw for w in re.findall(r"[a-z0-9]+", name.lower())):
-                      pages.setdefault(h, set()).add("search:" + name); break
-              time.sleep(0.5)
-          print(f"Pages to save: {len(pages)}" + chr(10))
-
-          # 3) for each page: categories, main picture, other pictures, start of the page text (for parts)
-          index = []
-          for n, title in enumerate(sorted(pages), 1):
-              pk = make_key(title)
+          def fetch_page(title):
               d = api(action="query", titles=title, prop="categories|pageimages|revisions", cllimit="100",
                       piprop="original|name", rvprop="content", rvslots="main", redirects="1")
               p = d["query"]["pages"][0]
-              if p.get("missing"): continue
-              pcats = " | ".join(c["title"] for c in p.get("categories", []))
-              if OTHER.search(pcats + " " + p["title"]) and not HMS_CAT.search(pcats):
-                  print(f"  skipped (not HMS): {p['title']}"); continue
+              if p.get("missing"): return None
               text = (((p.get("revisions") or [{}])[0].get("slots") or {}).get("main") or {}).get("content", "")
-              entry = {"title": p["title"], "key": pk, "found_by": sorted(pages[title]),
-                       "categories": [c["title"] for c in p.get("categories", [])],
-                       "main_image": p.get("pageimage"), "text": text[:6000], "images": []}
+              return {"title": p["title"], "categories": [c["title"] for c in p.get("categories", [])],
+                      "main_image": p.get("pageimage"), "text": text}
 
-              d = api(action="query", generator="images", titles=p["title"], gimlimit="200", prop="imageinfo", iiprop="url|size|mime")
+          def save_images(entry, folder, limit):
+              d = api(action="query", generator="images", titles=entry["title"], gimlimit="200", prop="imageinfo", iiprop="url|size|mime")
               files = (d.get("query") or {}).get("pages") or []
-              words = set(re.findall(r"[a-z]{3,}", p["title"].lower())) - {"beyblade", "the"}
-              def score(f):
-                  nm = f["title"].lower()
-                  return (0 if entry["main_image"] and nm.endswith(entry["main_image"].lower().replace("_", " ")) else 1,
-                          -sum(w in nm for w in words), nm)
-              files = sorted(files, key=score)
-              os.makedirs(f"{OUT}/{pk}", exist_ok=True)
+              words = set(re.findall(r"[a-z]{3,}", entry["title"].lower())) - {"beyblade", "the", "attack", "ring", "weight", "disk", "running", "core", "bit", "protector"}
+              main = (entry.get("main_image") or "").lower().replace("_", " ")
+              files.sort(key=lambda f: (0 if main and f["title"].lower().endswith(main) else 1,
+                                        -sum(w in f["title"].lower() for w in words), f["title"]))
+              os.makedirs(f"{OUT}/{folder}", exist_ok=True)
+              entry["images"] = []
               for f in files:
-                  if len(entry["images"]) >= 10: break
+                  if len(entry["images"]) >= limit: break
                   info = (f.get("imageinfo") or [{}])[0]
                   url, w, h, mime = info.get("url"), info.get("width", 0), info.get("height", 0), info.get("mime", "")
-                  if not url or not mime.startswith("image/") or "svg" in mime or max(w, h) < 120: continue
+                  if not url or not mime.startswith("image/") or "svg" in mime or max(w, h) < 100: continue
                   ext = {"image/png": "png", "image/jpeg": "jpg", "image/gif": "gif", "image/webp": "webp"}.get(mime, "img")
                   name = make_key(re.sub(r"\.[A-Za-z0-9]+$", "", f["title"].replace("File:", "")))
-                  path = f"{OUT}/{pk}/{name}.{ext}"
+                  path = f"{OUT}/{folder}/{name}.{ext}"
                   try:
                       if not os.path.exists(path):
                           r = s.get(url, timeout=60, headers={"Referer": "https://beyblade.fandom.com/"})
@@ -146,23 +94,100 @@ jobs:
                           Image.open(io.BytesIO(r.content)).verify()
                           open(path, "wb").write(r.content)
                           time.sleep(0.4)
-                      entry["images"].append({"file": f"{pk}/{name}.{ext}", "wiki_name": f["title"], "size": [w, h]})
+                      entry["images"].append({"file": f"{folder}/{name}.{ext}", "wiki_name": f["title"], "size": [w, h]})
                   except Exception as e:
                       print("    picture error", f.get("title"), str(e)[:100])
-              index.append(entry)
-              print(f"{n:3}/{len(pages)} {p['title']}: {len(entry['images'])} pictures (main: {entry['main_image']})")
-              time.sleep(0.8)
 
-          json.dump({"categories": sorted(seen_cats), "lookups": lookups, "pages": index},
-                    open(f"{OUT}/index.json", "w"), indent=1)
-          print(chr(10) + f"Done: {len(index)} pages, {sum(len(x['images']) for x in index)} pictures")
+          # 1) every HMS Beyblade (the wiki files them under "Hard Metal System")
+          titles = set()
+          for c in ["Category:Hard Metal System Beyblades", "Category:Heavy Metal System Beyblades", "Category:HMS Beyblades"]:
+              got = members(c); print(f"{c}: {len(got)}"); titles.update(got)
+          titles.update(["Strata Dragoon MS", "Dark Gargoyle MS", "Wyvern DJ"])
+          titles.update(t for t, p in done.items() if "Category:Beyblades" in p["categories"])   # keep the first pass's Beyblades
+
+          pages = []
+          for n, t in enumerate(sorted(titles), 1):
+              if t in done:
+                  pages.append(done[t]); continue
+              e = fetch_page(t)
+              if not e: print("  missing:", t); continue
+              if "Category:Beyblades" not in e["categories"] and t not in ("Strata Dragoon MS", "Dark Gargoyle MS", "Wyvern DJ"):
+                  print("  skipped (not a Beyblade):", t); continue
+              e["key"] = make_key(e["title"])
+              save_images(e, e["key"], 10)
+              e["text"] = e["text"][:8000]
+              pages.append(e)
+              print(f"{n:3} NEW {e['title']}: {len(e['images'])} pictures")
+              time.sleep(0.8)
+          print(f"HMS Beyblades: {len(pages)}" + chr(10))
+
+          # 2) every part each Beyblade uses (from the info box and the "== Attack Ring: X ==" headings)
+          TYPES = {"BitProtector": "Bit Protector", "AttackRing": "Attack Ring", "WeightDisk": "Weight Disk", "RunningCore": "Running Core"}
+          HEAD = re.compile(r"^==+\s*(Bit Protector|Attack Ring|Weight Disk|Running Core|Spinning Core)\s*:\s*(.+?)\s*==+\s*$", re.M)
+          wanted = {}
+          for p in pages:
+              found = []
+              m = re.search(r"\{\{Beyblade Infobox(.*?)\n\}\}", p["text"], re.S)
+              if m:
+                  for k, v in re.findall(r"\|(\w+)=([^\n|]*)", m.group(1)):
+                      v = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", r"\1", v).strip()
+                      if k in TYPES and v and v.upper() != "N/A": found.append((TYPES[k], v))
+              for typ, name in HEAD.findall(p["text"]):
+                  typ = "Running Core" if typ == "Spinning Core" else typ
+                  name = re.sub(r"\[\[(?:[^|\]]*\|)?([^\]]*)\]\]", r"\1", name).replace("'''", "").strip()
+                  if (typ, name) not in found and typ not in [f[0] for f in found]: found.append((typ, name))
+              p["parts"] = [{"type": t, "name": nm} for t, nm in found]
+              for t, nm in found: wanted.setdefault((t, nm), []).append(p["title"])
+              print(f"  {p['title']}: " + ", ".join(f"{t}={nm}" for t, nm in found))
+          print(f"Different parts: {len(wanted)}" + chr(10))
+
+          parts = []
+          for n, ((typ, name), users) in enumerate(sorted(wanted.items()), 1):
+              e = None
+              for t in [f"{typ} - {name}", f"{typ} - {name} (HMS)", name]:
+                  e = fetch_page(t)
+                  if e: break
+              if not e:
+                  d = api(action="query", list="search", srsearch=f"{typ} {name}", srnamespace="0", srlimit="5")
+                  for r in d["query"]["search"]:
+                      if typ.split()[0].lower() in r["title"].lower() and all(w in r["title"].lower() for w in re.findall(r"[a-z0-9]+", name.lower())[:2]):
+                          e = fetch_page(r["title"]); break
+              item = {"type": typ, "name": name, "used_by": users, "key": make_key(f"{typ} {name}"), "images": []}
+              if e:
+                  item["title"] = e["title"]; item["main_image"] = e["main_image"]
+                  save_images(item, "parts/" + item["key"], 4)
+              print(f"{n:3}/{len(wanted)} {typ}: {name} -> {item.get('title', 'no page')} ({len(item['images'])} pictures)")
+              parts.append(item)
+              time.sleep(0.6)
+
+          json.dump({"pages": pages, "parts": parts}, open(f"{OUT}/index.json", "w"), indent=1)
+
+          # 3) small copies (max 1000px, JPEG) so the app loads them fast
+          made = 0
+          for root, _, files in os.walk(OUT):
+              for f in files:
+                  if f.endswith(".json"): continue
+                  src = os.path.join(root, f)
+                  dst = "hms-small/" + os.path.relpath(src, OUT).rsplit(".", 1)[0] + ".jpg"
+                  if os.path.exists(dst): continue
+                  try:
+                      im = Image.open(src)
+                      if im.mode in ("RGBA", "LA", "P"):
+                          im = im.convert("RGBA"); bg = Image.new("RGB", im.size, "white"); bg.paste(im, mask=im.getchannel("A")); im = bg
+                      else: im = im.convert("RGB")
+                      im.thumbnail((1000, 1000), Image.LANCZOS)
+                      os.makedirs(os.path.dirname(dst), exist_ok=True)
+                      im.save(dst, "JPEG", quality=88, optimize=True); made += 1
+                  except Exception as e:
+                      print("  small copy failed", src, str(e)[:80])
+          print(chr(10) + f"Done: {len(pages)} Beyblades, {len(parts)} parts, {made} small copies")
           PY
 
       - name: Save the results
         run: |
           git config user.name "swipedex-bot"
           git config user.email "swipedex-bot@users.noreply.github.com"
-          git add -A hms-wiki
-          git commit -m "Grab HMS beyblades from the wiki" || echo "No changes"
+          git add -A hms-wiki hms-small
+          git commit -m "Grab HMS beyblades and parts" || echo "No changes"
           git pull --rebase || true
           git push
