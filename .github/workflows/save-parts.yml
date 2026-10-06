@@ -226,19 +226,24 @@ jobs:
               return re.sub(r"[^A-Za-z0-9._-]", "_", urllib.parse.unquote(path).lower())
 
           # The part links in the page's main content (not the site menu), in page order.
-          # Every link to a part page anywhere on the page, in page order (repeats included).
-          # (Google Sites sometimes wraps links as google.com/url?q=..., so those are unwrapped.)
+          # The Beyblade's own parts are the section headings like "Attack Ring: Reverse Dragon".
+          # (Links inside the write-ups mention other parts, so those are ignored.)
           PARTS = """() => {
             const out = [];
-            for (const a of document.querySelectorAll('a[href]')) {
-              let u; try { u = new URL(a.getAttribute('href'), location.href); } catch (e) { continue; }
-              if (u.hostname.endsWith('google.com') && u.searchParams.get('q')) {
-                try { u = new URL(u.searchParams.get('q')); } catch (e) { continue; }
+            for (const h of document.querySelectorAll('h1,h2,h3,h4,h5,h6,[role="heading"]')) {
+              const text = (h.innerText || h.textContent || '').trim();
+              const m = text.match(/^([^:\n]{2,40}):/);
+              if (!m) continue;
+              for (const a of h.querySelectorAll('a[href]')) {
+                let path = null;
+                try {
+                  let u = new URL(a.getAttribute('href'), location.href);
+                  if (u.hostname.endsWith('google.com') && u.searchParams.get('q')) { try { u = new URL(u.searchParams.get('q')); } catch (e) {} }
+                  const segs = u.pathname.split('/').filter(Boolean), i = segs.indexOf('parts');
+                  if (i >= 0 && segs.length - i >= 3) path = segs.slice(i + 1).join('/');
+                } catch (e) {}
+                out.push({label: m[1].trim(), name: (a.innerText || a.textContent || '').trim(), path});
               }
-              const segs = u.pathname.split('/').filter(Boolean), i = segs.indexOf('parts');
-              if (i < 0 || segs.length - i < 3) continue;          // skip category pages
-              const path = segs.slice(i + 1).join('/');
-              out.push({path, name: (a.innerText || a.textContent || '').trim()});
             }
             return out;
           }"""
@@ -278,47 +283,51 @@ jobs:
                   for attempt in range(3):
                       try:
                           photos.clear()
-                          page.goto(url, wait_until="networkidle", timeout=60000)
+                          r = page.goto(url, wait_until="networkidle", timeout=60000)
+                          if r and r.status == 404:
+                              print("    no such page", url); return False
                           return True
                       except Exception as e:
                           print("    retry", url, str(e)[:100]); time.sleep(3 * (attempt + 1))
                   return False
 
               # 0) links that are in the site menu on every page (taken from a page with no parts)
-              # A part linked from a Beyblade's page appears there one more time than on a page with no parts.
-              from collections import Counter
-              menu = Counter()
-              if open_page(SITE + "contact-me"):
-                  menu = Counter(f["path"] for f in page.evaluate(PARTS))
-              print(f"The site menu links to {len(menu)} part pages\n")
+              def category(label):
+                  l = label.lower()
+                  if "bit" in l: return "bit-chips"
+                  if "attack" in l or "ring" in l: return "attack-rings"
+                  if "weight" in l or "disk" in l: return "weight-disks"
+                  if "support" in l: return "support-parts"
+                  if any(w in l for w in ("spin gear", "core", "shell", "tip", "cew", "engine", "shaft", "sg")): return "spin-gears"
+                  if "base" in l: return "blade-bases"
+                  return "misc-parts"
 
-              def content_parts(links):
-                  seen, out = Counter(), []
-                  for f in links:
-                      seen[f["path"]] += 1
-                      if seen[f["path"]] == menu[f["path"]] + 1:   # first link beyond the menu's copies
-                          out.append(f)
-                  return out
+              def slug(name):
+                  return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", name.lower())).strip("-")
 
               # 1) each Beyblade's parts list
               for n, slug in enumerate(slugs, 1):
                   bkey = key(slug)
                   found = []
                   if open_page(SITE + "beyblades/" + slug):
-                      everything = page.evaluate(PARTS)
-                      found = content_parts(everything)
-                      if n <= 3: print(f"    (page had {len(everything)} part links, {len(found)} after removing the menu)")
+                      found = page.evaluate(PARTS)
                   lst = []
+                  seen = set()
                   for f in found:
-                      cat = f["path"].split("/")[0]
-                      name = f["name"] or f["path"].split("/")[-1].replace("-", " ").title()
-                      k = key(f["path"])
+                      name = f["name"] or (f["path"] or "").split("/")[-1].replace("-", " ").title()
+                      if not name: continue
+                      # editor links don't include the public address, so build it from the heading and name
+                      path = f["path"] or (category(f["label"]) + "/" + slug(name))
+                      if path in seen: continue
+                      seen.add(path)
+                      cat = path.split("/")[0]
+                      k = key(path)
+                      f["path"] = path
                       lst.append({"name": name, "type": TYPES.get(cat, cat.replace("-", " ").title()), "key": k, "path": f["path"]})
                       all_parts[k] = f["path"]
                   index[bkey] = lst
-                  print(f"{n:3} {slug}: {len(lst)} parts", "WARNING: unusually many" if len(lst) > 12 else "")
+                  print(f"{n:3} {slug}: " + ", ".join(f"{x['type']}={x['name']}" for x in lst))
 
-              json.dump(index, open("parts/index.json", "w"), indent=1)
               print(f"\n{len(all_parts)} different parts. Saving their photos...\n")
 
               # 2) one photo per part
@@ -346,9 +355,12 @@ jobs:
                               ok = True
                       except Exception as e:
                           print("    error", path, str(e)[:100])
-                  if not ok: missed.append(path)
+                  if not ok: missed.append(k)
                   print(f"{n:3} {'OK  ' if ok else 'MISS'}", path)
               browser.close()
+          for lst in index.values():
+              for x in lst: x["photo"] = x["key"] not in missed
+          json.dump(index, open("parts/index.json", "w"), indent=1)
           print(f"\nDone. Missed photos: {missed}")
           PY
           rm -f slugs.txt shot.png
