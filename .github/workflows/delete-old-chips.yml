@@ -1,0 +1,26 @@
+name: Delete old chip folders
+
+# Run it from the Actions tab ("Run workflow").
+# Removes the old chip folders so you can start fresh in "bitchips".
+# (GitHub keeps the history, so nothing is lost for good.)
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  clean:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Delete the old folders
+        run: |
+          for d in chips chips-hd chips-final wiki-chips wiki-chips-hd; do
+            if [ -d "$d" ]; then git rm -r -q "$d" && echo "Deleted $d"; else echo "No $d folder"; fi
+          done
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git commit -m "Delete old chip folders" || echo "Nothing to delete"
+          git push
