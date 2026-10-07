@@ -1,0 +1,149 @@
+name: Grab bit beasts
+
+# Run it from the Actions tab ("Run workflow").
+# Saves the official artwork from every bit-beast page on the Beyblade Wiki into "bitbeasts-wiki",
+# small fast copies into "bitbeasts-small", and a list in bitbeasts-wiki/index.json.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Save bit-beast pictures from the wiki
+        run: |
+          pip install requests pillow >/dev/null
+          python -u - <<'PY'
+          import io, json, os, re, time
+          import requests
+          from PIL import Image
+
+          API = "https://beyblade.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT, SMALL = "bitbeasts-wiki", "bitbeasts-small"
+          os.makedirs(OUT, exist_ok=True)
+
+          def api(**params):
+              params.update(format="json", formatversion="2")
+              for attempt in range(4):
+                  try:
+                      r = s.get(API, params=params, timeout=60)
+                      if r.status_code == 200: return r.json()
+                      print("    api status", r.status_code)
+                  except Exception as e:
+                      print("    api error", str(e)[:100])
+                  time.sleep(5 * (attempt + 1))
+              raise SystemExit("The wiki's API isn't answering")
+
+          def make_key(t):
+              return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
+
+          def members(cat):
+              out, cont = [], {}
+              while True:
+                  d = api(action="query", list="categorymembers", cmtitle=cat, cmlimit="500", cmtype="page|subcat", **cont)
+                  out += d["query"]["categorymembers"]
+                  if "continue" not in d: break
+                  cont = d["continue"]; time.sleep(1)
+              return out
+
+          BEAST = re.compile(r"bit[- ]?beast", re.I)
+          # Metal Saga / Burst / X "beasts" are a different thing; Bit Chip pages were saved by the chip job
+          OTHER = re.compile(r"Metal Saga|Metal Fight|Metal Fusion|Metal Masters|Metal Fury|Burst|Beyblade X|Shogun|Zero-G|Bit Chip|Episode|Character", re.I)
+
+          # 1) find the bit-beast categories
+          cats = set()
+          for q in ["Bit-Beasts", "Bit Beasts", "Bit-Beast"]:
+              d = api(action="query", list="search", srsearch=q, srnamespace="14", srlimit="50")
+              for r in d["query"]["search"]:
+                  if BEAST.search(r["title"]) and not OTHER.search(r["title"]): cats.add(r["title"])
+          for c in ["Category:Bit-Beasts", "Category:Bit Beasts", "Category:Bit-Beast"]:
+              if not api(action="query", titles=c)["query"]["pages"][0].get("missing"): cats.add(c)
+          print("Bit-beast categories:", sorted(cats))
+
+          pages, seen, todo = {}, set(), list(cats)
+          while todo:
+              c = todo.pop()
+              if c in seen or len(seen) > 30: continue
+              seen.add(c)
+              for m in members(c):
+                  if m["ns"] == 14 and BEAST.search(m["title"]) and not OTHER.search(m["title"]): todo.append(m["title"])
+                  elif m["ns"] == 0 and "/" not in m["title"]: pages.setdefault(m["title"], set()).add(c)   # skip /fr, /it copies
+          print(f"Bit-beast pages: {len(pages)}" + chr(10))
+
+          # 2) every page: main picture first, then the other pictures (up to 12)
+          index, made = [], 0
+          for n, title in enumerate(sorted(pages), 1):
+              d = api(action="query", titles=title, prop="categories|pageimages|revisions", cllimit="100",
+                      piprop="name", rvprop="content", rvslots="main", redirects="1")
+              p = d["query"]["pages"][0]
+              if p.get("missing"): continue
+              cats_p = [c["title"] for c in p.get("categories", [])]
+              if OTHER.search(" ".join(cats_p)) and not BEAST.search(" ".join(cats_p)):
+                  print("  skipped:", p["title"]); continue
+              text = (((p.get("revisions") or [{}])[0].get("slots") or {}).get("main") or {}).get("content", "")
+              key = make_key(p["title"])
+              entry = {"title": p["title"], "key": key, "categories": cats_p, "main_image": p.get("pageimage"),
+                       "text": text[:3000], "images": []}
+              d = api(action="query", generator="images", titles=p["title"], gimlimit="200", prop="imageinfo", iiprop="url|size|mime")
+              files = (d.get("query") or {}).get("pages") or []
+              main = (entry["main_image"] or "").lower().replace("_", " ")
+              words = set(re.findall(r"[a-z]{3,}", p["title"].lower()))
+              files.sort(key=lambda f: (0 if main and f["title"].lower().endswith(main) else 1,
+                                        0 if re.search(r"settei|official|art|render|beast", f["title"], re.I) else 1,
+                                        -sum(w in f["title"].lower() for w in words), f["title"]))
+              os.makedirs(f"{OUT}/{key}", exist_ok=True)
+              for f in files:
+                  if len(entry["images"]) >= 12: break
+                  info = (f.get("imageinfo") or [{}])[0]
+                  url, w, h, mime = info.get("url"), info.get("width", 0), info.get("height", 0), info.get("mime", "")
+                  if not url or not mime.startswith("image/") or "svg" in mime or "gif" in mime or max(w, h) < 200: continue
+                  ext = {"image/png": "png", "image/jpeg": "jpg", "image/webp": "webp"}.get(mime, "img")
+                  # the extension stays in the name, so two files with the same name never overwrite each other
+                  name = make_key(f["title"].replace("File:", ""))
+                  path = f"{OUT}/{key}/{name}.{ext}"
+                  try:
+                      if not os.path.exists(path):
+                          r = s.get(url, timeout=60, headers={"Referer": "https://beyblade.fandom.com/"})
+                          if r.status_code != 200: print("    picture status", r.status_code, f["title"]); continue
+                          Image.open(io.BytesIO(r.content)).verify()
+                          open(path, "wb").write(r.content); time.sleep(0.4)
+                      small = f"{SMALL}/{key}/{name}.jpg"
+                      if not os.path.exists(small):
+                          im = Image.open(path)
+                          if im.mode in ("RGBA", "LA", "P"):
+                              im = im.convert("RGBA"); bg = Image.new("RGB", im.size, "white"); bg.paste(im, mask=im.getchannel("A")); im = bg
+                          else: im = im.convert("RGB")
+                          im.thumbnail((1000, 1000), Image.LANCZOS)
+                          os.makedirs(os.path.dirname(small), exist_ok=True)
+                          im.save(small, "JPEG", quality=88, optimize=True); made += 1
+                      entry["images"].append({"file": f"{key}/{name}.{ext}", "small": small, "wiki_name": f["title"], "size": [w, h]})
+                  except Exception as e:
+                      print("    picture error", f.get("title"), str(e)[:100])
+              index.append(entry)
+              print(f"{n:3}/{len(pages)} {p['title']}: {len(entry['images'])} pictures (main: {entry['main_image']})")
+              time.sleep(0.8)
+
+          json.dump({"categories": sorted(seen), "pages": index}, open(f"{OUT}/index.json", "w"), indent=1)
+          print(chr(10) + f"Done: {len(index)} bit beasts, {sum(len(x['images']) for x in index)} pictures, {made} small copies")
+          PY
+
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A bitbeasts-wiki bitbeasts-small
+          git commit -m "Grab bit beasts from the wiki" || echo "No changes"
+          git pull --rebase || true
+          git push
