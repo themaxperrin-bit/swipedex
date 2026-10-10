@@ -1,0 +1,72 @@
+{
+ "hub": "https://beycentral.com/metal-fight-collection/",
+ "sections": [
+  {
+   "url": "https://beycentral.com/",
+   "label": "BeyCentral",
+   "page": "pages/home.html",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Home",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "WELCOME TO BEYCENTRAL",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "Home to the largest Beyblade collection in the world!",
+     "code": ""
+    },
+    {
+     "type": "photo",
+     "src": "https://beycentral.com/wp-content/uploads/2025/02/baner.jpg",
+     "alt": "Enter",
+     "file": "baner.jpg",
+     "size": [
+      5250,
+      2500
+     ]
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "PLASTIC COLLECTION NOW AVAILABLE FOR VIEWING",
+     "code": ""
+    },
+    {
+     "type": "photo",
+     "src": "https://beycentral.com/wp-content/uploads/2025/02/DSC_7659.jpg",
+     "alt": "",
+     "file": "dsc-7659.jpg",
+     "size": [
+      5250,
+      2500
+     ]
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "SHOGUN STEEL NOW AVAILABLE FOR VIEWING",
+     "code": ""
+    },
+    {
+     "type": "photo",
+     "src": "https://beycentral.com/wp-content/uploads/2025/02/DSC_7643.jpg",
+     "alt": "",
+     "file": "dsc-7643.jpg",
+     "size": [
+      5250,
+      2500
+     ]
+    }
+   ]
+  }
+ ]
+}
