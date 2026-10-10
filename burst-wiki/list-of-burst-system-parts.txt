@@ -1,0 +1,778 @@
+This is a list of all parts included within the [[Burst System]] and its sub-system, the [[Dual Layer System]]. Parts listed on the page are from both [[Takara Tomy]] and [[Hasbro]].
+
+==Single Layers==
+{| class="wikitable sortable" style="width:100%; text-align:center;"
+|-
+! style="width:10%" |Abbr.
+! style="width:20%" |Image
+!Takara Tomy Version
+! style="width:20%" |Image
+!Hasbro Version
+|-
+!α
+|[[File:LayerAmaterios.png|100px]]
+|[[Layer - Amaterios|Amaterios]]
+|N/A
+|N/A
+|-
+!C
+|[[File:LayerChaos.png|100px]]
+|[[Layer - Chaos|Chaos]]
+|[[File:LayerCaynox.png|100px]]
+|[[Layer - Caynox|Caynox]]
+|-
+!D
+|[[File:LayerDeathscyther.png|100px]]
+|[[Layer - Deathscyther|Deathscyther]]
+|[[File:LayerDoomscizor.png|100px]]
+|[[Layer - Doomscizor|Doomscizor]]
+|-
+!E
+|[[File:LayerEvileye.png|100px]]
+|[[Layer - Evil-eye|Evil-eye]]
+|[[File:LayerEvipero.png|100px]]
+|[[Layer - Evipero|Evipero]]
+|-
+!H
+|[[File:LayerHorusood.png|100px]]
+|[[Layer - Horusood (Takara Tomy)|Horusood]]
+|[[File:LayerHorusoodHasbro.png|100px]]
+|[[Layer - Horusood (Hasbro)|Horusood]]
+|-
+!K
+|[[File:LayerKerbeus.png|100px]]
+|[[Layer - Kerbeus (Takara Tomy)|Kerbeus]]
+|[[File:LayerKerbeusHasbro.png|100px]]
+|[[Layer - Kerbeus (Hasbro)|Kerbeus]]
+|-
+!M
+|[[File:LayerMinoboros.png|100px]]
+|[[Layer - Minoboros (Takara Tomy)|Minoboros]]
+|[[File:LayerMinoborosHasbro.png|100px]]
+|[[Layer - Minoboros (Hasbro)|Minoboros]]
+|-
+!N
+|[[File:LayerNeptune.png|100px]]
+|[[Layer - Neptune|Neptune]]
+|[[File:LayerNepstrius.png|100px]]
+|[[Layer - Nepstrius|Nepstrius]]
+|-
+!O
+|[[File:LayerOdin.png|100px]]
+|[[Layer - Odin|Odin]]
+|[[File:LayerOdax.png|100px]]
+|[[Layer - Odax|Odax]]
+|-
+!R
+|[[File:LayerRagnaruk.png|100px]]
+|[[Layer - Ragnaruk|Ragnaruk]]
+|[[File:LayerRoktavor.png|100px]]
+|[[Layer - Roktavor|Roktavor]]
+|-
+!S
+|[[File:LayerSpriggan.png|100px]]
+|[[Layer - Spriggan|Spriggan]]
+|[[File:LayerSpryzen.png|100px]]
+|[[Layer - Spryzen|Spryzen]]
+|-
+!T
+|[[File:LayerTrident.png|100px]]
+|[[Layer - Trident|Trident]]
+|[[File:LayerTreptune.png|100px]]
+|[[Layer - Treptune|Treptune]]
+|-
+!U
+|[[File:LayerUnicorn.png|100px]]
+|[[Layer - Unicorn|Unicorn]]
+|[[File:LayerUnicrest.png|100px]]
+|[[Layer - Unicrest|Unicrest]]
+|-
+!V
+|[[File:LayerValkyrie.png|100px]]
+|[[Layer - Valkyrie|Valkyrie]]
+|[[File:LayerValtryek.png|100px]]
+|[[Layer - Valtryek|Valtryek]]
+|-
+!W
+|[[File:LayerWyvern.png|100px]]
+|[[Layer - Wyvern|Wyvern]]
+|[[File:LayerWyvron.png|100px]]
+|[[Layer - Wyvron|Wyvron]]
+|-
+!X
+|[[File:LayerXcalibur.png|100px]]
+|[[Layer - Xcalibur|Xcalibur]]
+|[[File:LayerXcalius.png|100px]]
+|[[Layer - Xcalius|Xcalius]]
+|-
+!Y
+|[[File:LayerYggdrasil.png|100px]]
+|[[Layer - Yggdrasil|Yggdrasil]]
+|[[File:LayerYegdrion.png|100px]]
+|[[Layer - Yegdrion|Yegdrion]]
+|}
+
+==Dual Layers==
+{| class="wikitable sortable" style="width:100%; text-align:center;"
+|-
+! style="width:10%" |Abbr.
+! style="width:20%" |Image
+!Takara Tomy Version
+! style="width:20%" |Image
+!Hasbro Version
+|-
+!A2
+|[[File:LayerAcidAnubis.png|100px]]
+|[[Layer - Acid Anubis|Acid Anubis]]
+|[[File:LayerAtlasAnubionA2.png|100px]]
+|[[Layer - Atlas Anubion A2|Atlas Anubion A2]]
+|-
+!ß
+|[[File:LayerBaldur.png|100px]]
+|[[Layer - Baldur|Baldur]]
+|N/A
+|N/A
+|-
+!B2
+|[[File:LayerBeastBehemoth.png|100px]]
+|[[Layer - Beast Behemoth|Beast Behemoth]]
+|[[File:LayerBeastBetromothB2.png|100px]]
+|[[Layer - Beast Betromoth B2|Beast Betromoth B2]]
+|-
+!D2
+|[[File:LayerDarkDeathscyther.png|100px]]
+|[[Layer - Dark Deathscyther|Dark Deathscyther]]
+|[[File:LayerDarkDoomscizorD2.png|100px]]
+|[[Layer - Dark Doomscizor D2|Dark Doomscizor D2]]
+|-
+!{{Tooltip|D2|Hasbro Exclusive}}
+|N/A
+|N/A
+|[[File:LayerDiomedesD2.png|100px]]
+|[[Layer - Diomedes D2|Diomedes D2]]
+|-
+!E2
+|[[File:LayerExceedEvileye.png|100px]]
+|[[Layer - Exceed Evil-eye|Exceed Evil-eye]]
+|[[File:LayerEpicEviperoE2.png|100px]]
+|[[Layer - Epic Evipero E2|Epic Evipero E2]]
+|-
+!F2
+|[[File:LayerFangFenrir.png|100px]]
+|[[Layer - Fang Fenrir|Fang Fenrir]]
+|[[File:LayerFerroFengriffF2.png|100px]]
+|[[Layer - Ferro Fengriff F2|Ferro Fengriff F2]]
+|-
+!G2
+|[[File:LayerGigantGaia.png|100px]]
+|[[Layer - Gigant Gaia|Gigant Gaia]]
+|[[File:LayerGigaGaianonG2.png|100px]]
+|[[Layer - Giga Gaianon G2|Giga Gaianon G2]]
+|-
+!H2
+|[[File:LayerHolyHorusood.png|100px]]
+|[[Layer - Holy Horusood|Holy Horusood]]
+|[[File:LayerHyperHorusoodH2.png|100px]]
+|[[Layer - Hyper Horusood H2|Hyper Horusood H2]]
+|-
+!{{Tooltip|H2|Hasbro Exclusive}}
+|N/A
+|N/A
+|[[File:LayerHyrusH2.png|100px]]
+|[[Layer - Hyrus H2|Hyrus H2]]
+|-
+!I2
+|[[File:LayerInfernoIfrit.png|100px]]
+|[[Layer - Inferno Ifrit|Inferno Ifrit]]
+|[[File:LayerInfernoIfritorI2.png|100px]]
+|[[Layer - Inferno Ifritor I2|Inferno Ifritor I2]]
+|-
+!{{Tooltip|I2|Hasbro Exclusive}}
+|N/A
+|N/A
+|[[File:LayerIstrosI2.png|100px]]
+|[[Layer - Istros I2|Istros I2]]
+|-
+!J2
+|[[File:LayerJailJormungand.png|100px]]
+|[[Layer - Jail Jormungand|Jail Jormungand]]
+|[[File:LayerJumboJormuntorJ2.png|100px]]
+|[[Layer - Jumbo Jormuntor J2|Jumbo Jormuntor J2]]
+|-
+!K2
+|[[File:LayerKaiserKerbeus.png|100px]]
+|[[Layer - Kaiser Kerbeus|Kaiser Kerbeus]]
+|[[File:LayerKingKerbeusK2.png|100px]]
+|[[Layer - King Kerbeus K2|King Kerbeus K2]]
+|-
+!L2
+|[[File:LayerLostLonginus.png|100px]]
+|[[Layer - Lost Longinus|Lost Longinus]]
+|[[File:LayerLostLuinorL2.png|100px]]
+|[[Layer - Lost Luinor L2|Lost Lúinor L2]]
+|-
+!M2
+|[[File:LayerMadMinoboros.png|100px]]
+|[[Layer - Mad Minoboros|Mad Minoboros]]
+|[[File:LayerMadMinoborosM2.png|100px]]
+|[[Layer - Mad Minoboros M2|Mad Minoboros M2]]
+|-
+!N2
+|[[File:LayerNovaNeptune.png|100px]]
+|[[Layer - Nova Neptune|Nova Neptune]]
+|[[File:LayerNovaNepstriusN2.png|100px]]
+|[[Layer - Nova Nepstrius N2|Nova Nepstrius N2]]
+|-
+!O2
+|[[File:LayerObeliskOdin.png|100px]]
+|[[Layer - Obelisk Odin|Obelisk Odin]]
+|[[File:LayerOmniOdaxO2.png|100px]]
+|[[Layer - Omni Odax O2|Omni Odax O2]]
+|-
+!{{Tooltip|O2|Hasbro Exclusive}}
+|N/A
+|N/A
+|[[File:LayerOrpheusO2.png|100px]]
+|[[Layer - Orpheus O2|Orpheus O2]]
+|-
+!P2
+|[[File:LayerPsychicPhantom.png|100px]]
+|[[Layer - Psychic Phantom|Psychic Phantom]]
+|[[File:LayerPhrenicPhantazusP2.png|100px]]
+|[[Layer - Phrenic Phantazus P2|Phrenic Phantazus P2]]
+|-
+!Q2
+|[[File:LayerQuadQuetzalcoatl.png|100px]]
+|[[Layer - Quad Quetzalcoatl|Quad Quetzalcoatl]]
+|[[File:LayerQuillQuetzikoQ2.png|100px]]
+|[[Layer - Quill Quetziko Q2|Quill Quetziko Q2]]
+|-
+!R2
+|[[File:LayerRisingRagnaruk.png|100px]]
+|[[Layer - Rising Ragnaruk|Rising Ragnaruk]]
+|[[File:LayerRagingRoktavorR2.png|100px]]
+|[[Layer - Raging Roktavor R2|Raging Roktavor R2]]
+|-
+!S2
+|[[File:LayerStormSpriggan.png|100px]]
+|[[Layer - Storm Spriggan|Storm Spriggan]]
+|[[File:LayerStormSpryzenS2.png|100px]]
+|[[Layer - Storm Spryzen S2|Storm Spryzen S2]]
+|-
+!{{Tooltip|S2|Hasbro Exclusive}}
+|N/A
+|N/A
+|[[File:LayerSurtrS2.png|100px]]
+|[[Layer - Surtr S2|Surtr S2]]
+|-
+!{{Tooltip|T2|Hasbro Exclusive}}
+|N/A
+|N/A
+|[[File:LayerTyrosT2.png|100px]]
+|[[Layer - Tyros T2|Tyros T2]]
+|-
+!U2
+|[[File:LayerUnlockUnicorn.png|100px]]
+|[[Layer - Unlock Unicorn|Unlock Unicorn]]
+|[[File:LayerUberUnicrestU2.png|100px]]
+|[[Layer - Uber Unicrest U2|Über Unicrest U2]]
+|-
+!V2
+|[[File:LayerVictoryValkyrie.png|100px]]
+|[[Layer - Victory Valkyrie|Victory Valkyrie]]
+|[[File:LayerVictoryValtryekV2.png|100px]]
+|[[Layer - Victory Valtryek V2|Victory Valtryek V2]]
+|-
+!W2
+|[[File:LayerWildWyvern.png|100px]]
+|[[Layer - Wild Wyvern|Wild Wyvern]]
+|[[File:LayerWildWyvronW2.png|100px]]
+|[[Layer - Wild Wyvron W2|Wild Wyvron W2]]
+|-
+!X2
+|[[File:LayerXenoXcalibur.png|100px]]
+|[[Layer - Xeno Xcalibur|Xeno Xcalibur]]
+|[[File:LayerXenoXcaliusX2.png|100px]]
+|[[Layer - Xeno Xcalius X2|Xeno Xcalius X2]]
+|-
+!Y2
+|[[File:LayerYaegerYggdrasil.png|100px]]
+|[[Layer - Yaeger Yggdrasil|Yaeger Yggdrasil]]
+|[[File:LayerYugenYegdrionY2.png|100px]]
+|[[Layer - Yugen Yegdrion Y2|Yugen Yegdrion Y2]]
+|-
+!Z2
+|[[File:LayerZillionZeus.png|100px]]
+|[[Layer - Zillion Zeus|Zillion Zeus]]
+|[[File:LayerZillionZeutronZ2.png|100px]]
+|[[Layer - Zillion Zeutron Z2|Zillion Zeutron Z2]]
+|}
+
+==Original Series Remakes==
+{| class="wikitable sortable" style="width:100%; text-align:center;"
+|-
+! style="width:10%" |Abbr.
+! style="width:20%" |Image
+!Takara Tomy Version
+! style="width:20%" |Image
+!Hasbro Version
+|-
+!DC
+|[[File:LayerDracielF.png|100px]]
+|[[Layer - Draciel Fortress (Takara Tomy)|Draciel Fortress]]
+|[[File:LayerDracielFortressHasbro.png|100px]]
+|[[Layer - Draciel Fortress (Hasbro)|Draciel Fortress]]
+|-
+!DC
+|[[File:LayerDracielS.png|100px]]
+|[[Layer - Draciel Shield (Takara Tomy)|Draciel Shield]]
+|[[File:LayerDracielSHasbro.png|100px]]
+|[[Layer - Draciel Shield (Hasbro)|Draciel Shield]]
+|-
+!DC
+|[[File:LayerDracielV2.png|100px]]
+|[[Layer - Draciel V2|Draciel V2]]
+|N/A
+|N/A
+|-
+!DC
+|[[File:LayerDracielV.png|100px]]
+|[[Layer - Draciel Viper|Draciel Viper]]
+|N/A
+|N/A
+|-
+!DG
+|[[File:LayerDragoonF.png|100px]]
+|[[Layer - Dragoon Fantom|Dragoon Fantom]]
+|[[File:LayerDragoonFHasbro.png|100px]]
+|[[Layer - Dragoon Fighter|Dragoon Fighter]]
+|-
+!DG
+|[[File:LayerDragoonS.png|100px]]
+|[[Layer - Dragoon Storm (Takara Tomy)|Dragoon Storm]]
+|[[File:LayerDragoonSHasbro.png|100px]]
+|[[Layer - Dragoon Storm (Hasbro)|Dragoon Storm]]
+|-
+!DG
+|[[File:LayerDragoonV2.png|100px]]
+|[[Layer - Dragoon V2|Dragoon V2]]
+|N/A
+|N/A
+|-
+!DG
+|[[File:LayerDragoonV.png|100px]]
+|[[Layer - Dragoon Victory|Dragoon Victory]]
+|N/A
+|N/A
+|-
+!DZ
+|[[File:LayerDranzerF.png|100px]]
+|[[Layer - Dranzer Flame (Takara Tomy)|Dranzer Flame]]
+|[[File:LayerDranzerFHasbro.png|100px]]
+|[[Layer - Dranzer Flame (Hasbro)|Dranzer Flame]]
+|-
+!DZ
+|[[File:LayerDranzerS.png|100px]]
+|[[Layer - Dranzer Spiral (Takara Tomy)|Dranzer Spiral]]
+|[[File:LayerDranzerSHasbro.png|100px]]
+|[[Layer - Dranzer Spiral (Hasbro)|Dranzer Spiral]]
+|-
+!DZ
+|[[File:LayerDranzerV2.png|100px]]
+|[[Layer - Dranzer V2|Dranzer V2]]
+|N/A
+|N/A
+|-
+!DZ
+|[[File:LayerDranzerV.png|100px]]
+|[[Layer - Dranzer Volcano|Dranzer Volcano]]
+|N/A
+|N/A
+|-
+!DR
+|[[File:LayerDrigerS.png|100px]]
+|[[Layer - Driger Slash (Takara Tomy)|Driger Slash]]
+|[[File:LayerDrigerSHasbro.png|100px]]
+|[[Layer - Driger Slash (Hasbro)|Driger Slash]]
+|-
+!DR
+|[[File:LayerDrigerFang.png|100px]]
+|[[Layer - Driger Fang (Takara Tomy)|Driger Fang]]
+|[[File:LayerDrigerFangRender.png|100px]]
+|[[Layer - Driger Fang (Hasbro)|Driger Fang]]
+|-
+!DR
+|[[File:LayerDrigerV2.png|100px]]
+|[[Layer - Driger V2|Driger V2]]
+|N/A
+|N/A
+|-
+!DR
+|[[File:LayerDrigerV.png|100px]]
+|[[Layer - Driger Vulcan|Driger Vulcan]]
+|N/A
+|N/A
+|-
+!GD
+|[[File:LayerGaiaDragoon.png|100px]]
+|[[Layer - Gaia Dragoon|Gaia Dragoon]]
+|N/A
+|N/A
+|-
+!GD
+|[[File:LayerGaiaDragoonV.png|100px]]
+|[[Layer - Gaia Dragoon Vurst|Gaia Dragoon Vurst]]
+|N/A
+|N/A
+|-
+!WB
+|[[File:LayerWolborg.png|100px]]
+|[[Layer - Wolborg (Takara Tomy)|Wolborg]]
+|[[File:LayerWolborgHasbro.png|100px]]
+|[[Layer - Wolborg (Hasbro)|Wolborg]]
+|}
+
+==Metal Series Remakes==
+{| class="wikitable sortable" style="width:100%; text-align:center;"
+|-
+! style="width:10%" |Abbr.
+! style="width:20%" |Image
+! style="width:20%" |Name
+|-
+!BP
+|[[File:LayerBurnPhoenix.png|100px]]
+|[[Layer - Burn Phoenix|Burn Phoenix]]
+|-
+!EA
+|[[File:LayerEarthAquila.png|100px]]
+|[[Layer - Earth Aquila|Earth Aquila]]
+|-
+!FS
+|[[File:LayerFlameSagittario.png|100px]]
+|[[Layer - Flame Sagittario|Flame Sagittario]]
+|-
+!GP
+|[[File:LayerGalaxyPegasis.png|100px]]
+|[[Layer - Galaxy Pegasis|Galaxy Pegasis]]
+|-
+!GP
+|[[File:LayerGravityPerseus.png|100px]]
+|[[Layer - Gravity Perseus|Gravity Perseus]]
+|-
+!HK
+|[[File:LayerHellKerbecs.png|100px]]
+|[[Layer - Hell Kerbecs|Hell Kerbecs]]
+|-
+!LL
+|[[File:LayerLightningL-Drago.png|100px]]
+|[[Layer - Lightning L-Drago|Lightning L-Drago]]
+|-
+!ML
+|[[File:LayerMeteoL-Drago.png|100px]]
+|[[Layer - Meteo L-Drago|Meteo L-Drago]]
+|-
+!RU
+|[[File:LayerRayUnicorno.png|100px]]
+|[[Layer - Ray Unicorno|Ray Unicorno]]
+|-
+!RL
+|[[File:LayerRockLeone.png|100px]]
+|[[Layer - Rock Leone|Rock Leone]]
+|-
+!SP
+|[[File:LayerStormPegasis.png|100px]]
+|[[Layer - Storm Pegasis|Storm Pegasis]]
+|}
+
+==Discs==
+{| class="wikitable sortable" style="width:100%; text-align:center;"
+|-
+! style="width:10%" |Abbr.
+! style="width:20%" |Image
+! style="width:20%" |Name
+! style="width:20%" |Hasbro Part Code
+|-
+!α
+|[[File:DiskAero.png|100px]]
+|[[Disc - Aero|Aero]]
+|N/A
+|-
+!A
+|[[File:DiskArmed.png|100px]]
+|[[Disc - Armed|Armed]]
+|D10
+|-
+!B
+|[[File:DiskBoost.png|100px]]
+|[[Disc - Boost|Boost]]
+|D01
+|-
+!ß
+|[[File:DiskBumper.png|100px]]
+|[[Disc - Bumper|Bumper]]
+|N/A
+|-
+!C
+|[[File:DiskCentral.png|100px]]
+|[[Disc - Central|Central]]
+|D08
+|-
+!D
+|[[File:DiskDown.png|100px]]
+|[[Disc - Down|Down]]
+|D15
+|-
+!F
+|[[File:DiskForce.png|100px]]
+|[[Disc - Force|Force]]
+|D11
+|-
+!G
+|[[File:DiskGravity.png|100px]]
+|[[Disc - Gravity|Gravity]]
+|D03
+|-
+!H
+|[[File:DiskHeavy.png|100px]]
+|[[Disc - Heavy|Heavy]]
+|D07
+|-
+!I
+|[[File:DiskInfinity.png|100px]]
+|[[Disc - Infinity|Infinity]]
+|D20
+|-
+!J
+|[[File:DiskJerk.png|100px]]
+|[[Disc - Jerk|Jerk]]
+|D24
+|-
+!K
+|[[File:DiskKnuckle.png|100px]]
+|[[Disc - Knuckle|Knuckle]]
+|D02
+|-
+!L
+|[[File:DiskLimited.png|100px]]
+|[[Disc - Limited|Limited]]
+|D04
+|-
+!M
+|[[File:DiskMagnum.png|100px]]
+|[[Disc - Magnum|Magnum]]
+|D19
+|-
+!N
+|[[File:DiskNine.png|100px]]
+|[[Disc - Nine|Nine]]
+|D23
+|-
+!O
+|[[File:DiskOval.png|100px]]
+|[[Disc - Oval|Oval]]
+|D13
+|-
+!P
+|[[File:DiskPolish.png|100px]]
+|[[Disc - Polish|Polish]]
+|D22
+|-
+!Q
+|[[File:DiskQuarter.png|100px]]
+|[[Disc - Quarter|Quarter]]
+|D21
+|-
+!R
+|[[File:DiskRing.png|100px]]
+|[[Disc - Ring|Ring]]
+|D09
+|-
+!S
+|[[File:DiskSpread.png|100px]]
+|[[Disc - Spread|Spread]]
+|D06
+|-
+!T
+|[[File:DiskTriple.png|100px]]
+|[[Disc - Triple|Triple]]
+|D16
+|-
+!U
+|[[File:DiskUpper.png|100px]]
+|[[Disc - Upper|Upper]]
+|D14
+|-
+!V
+|[[File:DiskVertical.png|100px]]
+|[[Disc - Vertical|Vertical]]
+|D12
+|-
+!W
+|[[File:DiskWing.png|100px]]
+|[[Disc - Wing|Wing]]
+|D05
+|-
+!Y
+|[[File:DiskYell.png|100px]]
+|[[Disc - Yell|Yell]]
+|D25
+|}
+
+==Drivers==
+{| class="wikitable sortable" style="width:100%; text-align:center;"
+|-
+! style="width:10%" |Abbr.
+! style="width:20%" |Image
+! style="width:20%" |Name
+! style="width:20%" |Hasbro Part Code
+|-
+!A
+|[[File:DriverAccel.png|100px]]
+|[[Driver - Accel|Accel]]
+|TA01
+|-
+!α
+|[[File:DriverAssault.png|100px]]
+|[[Driver - Assault|Assault]]
+|N/A
+|-
+!ß
+|[[File:DriverBite.png|100px]]
+|[[Driver - Bite|Bite]]
+|N/A
+|-
+!B
+|[[File:DriverBlow.png|100px]]
+|[[Driver - Blow|Blow]]
+|TA03
+|-
+!C
+|[[File:DriverClaw.png|100px]]
+|[[Driver - Claw|Claw]]
+|TS02
+|-
+!Cy
+|[[File:DriverCycle.png|100px]]
+|[[Driver - Cycle|Cycle]]
+|TS08
+|-
+!D
+|[[File:DriverDefense.png|100px]]
+|[[Driver - Defense|Defense]]
+|TD01
+|-
+!E
+|[[File:DriverEdge.png|100px]]
+|[[Driver - Edge|Edge]]
+|TS03
+|-
+!F
+|[[File:DriverFusion.png|100px]]
+|[[Driver - Fusion|Fusion]]
+|TB01
+|-
+!G
+|[[File:DriverGyro.png|100px]]
+|[[Driver - Gyro|Gyro]]
+|TS04
+|-
+!H
+|[[File:DriverHold.png|100px]]
+|[[Driver - Hold|Hold]]
+|TA09
+|-
+!I
+|[[File:DriverImpact.png|100px]]
+|[[Driver - Impact|Impact]]
+|TA08
+|-
+!J
+|[[File:DriverJaggy.png|100px]]
+|[[Driver - Jaggy|Jaggy]]
+|TA07
+|-
+!L
+|[[File:DriverLiner.png|100px]]
+|[[Driver - Liner|Liner]]
+|TB05
+|-
+!M
+|[[File:DriverMassive.png|100px]]
+|[[Driver - Massive|Massive]]
+|TD02
+|-
+!N
+|[[File:DriverNeedle.png|100px]]
+|[[Driver - Needle|Needle]]
+|TD03
+|-
+!O
+|[[File:DriverOrbit.png|100px]]
+|[[Driver - Orbit|Orbit]]
+|TD05
+|-
+!P
+|[[File:DriverPress.png|100px]]
+|[[Driver - Press|Press]]
+|TD04
+|-
+!Q
+|[[File:DriverQuake.png|100px]]
+|[[Driver - Quake|Quake]]
+|TA04
+|-
+!R
+|[[File:DriverRevolve.png|100px]]
+|[[Driver - Revolve|Revolve]]
+|TS05
+|-
+|-
+!Sp
+|[[File:DriverSpiral.png|100px]]
+|[[Driver - Spiral|Spiral]]
+|TA10
+|-
+!S
+|[[File:DriverSurvive.png|100px]]
+|[[Driver - Survive|Survive]]
+|TS01
+|-
+!T
+|[[File:DriverTrans.png|100px]]
+|[[Driver - Trans|Trans]]
+|TB04
+|-
+!U
+|[[File:DriverUnite.png|100px]]
+|[[Driver - Unite|Unite]]
+|TB03
+|-
+!V
+|[[File:DriverVariable.png|100px]]
+|[[Driver - Variable|Variable]]
+|TA06
+|-
+!W
+|[[File:DriverWeight.png|100px]]
+|[[Driver - Weight|Weight]]
+|TS09
+|-
+!X
+|[[File:DriverXtreme.png|100px]]
+|[[Driver - Xtreme|Xtreme]]
+|TA05
+|-
+!Y
+|[[File:DriverYielding.png|100px]]
+|[[Driver - Yielding|Yielding]]
+|N/A
+|-
+!Z
+|[[File:DriverZephyr.png|100px]]
+|[[Driver - Zephyr|Zephyr]]
+|TB02
+|}
+{{Burst Navbox}}
+[[Category:Beyblade Burst]]
+[[Category:Lists]]
+[[Category:Parts Lists]]

@@ -1,0 +1,742 @@
+{
+ "Burst System": {
+  "section": "",
+  "subsection": ""
+ },
+ "Dual Layer System": {
+  "section": "",
+  "subsection": ""
+ },
+ "Takara Tomy": {
+  "section": "",
+  "subsection": ""
+ },
+ "Hasbro": {
+  "section": "",
+  "subsection": ""
+ },
+ "Layer - Amaterios": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Chaos": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Caynox": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Deathscyther": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Doomscizor": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Evil-eye": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Evipero": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Horusood (Takara Tomy)": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Horusood (Hasbro)": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Kerbeus (Takara Tomy)": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Kerbeus (Hasbro)": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Minoboros (Takara Tomy)": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Minoboros (Hasbro)": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Neptune": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Nepstrius": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Odin": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Odax": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Ragnaruk": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Roktavor": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Spriggan": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Spryzen": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Trident": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Treptune": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Unicorn": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Unicrest": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Valkyrie": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Valtryek": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Wyvern": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Wyvron": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Xcalibur": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Xcalius": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Yggdrasil": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Yegdrion": {
+  "section": "Single Layers",
+  "subsection": ""
+ },
+ "Layer - Acid Anubis": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Atlas Anubion A2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Baldur": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Beast Behemoth": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Beast Betromoth B2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Dark Deathscyther": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Dark Doomscizor D2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Diomedes D2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Exceed Evil-eye": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Epic Evipero E2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Fang Fenrir": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Ferro Fengriff F2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Gigant Gaia": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Giga Gaianon G2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Holy Horusood": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Hyper Horusood H2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Hyrus H2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Inferno Ifrit": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Inferno Ifritor I2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Istros I2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Jail Jormungand": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Jumbo Jormuntor J2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Kaiser Kerbeus": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - King Kerbeus K2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Lost Longinus": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Lost Luinor L2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Mad Minoboros": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Mad Minoboros M2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Nova Neptune": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Nova Nepstrius N2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Obelisk Odin": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Omni Odax O2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Orpheus O2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Psychic Phantom": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Phrenic Phantazus P2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Quad Quetzalcoatl": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Quill Quetziko Q2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Rising Ragnaruk": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Raging Roktavor R2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Storm Spriggan": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Storm Spryzen S2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Surtr S2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Tyros T2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Unlock Unicorn": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Uber Unicrest U2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Victory Valkyrie": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Victory Valtryek V2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Wild Wyvern": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Wild Wyvron W2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Xeno Xcalibur": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Xeno Xcalius X2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Yaeger Yggdrasil": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Yugen Yegdrion Y2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Zillion Zeus": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Zillion Zeutron Z2": {
+  "section": "Dual Layers",
+  "subsection": ""
+ },
+ "Layer - Draciel Fortress (Takara Tomy)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Draciel Fortress (Hasbro)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Draciel Shield (Takara Tomy)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Draciel Shield (Hasbro)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Draciel V2": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Draciel Viper": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dragoon Fantom": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dragoon Fighter": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dragoon Storm (Takara Tomy)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dragoon Storm (Hasbro)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dragoon V2": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dragoon Victory": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dranzer Flame (Takara Tomy)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dranzer Flame (Hasbro)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dranzer Spiral (Takara Tomy)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dranzer Spiral (Hasbro)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dranzer V2": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Dranzer Volcano": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Driger Slash (Takara Tomy)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Driger Slash (Hasbro)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Driger Fang (Takara Tomy)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Driger Fang (Hasbro)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Driger V2": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Driger Vulcan": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Gaia Dragoon": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Gaia Dragoon Vurst": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Wolborg (Takara Tomy)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Wolborg (Hasbro)": {
+  "section": "Original Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Burn Phoenix": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Earth Aquila": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Flame Sagittario": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Galaxy Pegasis": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Gravity Perseus": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Hell Kerbecs": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Lightning L-Drago": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Meteo L-Drago": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Ray Unicorno": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Rock Leone": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Layer - Storm Pegasis": {
+  "section": "Metal Series Remakes",
+  "subsection": ""
+ },
+ "Disc - Aero": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Armed": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Boost": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Bumper": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Central": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Down": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Force": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Gravity": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Heavy": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Infinity": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Jerk": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Knuckle": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Limited": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Magnum": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Nine": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Oval": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Polish": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Quarter": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Ring": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Spread": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Triple": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Upper": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Vertical": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Wing": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Disc - Yell": {
+  "section": "Discs",
+  "subsection": ""
+ },
+ "Driver - Accel": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Assault": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Bite": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Blow": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Claw": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Cycle": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Defense": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Edge": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Fusion": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Gyro": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Hold": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Impact": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Jaggy": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Liner": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Massive": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Needle": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Orbit": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Press": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Quake": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Revolve": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Spiral": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Survive": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Trans": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Unite": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Variable": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Weight": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Xtreme": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Yielding": {
+  "section": "Drivers",
+  "subsection": ""
+ },
+ "Driver - Zephyr": {
+  "section": "Drivers",
+  "subsection": ""
+ }
+}
