@@ -67,6 +67,141 @@
      ]
     }
    ]
+  },
+  {
+   "url": "https://beycentral.com/collections/",
+   "label": "COLLECTION",
+   "page": "pages/collections.html",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Collections",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "THE BEYCENTRAL COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "METAL FIGHT COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "PLASTICS COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "photo",
+     "src": "https://beycentral.com/wp-content/uploads/2025/02/new3.jpg",
+     "alt": "",
+     "file": "new3.jpg",
+     "size": [
+      5250,
+      3500
+     ]
+    },
+    {
+     "type": "photo",
+     "src": "https://beycentral.com/wp-content/uploads/2025/02/new2.jpg",
+     "alt": "",
+     "file": "new2.jpg",
+     "size": [
+      5250,
+      3500
+     ]
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "HMS COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "BURST COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "photo",
+     "src": "https://beycentral.com/wp-content/uploads/2025/02/new1.jpg",
+     "alt": "",
+     "file": "new1.jpg",
+     "size": [
+      5250,
+      3500
+     ]
+    },
+    {
+     "type": "photo",
+     "src": "https://beycentral.com/wp-content/uploads/2025/01/New-Project-1.jpg",
+     "alt": "",
+     "file": "new-project-1.jpg",
+     "size": [
+      1000,
+      667
+     ]
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "GEN X COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "THE BEYCENTRAL COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "METAL FIGHT COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "PLASTICS COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "HMS COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "BURST COLLECTION",
+     "code": ""
+    },
+    {
+     "type": "photo",
+     "src": "https://beycentral.com/wp-content/uploads/2025/01/New-Project.jpg",
+     "alt": "coming soon",
+     "file": "new-project.jpg",
+     "size": [
+      1000,
+      667
+     ]
+    },
+    {
+     "type": "heading",
+     "tag": "h2",
+     "text": "GEN X COLLECTION",
+     "code": ""
+    }
+   ]
   }
  ]
 }
