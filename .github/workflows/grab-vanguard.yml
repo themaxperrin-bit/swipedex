@@ -4,7 +4,8 @@ name: Grab Vanguard card list
 # Reads the official English card list (en.cf-vanguard.com), set by set, and saves
 # every card's number, name, details and picture link into the "vanguard" folder.
 # Card pictures are NOT copied: the app shows them straight from the official site.
-# Safe to run again: sets already saved are skipped.
+# Safe to run again: sets already saved in full are skipped; sets that came out short are read again.
+# At the end it builds vanguard/cards.json (what the app loads) and saves a few sample pictures.
 on:
   workflow_dispatch:
     inputs:
@@ -61,7 +62,7 @@ jobs:
             let sinceSave = 0;
             for (let id = first; id <= last; id++) {
               const out = `vanguard/sets/${id}.json`;
-              if (fs.existsSync(out)) continue;
+              if (fs.existsSync(out)) { try { const o = JSON.parse(fs.readFileSync(out)); if (!o.total || o.cards.length >= o.total) continue; console.log(id, 'was short (' + o.cards.length + '/' + o.total + '), reading again'); } catch (e) {} }
               const t0 = Date.now();
               try {
                 await page.goto(`https://en.cf-vanguard.com/cardlist/cardsearch/?expansion=${id}&view=text&sort=no`, { waitUntil: 'domcontentloaded', timeout: 90000 });
@@ -70,9 +71,13 @@ jobs:
                 if (!total) { fs.writeFileSync(out, JSON.stringify({ id, total: 0, cards: [] })); console.log(id, 'empty'); continue; }
                 // keep scrolling until every card is loaded
                 let n = 0, still = 0;
-                for (let k = 0; k < 200 && still < 6; k++) {
-                  await page.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
-                  await page.waitForTimeout(900);
+                for (let k = 0; k < 400 && still < 15; k++) {
+                  // nudge up then down so the "load more" trigger fires again, and press any "more" button
+                  await page.evaluate(() => { window.scrollBy(0, -600); });
+                  await page.waitForTimeout(150);
+                  await page.evaluate(() => { window.scrollTo(0, document.body.scrollHeight);
+                    for (const b of document.querySelectorAll('button,a')) if (/^(more|load more|show more|もっと見る)$/i.test((b.innerText || '').trim())) b.click(); });
+                  await page.waitForTimeout(still > 5 ? 2500 : 1200);
                   const m = await page.$$eval('a[href*="cardno="]', as => new Set(as.map(a => a.href)).size);
                   if (m >= total) { n = m; break; }
                   still = m === n ? still + 1 : 0; n = m;
@@ -101,6 +106,89 @@ jobs:
           git config user.name "swipedex-bot"
           git config user.email "swipedex-bot@users.noreply.github.com"
           node grab.js
+
+      - name: Build the card file for the app
+        run: |
+          cat > build_cards.py <<'PY'
+          # Turns vanguard/sets/*.json (from the "Grab Vanguard card list" job) into one small vanguard/cards.json for the app.
+          import json, glob, re, sys, os
+          root = sys.argv[1] if len(sys.argv) > 1 else "vanguard"
+          PREFIX = "https://en.cf-vanguard.com/wordpress/wp-content/images/cardlist/"
+          MONTHS = "January February March April May June July August September October November December".split()
+          products = {}
+          try:
+              for p in json.load(open(f"{root}/products.json")):
+                  t = p.get("block") or p.get("text") or ""
+                  m = re.search(r"(" + "|".join(MONTHS) + r")\s+(\d{1,2}),\s*(\d{4})", t)
+                  code = re.search(r"\[([^\]]+)\]", t)
+                  products[p["id"]] = {"date": f"{m.group(3)}-{MONTHS.index(m.group(1))+1:02d}-{int(m.group(2)):02d}" if m else "",
+                                       "code": code.group(1) if code else ""}
+          except FileNotFoundError:
+              pass
+
+          def era(no):
+              n = no.upper()
+              if n.startswith("DZ-") or "/DZ-" in n: return "DZ"
+              if n.startswith("D-") or "/D-" in n: return "D"
+              if n.startswith("V-") or "/V-" in n: return "V"
+              if n.startswith("G-") or "/G-" in n: return "G"
+              return "O"
+
+          sets, cards = [], []
+          files = sorted(glob.glob(f"{root}/sets/*.json"), key=lambda f: int(os.path.basename(f)[:-5]))
+          for f in files:
+              d = json.load(open(f))
+              if not d.get("cards"): continue
+              title = (d.get("info") or {}).get("title", "").split("｜")[0].strip()
+              m = re.match(r"\[([^\]]+)\]\s*(.*)", title)
+              code = (m.group(1) if m else products.get(d["id"], {}).get("code", "")).replace("VGE-", "")
+              name = (m.group(2) if m else title).strip()
+              si = len(sets)
+              sets.append({"id": d["id"], "code": code, "name": name, "date": products.get(d["id"], {}).get("date", "")})
+              for k in d["cards"]:
+                  L = [x.strip() for x in k["text"].split("\n")]
+                  if len(L) < 3: continue
+                  parts = [p.strip() for p in L[2].split("｜")]
+                  kind = parts[0]
+                  grade = (re.search(r"Grade\s*([\d-]+)", L[2]) or [None, ""])[1]
+                  power = (re.search(r"Power\s*([\d+-]+)", L[2]) or [None, ""])[1]
+                  shield = (re.search(r"Shield\s*([\d-]*)", L[2]) or [None, ""])[1]
+                  groups = [p for p in parts[1:] if p and not re.match(r"(Grade|Power|Shield)\b", p) and p != "-"]
+                  trig = ""
+                  if "Trigger" in kind:
+                      body = " ".join(L[3:])
+                      for t in ["Critical", "Draw", "Heal", "Front", "Stand", "Over", "Sentinel"]:
+                          if re.search(r"\[" + t + r"\]|" + t + r" Trigger", body): trig = t; break
+                  img = k.get("img", "")
+                  cards.append([k["no"], L[1], kind, "/".join(groups), grade, power, shield,
+                                img[len(PREFIX):] if img.startswith(PREFIX) else img, si, era(k["no"]), trig])
+          out = {"prefix": PREFIX, "sets": sets,
+                 "fields": ["no", "name", "kind", "clan", "grade", "power", "shield", "img", "set", "era", "trigger"],
+                 "cards": cards}
+          json.dump(out, open(f"{root}/cards.json", "w"), ensure_ascii=False, separators=(",", ":"))
+          print("sets", len(sets), "cards", len(cards), "bytes", os.path.getsize(f"{root}/cards.json"))
+          PY
+          python3 build_cards.py vanguard
+
+      - name: Save a few sample pictures (to line up the ART view)
+        continue-on-error: true
+        run: |
+          mkdir -p vanguard/samples
+          python3 - <<'PY'
+          import json, urllib.request
+          d = json.load(open("vanguard/cards.json")); done = set()
+          for c in d["cards"]:
+              era, kind = c[9], c[2]
+              key = era + ("-trigger" if "Trigger" in kind else "-g" if kind == "G Unit" else "")
+              if key in done or kind not in ("Normal Unit", "Trigger Unit", "G Unit"): continue
+              url = c[7] if c[7].startswith("http") else d["prefix"] + c[7]
+              try:
+                  req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+                  data = urllib.request.urlopen(req, timeout=60).read()
+                  open("vanguard/samples/" + key + "." + url.rsplit(".", 1)[-1].lower(), "wb").write(data); done.add(key); print("sample", key, url)
+              except Exception as e:
+                  print("sample failed", key, e)
+          PY
 
       - name: Save the results
         run: |
