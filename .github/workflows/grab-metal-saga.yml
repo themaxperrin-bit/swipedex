@@ -1,0 +1,149 @@
+name: Grab Metal Saga (BeyCentral)
+
+# Run it from the Actions tab ("Run workflow").
+# Reads BeyCentral's Metal Fight collection (https://beycentral.com/metal-fight-collection/) and every
+# section it links to (Pre-Hybrid, Hybrid BB/B, 4D, Limited, Prizes, Shogun Steel, ...).
+# Saves, in page order, every Beyblade heading (code + name + description) and every photo into the "mfb" folder:
+#   mfb/pages/<section>.html   the page as it was
+#   mfb/photos/<file>.jpg      the photos (max 1200px)
+#   mfb/index.json             headings and photos in page order, so they can be matched up afterwards
+# Safe to run again: photos already saved are skipped.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Save BeyCentral's Metal Fight collection
+        run: |
+          pip install requests pillow beautifulsoup4 >/dev/null
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          python -u - <<'PY'
+          import io, json, os, re, time, subprocess
+          from urllib.parse import urljoin, urlparse
+          import requests
+          from bs4 import BeautifulSoup
+          from PIL import Image
+
+          HUB = "https://beycentral.com/metal-fight-collection/"
+          s = requests.Session()
+          s.headers["User-Agent"] = "Mozilla/5.0 (compatible; SwipeDexBot/1.0; personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT = "mfb"
+          for d in ("pages", "photos"): os.makedirs(f"{OUT}/{d}", exist_ok=True)
+
+          def get(url):
+              for attempt in range(4):
+                  try:
+                      r = s.get(url, timeout=60)
+                      if r.status_code == 200: return r
+                      print("    status", r.status_code, url)
+                      if r.status_code == 404: return None
+                  except Exception as e:
+                      print("    error", str(e)[:100], url)
+                  time.sleep(5 * (attempt + 1))
+              return None
+
+          def slug(url):
+              return re.sub(r"[^a-z0-9]+", "-", urlparse(url).path.lower()).strip("-") or "home"
+
+          # 1) the sections the hub links to
+          hub = get(HUB); soup = BeautifulSoup(hub.text, "html.parser")
+          open(f"{OUT}/pages/metal-fight-collection.html", "w").write(hub.text)
+          sections = []
+          for a in soup.find_all("a", href=True):
+              u = urljoin(HUB, a["href"]).split("#")[0]
+              if urlparse(u).netloc.endswith("beycentral.com") and u.rstrip("/") != HUB.rstrip("/") and u not in [x["url"] for x in sections]:
+                  label = " ".join(a.get_text(" ", strip=True).split())
+                  if re.search(r"contact|instagram|discord|/collections/?$|beycentral\.com/?$", u + " " + label, re.I): continue
+                  sections.append({"url": u, "label": label})
+          print("Sections:", json.dumps(sections, indent=1))
+
+          # 2) every section: headings, text and photos in page order
+          CODE = re.compile(r"^\s*((?:BB|BBG|BBC|BBA|BBP|B|WBBA|SP|S|M|CP|EG|LE|BH)[- ]?[A-Z]?\d+[A-Z0-9-]*)\b", re.I)
+          def best_src(img):
+              a = img.find_parent("a")
+              if a and re.search(r"\.(jpe?g|png|webp)(\?|$)", a.get("href", ""), re.I): return a["href"]
+              ss = img.get("srcset") or img.get("data-srcset") or ""
+              if ss:
+                  c = [x.strip().split(" ") for x in ss.split(",") if x.strip()]
+                  c = [(x[0], int(re.sub(r"\D", "", x[1]) or 0) if len(x) > 1 else 0) for x in c]
+                  return max(c, key=lambda x: x[1])[0]
+              src = img.get("data-src") or img.get("data-lazy-src") or img.get("src") or ""
+              return re.sub(r"-\d+x\d+(\.\w+)$", r"\1", src)   # WordPress size suffix -> original
+
+          index = {"hub": HUB, "sections": []}
+          old = {}
+          if os.path.exists(f"{OUT}/index.json"):
+              for sec in json.load(open(f"{OUT}/index.json")).get("sections", []):
+                  for t in sec["items"]:
+                      if t["type"] == "photo": old[t["src"]] = t["file"]
+          made = 0
+          for sec in sections:
+              r = get(sec["url"])
+              if not r: continue
+              name = slug(sec["url"])
+              open(f"{OUT}/pages/{name}.html", "w").write(r.text)
+              soup = BeautifulSoup(r.text, "html.parser")
+              body = soup.find("main") or soup.find(class_=re.compile(r"entry-content|site-content|content")) or soup.body
+              items, seen_imgs, current = [], set(), None
+              for el in body.find_all(["h1", "h2", "h3", "h4", "h5", "h6", "p", "img", "figcaption"]):
+                  if el.name == "img":
+                      src = urljoin(sec["url"], best_src(el) or "")
+                      if "/wp-content/uploads/" not in src or src in seen_imgs: continue
+                      seen_imgs.add(src)
+                      items.append({"type": "photo", "src": src, "alt": el.get("alt", ""), "file": None}); continue
+                  text = " ".join(el.get_text(" ", strip=True).split())
+                  if not text or re.match(r"^jump to", text, re.I): continue
+                  if el.name.startswith("h"):
+                      m = CODE.match(text)
+                      items.append({"type": "bey" if m else "heading", "tag": el.name, "text": text, "code": m.group(1).upper().replace(" ", "-") if m else ""})
+                  else:
+                      items.append({"type": "text", "tag": el.name, "text": text[:500]})
+              # save the photos
+              for t in items:
+                  if t["type"] != "photo": continue
+                  key = re.sub(r"[^a-z0-9]+", "-", os.path.basename(urlparse(t["src"]).path).rsplit(".", 1)[0].lower()).strip("-")
+                  path = f"{OUT}/photos/{key}.jpg"
+                  if t["src"] in old and os.path.exists(f"{OUT}/photos/{old[t['src']]}"):
+                      t["file"] = old[t["src"]]; continue
+                  if os.path.exists(path): t["file"] = f"{key}.jpg"; continue
+                  rr = get(t["src"])
+                  if not rr: continue
+                  try:
+                      im = Image.open(io.BytesIO(rr.content))
+                      if im.mode in ("RGBA", "LA", "P"):
+                          im = im.convert("RGBA"); bg = Image.new("RGB", im.size, "white"); bg.paste(im, mask=im.getchannel("A")); im = bg
+                      else: im = im.convert("RGB")
+                      t["size"] = list(im.size)
+                      im.thumbnail((1200, 1200), Image.LANCZOS)
+                      im.save(path, "JPEG", quality=85, optimize=True, progressive=True)
+                      t["file"] = f"{key}.jpg"; made += 1; time.sleep(0.3)
+                  except Exception as e:
+                      print("    photo error", t["src"], str(e)[:80])
+              beys = sum(1 for t in items if t["type"] == "bey"); photos = sum(1 for t in items if t["type"] == "photo")
+              print(f"{sec['label'] or name}: {beys} Beyblade headings, {photos} photos")
+              index["sections"].append({"url": sec["url"], "label": sec["label"], "page": f"pages/{name}.html", "items": items})
+              json.dump(index, open(f"{OUT}/index.json", "w"), indent=1, ensure_ascii=False)
+              subprocess.run(f'git add -A {OUT} && (git commit -q -m "Metal Saga: {name}" || true) && git pull -q --rebase && git push -q', shell=True)
+              time.sleep(1)
+          print(f"\nDone: {len(index['sections'])} sections, {made} new photos")
+          PY
+
+      - name: Save the results
+        run: |
+          git add -A mfb
+          git commit -m "Grab Metal Saga from BeyCentral" || echo "No changes"
+          git pull --rebase || true
+          git push
