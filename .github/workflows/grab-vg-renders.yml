@@ -1,0 +1,173 @@
+name: Grab Vanguard full artwork
+
+# Run it from the Actions tab ("Run workflow").
+# Saves every picture in the Cardfight!! Vanguard Wiki's "Full Artwork" category (card art without the frame)
+# into the "vgart" folder (max 900px JPEG), and builds vanguard/renders.json, which tells the app
+# which card each picture belongs to.
+# Safe to run again: pictures already saved are skipped, so a run that stops early just carries on next time.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Save the full artwork from the wiki
+        run: |
+          pip install requests pillow >/dev/null
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          python -u - <<'PY'
+          import io, json, os, re, time, subprocess, unicodedata
+          import requests
+          from PIL import Image
+
+          API = "https://cardfight.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT, INDEX = "vgart", "vanguard/renders.json"
+          os.makedirs(OUT, exist_ok=True); os.makedirs("vanguard", exist_ok=True)
+
+          def api(**params):
+              params.update(format="json", formatversion="2")
+              for attempt in range(5):
+                  try:
+                      r = s.get(API, params=params, timeout=60)
+                      if r.status_code == 200: return r.json()
+                      print("    api status", r.status_code)
+                  except Exception as e:
+                      print("    api error", str(e)[:100])
+                  time.sleep(5 * (attempt + 1))
+              raise SystemExit("The wiki's API isn't answering")
+
+          def make_key(t):
+              t = unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode()
+              return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")[:150]
+
+          def norm(name):
+              # same as the app: drop a trailing "(...)", lower case, letters and digits only
+              name = re.sub(r"\s*\([^)]*\)\s*$", "", name.replace("’", "'"))
+              return "".join(ch for ch in unicodedata.normalize("NFKC", name).lower() if ch.isalnum())
+
+          def push(msg):
+              subprocess.run(f'git add -A {OUT} vanguard && (git commit -q -m "{msg}" || true) && git pull -q --rebase && git push -q', shell=True)
+
+          # 1) every file in Category:Full Artwork (and its subcategories)
+          files, seen_cats, todo = {}, set(), ["Category:Full Artwork"]
+          gallery_pages = set()
+          while todo:
+              cat = todo.pop()
+              if cat in seen_cats: continue
+              seen_cats.add(cat); cont = {}
+              while True:
+                  d = api(action="query", list="categorymembers", cmtitle=cat, cmlimit="500", cmtype="file|subcat|page", **cont)
+                  for m in d["query"]["categorymembers"]:
+                      if m["ns"] == 6: files[m["title"]] = None
+                      elif m["ns"] == 14: todo.append(m["title"])
+                      else: gallery_pages.add(m["title"])
+                  if "continue" not in d: break
+                  cont = d["continue"]; time.sleep(0.5)
+          print(f"Categories: {sorted(seen_cats)}")
+          print(f"Files in the category: {len(files)}   other pages in it: {len(gallery_pages)}")
+
+          # pages (not files) in the category: take their pictures that look like full artwork
+          for t in sorted(gallery_pages):
+              d = api(action="query", titles=t, prop="images", imlimit="500")
+              for im in (d["query"]["pages"][0].get("images") or []):
+                  if re.search(r"full|artwork|illust", im["title"], re.I): files[im["title"]] = None
+              time.sleep(0.3)
+          print(f"Files to look at: {len(files)}")
+
+          # 2) for every file: a 900px copy's address and the pages that show it (to know which card it is)
+          titles = sorted(files)
+          info = {}
+          for i in range(0, len(titles), 50):
+              batch = titles[i:i + 50]
+              d = api(action="query", titles="|".join(batch), prop="imageinfo|fileusage",
+                      iiprop="url|size|mime", iiurlwidth="900", fulimit="500")
+              for p in d["query"]["pages"]:
+                  ii = (p.get("imageinfo") or [{}])[0]
+                  info[p["title"]] = {"url": ii.get("thumburl") or ii.get("url"), "mime": ii.get("mime", ""),
+                                      "size": [ii.get("width", 0), ii.get("height", 0)],
+                                      "used": [u["title"] for u in p.get("fileusage", []) if u["ns"] == 0 or u["title"].startswith("Card Gallery:")]}
+              # long fileusage lists come back in parts
+              while "continue" in d and "fucontinue" in d["continue"]:
+                  d = api(action="query", titles="|".join(batch), prop="fileusage", fulimit="500", **d["continue"])
+                  for p in d["query"]["pages"]:
+                      if p["title"] in info:
+                          info[p["title"]]["used"] += [u["title"] for u in p.get("fileusage", []) if u["ns"] == 0 or u["title"].startswith("Card Gallery:")]
+              print(f"  file details {min(i + 50, len(titles))}/{len(titles)}"); time.sleep(0.5)
+
+          def card_names(title, entry):
+              names = []
+              for u in entry["used"]:
+                  n = u.split(":", 1)[1] if u.startswith("Card Gallery:") else u
+                  if re.search(r"Gallery|List|Set|Booster|Deck|Category|Template|Official|Clan|Nation|Series$|Episode", n) and not u.startswith("Card Gallery:"): continue
+                  names.append(n)
+              if not names:   # nobody links it: guess from the file name
+                  n = re.sub(r"\.[A-Za-z0-9]+$", "", title.split(":", 1)[1])
+                  n = re.sub(r"[\s_-]*\(?(full\s*art(work)?|artwork|illust(ration)?|full)\)?[\s_-]*", " ", n, flags=re.I).strip()
+                  names.append(n)
+              return names
+
+          # 3) save the pictures (skip ones already saved) and build the index
+          index = {}
+          old = json.load(open(INDEX)) if os.path.exists(INDEX) else {}
+          saved = done = failed = 0
+          for n, title in enumerate(titles, 1):
+              e = info.get(title)
+              if not e or not e["url"] or not e["mime"].startswith("image/") or "svg" in e["mime"]: continue
+              key = make_key(title.split(":", 1)[1].rsplit(".", 1)[0])
+              path = f"{OUT}/{key}.jpg"
+              if not os.path.exists(path):
+                  try:
+                      r = s.get(e["url"], timeout=60, headers={"Referer": "https://cardfight.fandom.com/"})
+                      if r.status_code != 200: print("    picture status", r.status_code, title); failed += 1; continue
+                      im = Image.open(io.BytesIO(r.content))
+                      if im.mode in ("RGBA", "LA", "P"):
+                          im = im.convert("RGBA"); bg = Image.new("RGB", im.size, "black"); bg.paste(im, mask=im.getchannel("A")); im = bg
+                      else: im = im.convert("RGB")
+                      im.thumbnail((900, 1400), Image.LANCZOS)
+                      im.save(path, "JPEG", quality=82, optimize=True, progressive=True)
+                      saved += 1; time.sleep(0.25)
+                  except Exception as ex:
+                      print("    picture error", title, str(ex)[:100]); failed += 1; continue
+              done += 1
+              for nm in card_names(title, e):
+                  k = norm(nm)
+                  if k and [f"{key}.jpg", title] not in index.setdefault(k, []): index[k].append([f"{key}.jpg", title])
+              if saved and saved % 300 == 0:
+                  json.dump({"base": OUT + "/", "map": index}, open(INDEX, "w"), ensure_ascii=False, separators=(",", ":"))
+                  push(f"Vanguard full artwork ({done} so far)"); print(f"  {n}/{len(titles)} saved so far: {saved}")
+
+          json.dump({"base": OUT + "/", "map": index}, open(INDEX, "w"), ensure_ascii=False, separators=(",", ":"))
+          print(f"\nPictures ready: {done}  (new this run: {saved}, failed: {failed})   card names with artwork: {len(index)}")
+
+          # 4) how many SwipeDex cards get artwork
+          try:
+              cards = json.load(open("vanguard/cards.json"))["cards"]
+              names = {norm(c[1]) for c in cards}
+              hit = names & set(index)
+              print(f"SwipeDex card names: {len(names)}   with full artwork: {len(hit)}")
+              miss = sorted(set(index) - names)[:40]
+              print("Some artwork names that didn't match a card:", miss)
+          except Exception as ex:
+              print("couldn't compare with cards.json", ex)
+          PY
+
+      - name: Save the results
+        run: |
+          git add -A vgart vanguard
+          git commit -m "Vanguard full artwork" || echo "No changes"
+          git pull --rebase || true
+          git push
