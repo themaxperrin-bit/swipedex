@@ -279,6 +279,258 @@
      "text": "MA-16 Dark Leopard MS"
     }
    ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/rba3-dragoon-mf",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - RBA3 Dragoon MF",
+   "key": "gimmick-specialty-series-rba3-dragoon-mf",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Dragoon MF"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/ma-18-magical-ape-ms",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - MA-18 Magical Ape MS",
+   "key": "gimmick-specialty-series-ma-18-magical-ape-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-18 Magical Ape MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/ma-19-round-shell-ms",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - MA-19 Round Shell MS",
+   "key": "gimmick-specialty-series-ma-19-round-shell-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-19 Round Shell MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/ma-20-samurai-changer-ms",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - MA-20 Samurai Changer MS",
+   "key": "gimmick-specialty-series-ma-20-samurai-changer-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-20 Samurai Changer MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/rba4-dranzer-mf",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - RBA4 Dranzer MF",
+   "key": "gimmick-specialty-series-rba4-dranzer-mf",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Dranzer MF"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/ma-21-aero-knight-ms",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - MA-21 Aero Knight MS",
+   "key": "gimmick-specialty-series-ma-21-aero-knight-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-21 Aero Knight MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/ma-22-jiraiya-ms",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - MA-22 Jiraiya MS",
+   "key": "gimmick-specialty-series-ma-22-jiraiya-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-22 Jiraiya MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/fb-05-slash-riger-ms",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - FB '05 Slash Riger MS",
+   "key": "gimmick-specialty-series-fb-05-slash-riger-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Slash Riger MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/ma-23-bloody-devil-ms",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - MA-23 Bloody Devil MS",
+   "key": "gimmick-specialty-series-ma-23-bloody-devil-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-23 Bloody Devil MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/ma-24-shining-god-ms",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - MA-24 Shining God MS",
+   "key": "gimmick-specialty-series-ma-24-shining-god-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-24 Shining God MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/rare-recolours",
+   "section": "rare-recolours",
+   "isSection": true,
+   "title": "HMSDB - Rare Recolours",
+   "key": "rare-recolours",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Rare Recolours"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/launchers-and-accessories",
+   "section": "launchers-and-accessories",
+   "isSection": true,
+   "title": "HMSDB - Launchers and Accessories",
+   "key": "launchers-and-accessories",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Launchers and Accessories"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/bit-protector-variations",
+   "section": "bit-protector-variations",
+   "isSection": true,
+   "title": "HMSDB - Bit Protector Variations",
+   "key": "bit-protector-variations",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Bit Protector Variations"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/attack-ring-variations",
+   "section": "attack-ring-variations",
+   "isSection": true,
+   "title": "HMSDB - Attack Ring Variations",
+   "key": "attack-ring-variations",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Attack Ring Variations"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/weight-disks",
+   "section": "weight-disks",
+   "isSection": true,
+   "title": "HMSDB - Weight Disks",
+   "key": "weight-disks",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Weight Disks"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/weight-disks/common-weight-disks",
+   "section": "weight-disks",
+   "isSection": false,
+   "title": "HMSDB - Common Weight Disks",
+   "key": "weight-disks-common-weight-disks",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Common Weight Disks"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/weight-disks/customize-weight-disk-list",
+   "section": "weight-disks",
+   "isSection": false,
+   "title": "HMSDB - Customize Weight Disk List",
+   "key": "weight-disks-customize-weight-disk-list",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Customize Weight Disks"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/running-core-variations",
+   "section": "running-core-variations",
+   "isSection": true,
+   "title": "HMSDB - Running Core Variations",
+   "key": "running-core-variations",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Running Core Variations"
+    }
+   ]
   }
  ]
 }
