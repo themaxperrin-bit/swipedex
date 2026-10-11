@@ -1,0 +1,196 @@
+name: Grab Beyblade X
+
+# Run it from the Actions tab ("Run workflow").
+# From the Beyblade Wiki (Beyblade X):
+#   1) every page in Category:Beyblade X Beyblades (and its sub-categories): the page text (info box with
+#      the parts, product code, system), its main picture and up to 2 more
+#   2) every page in the Beyblade X part categories (Blades, Ratchets, Bits, ...): its category, page text and main picture
+# Saves into "bx-wiki" (index.json + list page text) and "bx-small" (pictures, max 900px JPEG).
+# Safe to run again: pages and pictures already saved are skipped, so a run that stops early just carries on.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Save Beyblade X Beyblades and parts from the wiki
+        run: |
+          pip install requests pillow >/dev/null
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          python -u - <<'PY'
+          import io, json, os, re, time, subprocess
+          import requests
+          from PIL import Image
+
+          API = "https://beyblade.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT, SMALL = "bx-wiki", "bx-small"
+          os.makedirs(OUT, exist_ok=True); os.makedirs(SMALL, exist_ok=True)
+          INDEX = f"{OUT}/index.json"
+          old = json.load(open(INDEX)) if os.path.exists(INDEX) else {"beyblades": [], "parts": []}
+          done_b = {p["title"]: p for p in old.get("beyblades", [])}
+          done_p = {p["title"]: p for p in old.get("parts", [])}
+
+          def api(**params):
+              params.update(format="json", formatversion="2")
+              for attempt in range(5):
+                  try:
+                      r = s.get(API, params=params, timeout=60)
+                      if r.status_code == 200: return r.json()
+                      print("    api status", r.status_code)
+                  except Exception as e:
+                      print("    api error", str(e)[:100])
+                  time.sleep(5 * (attempt + 1))
+              raise SystemExit("The wiki's API isn't answering")
+
+          def make_key(t):
+              return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")[:120]
+
+          def push(msg):
+              json.dump({"beyblades": list(done_b.values()), "parts": list(done_p.values())}, open(INDEX, "w"), indent=1, ensure_ascii=False)
+              subprocess.run(f'git add -A {OUT} {SMALL} && (git commit -q -m "{msg}" || true) && git pull -q --rebase && git push -q', shell=True)
+
+          def members(cat, types="page|subcat"):
+              out, cont = [], {}
+              while True:
+                  d = api(action="query", list="categorymembers", cmtitle=cat, cmlimit="500", cmtype=types, **cont)
+                  out += d["query"]["categorymembers"]
+                  if "continue" not in d: break
+                  cont = d["continue"]; time.sleep(0.5)
+              return out
+
+          def fetch_pages(titles):
+              """page text, categories and main picture for up to 50 pages at once"""
+              res = {}
+              for i in range(0, len(titles), 20):
+                  batch = titles[i:i + 20]
+                  d = api(action="query", titles="|".join(batch), prop="revisions|categories|pageimages", rvprop="content", rvslots="main",
+                          cllimit="max", piprop="name|original", redirects="1")
+                  q = d["query"]
+                  redir = {r["from"]: r["to"] for r in q.get("redirects", [])}
+                  for p in q["pages"]:
+                      if p.get("missing"): continue
+                      text = (((p.get("revisions") or [{}])[0].get("slots") or {}).get("main") or {}).get("content", "")
+                      res[p["title"]] = {"title": p["title"], "categories": [c["title"] for c in p.get("categories", [])],
+                                         "main_image": p.get("pageimage"), "main_url": (p.get("original") or {}).get("source"), "text": text}
+                  for a, b in redir.items():
+                      if b in res: res.setdefault(a, res[b])
+                  time.sleep(0.6)
+              return res
+
+          def save_picture(url, path):
+              if os.path.exists(path): return True
+              try:
+                  r = s.get(url, timeout=60, headers={"Referer": "https://beyblade.fandom.com/"})
+                  if r.status_code != 200: print("    picture status", r.status_code, url[-60:]); return False
+                  im = Image.open(io.BytesIO(r.content))
+                  if im.mode in ("RGBA", "LA", "P"):
+                      im = im.convert("RGBA"); bg = Image.new("RGB", im.size, "white"); bg.paste(im, mask=im.getchannel("A")); im = bg
+                  else: im = im.convert("RGB")
+                  im.thumbnail((900, 900), Image.LANCZOS)
+                  os.makedirs(os.path.dirname(path), exist_ok=True)
+                  im.save(path, "JPEG", quality=85, optimize=True, progressive=True)
+                  time.sleep(0.3); return True
+              except Exception as e:
+                  print("    picture error", url[-60:], str(e)[:80]); return False
+
+          def other_images(title, main, limit):
+              """a few more pictures from the page (the ones whose names share words with the title come first)"""
+              d = api(action="query", generator="images", titles=title, gimlimit="100", prop="imageinfo", iiprop="url|size|mime")
+              files = (d.get("query") or {}).get("pages") or []
+              words = set(re.findall(r"[a-z]{3,}", title.lower()))
+              files.sort(key=lambda f: (-sum(w in f["title"].lower() for w in words), f["title"]))
+              out = []
+              for f in files:
+                  ii = (f.get("imageinfo") or [{}])[0]
+                  if len(out) >= limit: break
+                  if not ii.get("url") or not ii.get("mime", "").startswith("image/") or "svg" in ii["mime"] or "gif" in ii["mime"]: continue
+                  if max(ii.get("width", 0), ii.get("height", 0)) < 200: continue
+                  if main and f["title"].replace("File:", "").replace(" ", "_") == main: continue
+                  if re.search(r"logo|icon|symbol|anime|episode|screenshot|ep\d", f["title"], re.I): continue
+                  out.append((f["title"], ii["url"]))
+              return out
+
+          # ---------- 1) Beyblades ----------
+          cats, todo, titles = set(), ["Category:Beyblade X Beyblades"], set()
+          while todo:
+              c = todo.pop()
+              if c in cats or len(cats) > 60: continue
+              cats.add(c)
+              for m in members(c):
+                  if m["ns"] == 14: todo.append(m["title"])
+                  elif m["ns"] == 0 and "/" not in m["title"]: titles.add(m["title"])
+          print(f"Categories: {len(cats)}  Beyblade pages: {len(titles)}")
+          new = sorted(t for t in titles if t not in done_b)
+          print(f"New this run: {len(new)}")
+          for i in range(0, len(new), 40):
+              pages = fetch_pages(new[i:i + 40])
+              for t, p in pages.items():
+                  if t != p["title"]: continue
+                  key = make_key(p["title"]); p["key"] = key; p["images"] = []
+                  if p["main_url"] and save_picture(p["main_url"], f"{SMALL}/bey/{key}/main.jpg"):
+                      p["images"].append({"file": f"bey/{key}/main.jpg", "wiki_name": p["main_image"]})
+                  for k, (ft, url) in enumerate(other_images(p["title"], p["main_image"], 2)):
+                      if save_picture(url, f"{SMALL}/bey/{key}/{k + 1}.jpg"):
+                          p["images"].append({"file": f"bey/{key}/{k + 1}.jpg", "wiki_name": ft})
+                  p["text"] = p["text"][:12000]
+                  done_b[p["title"]] = p
+              print(f"  Beyblades {min(i + 40, len(new))}/{len(new)}")
+              if (i // 40) % 5 == 4: push(f"X Beyblades ({len(done_b)})")
+          push(f"X Beyblades ({len(done_b)})")
+
+          # ---------- 2) Parts: every page in the Beyblade X part categories (Blades, Ratchets, Bits, ...) ----------
+          found = set()
+          for q in ["Beyblade X", "Beyblade X parts", "Beyblade X Blades", "Beyblade X Ratchets", "Beyblade X Bits", "Lock Chip", "Assist Blade", "Main Blade", "Over Blade"]:
+              d = api(action="query", list="search", srsearch=q, srnamespace="14", srlimit="50")
+              for r in d["query"]["search"]:
+                  t = r["title"]
+                  if re.search(r"blade|ratchet|bit|chip|assist|part", t, re.I) and re.search(r"\bX\b|Beyblade X|Xtreme", t) and not re.search(r"Beyblades$|Burst|Metal|Plastic|HMS|Characters|Episodes|Anime|Manga|Images", t):
+                      found.add(t)
+              time.sleep(0.5)
+          section_of = {}
+          for cat in sorted(found):
+              for m in members(cat, "page"):
+                  if m["ns"] == 0 and "/" not in m["title"] and m["title"] not in titles:
+                      section_of.setdefault(m["title"], {"section": cat.replace("Category:", ""), "subsection": ""})
+          print(f"Part categories: {sorted(found)}")
+          print(f"Parts found: {len(section_of)}")
+          json.dump(section_of, open(f"{OUT}/list-sections.json", "w"), indent=1, ensure_ascii=False)
+          new = sorted(t for t in section_of if t not in done_p)
+          for i in range(0, len(new), 40):
+              pages = fetch_pages(new[i:i + 40])
+              for t in new[i:i + 40]:
+                  p = pages.get(t)
+                  if not p:
+                      done_p[t] = {"title": t, "missing": True, **section_of[t]}; continue
+                  p = dict(p); p["link"] = t; p.update(section_of[t]); p["key"] = make_key(p["title"]); p["images"] = []
+                  if p["main_url"] and save_picture(p["main_url"], f"{SMALL}/parts/{p['key']}.jpg"):
+                      p["images"].append({"file": f"parts/{p['key']}.jpg", "wiki_name": p["main_image"]})
+                  p["text"] = p["text"][:6000]
+                  done_p[t] = p
+              print(f"  parts {min(i + 40, len(new))}/{len(new)}")
+              if (i // 40) % 5 == 4: push(f"X parts ({len(done_p)})")
+          push(f"X parts ({len(done_p)})")
+          print(f"\nDone: {len(done_b)} Beyblades ({sum(1 for p in done_b.values() if p.get('images'))} with pictures), "
+                f"{len(done_p)} parts ({sum(1 for p in done_p.values() if p.get('images'))} with pictures)")
+          PY
+
+      - name: Save the results
+        run: |
+          git add -A bx-wiki bx-small
+          git commit -m "Grab Beyblade X" || echo "No changes"
+          git pull --rebase || true
+          git push
