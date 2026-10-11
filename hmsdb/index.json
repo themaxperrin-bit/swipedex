@@ -1,0 +1,284 @@
+{
+ "pages": [
+  {
+   "url": "https://www.hmsdb.com/initial-releases",
+   "section": "initial-releases",
+   "isSection": true,
+   "title": "HMSDB - Initial Releases",
+   "key": "initial-releases",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Initial Releases"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/a-123-gaia-dragoon-ms",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - A-123 Gaia Dragoon MS",
+   "key": "initial-releases-a-123-gaia-dragoon-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "A-123 Gaia Dragoon MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/a-124-driger-ms",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - A-124 Driger MS",
+   "key": "initial-releases-a-124-driger-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "A-124 Driger MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/a-125-draciel-ms",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - A-125 Draciel MS",
+   "key": "initial-releases-a-125-draciel-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "A-125 Draciel MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/a-126-dragoon-ms",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - A-126 Dragoon MS",
+   "key": "initial-releases-a-126-dragoon-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "A-126 Dragoon MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/a-130-wyvern-dj",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - A-130 Wyvern DJ",
+   "key": "initial-releases-a-130-wyvern-dj",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "A-130 Wyvern DJ"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/a-131-dranzer-ms",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - A-131 Dranzer MS",
+   "key": "initial-releases-a-131-dranzer-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "A-131 Dranzer MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/ma-01-dragoon-msuv",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - MA-01 Dragoon MSUV",
+   "key": "initial-releases-ma-01-dragoon-msuv",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-01 Dragoon MSUV"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/fb-04-einstein-ms",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - FB '04 Einstein MS",
+   "key": "initial-releases-fb-04-einstein-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Einstein MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/ma-04-death-gargoyle-ms",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - MA-04 Death Gargoyle MS",
+   "key": "initial-releases-ma-04-death-gargoyle-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-04 Death Gargoyle MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/rba1-thunder-dragon",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - RBA1 Thunder Dragon",
+   "key": "initial-releases-rba1-thunder-dragon",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Thunder Dragon"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/ma-08-wolborg-ms",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - MA-08 Wolborg MS",
+   "key": "initial-releases-ma-08-wolborg-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-08 Wolborg MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/ma-09-advancer-averazer",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - MA-09 Advancer Averazer",
+   "key": "initial-releases-ma-09-advancer-averazer",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-09 Advancer Averazer"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/rba2-sea-dragon",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - RBA2 Sea Dragon",
+   "key": "initial-releases-rba2-sea-dragon",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Sea Dragon"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/ma-11-advance-guardian",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - MA-11 Advance Guardian",
+   "key": "initial-releases-ma-11-advance-guardian",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-11 Advance Guardian"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/ma-12-advance-striker",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - MA-12 Advance Striker",
+   "key": "initial-releases-ma-12-advance-striker",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-12 Advance Striker"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/initial-releases/ma-14-advance-eterner",
+   "section": "initial-releases",
+   "isSection": false,
+   "title": "HMSDB - MA-14 Advance Eterner",
+   "key": "initial-releases-ma-14-advance-eterner",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-14 Advance Eterner"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series",
+   "section": "gimmick-specialty-series",
+   "isSection": true,
+   "title": "HMSDB - Gimmick Specialty Series",
+   "key": "gimmick-specialty-series",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "Gimmick Specialty Series"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/ma-15-phantom-fox-ms",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - MA-15 Phantom Fox MS",
+   "key": "gimmick-specialty-series-ma-15-phantom-fox-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-15 Phantom Fox MS"
+    }
+   ]
+  },
+  {
+   "url": "https://www.hmsdb.com/gimmick-specialty-series/ma-16-dark-leopard-ms",
+   "section": "gimmick-specialty-series",
+   "isSection": false,
+   "title": "HMSDB - MA-16 Dark Leopard MS",
+   "key": "gimmick-specialty-series-ma-16-dark-leopard-ms",
+   "items": [
+    {
+     "type": "heading",
+     "tag": "h1",
+     "text": "MA-16 Dark Leopard MS"
+    }
+   ]
+  }
+ ]
+}
