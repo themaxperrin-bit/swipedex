@@ -7,6 +7,7 @@ name: Grab HMSDB
 # Saves, in page order, the headings, text and photos of each page into the "hmsdb" folder:
 #   hmsdb/photos/<page>/<n>.jpg   photos (max 1200px; Google's photo links expire, so copies are kept)
 #   hmsdb/index.json              every page: its section, title, and its text and photos in order
+#   hmsdb/pages/<page>.html       each page as it was
 # Safe to run again: pages already saved are skipped.
 on:
   workflow_dispatch:
@@ -46,7 +47,7 @@ jobs:
                             'bit-protector-variations', 'attack-ring-variations', 'weight-disks', 'running-core-variations'];
           const INDEX = 'hmsdb/index.json';
           const index = fs.existsSync(INDEX) ? JSON.parse(fs.readFileSync(INDEX)) : { pages: [] };
-          const done = new Set(index.pages.filter(p => p.items && p.items.length).map(p => p.url));
+          const done = new Set(index.pages.filter(p => p.items && p.items.some(i => i.type === 'photo' || i.type === 'text')).map(p => p.url)); // pages that only got a title are read again
           const save = msg => { fs.writeFileSync(INDEX, JSON.stringify(index, null, 1));
             try { execSync(`git add -A hmsdb && git commit -q -m "${msg}" && git pull -q --rebase && git push -q`, { stdio: 'inherit' }); } catch (e) {} };
           const slug = u => u.replace(BASE, '').replace(/^\/+|\/+$/g, '').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'home';
@@ -74,25 +75,25 @@ jobs:
               await load(q.url);
               // headings, text and photos in page order (the site's menu, header and footer are skipped)
               const items = await page.evaluate(() => {
-                const main = document.querySelector('[role="main"]') || document.body;
                 const out = [];
-                const walk = el => {
-                  for (const c of el.children) {
-                    if (c.closest('nav,header,footer,[role="navigation"],[role="banner"]')) continue;
-                    if (c.tagName === 'IMG') {
-                      const r = c.getBoundingClientRect();
-                      if (r.width < 60 || r.height < 60) continue;
-                      out.push({ type: 'photo', src: c.currentSrc || c.src, w: Math.round(r.width), h: Math.round(r.height), alt: c.alt || '' });
-                    } else if (/^(H1|H2|H3|H4|H5|H6|P|LI)$/.test(c.tagName)) {
-                      const t = c.innerText.replace(/\s+/g, ' ').trim();
-                      if (t) out.push({ type: /^H/.test(c.tagName) ? 'heading' : 'text', tag: c.tagName.toLowerCase(), text: t.slice(0, 600) });
-                      for (const im of c.querySelectorAll('img')) walk({ children: [im] });
-                    } else walk(c);
+                // every heading, paragraph, list item and picture on the page, in page order
+                // (the site's menu, header and footer are skipped)
+                for (const c of document.body.querySelectorAll('h1,h2,h3,h4,h5,h6,p,li,img')) {
+                  if (c.closest('nav,header,footer,[role="navigation"],[role="banner"],[role="dialog"]')) continue;
+                  if (c.tagName === 'IMG') {
+                    const r = c.getBoundingClientRect(), src = c.currentSrc || c.src || '';
+                    if (!src || r.width < 60 || r.height < 60) continue;
+                    out.push({ type: 'photo', src, w: Math.round(r.width), h: Math.round(r.height), y: Math.round(r.top + window.scrollY), alt: c.alt || '' });
+                  } else {
+                    if (c.closest('li') && c.tagName !== 'LI') continue; // text inside a list item is already in it
+                    const t = (c.innerText || '').replace(/\s+/g, ' ').trim();
+                    if (t) out.push({ type: /^H/.test(c.tagName) ? 'heading' : 'text', tag: c.tagName.toLowerCase(), text: t.slice(0, 600) });
                   }
-                };
-                walk(main);
+                }
                 return out;
               });
+              fs.mkdirSync('hmsdb/pages', { recursive: true });
+              fs.writeFileSync(`hmsdb/pages/${slug(q.url)}.html`, await page.content()); // the page as it was, in case it needs reading again
               const title = await page.title();
               const key = slug(q.url);
               let k = 0;
