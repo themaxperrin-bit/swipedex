@@ -1,0 +1,461 @@
+{
+ "new-01.jpg": {
+  "match": "Anesthesia Celestial, Rumael",
+  "card": "BT13/046EN",
+  "candidates": [
+   {
+    "name": "Anesthesia Celestial, Rumael",
+    "card": "BT13/046EN",
+    "score": 0.89
+   },
+   {
+    "name": "Stil Vampir",
+    "card": "BT03/001EN",
+    "score": 0.499
+   },
+   {
+    "name": "Revenger, Bloodmaster",
+    "card": "BT15/009EN",
+    "score": 0.442
+   },
+   {
+    "name": "Cosmic Hero, Grandrope",
+    "card": "G-EB03/034EN",
+    "score": 0.436
+   }
+  ],
+  "saved_as": "vgart/mine-anesthesia-celestial-rumael.jpg"
+ },
+ "new-02.jpg": {
+  "match": "Ancient Dragon, Magmaarmor",
+  "card": "BT17/033EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon, Magmaarmor",
+    "card": "BT17/033EN",
+    "score": 0.869
+   },
+   {
+    "name": "Otegine Toku",
+    "card": "G-TB02/031EN",
+    "score": 0.534
+   },
+   {
+    "name": "Uguisumaru Toku",
+    "card": "G-TB02/007EN",
+    "score": 0.523
+   },
+   {
+    "name": "Stealth Rogue of Revenge, Ooboshi",
+    "card": "G-BT13/043EN",
+    "score": 0.463
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-magmaarmor.jpg"
+ },
+ "new-03.jpg": {
+  "match": "Ancient Dragon, Babysaurus",
+  "card": "BT17/084EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon, Babysaurus",
+    "card": "BT17/084EN",
+    "score": 0.955
+   },
+   {
+    "name": "Atsushi Toushirou Toku",
+    "card": "G-TB02/044EN",
+    "score": 0.556
+   },
+   {
+    "name": "Uguisumaru Toku",
+    "card": "G-TB02/007EN",
+    "score": 0.553
+   },
+   {
+    "name": "Ichigo Hitofuri Toku",
+    "card": "G-TB02/004EN",
+    "score": 0.549
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-babysaurus.jpg"
+ },
+ "new-04.jpg": {
+  "match": "Ancient Dragon, Dinodile",
+  "card": "BT11/084EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon, Dinodile",
+    "card": "BT11/084EN",
+    "score": 0.958
+   },
+   {
+    "name": "Mist Geyser Dragon",
+    "card": "G-BT02/066EN",
+    "score": 0.675
+   },
+   {
+    "name": "Cable Sheep",
+    "card": "BT07/012EN",
+    "score": 0.67
+   },
+   {
+    "name": "Stealth Dragon, Noroi",
+    "card": "G-TCB01/013EN",
+    "score": 0.651
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-dinodile.jpg"
+ },
+ "new-05.jpg": {
+  "match": "Ancient Dragon Flame Maiden",
+  "card": "BT17/085EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon Flame Maiden",
+    "card": "BT17/085EN",
+    "score": 0.962
+   },
+   {
+    "name": "Captain Nightmist",
+    "card": "BT02/013EN",
+    "score": 0.654
+   },
+   {
+    "name": "Dragon Dancer, Anastasia",
+    "card": "G-BT02/014EN",
+    "score": 0.65
+   },
+   {
+    "name": "Alter Ego Neo Messiah",
+    "card": "G-TD15/003EN",
+    "score": 0.633
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-flame-maiden.jpg"
+ },
+ "new-06.jpg": {
+  "match": "Ancient Dragon, Babyrex",
+  "card": "BT11/082EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon, Babyrex",
+    "card": "BT11/082EN",
+    "score": 0.924
+   },
+   {
+    "name": "Scarlet Sky",
+    "card": "V-TB01/018EN",
+    "score": 0.483
+   },
+   {
+    "name": "Dragon Dancer, Anastasia",
+    "card": "G-BT02/014EN",
+    "score": 0.474
+   },
+   {
+    "name": "Caring for Friends, Arisa Ichigaya",
+    "card": "V-TB01/006EN",
+    "score": 0.47
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-babyrex.jpg"
+ },
+ "new-07.jpg": {
+  "match": "Amon's Follower, Ron Geenlin",
+  "card": "BT12/037EN",
+  "candidates": [
+   {
+    "name": "Amon's Follower, Ron Geenlin",
+    "card": "BT12/037EN",
+    "score": 0.966
+   },
+   {
+    "name": "Positive Dracokid",
+    "card": "G-FC04/055EN",
+    "score": 0.616
+   },
+   {
+    "name": "Stealth Dragon, Noroi",
+    "card": "G-TCB01/013EN",
+    "score": 0.582
+   },
+   {
+    "name": "Aid Styraco",
+    "card": "G-BT10/072EN",
+    "score": 0.578
+   }
+  ],
+  "saved_as": "vgart/mine-amon-s-follower-ron-geenlin.jpg"
+ },
+ "new-08.jpg": {
+  "match": "Ancient Dragon, Rockmine",
+  "card": "BT17/016EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon, Rockmine",
+    "card": "BT17/016EN",
+    "score": 0.948
+   },
+   {
+    "name": "Diviner Angel",
+    "card": "V-BT05/034EN",
+    "score": 0.571
+   },
+   {
+    "name": "Metalborg, Battle Roller",
+    "card": "BT17/112EN",
+    "score": 0.527
+   },
+   {
+    "name": "Y.O.L.O!!!!!",
+    "card": "V-TB01/054EN",
+    "score": 0.52
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-rockmine.jpg"
+ },
+ "new-09.jpg": {
+  "match": "Ancient Dragon, Ornithhealer",
+  "card": "BT11/087EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon, Ornithhealer",
+    "card": "BT11/087EN",
+    "score": 0.922
+   },
+   {
+    "name": "Lunatic Masquerade",
+    "card": "G-BT03/096EN",
+    "score": 0.577
+   },
+   {
+    "name": "Explode Gentle",
+    "card": "G-CHB03/044EN",
+    "score": 0.568
+   },
+   {
+    "name": "Embodiment of Shield, Lahm",
+    "card": "V-MB01/030EN",
+    "score": 0.546
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-ornithhealer.jpg"
+ },
+ "new-10.jpg": {
+  "match": "Amon's Follower, Psycho Grave",
+  "card": "BT12/036EN",
+  "candidates": [
+   {
+    "name": "Amon's Follower, Psycho Grave",
+    "card": "BT12/036EN",
+    "score": 0.952
+   },
+   {
+    "name": "Imaginary Gift Accel",
+    "card": "V-GM2/0084EN",
+    "score": 0.654
+   },
+   {
+    "name": "Stealth Dragon, Kurogane",
+    "card": "BT13/057EN",
+    "score": 0.647
+   },
+   {
+    "name": "Dragon Dancer, Anastasia",
+    "card": "G-BT02/014EN",
+    "score": 0.643
+   }
+  ],
+  "saved_as": "vgart/mine-amon-s-follower-psycho-grave.jpg"
+ },
+ "new-11.jpg": {
+  "match": "Ancient Dragon, Knightarmor",
+  "card": "BT17/035EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon, Knightarmor",
+    "card": "BT17/035EN",
+    "score": 0.93
+   },
+   {
+    "name": "Scarlet Sky",
+    "card": "V-TB01/018EN",
+    "score": 0.528
+   },
+   {
+    "name": "Giant Cannon Mutant, Tower Horn",
+    "card": "V-EB09/059EN",
+    "score": 0.518
+   },
+   {
+    "name": "Hades Hypnotist",
+    "card": "V-BT09/SP19EN",
+    "score": 0.513
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-knightarmor.jpg"
+ },
+ "new-12.jpg": {
+  "match": "Amon's Follower, Psychic Waitress",
+  "card": "BT12/086EN",
+  "candidates": [
+   {
+    "name": "Amon's Follower, Psychic Waitress",
+    "card": "BT12/086EN",
+    "score": 0.945
+   },
+   {
+    "name": "Imaginary Gift Accel",
+    "card": "V-GM2/0016EN",
+    "score": 0.548
+   },
+   {
+    "name": "Yamanbagiri Kunihiro",
+    "card": "G-TB01/025EN",
+    "score": 0.494
+   },
+   {
+    "name": "Great Cannon Dragon, Heavy Arzene",
+    "card": "G-BT13/078EN",
+    "score": 0.489
+   }
+  ],
+  "saved_as": "vgart/mine-amon-s-follower-psychic-waitress.jpg"
+ },
+ "new-13.jpg": {
+  "match": "Ancient Dragon, Caudinoise",
+  "card": "BT11/086EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon, Caudinoise",
+    "card": "BT11/086EN",
+    "score": 0.92
+   },
+   {
+    "name": "Feather Penguin",
+    "card": "BT07/056EN",
+    "score": 0.502
+   },
+   {
+    "name": "Returns",
+    "card": "V-TB01/017EN",
+    "score": 0.501
+   },
+   {
+    "name": "Amon's Follower, Ron Geenlin",
+    "card": "BT12/037EN",
+    "score": 0.494
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-caudinoise.jpg"
+ },
+ "new-14.jpg": {
+  "match": "Ancient Dragon, Titanocargo",
+  "card": "BT11/085EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon, Titanocargo",
+    "card": "BT11/085EN",
+    "score": 0.908
+   },
+   {
+    "name": "Diviner Angel",
+    "card": "V-BT05/034EN",
+    "score": 0.623
+   },
+   {
+    "name": "Wyvern Strike, Jiet",
+    "card": "BT15/059EN",
+    "score": 0.619
+   },
+   {
+    "name": "Scathing Lightning Spear, Ramzi",
+    "card": "V-BT03/080EN",
+    "score": 0.613
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-titanocargo.jpg"
+ },
+ "new-15.jpg": {
+  "match": "Amon's Follower, Fools Palm",
+  "card": "BT12/038EN",
+  "candidates": [
+   {
+    "name": "Amon's Follower, Fools Palm",
+    "card": "BT12/038EN",
+    "score": 0.93
+   },
+   {
+    "name": "Imaginary Gift Accel",
+    "card": "V-GM2/0084EN",
+    "score": 0.648
+   },
+   {
+    "name": "Shining Knight, Millius",
+    "card": "G-TD02/014EN",
+    "score": 0.643
+   },
+   {
+    "name": "Sage of Guidance, Zenon",
+    "card": "EB01/S01EN",
+    "score": 0.601
+   }
+  ],
+  "saved_as": "vgart/mine-amon-s-follower-fools-palm.jpg"
+ },
+ "new-16.jpg": {
+  "match": "Ancient Dragon, Chaoticbird",
+  "card": "BT17/086EN",
+  "candidates": [
+   {
+    "name": "Ancient Dragon, Chaoticbird",
+    "card": "BT17/086EN",
+    "score": 0.939
+   },
+   {
+    "name": "Candle Celestial, Sariel",
+    "card": "BT11/025EN",
+    "score": 0.523
+   },
+   {
+    "name": "Imaginary Gift Force",
+    "card": "V-GM2/0021EN",
+    "score": 0.514
+   },
+   {
+    "name": "Gear Goat Loitering in Ruins",
+    "card": "G-TD06/008EN",
+    "score": 0.496
+   }
+  ],
+  "saved_as": "vgart/mine-ancient-dragon-chaoticbird.jpg"
+ },
+ "new-17.jpg": {
+  "match": "Amon's Follower, Meteor Cracker",
+  "card": "BT12/087EN",
+  "candidates": [
+   {
+    "name": "Amon's Follower, Meteor Cracker",
+    "card": "BT12/087EN",
+    "score": 0.937
+   },
+   {
+    "name": "Y.O.L.O!!!!!",
+    "card": "V-TB01/054EN",
+    "score": 0.669
+   },
+   {
+    "name": "Aid Styraco",
+    "card": "G-BT10/072EN",
+    "score": 0.596
+   },
+   {
+    "name": "Atsushi Toushirou Toku",
+    "card": "G-TB02/044EN",
+    "score": 0.595
+   }
+  ],
+  "saved_as": "vgart/mine-amon-s-follower-meteor-cracker.jpg"
+ }
+}
