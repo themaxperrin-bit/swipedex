@@ -2,7 +2,7 @@ name: Add my Vanguard artwork
 
 # Runs by itself whenever you upload pictures named new-<number>.jpg (or .png), e.g. new-01.jpg, to the "vgart" folder.
 # Each picture is card art WITHOUT the frame. The job finds which card it is by comparing it with every
-# Original, G and V-era card picture on the official card list, then:
+# card picture (all eras) on the official card list, then:
 #   - renames it to vgart/mine-<card>.jpg and puts it FIRST in vanguard/renders.json (so the app uses it)
 #   - writes vanguard/mine-review.jpg (your picture next to the best matching cards) and vanguard/mine-results.json
 # Pictures that don't clearly match a card keep their new- name and are listed in mine-results.json.
@@ -21,7 +21,7 @@ concurrency:
 jobs:
   match:
     runs-on: ubuntu-latest
-    timeout-minutes: 180
+    timeout-minutes: 340
     steps:
       - uses: actions/checkout@v4
 
@@ -68,7 +68,7 @@ jobs:
 
           data = json.load(open("vanguard/cards.json"))
           P = data["prefix"]
-          cards = [c for c in data["cards"] if c[9] in ("O", "G", "V")]
+          cards = data["cards"]   # every era (Original, G, V, D, DivineZ)
           arts = sorted(f for f in glob.glob("vgart/new-*") if re.search(r"/new-\d+\.(jpe?g|png|webp)$", f, re.I))  # only your numbered pictures (the wiki has files like new-style-blaster...)
           print(f"{len(arts)} pictures, {len(cards)} cards to compare with")
           views = {f: art_views(cv2.cvtColor(np.asarray(Image.open(f).convert("RGB")), cv2.COLOR_RGB2BGR)) for f in arts}
