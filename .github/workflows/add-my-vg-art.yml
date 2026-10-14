@@ -1,0 +1,168 @@
+name: Add my Vanguard artwork
+
+# Runs by itself whenever you upload pictures named new-<number>.jpg (or .png), e.g. new-01.jpg, to the "vgart" folder.
+# Each picture is card art WITHOUT the frame. The job finds which card it is by comparing it with every
+# Original, G and V-era card picture on the official card list, then:
+#   - renames it to vgart/mine-<card>.jpg and puts it FIRST in vanguard/renders.json (so the app uses it)
+#   - writes vanguard/mine-review.jpg (your picture next to the best matching cards) and vanguard/mine-results.json
+# Pictures that don't clearly match a card keep their new- name and are listed in mine-results.json.
+on:
+  push:
+    paths: ["vgart/new-[0-9]*"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vgart-mine
+  cancel-in-progress: false
+
+jobs:
+  match:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Match each picture to its card
+        run: |
+          pip install requests pillow numpy opencv-python-headless >/dev/null
+          cat > core.py <<'PY'
+          import numpy as np, cv2
+          def art_box(kind, era):
+              if kind == "G Unit": return (0.12, 0.10, 0.97, 0.33) if era == "DZ" else (0.12, 0.12, 0.97, 0.50)
+              return (0.12, 0.13, 0.97, 0.55)
+          def card_thumb(img_bgr, kind, era):
+              h, w = img_bgr.shape[:2]; x0, y0, x1, y1 = art_box(kind, era)
+              crop = img_bgr[int(y0*h):int(y1*h), int(x0*w):int(x1*w)]
+              return cv2.resize(crop, (34, max(8, round(34*crop.shape[0]/crop.shape[1]))), interpolation=cv2.INTER_AREA).astype(np.float32)
+          def art_views(img_bgr):
+              # the full art at a few sizes: the card's art box is ~85% of the art's width
+              out = []
+              for s in (0.92, 1.0, 1.1, 1.22):
+                  W = round(34/0.85*s); H = round(W*img_bgr.shape[0]/img_bgr.shape[1])
+                  out.append(cv2.resize(img_bgr, (W, H), interpolation=cv2.INTER_AREA).astype(np.float32))
+              return out
+          def score(views, t):
+              best = -1
+              for v in views:
+                  if v.shape[0] < t.shape[0] or v.shape[1] < t.shape[1]: continue
+                  r = cv2.matchTemplate(v, t, cv2.TM_CCOEFF_NORMED); best = max(best, float(r.max()))
+              return best
+          PY
+          python -u - <<'PY'
+          import io, json, os, re, glob, unicodedata, hashlib, time
+          import numpy as np, cv2, requests
+          from concurrent.futures import ThreadPoolExecutor
+          from PIL import Image, ImageDraw
+          from core import card_thumb, art_views, score
+
+          def norm(name):  # same as the app
+              name = re.sub(r"\s*\([^)]*\)\s*$", "", name.replace("’", "'"))
+              return "".join(ch for ch in unicodedata.normalize("NFKC", name).lower() if ch.isalnum())
+
+          data = json.load(open("vanguard/cards.json"))
+          P = data["prefix"]
+          cards = [c for c in data["cards"] if c[9] in ("O", "G", "V")]
+          arts = sorted(f for f in glob.glob("vgart/new-*") if re.search(r"/new-\d+\.(jpe?g|png|webp)$", f, re.I))  # only your numbered pictures (the wiki has files like new-style-blaster...)
+          print(f"{len(arts)} pictures, {len(cards)} cards to compare with")
+          views = {f: art_views(cv2.cvtColor(np.asarray(Image.open(f).convert("RGB")), cv2.COLOR_RGB2BGR)) for f in arts}
+
+          # card thumbnails (cached in the repo so later runs are quick)
+          CACHE = "vanguard/.card-thumbs.npz"
+          thumbs = {}
+          if os.path.exists(CACHE):
+              z = np.load(CACHE, allow_pickle=True); thumbs = dict(z["d"].item())
+          s = requests.Session(); s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app)"
+          def get(c):
+              url = c[7] if c[7].startswith("http") else P + c[7]
+              if url in thumbs: return url, thumbs[url]
+              for a in range(3):
+                  try:
+                      r = s.get(url, timeout=40)
+                      if r.status_code == 200:
+                          im = cv2.imdecode(np.frombuffer(r.content, np.uint8), cv2.IMREAD_COLOR)
+                          if im is not None: return url, card_thumb(im, c[2], c[9])
+                      if r.status_code == 404: return url, None
+                  except Exception: pass
+                  time.sleep(2 * (a + 1))
+              return url, None
+          t0 = time.time()
+          with ThreadPoolExecutor(16) as ex:
+              for i, (url, t) in enumerate(ex.map(get, cards)):
+                  if t is not None: thumbs[url] = t
+                  if i % 1000 == 0: print(f"  {i}/{len(cards)} cards  {time.time()-t0:.0f}s")
+          np.savez_compressed(CACHE, d=np.array(thumbs, dtype=object))
+
+          # best card for each picture (reprints of the same card share a name, so compare names)
+          results = {}
+          for f in arts:
+              best = {}
+              for c in cards:
+                  url = c[7] if c[7].startswith("http") else P + c[7]
+                  t = thumbs.get(url)
+                  if t is None: continue
+                  sc = score(views[f], t)
+                  k = norm(c[1])
+                  if k not in best or sc > best[k][0]: best[k] = (sc, c[1], c[0], url)
+              top = sorted(best.values(), reverse=True)[:4]
+              ok = top and top[0][0] >= 0.80 and (len(top) < 2 or top[0][0] - top[1][0] >= 0.15)
+              results[os.path.basename(f)] = {"match": top[0][1] if ok else None, "card": top[0][2] if ok else None,
+                  "candidates": [{"name": n, "card": no, "score": round(sc, 3)} for sc, n, no, u in top], "_urls": [u for _, _, _, u in top]}
+              print(f"{os.path.basename(f)}: {'OK ' if ok else '?? '}{top[0][1]} ({top[0][0]:.2f})  next {top[1][1] if len(top)>1 else '-'} ({top[1][0] if len(top)>1 else 0:.2f})")
+
+          # apply the clear matches
+          R = json.load(open("vanguard/renders.json")); M = R.setdefault("map", {})
+          sets_of = {}
+          for c in data["cards"]: sets_of.setdefault(norm(c[1]), set()).add(c[0].split("/")[0])
+          for f in arts:
+              r = results[os.path.basename(f)]
+              if not r["match"]: continue
+              k = norm(r["match"]); slug = re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", r["match"].lower())).strip("-")
+              out = f"mine-{slug}.jpg"
+              im = Image.open(f).convert("RGB"); im.thumbnail((1400, 1400), Image.LANCZOS)
+              im.save(f"vgart/{out}", "JPEG", quality=90, optimize=True, progressive=True)
+              title = "Mine: " + r["match"] + " " + " ".join(sorted(sets_of.get(k, [])))
+              M[k] = [[out, title]] + [e for e in M.get(k, []) if e[0] != out]
+              r["saved_as"] = f"vgart/{out}"; r["_done"] = True
+          json.dump(R, open("vanguard/renders.json", "w"), ensure_ascii=False, separators=(",", ":"))
+
+          # review sheet: your picture, then the best matching cards
+          rows = []
+          for f in arts:
+              r = results[os.path.basename(f)]
+              row = Image.new("RGB", (5 * 170, 270), "white"); d = ImageDraw.Draw(row)
+              a = Image.open(f).convert("RGB"); a.thumbnail((160, 230)); row.paste(a, (5, 30))
+              d.text((5, 5), os.path.basename(f) + ("  -> " + r["match"] if r["match"] else "  -> NOT SURE"), fill="black")
+              for j, u in enumerate(r["_urls"][:4]):
+                  try:
+                      im = Image.open(io.BytesIO(s.get(u, timeout=40).content)).convert("RGB"); im.thumbnail((160, 230)); row.paste(im, (5 + 170 * (j + 1), 30))
+                      d.text((5 + 170 * (j + 1), 262 - 12), f"{r['candidates'][j]['score']:.2f}", fill="black")
+                  except Exception: pass
+              rows.append(row)
+          if rows:
+              sheet = Image.new("RGB", (rows[0].width, 270 * len(rows)), "white")
+              for i, rw in enumerate(rows): sheet.paste(rw, (0, 270 * i))
+              sheet.save("vanguard/mine-review.jpg", quality=85)
+          for f in arts:
+              r = results[os.path.basename(f)]
+              if r.pop("_done", False): os.remove(f)   # saved as mine-<card>.jpg
+          for r in results.values(): r.pop("_urls", None)
+          json.dump(results, open("vanguard/mine-results.json", "w"), indent=1, ensure_ascii=False)
+          print(f"\nmatched {sum(1 for r in results.values() if r['match'])} of {len(results)}")
+          PY
+
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A vgart vanguard
+          git commit -m "Add my Vanguard artwork" || echo "No changes"
+          git pull --rebase || true
+          git push
+          curl -s "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/vanguard/renders.json" || true
