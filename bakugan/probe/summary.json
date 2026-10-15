@@ -2,6 +2,7 @@
  {
   "url": "https://bakugandb.com/",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -15,7 +16,142 @@
  },
  {
   "url": "https://bakugandb.com/bakudex",
+  "status": 200,
+  "finalTitle": "BakuganDB- The Bakugan Database",
+  "title": "BakuganDB- The Bakugan Database",
+  "links": 22,
+  "imgs": 705,
+  "sampleLinks": [
+   "https://bakugandb.com/bakudex#",
+   "https://bakugandb.com/",
+   "https://bakugandb.com/about",
+   "https://bakugandb.com/faqs",
+   "https://bakugandb.com/partnerships",
+   "https://bakugandb.com/leons-collection",
+   "https://bakugandb.com/contact",
+   "https://bakugandb.com/bakudex",
+   "https://bakugandb.com/battle-brawlers",
+   "https://bakugandb.com/new-vestroia",
+   "https://bakugandb.com/gundalian-invaders",
+   "https://bakugandb.com/mechtanium-surge",
+   "https://bakugandb.com/bakutech",
+   "https://bakugandb.com/battle-planet",
+   "https://bakugandb.com/armored-alliance",
+   "https://bakugandb.com/geogan-rising",
+   "https://bakugandb.com/evolutions",
+   "https://bakugandb.com/legends",
+   "https://bakugandb.com/generation-3",
+   "https://www.instagram.com/leonlabs_inc/",
+   "https://twitter.com/LeonLabs_inc",
+   "https://discord.com/invite/De3G3Uhty9"
+  ],
+  "sampleImgs": [
+   "https://bakugandb.com/Images/32-%20Logo%20Banner.png",
+   "https://bakugandb.com/Images/13-%20BakuDex.png",
+   "https://bakugandb.com/Images/01-%20BB%20Logo.png",
+   "https://bakugandb.com/Images/02-%20NV%20Logo.png",
+   "https://bakugandb.com/Images/03-%20GI%20Logo.png",
+   "https://bakugandb.com/Images/04-%20MS%20Logo.png",
+   "https://bakugandb.com/Images/05-%20BakuTech.jpg",
+   "https://bakugandb.com/Images/06-%20Battle%20Planet.png",
+   "https://bakugandb.com/Images/07-%20Armored%20Alliance.png",
+   "https://bakugandb.com/Images/08-%20Geogan%20Rising.png",
+   "https://bakugandb.com/Images/09-%20Evolutions.png",
+   "https://bakugandb.com/Images/10-%20Legends.png",
+   "https://bakugandb.com/Images/11-%20Gen%203.png",
+   "https://bakugandb.com/Images/23-%20Banner.png",
+   "https://bakugandb.com/Dex/01-%20BB/01-%20Dragonoid.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/05-%20Preyas%20Diablo.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/09-%20Skyress.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/13-%20Hydranoid.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/17-%20Sirenoid.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/21-%20Reaper.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/25-%20Griffon.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/29-%20Saurus.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/33-%20Hynoid.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/37-%20Terrorclaw.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/41-%20Limulus.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/45-%20Warius.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/49-%20Lars%20Lion.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/02-%20Delta%20Dragonoid.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/06-%20Preyas%20II.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/10-%20Storm%20Skyress.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/14-%20Dual%20Hydranoid.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/18-%20Tentaclear.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/22-%20Centipoid.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/26-%20Juggernoid.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/30-%20Serpenoid.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/34-%20Manion.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/38-%20Tuskor.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/42-%20Monarus.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/46-%20Wormquake.jpg",
+   "https://bakugandb.com/Dex/01-%20BB/50-%20Oberus.jpg"
+  ]
+ },
+ {
+  "url": "https://bakugandb.com/about",
   "status": 403,
+  "finalTitle": "Just a moment...",
+  "title": "Just a moment...",
+  "links": 2,
+  "imgs": 1,
+  "sampleLinks": [
+   "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  "sampleImgs": [
+   "https://bakugandb.com/favicon.ico"
+  ]
+ },
+ {
+  "url": "https://bakugandb.com/faqs",
+  "status": 403,
+  "finalTitle": "Just a moment...",
+  "title": "Just a moment...",
+  "links": 2,
+  "imgs": 1,
+  "sampleLinks": [
+   "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  "sampleImgs": [
+   "https://bakugandb.com/favicon.ico"
+  ]
+ },
+ {
+  "url": "https://bakugandb.com/partnerships",
+  "status": 403,
+  "finalTitle": "Just a moment...",
+  "title": "Just a moment...",
+  "links": 2,
+  "imgs": 1,
+  "sampleLinks": [
+   "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  "sampleImgs": [
+   "https://bakugandb.com/favicon.ico"
+  ]
+ },
+ {
+  "url": "https://bakugandb.com/leons-collection",
+  "status": 403,
+  "finalTitle": "Just a moment...",
+  "title": "Just a moment...",
+  "links": 2,
+  "imgs": 1,
+  "sampleLinks": [
+   "https://www.cloudflare.com/?utm_source=challenge&utm_campaign=m",
+   "https://www.cloudflare.com/privacypolicy/"
+  ],
+  "sampleImgs": [
+   "https://bakugandb.com/favicon.ico"
+  ]
+ },
+ {
+  "url": "https://bakugandb.com/contact",
+  "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -30,6 +166,7 @@
  {
   "url": "https://bakugandb.com/battle-brawlers",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -44,6 +181,7 @@
  {
   "url": "https://bakugandb.com/new-vestroia",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -58,6 +196,7 @@
  {
   "url": "https://bakugandb.com/gundalian-invaders",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -72,6 +211,7 @@
  {
   "url": "https://bakugandb.com/mechtanium-surge",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -86,6 +226,7 @@
  {
   "url": "https://bakugandb.com/bakutech",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -100,6 +241,7 @@
  {
   "url": "https://bakugandb.com/battle-planet",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -114,6 +256,7 @@
  {
   "url": "https://bakugandb.com/armored-alliance",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -128,6 +271,7 @@
  {
   "url": "https://bakugandb.com/geogan-rising",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -142,6 +286,7 @@
  {
   "url": "https://bakugandb.com/evolutions",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -156,6 +301,7 @@
  {
   "url": "https://bakugandb.com/legends",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
@@ -170,6 +316,7 @@
  {
   "url": "https://bakugandb.com/generation-3",
   "status": 403,
+  "finalTitle": "Just a moment...",
   "title": "Just a moment...",
   "links": 2,
   "imgs": 1,
