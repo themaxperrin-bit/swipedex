@@ -1,0 +1,6885 @@
+{
+ "source": "https://bakugandb.com/bakudex",
+ "items": [
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 1,
+   "name": "Dragonoid",
+   "src": "Dex/01- BB/01- Dragonoid.jpg",
+   "file": "photos/g1/battle-brawlers/01-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 5,
+   "name": "Preyas Diablo",
+   "src": "Dex/01- BB/05- Preyas Diablo.jpg",
+   "file": "photos/g1/battle-brawlers/05-preyas-diablo.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 9,
+   "name": "Skyress",
+   "src": "Dex/01- BB/09- Skyress.jpg",
+   "file": "photos/g1/battle-brawlers/09-skyress.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 13,
+   "name": "Hydranoid",
+   "src": "Dex/01- BB/13- Hydranoid.jpg",
+   "file": "photos/g1/battle-brawlers/13-hydranoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 17,
+   "name": "Sirenoid",
+   "src": "Dex/01- BB/17- Sirenoid.jpg",
+   "file": "photos/g1/battle-brawlers/17-sirenoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 21,
+   "name": "Reaper",
+   "src": "Dex/01- BB/21- Reaper.jpg",
+   "file": "photos/g1/battle-brawlers/21-reaper.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 25,
+   "name": "Griffon",
+   "src": "Dex/01- BB/25- Griffon.jpg",
+   "file": "photos/g1/battle-brawlers/25-griffon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 29,
+   "name": "Saurus",
+   "src": "Dex/01- BB/29- Saurus.jpg",
+   "file": "photos/g1/battle-brawlers/29-saurus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 33,
+   "name": "Hynoid",
+   "src": "Dex/01- BB/33- Hynoid.jpg",
+   "file": "photos/g1/battle-brawlers/33-hynoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 37,
+   "name": "Terrorclaw",
+   "src": "Dex/01- BB/37- Terrorclaw.jpg",
+   "file": "photos/g1/battle-brawlers/37-terrorclaw.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 41,
+   "name": "Limulus",
+   "src": "Dex/01- BB/41- Limulus.jpg",
+   "file": "photos/g1/battle-brawlers/41-limulus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 45,
+   "name": "Warius",
+   "src": "Dex/01- BB/45- Warius.jpg",
+   "file": "photos/g1/battle-brawlers/45-warius.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 49,
+   "name": "Lars Lion",
+   "src": "Dex/01- BB/49- Lars Lion.jpg",
+   "file": "photos/g1/battle-brawlers/49-lars-lion.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 2,
+   "name": "Delta Dragonoid",
+   "src": "Dex/01- BB/02- Delta Dragonoid.jpg",
+   "file": "photos/g1/battle-brawlers/02-delta-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 6,
+   "name": "Preyas II",
+   "src": "Dex/01- BB/06- Preyas II.jpg",
+   "file": "photos/g1/battle-brawlers/06-preyas-ii.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 10,
+   "name": "Storm Skyress",
+   "src": "Dex/01- BB/10- Storm Skyress.jpg",
+   "file": "photos/g1/battle-brawlers/10-storm-skyress.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 14,
+   "name": "Dual Hydranoid",
+   "src": "Dex/01- BB/14- Dual Hydranoid.jpg",
+   "file": "photos/g1/battle-brawlers/14-dual-hydranoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 18,
+   "name": "Tentaclear",
+   "src": "Dex/01- BB/18- Tentaclear.jpg",
+   "file": "photos/g1/battle-brawlers/18-tentaclear.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 22,
+   "name": "Centipoid",
+   "src": "Dex/01- BB/22- Centipoid.jpg",
+   "file": "photos/g1/battle-brawlers/22-centipoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 26,
+   "name": "Juggernoid",
+   "src": "Dex/01- BB/26- Juggernoid.jpg",
+   "file": "photos/g1/battle-brawlers/26-juggernoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 30,
+   "name": "Serpenoid",
+   "src": "Dex/01- BB/30- Serpenoid.jpg",
+   "file": "photos/g1/battle-brawlers/30-serpenoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 34,
+   "name": "Manion",
+   "src": "Dex/01- BB/34- Manion.jpg",
+   "file": "photos/g1/battle-brawlers/34-manion.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 38,
+   "name": "Tuskor",
+   "src": "Dex/01- BB/38- Tuskor.jpg",
+   "file": "photos/g1/battle-brawlers/38-tuskor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 42,
+   "name": "Monarus",
+   "src": "Dex/01- BB/42- Monarus.jpg",
+   "file": "photos/g1/battle-brawlers/42-monarus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 46,
+   "name": "Wormquake",
+   "src": "Dex/01- BB/46- Wormquake.jpg",
+   "file": "photos/g1/battle-brawlers/46-wormquake.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 50,
+   "name": "Oberus",
+   "src": "Dex/01- BB/50- Oberus.jpg",
+   "file": "photos/g1/battle-brawlers/50-oberus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 53,
+   "name": "Wavern",
+   "src": "Dex/01- BB/53- Wavern.jpg",
+   "file": "photos/g1/battle-brawlers/53-wavern.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 3,
+   "name": "Infinity Dragonoid",
+   "src": "Dex/01- BB/03- Infinity Dragonoid.jpg",
+   "file": "photos/g1/battle-brawlers/03-infinity-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 7,
+   "name": "Tigrerra",
+   "src": "Dex/01- BB/07- Tigrerra.jpg",
+   "file": "photos/g1/battle-brawlers/07-tigrerra.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 11,
+   "name": "Gorem",
+   "src": "Dex/01- BB/11- Gorem.jpg",
+   "file": "photos/g1/battle-brawlers/11-gorem.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 15,
+   "name": "Alpha Hydranoid",
+   "src": "Dex/01- BB/15- Alpha Hydranoid.jpg",
+   "file": "photos/g1/battle-brawlers/15-alpha-hydranoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 19,
+   "name": "Harpus",
+   "src": "Dex/01- BB/19- Harpus.jpg",
+   "file": "photos/g1/battle-brawlers/19-harpus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 23,
+   "name": "Falconeer",
+   "src": "Dex/01- BB/23- Falconeer.jpg",
+   "file": "photos/g1/battle-brawlers/23-falconeer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 27,
+   "name": "Laserman",
+   "src": "Dex/01- BB/27- Laserman.jpg",
+   "file": "photos/g1/battle-brawlers/27-laserman.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 31,
+   "name": "Stinglash",
+   "src": "Dex/01- BB/31- Stinglash.jpg",
+   "file": "photos/g1/battle-brawlers/31-stinglash.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 35,
+   "name": "Mantris",
+   "src": "Dex/01- BB/35- Mantris.jpg",
+   "file": "photos/g1/battle-brawlers/35-mantris.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 39,
+   "name": "Bee Striker",
+   "src": "Dex/01- BB/39- Bee Striker.jpg",
+   "file": "photos/g1/battle-brawlers/39-bee-striker.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 43,
+   "name": "Rattleoid",
+   "src": "Dex/01- BB/43- Rattleoid.jpg",
+   "file": "photos/g1/battle-brawlers/43-rattleoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 47,
+   "name": "Apollonir",
+   "src": "Dex/01- BB/47- Apollonir.jpg",
+   "file": "photos/g1/battle-brawlers/47-apollonir.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 51,
+   "name": "Clayf",
+   "src": "Dex/01- BB/51- Clayf.jpg",
+   "file": "photos/g1/battle-brawlers/51-clayf.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 54,
+   "name": "Naga",
+   "src": "Dex/01- BB/54- Naga.jpg",
+   "file": "photos/g1/battle-brawlers/54-naga.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 4,
+   "name": "Preyas",
+   "src": "Dex/01- BB/04- Preyas.jpg",
+   "file": "photos/g1/battle-brawlers/04-preyas.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 8,
+   "name": "Blade Tigrerra",
+   "src": "Dex/01- BB/08- Blade Tigrerra.jpg",
+   "file": "photos/g1/battle-brawlers/08-blade-tigrerra.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 12,
+   "name": "Hammer Gorem",
+   "src": "Dex/01- BB/12- Hammer Gorem.jpg",
+   "file": "photos/g1/battle-brawlers/12-hammer-gorem.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 16,
+   "name": "Fourtress",
+   "src": "Dex/01- BB/16- Fourtress.jpg",
+   "file": "photos/g1/battle-brawlers/16-fourtress.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 20,
+   "name": "Cycloid",
+   "src": "Dex/01- BB/20- Cycloid.jpg",
+   "file": "photos/g1/battle-brawlers/20-cycloid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 24,
+   "name": "Fear Ripper",
+   "src": "Dex/01- BB/24- Fear Ripper.jpg",
+   "file": "photos/g1/battle-brawlers/24-fear-ripper.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 28,
+   "name": "Robotallion",
+   "src": "Dex/01- BB/28- Robotallion.jpg",
+   "file": "photos/g1/battle-brawlers/28-robotallion.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 32,
+   "name": "Gargonoid",
+   "src": "Dex/01- BB/32- Gargonoid.jpg",
+   "file": "photos/g1/battle-brawlers/32-gargonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 36,
+   "name": "Siege",
+   "src": "Dex/01- BB/36- Siege.jpg",
+   "file": "photos/g1/battle-brawlers/36-siege.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 40,
+   "name": "El Condor",
+   "src": "Dex/01- BB/40- El Condor.jpg",
+   "file": "photos/g1/battle-brawlers/40-el-condor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 44,
+   "name": "Ravenoid",
+   "src": "Dex/01- BB/44- Ravenoid.jpg",
+   "file": "photos/g1/battle-brawlers/44-ravenoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 48,
+   "name": "Frosch",
+   "src": "Dex/01- BB/48- Frosch.jpg",
+   "file": "photos/g1/battle-brawlers/48-frosch.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Battle Brawlers",
+   "code": "",
+   "n": 52,
+   "name": "Exedra",
+   "src": "Dex/01- BB/52- Exedra.jpg",
+   "file": "photos/g1/battle-brawlers/52-exedra.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 1,
+   "name": "Moonlit Monarus",
+   "src": "Dex/02- NV/01- Moonlit Monarus.jpg",
+   "file": "photos/g1/new-vestroia/01-moonlit-monarus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 5,
+   "name": "Cross Dragonoid",
+   "src": "Dex/02- NV/05- Cross Dragonoid.jpg",
+   "file": "photos/g1/new-vestroia/05-cross-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 9,
+   "name": "Mega Nemus",
+   "src": "Dex/02- NV/09- Mega Nemus.jpg",
+   "file": "photos/g1/new-vestroia/09-mega-nemus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 13,
+   "name": "Thunder Wilda",
+   "src": "Dex/02- NV/13- Thunder Wilda.jpg",
+   "file": "photos/g1/new-vestroia/13-thunder-wilda.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 17,
+   "name": "Viper Helios",
+   "src": "Dex/02- NV/17- Viper Helios.jpg",
+   "file": "photos/g1/new-vestroia/17-viper-helios.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 21,
+   "name": "Elico",
+   "src": "Dex/02- NV/21- Elico.jpg",
+   "file": "photos/g1/new-vestroia/21-elico.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 25,
+   "name": "Alto Brontes",
+   "src": "Dex/02- NV/25- Alto Brontes.jpg",
+   "file": "photos/g1/new-vestroia/25-alto-brontes.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 29,
+   "name": "Hades",
+   "src": "Dex/02- NV/29- Hades.jpg",
+   "file": "photos/g1/new-vestroia/29-hades.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 33,
+   "name": "Spindle",
+   "src": "Dex/02- NV/33- Spindle.jpg",
+   "file": "photos/g1/new-vestroia/33-spindle.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 37,
+   "name": "Abis Omega",
+   "src": "Dex/02- NV/37- Abis Omega.jpg",
+   "file": "photos/g1/new-vestroia/37-abis-omega.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 41,
+   "name": "Verias",
+   "src": "Dex/02- NV/41- Verias.jpg",
+   "file": "photos/g1/new-vestroia/41-verias.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 45,
+   "name": "Turbine Dragonoid",
+   "src": "Dex/02- NV/45- Turbine Dragonoid.jpg",
+   "file": "photos/g1/new-vestroia/45-turbine-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 49,
+   "name": "Ultra Dragonoid",
+   "src": "Dex/02- NV/49- Ultra Dragonoid.jpg",
+   "file": "photos/g1/new-vestroia/49-ultra-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 53,
+   "name": "Boost Ingram",
+   "src": "Dex/02- NV/53- Boost Ingram.jpg",
+   "file": "photos/g1/new-vestroia/53-boost-ingram.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 57,
+   "name": "Alpha Percival Cyclone",
+   "src": "Dex/02- NV/57- Alpha Percival Cyclone.jpg",
+   "file": "photos/g1/new-vestroia/57-alpha-percival-cyclone.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 2,
+   "name": "Spin Ravenoid",
+   "src": "Dex/02- NV/02- Spin Ravenoid.jpg",
+   "file": "photos/g1/new-vestroia/02-spin-ravenoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 6,
+   "name": "Elfin",
+   "src": "Dex/02- NV/06- Elfin.jpg",
+   "file": "photos/g1/new-vestroia/06-elfin.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 10,
+   "name": "Ingram",
+   "src": "Dex/02- NV/10- Ingram.jpg",
+   "file": "photos/g1/new-vestroia/10-ingram.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 14,
+   "name": "Percival",
+   "src": "Dex/02- NV/14- Percival.jpg",
+   "file": "photos/g1/new-vestroia/14-percival.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 18,
+   "name": "Cyborg Helios",
+   "src": "Dex/02- NV/18- Cyborg Helios.jpg",
+   "file": "photos/g1/new-vestroia/18-cyborg-helios.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 22,
+   "name": "Blast Elico",
+   "src": "Dex/02- NV/22- Blast Elico.jpg",
+   "file": "photos/g1/new-vestroia/22-blast-elico.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 26,
+   "name": "Altair",
+   "src": "Dex/02- NV/26- Altair.jpg",
+   "file": "photos/g1/new-vestroia/26-altair.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 30,
+   "name": "Turbine Hades",
+   "src": "Dex/02- NV/30- Turbine Hades.jpg",
+   "file": "photos/g1/new-vestroia/30-turbine-hades.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 34,
+   "name": "Klawgor",
+   "src": "Dex/02- NV/34- Klawgor.jpg",
+   "file": "photos/g1/new-vestroia/34-klawgor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 38,
+   "name": "Atmos",
+   "src": "Dex/02- NV/38- Atmos.jpg",
+   "file": "photos/g1/new-vestroia/38-atmos.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 42,
+   "name": "Moskeeto",
+   "src": "Dex/02- NV/42- Moskeeto.jpg",
+   "file": "photos/g1/new-vestroia/42-moskeeto.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 46,
+   "name": "Pyro Dragonoid",
+   "src": "Dex/02- NV/46- Pyro Dragonoid.jpg",
+   "file": "photos/g1/new-vestroia/46-pyro-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 50,
+   "name": "Ultra Dragonoid Typhoon",
+   "src": "Dex/02- NV/50- Ultra Dragonoid Typhoon.jpg",
+   "file": "photos/g1/new-vestroia/50-ultra-dragonoid-typhoon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 54,
+   "name": "Cosmic Ingram",
+   "src": "Dex/02- NV/54- Cosmic Ingram.jpg",
+   "file": "photos/g1/new-vestroia/54-cosmic-ingram.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 58,
+   "name": "Orbit Helios",
+   "src": "Dex/02- NV/58- Orbit Helios.jpg",
+   "file": "photos/g1/new-vestroia/58-orbit-helios.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 61,
+   "name": "Myriad Hades",
+   "src": "Dex/02- NV/61- Myriad Hades.jpg",
+   "file": "photos/g1/new-vestroia/61-myriad-hades.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 3,
+   "name": "Neo Dragonoid",
+   "src": "Dex/02- NV/03- Neo Dragonoid.jpg",
+   "file": "photos/g1/new-vestroia/03-neo-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 7,
+   "name": "Minx Elfin",
+   "src": "Dex/02- NV/07- Minx Elfin.jpg",
+   "file": "photos/g1/new-vestroia/07-minx-elfin.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 11,
+   "name": "Master Ingram",
+   "src": "Dex/02- NV/11- Master Ingram.jpg",
+   "file": "photos/g1/new-vestroia/11-master-ingram.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 15,
+   "name": "Percival Vortex",
+   "src": "Dex/02- NV/15- Percival Vortex.jpg",
+   "file": "photos/g1/new-vestroia/15-percival-vortex.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 19,
+   "name": "Turbine Helios",
+   "src": "Dex/02- NV/19- Turbine Helios.jpg",
+   "file": "photos/g1/new-vestroia/19-turbine-helios.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 23,
+   "name": "Brontes",
+   "src": "Dex/02- NV/23- Brontes.jpg",
+   "file": "photos/g1/new-vestroia/23-brontes.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 27,
+   "name": "Wired",
+   "src": "Dex/02- NV/27- Wired.jpg",
+   "file": "photos/g1/new-vestroia/27-wired.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 31,
+   "name": "Fencer",
+   "src": "Dex/02- NV/31- Fencer.jpg",
+   "file": "photos/g1/new-vestroia/31-fencer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 35,
+   "name": "Scraper",
+   "src": "Dex/02- NV/35- Scraper.jpg",
+   "file": "photos/g1/new-vestroia/35-scraper.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 39,
+   "name": "Freezer",
+   "src": "Dex/02- NV/39- Freezer.jpg",
+   "file": "photos/g1/new-vestroia/39-freezer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 43,
+   "name": "Vandarus",
+   "src": "Dex/02- NV/43- Vandarus.jpg",
+   "file": "photos/g1/new-vestroia/43-vandarus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 47,
+   "name": "Hyper Dragonoid",
+   "src": "Dex/02- NV/47- Hyper Dragonoid.jpg",
+   "file": "photos/g1/new-vestroia/47-hyper-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 51,
+   "name": "Dual Elfin",
+   "src": "Dex/02- NV/51- Dual Elfin.jpg",
+   "file": "photos/g1/new-vestroia/51-dual-elfin.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 55,
+   "name": "Midnight Percival",
+   "src": "Dex/02- NV/55- Midnight Percival.jpg",
+   "file": "photos/g1/new-vestroia/55-midnight-percival.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 59,
+   "name": "Mystic Elico",
+   "src": "Dex/02- NV/59- Mystic Elico.jpg",
+   "file": "photos/g1/new-vestroia/59-mystic-elico.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 4,
+   "name": "Neo Dragonoid Vortex",
+   "src": "Dex/02- NV/04- Neo Dragonoid Vortex.jpg",
+   "file": "photos/g1/new-vestroia/04-neo-dragonoid-vortex.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 8,
+   "name": "Nemus",
+   "src": "Dex/02- NV/08- Nemus.jpg",
+   "file": "photos/g1/new-vestroia/08-nemus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 12,
+   "name": "Wilda",
+   "src": "Dex/02- NV/12- Wilda.jpg",
+   "file": "photos/g1/new-vestroia/12-wilda.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 16,
+   "name": "Knight Percival",
+   "src": "Dex/02- NV/16- Knight Percival.jpg",
+   "file": "photos/g1/new-vestroia/16-knight-percival.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 20,
+   "name": "Helios MK2",
+   "src": "Dex/02- NV/20- Helios MK2.jpg",
+   "file": "photos/g1/new-vestroia/20-helios-mk2.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 24,
+   "name": "Mega Brontes",
+   "src": "Dex/02- NV/24- Mega Brontes.jpg",
+   "file": "photos/g1/new-vestroia/24-mega-brontes.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 28,
+   "name": "Premo Vulcan",
+   "src": "Dex/02- NV/28- Premo Vulcan.jpg",
+   "file": "photos/g1/new-vestroia/28-premo-vulcan.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 32,
+   "name": "Leefram",
+   "src": "Dex/02- NV/32- Leefram.jpg",
+   "file": "photos/g1/new-vestroia/32-leefram.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 36,
+   "name": "Foxbat",
+   "src": "Dex/02- NV/36- Foxbat.jpg",
+   "file": "photos/g1/new-vestroia/36-foxbat.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 40,
+   "name": "Stug",
+   "src": "Dex/02- NV/40- Stug.jpg",
+   "file": "photos/g1/new-vestroia/40-stug.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 44,
+   "name": "Spin Drago",
+   "src": "Dex/02- NV/44- Spin Drago.jpg",
+   "file": "photos/g1/new-vestroia/44-spin-drago.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 48,
+   "name": "Cyclone Dragonoid",
+   "src": "Dex/02- NV/48- Cyclone Dragonoid.jpg",
+   "file": "photos/g1/new-vestroia/48-cyclone-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 52,
+   "name": "Dual Elfin Revolution",
+   "src": "Dex/02- NV/52- Dual Elfin Revolution.jpg",
+   "file": "photos/g1/new-vestroia/52-dual-elfin-revolution.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 56,
+   "name": "Alpha Percival",
+   "src": "Dex/02- NV/56- Alpha Percival.jpg",
+   "file": "photos/g1/new-vestroia/56-alpha-percival.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "New Vestroia",
+   "code": "",
+   "n": 60,
+   "name": "Shadow Vulcan",
+   "src": "Dex/02- NV/60- Shadow Vulcan.jpg",
+   "file": "photos/g1/new-vestroia/60-shadow-vulcan.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 1,
+   "name": "Zeon Hylash",
+   "src": "Dex/03- GI/01- Zeon Hylash.jpg",
+   "file": "photos/g1/gundalian-invaders/01-zeon-hylash.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 5,
+   "name": "Blitz Dragonoid",
+   "src": "Dex/03- GI/05- Blitz Dragonoid.jpg",
+   "file": "photos/g1/gundalian-invaders/05-blitz-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 9,
+   "name": "Coredem",
+   "src": "Dex/03- GI/09- Coredem.jpg",
+   "file": "photos/g1/gundalian-invaders/09-coredem.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 13,
+   "name": "Contestir",
+   "src": "Dex/03- GI/13- Contestir.jpg",
+   "file": "photos/g1/gundalian-invaders/13-contestir.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 17,
+   "name": "Lythirus",
+   "src": "Dex/03- GI/17- Lythirus.jpg",
+   "file": "photos/g1/gundalian-invaders/17-lythirus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 21,
+   "name": "Dharak",
+   "src": "Dex/03- GI/21- Dharak.jpg",
+   "file": "photos/g1/gundalian-invaders/21-dharak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 25,
+   "name": "Fangoid",
+   "src": "Dex/03- GI/25- Fangoid.jpg",
+   "file": "photos/g1/gundalian-invaders/25-fangoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 29,
+   "name": "Lockanoid",
+   "src": "Dex/03- GI/29- Lockanoid.jpg",
+   "file": "photos/g1/gundalian-invaders/29-lockanoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 33,
+   "name": "Olifus",
+   "src": "Dex/03- GI/33- Olifus.jpg",
+   "file": "photos/g1/gundalian-invaders/33-olifus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 37,
+   "name": "Snapzoid",
+   "src": "Dex/03- GI/37- Snapzoid.jpg",
+   "file": "photos/g1/gundalian-invaders/37-snapzoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 41,
+   "name": "Buz Hornix",
+   "src": "Dex/03- GI/41- Buz Hornix.jpg",
+   "file": "photos/g1/gundalian-invaders/41-buz-hornix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 45,
+   "name": "Glotronoid",
+   "src": "Dex/03- GI/45- Glotronoid.jpg",
+   "file": "photos/g1/gundalian-invaders/45-glotronoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 49,
+   "name": "Lumitroid",
+   "src": "Dex/03- GI/49- Lumitroid.jpg",
+   "file": "photos/g1/gundalian-invaders/49-lumitroid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 53,
+   "name": "Splight",
+   "src": "Dex/03- GI/53- Splight.jpg",
+   "file": "photos/g1/gundalian-invaders/53-splight.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 57,
+   "name": "Ziperator",
+   "src": "Dex/03- GI/57- Ziperator.jpg",
+   "file": "photos/g1/gundalian-invaders/57-ziperator.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 58,
+   "name": "SkyGaia Dragonoid",
+   "src": "Dex/03- GI/58- SkyGaia Dragonoid.jpg",
+   "file": "photos/g1/gundalian-invaders/58-skygaia-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 2,
+   "name": "Dartaak",
+   "src": "Dex/03- GI/02- Dartaak.jpg",
+   "file": "photos/g1/gundalian-invaders/02-dartaak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 6,
+   "name": "Akwimos",
+   "src": "Dex/03- GI/06- Akwimos.jpg",
+   "file": "photos/g1/gundalian-invaders/06-akwimos.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 10,
+   "name": "Linehalt",
+   "src": "Dex/03- GI/10- Linehalt.jpg",
+   "file": "photos/g1/gundalian-invaders/10-linehalt.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 14,
+   "name": "Plitheon",
+   "src": "Dex/03- GI/14- Plitheon.jpg",
+   "file": "photos/g1/gundalian-invaders/14-plitheon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 18,
+   "name": "Lumagrowl",
+   "src": "Dex/03- GI/18- Lumagrowl.jpg",
+   "file": "photos/g1/gundalian-invaders/18-lumagrowl.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 22,
+   "name": "Phantom Dharak",
+   "src": "Dex/03- GI/22- Phantom Dharak.jpg",
+   "file": "photos/g1/gundalian-invaders/22-phantom-dharak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 26,
+   "name": "Gren",
+   "src": "Dex/03- GI/26- Gren.jpg",
+   "file": "photos/g1/gundalian-invaders/26-gren.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 30,
+   "name": "Luxtor",
+   "src": "Dex/03- GI/30- Luxtor.jpg",
+   "file": "photos/g1/gundalian-invaders/30-luxtor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 34,
+   "name": "Ramdol",
+   "src": "Dex/03- GI/34- Ramdol.jpg",
+   "file": "photos/g1/gundalian-invaders/34-ramdol.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 38,
+   "name": "Spidaro",
+   "src": "Dex/03- GI/38- Spidaro.jpg",
+   "file": "photos/g1/gundalian-invaders/38-spidaro.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 42,
+   "name": "Clawsaurus",
+   "src": "Dex/03- GI/42- Clawsaurus.jpg",
+   "file": "photos/g1/gundalian-invaders/42-clawsaurus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 46,
+   "name": "Gyrazor",
+   "src": "Dex/03- GI/46- Gyrazor.jpg",
+   "file": "photos/g1/gundalian-invaders/46-gyrazor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 50,
+   "name": "Merlix",
+   "src": "Dex/03- GI/50- Merlix.jpg",
+   "file": "photos/g1/gundalian-invaders/50-merlix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 54,
+   "name": "Sprayzer",
+   "src": "Dex/03- GI/54- Sprayzer.jpg",
+   "file": "photos/g1/gundalian-invaders/54-sprayzer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 61,
+   "name": "Quakix Gorem",
+   "src": "Dex/03- GI/61- Quakix Gorem.jpg",
+   "file": "photos/g1/gundalian-invaders/61-quakix-gorem.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 62,
+   "name": "Battalix Dragonoid",
+   "src": "Dex/03- GI/62- Battalix Dragonoid.jpg",
+   "file": "photos/g1/gundalian-invaders/62-battalix-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 3,
+   "name": "Helix Dragonoid",
+   "src": "Dex/03- GI/03- Helix Dragonoid.jpg",
+   "file": "photos/g1/gundalian-invaders/03-helix-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 7,
+   "name": "Aranaut",
+   "src": "Dex/03- GI/07- Aranaut.jpg",
+   "file": "photos/g1/gundalian-invaders/07-aranaut.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 11,
+   "name": "Rubanoid",
+   "src": "Dex/03- GI/11- Rubanoid.jpg",
+   "file": "photos/g1/gundalian-invaders/11-rubanoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 15,
+   "name": "Avior",
+   "src": "Dex/03- GI/15- Avior.jpg",
+   "file": "photos/g1/gundalian-invaders/15-avior.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 19,
+   "name": "Strikeflier",
+   "src": "Dex/03- GI/19- Strikeflier.jpg",
+   "file": "photos/g1/gundalian-invaders/19-strikeflier.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 23,
+   "name": "Aksela",
+   "src": "Dex/03- GI/23- Aksela.jpg",
+   "file": "photos/g1/gundalian-invaders/23-aksela.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 27,
+   "name": "Hakapoid",
+   "src": "Dex/03- GI/27- Hakapoid.jpg",
+   "file": "photos/g1/gundalian-invaders/27-hakapoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 31,
+   "name": "Megarus",
+   "src": "Dex/03- GI/31- Megarus.jpg",
+   "file": "photos/g1/gundalian-invaders/31-megarus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 35,
+   "name": "Rickoran",
+   "src": "Dex/03- GI/35- Rickoran.jpg",
+   "file": "photos/g1/gundalian-invaders/35-rickoran.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 39,
+   "name": "Apexeon",
+   "src": "Dex/03- GI/39- Apexeon.jpg",
+   "file": "photos/g1/gundalian-invaders/39-apexeon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 43,
+   "name": "Cobrakus",
+   "src": "Dex/03- GI/43- Cobrakus.jpg",
+   "file": "photos/g1/gundalian-invaders/43-cobrakus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 47,
+   "name": "Irisca",
+   "src": "Dex/03- GI/47- Irisca.jpg",
+   "file": "photos/g1/gundalian-invaders/47-irisca.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 51,
+   "name": "Mystic Chancer",
+   "src": "Dex/03- GI/51- Mystic Chancer.jpg",
+   "file": "photos/g1/gundalian-invaders/51-mystic-chancer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 55,
+   "name": "Venoclaw",
+   "src": "Dex/03- GI/55- Venoclaw.jpg",
+   "file": "photos/g1/gundalian-invaders/55-venoclaw.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 60,
+   "name": "Quake Dragonoid",
+   "src": "Dex/03- GI/60- Quake Dragonoid.jpg",
+   "file": "photos/g1/gundalian-invaders/60-quake-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 63,
+   "name": "Brawlacus Dharak",
+   "src": "Dex/03- GI/63- Brawlacus Dharak.jpg",
+   "file": "photos/g1/gundalian-invaders/63-brawlacus-dharak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 4,
+   "name": "Lumino Dragonoid",
+   "src": "Dex/03- GI/04- Lumino Dragonoid.jpg",
+   "file": "photos/g1/gundalian-invaders/04-lumino-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 8,
+   "name": "Hawktor",
+   "src": "Dex/03- GI/08- Hawktor.jpg",
+   "file": "photos/g1/gundalian-invaders/08-hawktor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 12,
+   "name": "Phosphos",
+   "src": "Dex/03- GI/12- Phosphos.jpg",
+   "file": "photos/g1/gundalian-invaders/12-phosphos.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 16,
+   "name": "Krakix",
+   "src": "Dex/03- GI/16- Krakix.jpg",
+   "file": "photos/g1/gundalian-invaders/16-krakix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 20,
+   "name": "Sabator",
+   "src": "Dex/03- GI/20- Sabator.jpg",
+   "file": "photos/g1/gundalian-invaders/20-sabator.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 24,
+   "name": "Damakor",
+   "src": "Dex/03- GI/24- Damakor.jpg",
+   "file": "photos/g1/gundalian-invaders/24-damakor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 28,
+   "name": "Jetro",
+   "src": "Dex/03- GI/28- Jetro.jpg",
+   "file": "photos/g1/gundalian-invaders/28-jetro.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 32,
+   "name": "Nastix",
+   "src": "Dex/03- GI/32- Nastix.jpg",
+   "file": "photos/g1/gundalian-invaders/32-nastix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 36,
+   "name": "Scaboid",
+   "src": "Dex/03- GI/36- Scaboid.jpg",
+   "file": "photos/g1/gundalian-invaders/36-scaboid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 40,
+   "name": "Breezak",
+   "src": "Dex/03- GI/40- Breezak.jpg",
+   "file": "photos/g1/gundalian-invaders/40-breezak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 44,
+   "name": "Farakspin",
+   "src": "Dex/03- GI/44- Farakspin.jpg",
+   "file": "photos/g1/gundalian-invaders/44-farakspin.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 48,
+   "name": "Longfly",
+   "src": "Dex/03- GI/48- Longfly.jpg",
+   "file": "photos/g1/gundalian-invaders/48-longfly.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 52,
+   "name": "Raptorix",
+   "src": "Dex/03- GI/52- Raptorix.jpg",
+   "file": "photos/g1/gundalian-invaders/52-raptorix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 56,
+   "name": "Volt Elezoid",
+   "src": "Dex/03- GI/56- Volt Elezoid.jpg",
+   "file": "photos/g1/gundalian-invaders/56-volt-elezoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Gundalian Invaders",
+   "code": "",
+   "n": 59,
+   "name": "Chance Dragonoid",
+   "src": "Dex/03- GI/59- Chance Dragonoid.jpg",
+   "file": "photos/g1/gundalian-invaders/59-chance-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 1,
+   "name": "Titanium Dragonoid",
+   "src": "Dex/04- MS/01- Titanium Dragonoid.jpg",
+   "file": "photos/g1/mechtanium-surge/01-titanium-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 5,
+   "name": "Boulderon",
+   "src": "Dex/04- MS/05- Boulderon.jpg",
+   "file": "photos/g1/mechtanium-surge/05-boulderon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 9,
+   "name": "Krowll",
+   "src": "Dex/04- MS/09- Krowll.jpg",
+   "file": "photos/g1/mechtanium-surge/09-krowll.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 13,
+   "name": "Razenoid",
+   "src": "Dex/04- MS/13- Razenoid.jpg",
+   "file": "photos/g1/mechtanium-surge/13-razenoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 17,
+   "name": "Flash Ingram",
+   "src": "Dex/04- MS/17- Flash Ingram.jpg",
+   "file": "photos/g1/mechtanium-surge/17-flash-ingram.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 21,
+   "name": "Mutant Krowll",
+   "src": "Dex/04- MS/21- Mutant Krowll.jpg",
+   "file": "photos/g1/mechtanium-surge/21-mutant-krowll.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 25,
+   "name": "Commandix Dragonoid",
+   "src": "Dex/04- MS/25- Commandix Dragonoid.jpg",
+   "file": "photos/g1/mechtanium-surge/25-commandix-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 29,
+   "name": "Jaakor",
+   "src": "Dex/04- MS/29- Jaakor.jpg",
+   "file": "photos/g1/mechtanium-surge/29-jaakor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 33,
+   "name": "Spatterix",
+   "src": "Dex/04- MS/33- Spatterix.jpg",
+   "file": "photos/g1/mechtanium-surge/33-spatterix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 37,
+   "name": "Stronk",
+   "src": "Dex/04- MS/37- Stronk.jpg",
+   "file": "photos/g1/mechtanium-surge/37-stronk.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 41,
+   "name": "Captain America",
+   "src": "Dex/04- MS/41- Captain America.jpg",
+   "file": "photos/g1/mechtanium-surge/41-captain-america.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 2,
+   "name": "Infinity Trister",
+   "src": "Dex/04- MS/02- Infinity Trister.jpg",
+   "file": "photos/g1/mechtanium-surge/02-infinity-trister.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 6,
+   "name": "Infinity Helios",
+   "src": "Dex/04- MS/06- Infinity Helios.jpg",
+   "file": "photos/g1/mechtanium-surge/06-infinity-helios.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 10,
+   "name": "Spyron",
+   "src": "Dex/04- MS/10- Spyron.jpg",
+   "file": "photos/g1/mechtanium-surge/10-spyron.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 14,
+   "name": "Mutant Elfin",
+   "src": "Dex/04- MS/14- Mutant Elfin.jpg",
+   "file": "photos/g1/mechtanium-surge/14-mutant-elfin.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 18,
+   "name": "Cyclone Percival",
+   "src": "Dex/04- MS/18- Cyclone Percival.jpg",
+   "file": "photos/g1/mechtanium-surge/18-cyclone-percival.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 22,
+   "name": "Mutant Taylean",
+   "src": "Dex/04- MS/22- Mutant Taylean.jpg",
+   "file": "photos/g1/mechtanium-surge/22-mutant-taylean.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 26,
+   "name": "Fusion Dragonoid",
+   "src": "Dex/04- MS/26- Fusion Dragonoid.jpg",
+   "file": "photos/g1/mechtanium-surge/26-fusion-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 30,
+   "name": "Roxtor",
+   "src": "Dex/04- MS/30- Roxtor.jpg",
+   "file": "photos/g1/mechtanium-surge/30-roxtor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 34,
+   "name": "Balista",
+   "src": "Dex/04- MS/34- Balista.jpg",
+   "file": "photos/g1/mechtanium-surge/34-balista.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 38,
+   "name": "Mutabrid",
+   "src": "Dex/04- MS/38- Mutabrid.jpg",
+   "file": "photos/g1/mechtanium-surge/38-mutabrid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 42,
+   "name": "Iron Man",
+   "src": "Dex/04- MS/42- Iron Man.jpg",
+   "file": "photos/g1/mechtanium-surge/42-iron-man.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 45,
+   "name": "Wolverine",
+   "src": "Dex/04- MS/45- Wolverine.jpg",
+   "file": "photos/g1/mechtanium-surge/45-wolverine.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 3,
+   "name": "Wolfurio",
+   "src": "Dex/04- MS/03- Wolfurio.jpg",
+   "file": "photos/g1/mechtanium-surge/03-wolfurio.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 7,
+   "name": "Bolcanon",
+   "src": "Dex/04- MS/07- Bolcanon.jpg",
+   "file": "photos/g1/mechtanium-surge/07-bolcanon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 11,
+   "name": "Vertexx",
+   "src": "Dex/04- MS/11- Vertexx.jpg",
+   "file": "photos/g1/mechtanium-surge/11-vertexx.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 15,
+   "name": "Meta Dragonoid",
+   "src": "Dex/04- MS/15- Meta Dragonoid.jpg",
+   "file": "photos/g1/mechtanium-surge/15-meta-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 19,
+   "name": "Mercury Dragonoid",
+   "src": "Dex/04- MS/19- Mercury Dragonoid.jpg",
+   "file": "photos/g1/mechtanium-surge/19-mercury-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 23,
+   "name": "Mutant Helios",
+   "src": "Dex/04- MS/23- Mutant Helios.jpg",
+   "file": "photos/g1/mechtanium-surge/23-mutant-helios.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 27,
+   "name": "Radizen",
+   "src": "Dex/04- MS/27- Radizen.jpg",
+   "file": "photos/g1/mechtanium-surge/27-radizen.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 31,
+   "name": "Orbeum",
+   "src": "Dex/04- MS/31- Orbeum.jpg",
+   "file": "photos/g1/mechtanium-surge/31-orbeum.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 35,
+   "name": "Tremblar",
+   "src": "Dex/04- MS/35- Tremblar.jpg",
+   "file": "photos/g1/mechtanium-surge/35-tremblar.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 39,
+   "name": "Kodokor",
+   "src": "Dex/04- MS/39- Kodokor.jpg",
+   "file": "photos/g1/mechtanium-surge/39-kodokor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 43,
+   "name": "Red Skull",
+   "src": "Dex/04- MS/43- Red Skull.jpg",
+   "file": "photos/g1/mechtanium-surge/43-red-skull.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 4,
+   "name": "Taylean",
+   "src": "Dex/04- MS/04- Taylean.jpg",
+   "file": "photos/g1/mechtanium-surge/04-taylean.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 8,
+   "name": "Krakenoid",
+   "src": "Dex/04- MS/08- Krakenoid.jpg",
+   "file": "photos/g1/mechtanium-surge/08-krakenoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 12,
+   "name": "Horridian",
+   "src": "Dex/04- MS/12- Horridian.jpg",
+   "file": "photos/g1/mechtanium-surge/12-horridian.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 16,
+   "name": "Iron Dragonoid",
+   "src": "Dex/04- MS/16- Iron Dragonoid.jpg",
+   "file": "photos/g1/mechtanium-surge/16-iron-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 20,
+   "name": "Mutant Krakenoid",
+   "src": "Dex/04- MS/20- Mutant Krakenoid.jpg",
+   "file": "photos/g1/mechtanium-surge/20-mutant-krakenoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 24,
+   "name": "Aerogan",
+   "src": "Dex/04- MS/24- Aerogan.jpg",
+   "file": "photos/g1/mechtanium-surge/24-aerogan.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 28,
+   "name": "Reptak",
+   "src": "Dex/04- MS/28- Reptak.jpg",
+   "file": "photos/g1/mechtanium-surge/28-reptak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 32,
+   "name": "Skytruss",
+   "src": "Dex/04- MS/32- Skytruss.jpg",
+   "file": "photos/g1/mechtanium-surge/32-skytruss.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 36,
+   "name": "Worton",
+   "src": "Dex/04- MS/36- Worton.jpg",
+   "file": "photos/g1/mechtanium-surge/36-worton.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 40,
+   "name": "Betadron",
+   "src": "Dex/04- MS/40- Betadron.jpg",
+   "file": "photos/g1/mechtanium-surge/40-betadron.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Mechtanium Surge",
+   "code": "",
+   "n": 44,
+   "name": "Spider Man",
+   "src": "Dex/04- MS/44- Spider Man.jpg",
+   "file": "photos/g1/mechtanium-surge/44-spider-man.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 46,
+   "name": "Beambrak",
+   "src": "Dex/04- MS/46- Beambrak.jpg",
+   "file": "photos/g1/bakublasters/46-beambrak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 50,
+   "name": "Laserix",
+   "src": "Dex/04- MS/50- Laserix.jpg",
+   "file": "photos/g1/bakublasters/50-laserix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 54,
+   "name": "Vomerix",
+   "src": "Dex/04- MS/54- Vomerix.jpg",
+   "file": "photos/g1/bakublasters/54-vomerix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 47,
+   "name": "Blastakor",
+   "src": "Dex/04- MS/47- Blastakor.jpg",
+   "file": "photos/g1/bakublasters/47-blastakor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 51,
+   "name": "Lokux",
+   "src": "Dex/04- MS/51- Lokux.jpg",
+   "file": "photos/g1/bakublasters/51-lokux.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 55,
+   "name": "Blast Dragonoid",
+   "src": "Dex/04- MS/55- Blast Dragonoid.jpg",
+   "file": "photos/g1/bakublasters/55-blast-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 48,
+   "name": "Demolotoid",
+   "src": "Dex/04- MS/48- Demolotoid.jpg",
+   "file": "photos/g1/bakublasters/48-demolotoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 52,
+   "name": "Strikor",
+   "src": "Dex/04- MS/52- Strikor.jpg",
+   "file": "photos/g1/bakublasters/52-strikor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 56,
+   "name": "Torpedor Dragonoid",
+   "src": "Dex/04- MS/56- Torpedor Dragonoid.jpg",
+   "file": "photos/g1/bakublasters/56-torpedor-dragonoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 49,
+   "name": "Katapultra",
+   "src": "Dex/04- MS/49- Katapultra.jpg",
+   "file": "photos/g1/bakublasters/49-katapultra.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuBlasters",
+   "code": "",
+   "n": 53,
+   "name": "Triggerdon",
+   "src": "Dex/04- MS/53- Triggerdon.jpg",
+   "file": "photos/g1/bakublasters/53-triggerdon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 1,
+   "name": "Flare Dragaon",
+   "src": "BakuganImg/Posters/05- BakuTech/01- Flare Dragaon.jpg",
+   "file": "photos/g1/bakutech-32mm/01-flare-dragaon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 5,
+   "name": "Shield Leoness",
+   "src": "BakuganImg/Posters/05- BakuTech/05- Shield Leoness.jpg",
+   "file": "photos/g1/bakutech-32mm/05-shield-leoness.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 9,
+   "name": "Ken Panzer",
+   "src": "BakuganImg/Posters/05- BakuTech/09- Ken Panzer.jpg",
+   "file": "photos/g1/bakutech-32mm/09-ken-panzer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 13,
+   "name": "Dio Sivac",
+   "src": "BakuganImg/Posters/05- BakuTech/13- Dio Sivac.jpg",
+   "file": "photos/g1/bakutech-32mm/13-dio-sivac.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 17,
+   "name": "Act Jile",
+   "src": "BakuganImg/Posters/05- BakuTech/17- Act Jile.jpg",
+   "file": "photos/g1/bakutech-32mm/17-act-jile.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 21,
+   "name": "Butta Gill",
+   "src": "BakuganImg/Posters/05- BakuTech/21- Butta Gill.jpg",
+   "file": "photos/g1/bakutech-32mm/21-butta-gill.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 25,
+   "name": "En Glide",
+   "src": "BakuganImg/Posters/05- BakuTech/25- En Glide.jpg",
+   "file": "photos/g1/bakutech-32mm/25-en-glide.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 29,
+   "name": "Gigan Taures",
+   "src": "BakuganImg/Posters/05- BakuTech/29- Gigan Taures.jpg",
+   "file": "photos/g1/bakutech-32mm/29-gigan-taures.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 33,
+   "name": "G-Ganorada",
+   "src": "BakuganImg/Posters/05- BakuTech/33- G-Ganorada.jpg",
+   "file": "photos/g1/bakutech-32mm/33-g-ganorada.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 37,
+   "name": "Kal Lukan",
+   "src": "BakuganImg/Posters/05- BakuTech/37- Kal Lukan.jpg",
+   "file": "photos/g1/bakutech-32mm/37-kal-lukan.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 41,
+   "name": "Nata Nagina",
+   "src": "BakuganImg/Posters/05- BakuTech/41- Nata Nagina.jpg",
+   "file": "photos/g1/bakutech-32mm/41-nata-nagina.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 45,
+   "name": "Twin Doubrew",
+   "src": "BakuganImg/Posters/05- BakuTech/45- Twin Doubrew.jpg",
+   "file": "photos/g1/bakutech-32mm/45-twin-doubrew.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 2,
+   "name": "Gren Dragaon",
+   "src": "BakuganImg/Posters/05- BakuTech/02- Gren Dragaon.jpg",
+   "file": "photos/g1/bakutech-32mm/02-gren-dragaon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 6,
+   "name": "Van Falco",
+   "src": "BakuganImg/Posters/05- BakuTech/06- Van Falco.jpg",
+   "file": "photos/g1/bakutech-32mm/06-van-falco.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 10,
+   "name": "Destroy Munikis",
+   "src": "BakuganImg/Posters/05- BakuTech/10- Destroy Munikis.jpg",
+   "file": "photos/g1/bakutech-32mm/10-destroy-munikis.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 14,
+   "name": "Sechs Tavanel",
+   "src": "BakuganImg/Posters/05- BakuTech/14- Sechs Tavanel.jpg",
+   "file": "photos/g1/bakutech-32mm/14-sechs-tavanel.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 18,
+   "name": "Blan Shoult",
+   "src": "BakuganImg/Posters/05- BakuTech/18- Blan Shoult.jpg",
+   "file": "photos/g1/bakutech-32mm/18-blan-shoult.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 22,
+   "name": "Co Tanker",
+   "src": "BakuganImg/Posters/05- BakuTech/22- Co Tanker.jpg",
+   "file": "photos/g1/bakutech-32mm/22-co-tanker.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 26,
+   "name": "Flame Aigle",
+   "src": "BakuganImg/Posters/05- BakuTech/26- Flame Aigle.jpg",
+   "file": "photos/g1/bakutech-32mm/26-flame-aigle.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 30,
+   "name": "Goon Ikarus",
+   "src": "BakuganImg/Posters/05- BakuTech/30- Goon Ikarus.jpg",
+   "file": "photos/g1/bakutech-32mm/30-goon-ikarus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 34,
+   "name": "Hagger Dguma",
+   "src": "BakuganImg/Posters/05- BakuTech/34- Hagger Dguma.jpg",
+   "file": "photos/g1/bakutech-32mm/34-hagger-dguma.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 38,
+   "name": "Killer Volca",
+   "src": "BakuganImg/Posters/05- BakuTech/38- Killer Volca.jpg",
+   "file": "photos/g1/bakutech-32mm/38-killer-volca.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 42,
+   "name": "Saint Aquas",
+   "src": "BakuganImg/Posters/05- BakuTech/42- Saint Aquas.jpg",
+   "file": "photos/g1/bakutech-32mm/42-saint-aquas.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 46,
+   "name": "War Cry",
+   "src": "BakuganImg/Posters/05- BakuTech/46- War Cry.jpg",
+   "file": "photos/g1/bakutech-32mm/46-war-cry.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 49,
+   "name": "Zak Jaguard",
+   "src": "BakuganImg/Posters/05- BakuTech/49- Zak Jaguard.jpg",
+   "file": "photos/g1/bakutech-32mm/49-zak-jaguard.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 3,
+   "name": "Rise Dragaon",
+   "src": "BakuganImg/Posters/05- BakuTech/03- Rise Dragaon.jpg",
+   "file": "photos/g1/bakutech-32mm/03-rise-dragaon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 7,
+   "name": "Tri Falco",
+   "src": "BakuganImg/Posters/05- BakuTech/07- Tri Falco.jpg",
+   "file": "photos/g1/bakutech-32mm/07-tri-falco.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 11,
+   "name": "Zero Munikis",
+   "src": "BakuganImg/Posters/05- BakuTech/11- Zero Munikis.jpg",
+   "file": "photos/g1/bakutech-32mm/11-zero-munikis.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 15,
+   "name": "Seis Tavanel",
+   "src": "BakuganImg/Posters/05- BakuTech/15- Seis Tavanel.png",
+   "file": "photos/g1/bakutech-32mm/15-seis-tavanel.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 19,
+   "name": "Bone Skuls",
+   "src": "BakuganImg/Posters/05- BakuTech/19- Bone Skuls.png",
+   "file": "photos/g1/bakutech-32mm/19-bone-skuls.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 23,
+   "name": "Dagger Odos",
+   "src": "BakuganImg/Posters/05- BakuTech/23- Dagger Odos.jpg",
+   "file": "photos/g1/bakutech-32mm/23-dagger-odos.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 27,
+   "name": "Gavli Anacon",
+   "src": "BakuganImg/Posters/05- BakuTech/27- Gavli Anacon.jpg",
+   "file": "photos/g1/bakutech-32mm/27-gavli-anacon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 31,
+   "name": "Gravity Nome",
+   "src": "BakuganImg/Posters/05- BakuTech/31- Gravity Nome.jpg",
+   "file": "photos/g1/bakutech-32mm/31-gravity-nome.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 35,
+   "name": "Hammer Cannon",
+   "src": "BakuganImg/Posters/05- BakuTech/35- Hammer Cannon.png",
+   "file": "photos/g1/bakutech-32mm/35-hammer-cannon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 39,
+   "name": "Lets Gao",
+   "src": "BakuganImg/Posters/05- BakuTech/39- Lets Gao.jpg",
+   "file": "photos/g1/bakutech-32mm/39-lets-gao.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 43,
+   "name": "Sea Slug",
+   "src": "BakuganImg/Posters/05- BakuTech/43- Sea Slug.jpg",
+   "file": "photos/g1/bakutech-32mm/43-sea-slug.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 47,
+   "name": "Well Galow",
+   "src": "BakuganImg/Posters/05- BakuTech/47- Well Galow.jpg",
+   "file": "photos/g1/bakutech-32mm/47-well-galow.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 4,
+   "name": "Kilan Leoness",
+   "src": "BakuganImg/Posters/05- BakuTech/04- Kilan Leoness.jpg",
+   "file": "photos/g1/bakutech-32mm/04-kilan-leoness.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 8,
+   "name": "Gran Panzer",
+   "src": "BakuganImg/Posters/05- BakuTech/08- Gran Panzer.jpg",
+   "file": "photos/g1/bakutech-32mm/08-gran-panzer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 12,
+   "name": "Hollow Munikis",
+   "src": "BakuganImg/Posters/05- BakuTech/12- Hollow Munikis.jpg",
+   "file": "photos/g1/bakutech-32mm/12-hollow-munikis.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 16,
+   "name": "Acro Gezard",
+   "src": "BakuganImg/Posters/05- BakuTech/16- Acro Gezard.jpg",
+   "file": "photos/g1/bakutech-32mm/16-acro-gezard.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 20,
+   "name": "Borg Mahisas",
+   "src": "BakuganImg/Posters/05- BakuTech/20- Borg Mahisas.jpg",
+   "file": "photos/g1/bakutech-32mm/20-borg-mahisas.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 24,
+   "name": "Dive Fujoe",
+   "src": "BakuganImg/Posters/05- BakuTech/24- Dive Fujoe.jpg",
+   "file": "photos/g1/bakutech-32mm/24-dive-fujoe.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 28,
+   "name": "Gif Jinryu",
+   "src": "BakuganImg/Posters/05- BakuTech/28- Gif Jinryu.jpg",
+   "file": "photos/g1/bakutech-32mm/28-gif-jinryu.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 32,
+   "name": "Gus Burnan",
+   "src": "BakuganImg/Posters/05- BakuTech/32- Gus Burnan.jpg",
+   "file": "photos/g1/bakutech-32mm/32-gus-burnan.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 36,
+   "name": "Kachia Gell",
+   "src": "BakuganImg/Posters/05- BakuTech/36- Kachia Gell.jpg",
+   "file": "photos/g1/bakutech-32mm/36-kachia-gell.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 40,
+   "name": "Mika Laurel",
+   "src": "BakuganImg/Posters/05- BakuTech/40- Mika Laurel.jpg",
+   "file": "photos/g1/bakutech-32mm/40-mika-laurel.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 44,
+   "name": "Sha Nozchi",
+   "src": "BakuganImg/Posters/05- BakuTech/44- Sha Nozchi.jpg",
+   "file": "photos/g1/bakutech-32mm/44-sha-nozchi.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (32mm)",
+   "code": "",
+   "n": 48,
+   "name": "Win Dmill",
+   "src": "BakuganImg/Posters/05- BakuTech/48- Win Dmill.jpg",
+   "file": "photos/g1/bakutech-32mm/48-win-dmill.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 50,
+   "name": "Jigen Dragaon",
+   "src": "BakuganImg/Posters/05- BakuTech/50- Jigen Dragaon.jpg",
+   "file": "photos/g1/bakutech-36-mm/50-jigen-dragaon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 54,
+   "name": "Barri Beyond",
+   "src": "BakuganImg/Posters/05- BakuTech/54- Barri Beyond.jpg",
+   "file": "photos/g1/bakutech-36-mm/54-barri-beyond.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 58,
+   "name": "Naga Daja",
+   "src": "BakuganImg/Posters/05- BakuTech/58- Naga Daja.jpg",
+   "file": "photos/g1/bakutech-36-mm/58-naga-daja.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 62,
+   "name": "Tor Nado",
+   "src": "BakuganImg/Posters/05- BakuTech/62- Tor Nado.jpg",
+   "file": "photos/g1/bakutech-36-mm/62-tor-nado.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 51,
+   "name": "Ogre Leoness",
+   "src": "BakuganImg/Posters/05- BakuTech/51- Ogre Leoness.jpg",
+   "file": "photos/g1/bakutech-36-mm/51-ogre-leoness.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 55,
+   "name": "Gaga Horus",
+   "src": "BakuganImg/Posters/05- BakuTech/55- Gaga Horus.jpg",
+   "file": "photos/g1/bakutech-36-mm/55-gaga-horus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 59,
+   "name": "Nino Daishow",
+   "src": "BakuganImg/Posters/05- BakuTech/59- Nino Daishow.jpg",
+   "file": "photos/g1/bakutech-36-mm/59-nino-daishow.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 63,
+   "name": "Yodan Shifour",
+   "src": "BakuganImg/Posters/05- BakuTech/63- Yodan Shifour.jpg",
+   "file": "photos/g1/bakutech-36-mm/63-yodan-shifour.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 52,
+   "name": "Lashow Falco",
+   "src": "BakuganImg/Posters/05- BakuTech/52- Lashow Falco.jpg",
+   "file": "photos/g1/bakutech-36-mm/52-lashow-falco.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 56,
+   "name": "Go Garyu",
+   "src": "BakuganImg/Posters/05- BakuTech/56- Go Garyu.jpg",
+   "file": "photos/g1/bakutech-36-mm/56-go-garyu.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 60,
+   "name": "Os Press",
+   "src": "BakuganImg/Posters/05- BakuTech/60- Os Press.jpg",
+   "file": "photos/g1/bakutech-36-mm/60-os-press.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 64,
+   "name": "Made Lastboss",
+   "src": "BakuganImg/Posters/05- BakuTech/64- Made Lastboss.jpg",
+   "file": "photos/g1/bakutech-36-mm/64-made-lastboss.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 53,
+   "name": "Zeta Munikis",
+   "src": "BakuganImg/Posters/05- BakuTech/53- Zeta Munikis.jpg",
+   "file": "photos/g1/bakutech-36-mm/53-zeta-munikis.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 57,
+   "name": "Jiba Fudo",
+   "src": "BakuganImg/Posters/05- BakuTech/57- Jiba Fudo.jpg",
+   "file": "photos/g1/bakutech-36-mm/57-jiba-fudo.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 61,
+   "name": "Sanzu Hollowbos",
+   "src": "BakuganImg/Posters/05- BakuTech/61- Sanzu Hollowbos.jpg",
+   "file": "photos/g1/bakutech-36-mm/61-sanzu-hollowbos.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "BakuTech (36+mm)",
+   "code": "",
+   "n": 65,
+   "name": "DraThron",
+   "src": "BakuganImg/Posters/05- BakuTech/65- DraThron.jpg",
+   "file": "photos/g1/bakutech-36-mm/65-drathron.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Bakugan Armors",
+   "code": "",
+   "n": 66,
+   "name": "Rekka Hiryu",
+   "src": "BakuganImg/Posters/05- BakuTech/66- Rekka Hiryu.jpg",
+   "file": "photos/g1/bakugan-armors/66-rekka-hiryu.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Bakugan Armors",
+   "code": "",
+   "n": 70,
+   "name": "Koppa Kudaku",
+   "src": "BakuganImg/Posters/05- BakuTech/70- Koppa Kudaku.png",
+   "file": "photos/g1/bakugan-armors/70-koppa-kudaku.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Bakugan Armors",
+   "code": "",
+   "n": 67,
+   "name": "Hado Kaio",
+   "src": "BakuganImg/Posters/05- BakuTech/67- Hado Kaio.jpg",
+   "file": "photos/g1/bakugan-armors/67-hado-kaio.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Bakugan Armors",
+   "code": "",
+   "n": 71,
+   "name": "Yasha Tagaras",
+   "src": "BakuganImg/Posters/05- BakuTech/71- Yasha Tagaras.png",
+   "file": "photos/g1/bakugan-armors/71-yasha-tagaras.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Bakugan Armors",
+   "code": "",
+   "n": 68,
+   "name": "Ogon Houoh",
+   "src": "BakuganImg/Posters/05- BakuTech/68- Ogon Houoh.png",
+   "file": "photos/g1/bakugan-armors/68-ogon-houoh.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Bakugan Armors",
+   "code": "",
+   "n": 72,
+   "name": "Ikki Tosen",
+   "src": "BakuganImg/Posters/05- BakuTech/72- Ikki Tosen.jpg",
+   "file": "photos/g1/bakugan-armors/72-ikki-tosen.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Bakugan",
+   "series": "Bakugan Armors",
+   "code": "",
+   "n": 69,
+   "name": "Shippu Zeku",
+   "src": "BakuganImg/Posters/05- BakuTech/69- Shippu Zeku.jpg",
+   "file": "photos/g1/bakugan-armors/69-shippu-zeku.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Combiners",
+   "code": "",
+   "n": 62,
+   "name": "Maxus Drago",
+   "src": "BakuganImg/Collection/03- NV/62- Maxus Drago/Maxus Dragonoid.jpg",
+   "file": "photos/g1/bakugan-combiners/62-maxus-drago.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Combiners",
+   "code": "",
+   "n": 2,
+   "name": "Maxus",
+   "src": "BakuganImg/Data/02- New Vestroia/63- Maxus Helios/02- Maxus.jpg",
+   "file": "photos/g1/bakugan-combiners/02-maxus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Combiners",
+   "code": "",
+   "n": 25,
+   "name": "Dragonoid Destroyer",
+   "src": "Dex/06- Accessories/06- Mechtogan/25- Dragonoid Destroyer.jpg",
+   "file": "photos/g1/bakugan-combiners/25-dragonoid-destroyer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Combiners",
+   "code": "",
+   "n": 65,
+   "name": "Drago Colossus",
+   "src": "Dex/03- GI/65- Drago Colossus.jpg",
+   "file": "photos/g1/bakugan-combiners/65-drago-colossus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Combiners",
+   "code": "",
+   "n": 26,
+   "name": "Mechtavius Destroyer",
+   "src": "Dex/06- Accessories/06- Mechtogan/26- Mechtavius Destroyer.jpg",
+   "file": "photos/g1/bakugan-combiners/26-mechtavius-destroyer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Combiners",
+   "code": "",
+   "n": 64,
+   "name": "Dharak Colossus",
+   "src": "Dex/03- GI/64- Dharak Colossus.jpg",
+   "file": "photos/g1/bakugan-combiners/64-dharak-colossus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 1,
+   "name": "Triad El Condor",
+   "src": "Dex/06- Accessories/01- Traps/01- Triad El Condor.jpg",
+   "file": "photos/g1/bakugan-traps/01-triad-el-condor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 4,
+   "name": "Zoack",
+   "src": "Dex/06- Accessories/01- Traps/04- Zoack.jpg",
+   "file": "photos/g1/bakugan-traps/04-zoack.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 9,
+   "name": "Dynamo",
+   "src": "Dex/06- Accessories/01- Traps/09- Dynamo.jpg",
+   "file": "photos/g1/bakugan-traps/09-dynamo.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 13,
+   "name": "Scorpion",
+   "src": "Dex/06- Accessories/01- Traps/13- Scorpion.jpg",
+   "file": "photos/g1/bakugan-traps/13-scorpion.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 17,
+   "name": "Hylash",
+   "src": "Dex/06- Accessories/01- Traps/17- Hylash.jpg",
+   "file": "photos/g1/bakugan-traps/17-hylash.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 22,
+   "name": "Grafias",
+   "src": "Dex/06- Accessories/01- Traps/22- Grafias.jpg",
+   "file": "photos/g1/bakugan-traps/22-grafias.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 2,
+   "name": "Carlsnaut",
+   "src": "Dex/06- Accessories/01- Traps/02- Carlsnaut.jpg",
+   "file": "photos/g1/bakugan-traps/02-carlsnaut.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 6,
+   "name": "Triad Sphinx",
+   "src": "Dex/06- Accessories/01- Traps/06- Triad Sphinx.jpg",
+   "file": "photos/g1/bakugan-traps/06-triad-sphinx.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 10,
+   "name": "Hexstar",
+   "src": "Dex/06- Accessories/01- Traps/10- Hexstar.jpg",
+   "file": "photos/g1/bakugan-traps/10-hexstar.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 14,
+   "name": "Fire Scorpion",
+   "src": "Dex/06- Accessories/01- Traps/14- Fire Scorpion.jpg",
+   "file": "photos/g1/bakugan-traps/14-fire-scorpion.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 18,
+   "name": "Baliton",
+   "src": "Dex/06- Accessories/01- Traps/18- Baliton.jpg",
+   "file": "photos/g1/bakugan-traps/18-baliton.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 23,
+   "name": "Brachium",
+   "src": "Dex/06- Accessories/01- Traps/23- Brachium.jpg",
+   "file": "photos/g1/bakugan-traps/23-brachium.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 26,
+   "name": "Dark Hound",
+   "src": "Dex/06- Accessories/01- Traps/26- Dark Hound.jpg",
+   "file": "photos/g1/bakugan-traps/26-dark-hound.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 3,
+   "name": "Pythantus",
+   "src": "Dex/06- Accessories/01- Traps/03- Pythantus.jpg",
+   "file": "photos/g1/bakugan-traps/03-pythantus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 7,
+   "name": "Metalfencer",
+   "src": "Dex/06- Accessories/01- Traps/07- Metalfencer.jpg",
+   "file": "photos/g1/bakugan-traps/07-metalfencer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 11,
+   "name": "Hexados",
+   "src": "Dex/06- Accessories/01- Traps/11- Hexados.jpg",
+   "file": "photos/g1/bakugan-traps/11-hexados.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 15,
+   "name": "Tripod Epsilon",
+   "src": "Dex/06- Accessories/01- Traps/15- Tripod Epsilon.jpg",
+   "file": "photos/g1/bakugan-traps/15-tripod-epsilon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 19,
+   "name": "Falcon Fly",
+   "src": "Dex/06- Accessories/01- Traps/19- Falcon Fly.jpg",
+   "file": "photos/g1/bakugan-traps/19-falcon-fly.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 24,
+   "name": "Spitarm",
+   "src": "Dex/06- Accessories/01- Traps/24- Spitarm.jpg",
+   "file": "photos/g1/bakugan-traps/24-spitarm.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 27,
+   "name": "Tripod Theta MK2",
+   "src": "Dex/06- Accessories/01- Traps/27- Tripod Theta MK2.jpg",
+   "file": "photos/g1/bakugan-traps/27-tripod-theta-mk2.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 5,
+   "name": "Legionoid",
+   "src": "Dex/06- Accessories/01- Traps/05- Legionoid.jpg",
+   "file": "photos/g1/bakugan-traps/05-legionoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 8,
+   "name": "Tripod Theta",
+   "src": "Dex/06- Accessories/01- Traps/08- Tripod Theta.jpg",
+   "file": "photos/g1/bakugan-traps/08-tripod-theta.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 12,
+   "name": "Fortress",
+   "src": "Dex/06- Accessories/01- Traps/12- Fortress.jpg",
+   "file": "photos/g1/bakugan-traps/12-fortress.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 16,
+   "name": "Piercian",
+   "src": "Dex/06- Accessories/01- Traps/16- Piercian.jpg",
+   "file": "photos/g1/bakugan-traps/16-piercian.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 21,
+   "name": "Spyderfencer",
+   "src": "Dex/06- Accessories/01- Traps/21- Spyderfencer.jpg",
+   "file": "photos/g1/bakugan-traps/21-spyderfencer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Bakugan Traps",
+   "code": "",
+   "n": 25,
+   "name": "Grakas Hound",
+   "src": "Dex/06- Accessories/01- Traps/25- Grakas Hound.jpg",
+   "file": "photos/g1/bakugan-traps/25-grakas-hound.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 1,
+   "name": "Helmgund",
+   "src": "Dex/06- Accessories/02- Battle Gear/01- Helmgund.jpg",
+   "file": "photos/g1/battle-gear/01-helmgund.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 5,
+   "name": "Twin Destructor",
+   "src": "Dex/06- Accessories/02- Battle Gear/05- Twin Destructor.jpg",
+   "file": "photos/g1/battle-gear/05-twin-destructor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 9,
+   "name": "Gigarth",
+   "src": "Dex/06- Accessories/02- Battle Gear/09- Gigarth.jpg",
+   "file": "photos/g1/battle-gear/09-gigarth.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 13,
+   "name": "Boomix",
+   "src": "Dex/06- Accessories/02- Battle Gear/13- Boomix.jpg",
+   "file": "photos/g1/battle-gear/13-boomix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 17,
+   "name": "Vilantor Gear",
+   "src": "Dex/06- Accessories/02- Battle Gear/17- Vilantor Gear.jpg",
+   "file": "photos/g1/battle-gear/17-vilantor-gear.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 21,
+   "name": "Barias Gear",
+   "src": "Dex/06- Accessories/02- Battle Gear/21- Barias Gear.jpg",
+   "file": "photos/g1/battle-gear/21-barias-gear.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 25,
+   "name": "Axator",
+   "src": "Dex/06- Accessories/02- Battle Gear/25- Axator.jpg",
+   "file": "photos/g1/battle-gear/25-axator.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 2,
+   "name": "Terrix Gear",
+   "src": "Dex/06- Accessories/02- Battle Gear/02- Terrix Gear.jpg",
+   "file": "photos/g1/battle-gear/02-terrix-gear.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 6,
+   "name": "Zukanator",
+   "src": "Dex/06- Accessories/02- Battle Gear/06- Zukanator.jpg",
+   "file": "photos/g1/battle-gear/06-zukanator.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 10,
+   "name": "Battle Crusher",
+   "src": "Dex/06- Accessories/02- Battle Gear/10- Battle Crusher.jpg",
+   "file": "photos/g1/battle-gear/10-battle-crusher.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 14,
+   "name": "Destrakon Gear",
+   "src": "Dex/06- Accessories/02- Battle Gear/14- Destrakon Gear.jpg",
+   "file": "photos/g1/battle-gear/14-destrakon-gear.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 18,
+   "name": "Lashor",
+   "src": "Dex/06- Accessories/02- Battle Gear/18- Lashor.jpg",
+   "file": "photos/g1/battle-gear/18-lashor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 22,
+   "name": "Battle Turbine",
+   "src": "Dex/06- Accessories/02- Battle Gear/22- Battle Turbine.jpg",
+   "file": "photos/g1/battle-gear/22-battle-turbine.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 26,
+   "name": "Beamblitzer",
+   "src": "Dex/06- Accessories/02- Battle Gear/26- Beamblitzer.jpg",
+   "file": "photos/g1/battle-gear/26-beamblitzer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 3,
+   "name": "Lansor",
+   "src": "Dex/06- Accessories/02- Battle Gear/03- Lansor.jpg",
+   "file": "photos/g1/battle-gear/03-lansor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 7,
+   "name": "JetKor",
+   "src": "Dex/06- Accessories/02- Battle Gear/07- JetKor.jpg",
+   "file": "photos/g1/battle-gear/07-jetkor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 11,
+   "name": "Swayther",
+   "src": "Dex/06- Accessories/02- Battle Gear/11- Swayther.jpg",
+   "file": "photos/g1/battle-gear/11-swayther.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 15,
+   "name": "Terrorcrest",
+   "src": "Dex/06- Accessories/02- Battle Gear/15- Terrorcrest.jpg",
+   "file": "photos/g1/battle-gear/15-terrorcrest.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 19,
+   "name": "Vicer",
+   "src": "Dex/06- Accessories/02- Battle Gear/19- Vicer.jpg",
+   "file": "photos/g1/battle-gear/19-vicer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 23,
+   "name": "Chompixx",
+   "src": "Dex/06- Accessories/02- Battle Gear/23- Chompixx.jpg",
+   "file": "photos/g1/battle-gear/23-chompixx.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 27,
+   "name": "Blasteroid",
+   "src": "Dex/06- Accessories/02- Battle Gear/27- Blasteroid.jpg",
+   "file": "photos/g1/battle-gear/27-blasteroid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 4,
+   "name": "Battle Sabre",
+   "src": "Dex/06- Accessories/02- Battle Gear/04- Battle Sabre.jpg",
+   "file": "photos/g1/battle-gear/04-battle-sabre.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 8,
+   "name": "Explosix Gear",
+   "src": "Dex/06- Accessories/02- Battle Gear/08- Explosix Gear.jpg",
+   "file": "photos/g1/battle-gear/08-explosix-gear.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 12,
+   "name": "Rock Hammer",
+   "src": "Dex/06- Accessories/02- Battle Gear/12- Rock Hammer.jpg",
+   "file": "photos/g1/battle-gear/12-rock-hammer.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 16,
+   "name": "Spartablaster",
+   "src": "Dex/06- Accessories/02- Battle Gear/16- Spartablaster.jpg",
+   "file": "photos/g1/battle-gear/16-spartablaster.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 20,
+   "name": "Razoid",
+   "src": "Dex/06- Accessories/02- Battle Gear/20- Razoid.jpg",
+   "file": "photos/g1/battle-gear/20-razoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 24,
+   "name": "AirKor",
+   "src": "Dex/06- Accessories/02- Battle Gear/24- AirKor.jpg",
+   "file": "photos/g1/battle-gear/24-airkor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Gear",
+   "code": "",
+   "n": 28,
+   "name": "Nukix",
+   "src": "Dex/06- Accessories/02- Battle Gear/28- Nukix.jpg",
+   "file": "photos/g1/battle-gear/28-nukix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "BakuNano",
+   "code": "N",
+   "n": 1,
+   "name": "Bombaplode",
+   "src": "BakuganImg/Posters/04- Mechtanium Surge/N01- Bombaplode.png",
+   "file": "photos/g1/bakunano/N01-bombaplode.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "BakuNano",
+   "code": "N",
+   "n": 5,
+   "name": "Slingpike",
+   "src": "BakuganImg/Posters/04- Mechtanium Surge/N05- Slingpike.jpg",
+   "file": "photos/g1/bakunano/N05-slingpike.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "BakuNano",
+   "code": "N",
+   "n": 2,
+   "name": "Crosstriker",
+   "src": "BakuganImg/Posters/04- Mechtanium Surge/N02- Crosstriker.png",
+   "file": "photos/g1/bakunano/N02-crosstriker.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "BakuNano",
+   "code": "N",
+   "n": 6,
+   "name": "Sonicanon",
+   "src": "BakuganImg/Posters/04- Mechtanium Surge/N06- Sonicanon.png",
+   "file": "photos/g1/bakunano/N06-sonicanon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "BakuNano",
+   "code": "N",
+   "n": 9,
+   "name": "Shoxrox",
+   "src": "BakuganImg/Posters/04- Mechtanium Surge/N09- Shoxrox.jpg",
+   "file": "photos/g1/bakunano/N09-shoxrox.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "BakuNano",
+   "code": "N",
+   "n": 3,
+   "name": "Hammermor",
+   "src": "BakuganImg/Posters/04- Mechtanium Surge/N03- Hammermor.jpg",
+   "file": "photos/g1/bakunano/N03-hammermor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "BakuNano",
+   "code": "N",
+   "n": 7,
+   "name": "Daftorix",
+   "src": "BakuganImg/Posters/04- Mechtanium Surge/N07- Daftorix.jpg",
+   "file": "photos/g1/bakunano/N07-daftorix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "BakuNano",
+   "code": "N",
+   "n": 10,
+   "name": "Slicerix",
+   "src": "BakuganImg/Posters/04- Mechtanium Surge/N10- Slicerix.png",
+   "file": "photos/g1/bakunano/N10-slicerix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "BakuNano",
+   "code": "N",
+   "n": 4,
+   "name": "Hyper Pulsor",
+   "src": "BakuganImg/Posters/04- Mechtanium Surge/N04- Hyper Pulsor.jpg",
+   "file": "photos/g1/bakunano/N04-hyper-pulsor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "BakuNano",
+   "code": "N",
+   "n": 8,
+   "name": "Lanzato",
+   "src": "BakuganImg/Posters/04- Mechtanium Surge/N08- Lanzato.png",
+   "file": "photos/g1/bakunano/N08-lanzato.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 1,
+   "name": "Envaporator",
+   "src": "Dex/06- Accessories/03- Mobile Assault/01- Envaporator.jpg",
+   "file": "photos/g1/mobile-assault/01-envaporator.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 5,
+   "name": "Cannonfury",
+   "src": "Dex/06- Accessories/03- Mobile Assault/05- Cannonfury.jpg",
+   "file": "photos/g1/mobile-assault/05-cannonfury.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 9,
+   "name": "Rapilator",
+   "src": "Dex/06- Accessories/03- Mobile Assault/09- Rapilator.jpg",
+   "file": "photos/g1/mobile-assault/09-rapilator.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 2,
+   "name": "Demolitor",
+   "src": "Dex/06- Accessories/03- Mobile Assault/02- Demolitor.jpg",
+   "file": "photos/g1/mobile-assault/02-demolitor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 6,
+   "name": "Hurrix",
+   "src": "Dex/06- Accessories/03- Mobile Assault/06- Hurrix.jpg",
+   "file": "photos/g1/mobile-assault/06-hurrix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 10,
+   "name": "Raytheus",
+   "src": "Dex/06- Accessories/03- Mobile Assault/10- Raytheus.jpg",
+   "file": "photos/g1/mobile-assault/10-raytheus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 3,
+   "name": "Axellor",
+   "src": "Dex/06- Accessories/03- Mobile Assault/03- Axellor.jpg",
+   "file": "photos/g1/mobile-assault/03-axellor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 7,
+   "name": "Impalaton",
+   "src": "Dex/06- Accessories/03- Mobile Assault/07- Impalaton.jpg",
+   "file": "photos/g1/mobile-assault/07-impalaton.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 11,
+   "name": "Zoompha",
+   "src": "Dex/06- Accessories/03- Mobile Assault/11- Zoompha.jpg",
+   "file": "photos/g1/mobile-assault/11-zoompha.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 4,
+   "name": "Koptorix",
+   "src": "Dex/06- Accessories/03- Mobile Assault/04- Koptorix.jpg",
+   "file": "photos/g1/mobile-assault/04-koptorix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mobile Assault",
+   "code": "",
+   "n": 8,
+   "name": "Jakalier",
+   "src": "Dex/06- Accessories/03- Mobile Assault/08- Jakalier.jpg",
+   "file": "photos/g1/mobile-assault/08-jakalier.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Suit",
+   "code": "",
+   "n": 1,
+   "name": "Blasterate",
+   "src": "Dex/06- Accessories/05- Battle Suit/01- Blasterate.jpg",
+   "file": "photos/g1/battle-suit/01-blasterate.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Suit",
+   "code": "",
+   "n": 2,
+   "name": "Clawbruk",
+   "src": "Dex/06- Accessories/05- Battle Suit/02- Clawbruk.jpg",
+   "file": "photos/g1/battle-suit/02-clawbruk.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Suit",
+   "code": "",
+   "n": 5,
+   "name": "Doomtronic",
+   "src": "Dex/06- Accessories/05- Battle Suit/05- Doomtronic.jpg",
+   "file": "photos/g1/battle-suit/05-doomtronic.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Suit",
+   "code": "",
+   "n": 3,
+   "name": "Combustoid",
+   "src": "Dex/06- Accessories/05- Battle Suit/03- Combustoid.jpg",
+   "file": "photos/g1/battle-suit/03-combustoid.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Suit",
+   "code": "",
+   "n": 6,
+   "name": "Fortatron",
+   "src": "Dex/06- Accessories/05- Battle Suit/06- Fortatron.jpg",
+   "file": "photos/g1/battle-suit/06-fortatron.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Battle Suit",
+   "code": "",
+   "n": 4,
+   "name": "Defendtrix",
+   "src": "Dex/06- Accessories/05- Battle Suit/04- Defendtrix.jpg",
+   "file": "photos/g1/battle-suit/04-defendtrix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 2,
+   "name": "Zenthon",
+   "src": "Dex/06- Accessories/06- Mechtogan/02- Zenthon.jpg",
+   "file": "photos/g1/mechtogan/02-zenthon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 6,
+   "name": "Vexfist",
+   "src": "Dex/06- Accessories/06- Mechtogan/06- Vexfist.jpg",
+   "file": "photos/g1/mechtogan/06-vexfist.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 10,
+   "name": "Miserak",
+   "src": "Dex/06- Accessories/06- Mechtogan/10- Miserak.jpg",
+   "file": "photos/g1/mechtogan/10-miserak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 14,
+   "name": "Dreadeon",
+   "src": "Dex/06- Accessories/06- Mechtogan/14- Dreadeon.jpg",
+   "file": "photos/g1/mechtogan/14-dreadeon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 17,
+   "name": "Coredegon",
+   "src": "Dex/06- Accessories/06- Mechtogan/17- Coredegon.jpg",
+   "file": "photos/g1/mechtogan/17-coredegon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 21,
+   "name": "Zenthon Titan",
+   "src": "Dex/06- Accessories/06- Mechtogan/21- Zenthon Titan.jpg",
+   "file": "photos/g1/mechtogan/21-zenthon-titan.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 3,
+   "name": "Accelerak",
+   "src": "Dex/06- Accessories/06- Mechtogan/03- Accelerak.jpg",
+   "file": "photos/g1/mechtogan/03-accelerak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 7,
+   "name": "Slynix",
+   "src": "Dex/06- Accessories/06- Mechtogan/07- Slynix.jpg",
+   "file": "photos/g1/mechtogan/07-slynix.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 11,
+   "name": "Braxion",
+   "src": "Dex/06- Accessories/06- Mechtogan/11- Braxion.jpg",
+   "file": "photos/g1/mechtogan/11-braxion.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 1,
+   "name": "Sky Sprint",
+   "src": "Dex/06- Accessories/06- Mechtogan/01- Sky Sprint.jpg",
+   "file": "photos/g1/mechtogan/01-sky-sprint.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 18,
+   "name": "Exostriker",
+   "src": "Dex/06- Accessories/06- Mechtogan/18- Exostriker.jpg",
+   "file": "photos/g1/mechtogan/18-exostriker.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 22,
+   "name": "Venexus Titan",
+   "src": "Dex/06- Accessories/06- Mechtogan/22- Venexus Titan.jpg",
+   "file": "photos/g1/mechtogan/22-venexus-titan.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 4,
+   "name": "Swift Sweep",
+   "src": "Dex/06- Accessories/06- Mechtogan/04- Swift Sweep.jpg",
+   "file": "photos/g1/mechtogan/04-swift-sweep.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 8,
+   "name": "Deezall",
+   "src": "Dex/06- Accessories/06- Mechtogan/08- Deezall.jpg",
+   "file": "photos/g1/mechtogan/08-deezall.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 12,
+   "name": "Rockfist",
+   "src": "Dex/06- Accessories/06- Mechtogan/12- Rockfist.jpg",
+   "file": "photos/g1/mechtogan/12-rockfist.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 15,
+   "name": "Flytris",
+   "src": "Dex/06- Accessories/06- Mechtogan/15- Flytris.jpg",
+   "file": "photos/g1/mechtogan/15-flytris.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 19,
+   "name": "Mandibor",
+   "src": "Dex/06- Accessories/06- Mechtogan/19- Mandibor.jpg",
+   "file": "photos/g1/mechtogan/19-mandibor.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 23,
+   "name": "Faser Titan",
+   "src": "Dex/06- Accessories/06- Mechtogan/23- Faser Titan.jpg",
+   "file": "photos/g1/mechtogan/23-faser-titan.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 5,
+   "name": "Silent Strike",
+   "src": "Dex/06- Accessories/06- Mechtogan/05- Silent Strike.jpg",
+   "file": "photos/g1/mechtogan/05-silent-strike.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 9,
+   "name": "Venexus",
+   "src": "Dex/06- Accessories/06- Mechtogan/09- Venexus.jpg",
+   "file": "photos/g1/mechtogan/09-venexus.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 13,
+   "name": "Smasheon",
+   "src": "Dex/06- Accessories/06- Mechtogan/13- Smasheon.jpg",
+   "file": "photos/g1/mechtogan/13-smasheon.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 16,
+   "name": "Thorak",
+   "src": "Dex/06- Accessories/06- Mechtogan/16- Thorak.jpg",
+   "file": "photos/g1/mechtogan/16-thorak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 20,
+   "name": "Slicerak",
+   "src": "Dex/06- Accessories/06- Mechtogan/20- Slicerak.jpg",
+   "file": "photos/g1/mechtogan/20-slicerak.jpg"
+  },
+  {
+   "gen": 1,
+   "kind": "Accessories",
+   "series": "Mechtogan",
+   "code": "",
+   "n": 24,
+   "name": "Razen Titan",
+   "src": "Dex/06- Accessories/06- Mechtogan/24- Razen Titan.jpg",
+   "file": "photos/g1/mechtogan/24-razen-titan.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 1,
+   "name": "Dragonoid",
+   "src": "BakuganImg/Posters/07- Battle Planet/01- Dragonoid.png",
+   "file": "photos/g2/battle-planet/01-dragonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 6,
+   "name": "Nillious",
+   "src": "BakuganImg/Posters/07- Battle Planet/06- Nillious.png",
+   "file": "photos/g2/battle-planet/06-nillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 3,
+   "name": "Pegatrix",
+   "src": "BakuganImg/Posters/07- Battle Planet/03- Pegatrix.png",
+   "file": "photos/g2/battle-planet/03-pegatrix.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 7,
+   "name": "Cloptor",
+   "src": "BakuganImg/Posters/07- Battle Planet/07- Cloptor.png",
+   "file": "photos/g2/battle-planet/07-cloptor.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 11,
+   "name": "Fangzor",
+   "src": "BakuganImg/Posters/07- Battle Planet/11- Fangzor.png",
+   "file": "photos/g2/battle-planet/11-fangzor.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 13,
+   "name": "Hydranoid",
+   "src": "BakuganImg/Posters/07- Battle Planet/13- Hydranoid.png",
+   "file": "photos/g2/battle-planet/13-hydranoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 15,
+   "name": "Phaedrus",
+   "src": "BakuganImg/Posters/07- Battle Planet/15- Phaedrus.png",
+   "file": "photos/g2/battle-planet/15-phaedrus.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 17,
+   "name": "Skorporos",
+   "src": "BakuganImg/Posters/07- Battle Planet/17- Skorporos.png",
+   "file": "photos/g2/battle-planet/17-skorporos.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 19,
+   "name": "Turtonium",
+   "src": "BakuganImg/Posters/07- Battle Planet/19- Turtonium.png",
+   "file": "photos/g2/battle-planet/19-turtonium.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 35,
+   "name": "Titan Dragonoid",
+   "src": "BakuganImg/Posters/07- Battle Planet/35- Titan Dragonoid.png",
+   "file": "photos/g2/battle-planet/35-titan-dragonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 22,
+   "name": "Garganoid",
+   "src": "BakuganImg/Posters/07- Battle Planet/22- Garganoid.png",
+   "file": "photos/g2/battle-planet/22-garganoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 26,
+   "name": "Lupitheon",
+   "src": "BakuganImg/Posters/07- Battle Planet/26- Lupitheon.png",
+   "file": "photos/g2/battle-planet/26-lupitheon.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 30,
+   "name": "Pyravian",
+   "src": "BakuganImg/Posters/07- Battle Planet/30- Pyravian.png",
+   "file": "photos/g2/battle-planet/30-pyravian.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 37,
+   "name": "Dragonoid Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/37- Dragonoid Ultra.png",
+   "file": "photos/g2/battle-planet/37-dragonoid-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 38,
+   "name": "Nillious Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/38- Nillious Ultra.png",
+   "file": "photos/g2/battle-planet/38-nillious-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 40,
+   "name": "Pegatrix Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/40- Pegatrix Ultra.png",
+   "file": "photos/g2/battle-planet/40-pegatrix-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 42,
+   "name": "Cloptor Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/42- Cloptor Ultra.png",
+   "file": "photos/g2/battle-planet/42-cloptor-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 44,
+   "name": "Fangzor Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/44- Fangzor Ultra.png",
+   "file": "photos/g2/battle-planet/44-fangzor-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 46,
+   "name": "Hydranoid Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/46- Hydranoid Ultra.png",
+   "file": "photos/g2/battle-planet/46-hydranoid-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 48,
+   "name": "Phaedrus Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/48- Phaedrus Ultra.png",
+   "file": "photos/g2/battle-planet/48-phaedrus-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 50,
+   "name": "Skorporos Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/50- Skorporos Ultra.png",
+   "file": "photos/g2/battle-planet/50-skorporos-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 52,
+   "name": "Turtonium Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/52- Turtonium Ultra.png",
+   "file": "photos/g2/battle-planet/52-turtonium-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 8,
+   "name": "Cubbo",
+   "src": "BakuganImg/Posters/07- Battle Planet/08- Cubbo.png",
+   "file": "photos/g2/battle-planet/08-cubbo.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 23,
+   "name": "Goreene",
+   "src": "BakuganImg/Posters/07- Battle Planet/23- Goreene.png",
+   "file": "photos/g2/battle-planet/23-goreene.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 27,
+   "name": "Maxotaur",
+   "src": "BakuganImg/Posters/07- Battle Planet/27- Maxotaur.png",
+   "file": "photos/g2/battle-planet/27-maxotaur.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 31,
+   "name": "Trunkanious",
+   "src": "BakuganImg/Posters/07- Battle Planet/31- Trunkanious.png",
+   "file": "photos/g2/battle-planet/31-trunkanious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 36,
+   "name": "Hyper Dragonoid",
+   "src": "BakuganImg/Posters/07- Battle Planet/36- Hyper Dragonoid.png",
+   "file": "photos/g2/battle-planet/36-hyper-dragonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 2,
+   "name": "Hydorous",
+   "src": "BakuganImg/Posters/07- Battle Planet/02- Hydorous.png",
+   "file": "photos/g2/battle-planet/02-hydorous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 4,
+   "name": "Trox",
+   "src": "BakuganImg/Posters/07- Battle Planet/04- Trox.png",
+   "file": "photos/g2/battle-planet/04-trox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 9,
+   "name": "Cyndeous",
+   "src": "BakuganImg/Posters/07- Battle Planet/09- Cyndeous.png",
+   "file": "photos/g2/battle-planet/09-cyndeous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 12,
+   "name": "Gorthion",
+   "src": "BakuganImg/Posters/07- Battle Planet/12- Gorthion.png",
+   "file": "photos/g2/battle-planet/12-gorthion.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 14,
+   "name": "Mantonoid",
+   "src": "BakuganImg/Posters/07- Battle Planet/14- Mantonoid.png",
+   "file": "photos/g2/battle-planet/14-mantonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 16,
+   "name": "Serpenteze",
+   "src": "BakuganImg/Posters/07- Battle Planet/16- Serpenteze.png",
+   "file": "photos/g2/battle-planet/16-serpenteze.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 18,
+   "name": "Trhyno",
+   "src": "BakuganImg/Posters/07- Battle Planet/18- Trhyno.png",
+   "file": "photos/g2/battle-planet/18-trhyno.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 20,
+   "name": "Vicerox",
+   "src": "BakuganImg/Posters/07- Battle Planet/20- Vicerox.png",
+   "file": "photos/g2/battle-planet/20-vicerox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 10,
+   "name": "Fade Ninja",
+   "src": "BakuganImg/Posters/07- Battle Planet/10- Fade Ninja.png",
+   "file": "photos/g2/battle-planet/10-fade-ninja.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 24,
+   "name": "Kelion",
+   "src": "BakuganImg/Posters/07- Battle Planet/24- Kelion.png",
+   "file": "photos/g2/battle-planet/24-kelion.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 28,
+   "name": "Nobilius",
+   "src": "BakuganImg/Posters/07- Battle Planet/28- Nobilius.png",
+   "file": "photos/g2/battle-planet/28-nobilius.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 32,
+   "name": "Webam",
+   "src": "BakuganImg/Posters/07- Battle Planet/32- Webam.png",
+   "file": "photos/g2/battle-planet/32-webam.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 5,
+   "name": "Howlkor",
+   "src": "BakuganImg/Posters/07- Battle Planet/05- Howlkor.png",
+   "file": "photos/g2/battle-planet/05-howlkor.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 39,
+   "name": "Hydorous Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/39- Hydorous Ultra.png",
+   "file": "photos/g2/battle-planet/39-hydorous-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 41,
+   "name": "Trox Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/41- Trox Ultra.png",
+   "file": "photos/g2/battle-planet/41-trox-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 43,
+   "name": "Cyndeous Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/43- Cyndeous Ultra.png",
+   "file": "photos/g2/battle-planet/43-cyndeous-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 45,
+   "name": "Gorthion Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/45- Gorthion Ultra.png",
+   "file": "photos/g2/battle-planet/45-gorthion-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 47,
+   "name": "Mantonoid Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/47- Mantonoid Ultra.png",
+   "file": "photos/g2/battle-planet/47-mantonoid-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 49,
+   "name": "Serpenteze Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/49- Serpenteze Ultra.png",
+   "file": "photos/g2/battle-planet/49-serpenteze-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 51,
+   "name": "Tryhno Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/51- Tryhno Ultra.png",
+   "file": "photos/g2/battle-planet/51-tryhno-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 53,
+   "name": "Vicerox Ultra",
+   "src": "BakuganImg/Posters/07- Battle Planet/53- Vicerox Ultra.png",
+   "file": "photos/g2/battle-planet/53-vicerox-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 21,
+   "name": "Zentaur",
+   "src": "BakuganImg/Posters/07- Battle Planet/21- Zentaur.png",
+   "file": "photos/g2/battle-planet/21-zentaur.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 25,
+   "name": "Krakelios",
+   "src": "BakuganImg/Posters/07- Battle Planet/25- Krakelios.png",
+   "file": "photos/g2/battle-planet/25-krakelios.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Battle Planet",
+   "code": "",
+   "n": 29,
+   "name": "Pandoxx",
+   "src": "BakuganImg/Posters/07- Battle Planet/29- Pandoxx.png",
+   "file": "photos/g2/battle-planet/29-pandoxx.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 1,
+   "name": "Dragonoid",
+   "src": "BakuganImg/Posters/08- Armored Alliance/01- Dragonoid.png",
+   "file": "photos/g2/armored-alliance/01-dragonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 3,
+   "name": "Pegatrix",
+   "src": "BakuganImg/Posters/08- Armored Alliance/03- Pegatrix.png",
+   "file": "photos/g2/armored-alliance/03-pegatrix.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 5,
+   "name": "Howlkor",
+   "src": "BakuganImg/Posters/08- Armored Alliance/05- Howlkor.png",
+   "file": "photos/g2/armored-alliance/05-howlkor.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 7,
+   "name": "Pharol",
+   "src": "BakuganImg/Posters/08- Armored Alliance/07- Pharol.png",
+   "file": "photos/g2/armored-alliance/07-pharol.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 11,
+   "name": "Cimoga",
+   "src": "BakuganImg/Posters/08- Armored Alliance/11- Cimoga.png",
+   "file": "photos/g2/armored-alliance/11-cimoga.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 15,
+   "name": "Batrix",
+   "src": "BakuganImg/Posters/08- Armored Alliance/15- Batrix.png",
+   "file": "photos/g2/armored-alliance/15-batrix.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 19,
+   "name": "Sairus",
+   "src": "BakuganImg/Posters/08- Armored Alliance/19- Sairus.png",
+   "file": "photos/g2/armored-alliance/19-sairus.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 24,
+   "name": "Dragonoid x Tretorous",
+   "src": "BakuganImg/Posters/08- Armored Alliance/24- Dragonoid x Tretorous.png",
+   "file": "photos/g2/armored-alliance/24-dragonoid-x-tretorous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 29,
+   "name": "Hydorous x Batrix",
+   "src": "BakuganImg/Posters/08- Armored Alliance/29- Hydorous x Batrix.png",
+   "file": "photos/g2/armored-alliance/29-hydorous-x-batrix.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 34,
+   "name": "Pegatrix x Gillator",
+   "src": "BakuganImg/Posters/08- Armored Alliance/34- Pegatrix x Gillator.png",
+   "file": "photos/g2/armored-alliance/34-pegatrix-x-gillator.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 35,
+   "name": "Pegatrix x Goreene",
+   "src": "BakuganImg/Posters/08- Armored Alliance/35- Pegatrix x Goreene.png",
+   "file": "photos/g2/armored-alliance/35-pegatrix-x-goreene.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 64,
+   "name": "Dragonoid Ultra",
+   "src": "BakuganImg/Posters/08- Armored Alliance/64- Dragonoid Ultra.png",
+   "file": "photos/g2/armored-alliance/64-dragonoid-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 66,
+   "name": "Pegatrix Ultra",
+   "src": "BakuganImg/Posters/08- Armored Alliance/66- Pegatrix Ultra.png",
+   "file": "photos/g2/armored-alliance/66-pegatrix-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 68,
+   "name": "Howlkor Ultra",
+   "src": "BakuganImg/Posters/08- Armored Alliance/68- Howlkor Ultra.png",
+   "file": "photos/g2/armored-alliance/68-howlkor-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 8,
+   "name": "Auxillataur",
+   "src": "BakuganImg/Posters/08- Armored Alliance/08- Auxillataur.png",
+   "file": "photos/g2/armored-alliance/08-auxillataur.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 12,
+   "name": "Cycloid",
+   "src": "BakuganImg/Posters/08- Armored Alliance/12- Cycloid.png",
+   "file": "photos/g2/armored-alliance/12-cycloid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 16,
+   "name": "Eenoch",
+   "src": "BakuganImg/Posters/08- Armored Alliance/16- Eenoch.png",
+   "file": "photos/g2/armored-alliance/16-eenoch.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 20,
+   "name": "Tretorous",
+   "src": "BakuganImg/Posters/08- Armored Alliance/20- Tretorous.png",
+   "file": "photos/g2/armored-alliance/20-tretorous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 25,
+   "name": "Fangzor x Mantonoid",
+   "src": "BakuganImg/Posters/08- Armored Alliance/25- Fangzor x Mantonoid.png",
+   "file": "photos/g2/armored-alliance/25-fangzor-x-mantonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 31,
+   "name": "Hydranoid x Krakelios",
+   "src": "BakuganImg/Posters/08- Armored Alliance/31- Hydranoid x Krakelios.png",
+   "file": "photos/g2/armored-alliance/31-hydranoid-x-krakelios.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 39,
+   "name": "Trox x Sairus",
+   "src": "BakuganImg/Posters/08- Armored Alliance/39- Trox x Sairus.png",
+   "file": "photos/g2/armored-alliance/39-trox-x-sairus.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 36,
+   "name": "Pharol x Gillator",
+   "src": "BakuganImg/Posters/08- Armored Alliance/36- Pharol x Gillator.png",
+   "file": "photos/g2/armored-alliance/36-pharol-x-gillator.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 62,
+   "name": "Ultima Drago",
+   "src": "BakuganImg/Posters/08- Armored Alliance/62- Ultima Drago.png",
+   "file": "photos/g2/armored-alliance/62-ultima-drago.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 2,
+   "name": "Hydorous",
+   "src": "BakuganImg/Posters/08- Armored Alliance/02- Hydorous.png",
+   "file": "photos/g2/armored-alliance/02-hydorous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 4,
+   "name": "Trox",
+   "src": "BakuganImg/Posters/08- Armored Alliance/04- Trox.png",
+   "file": "photos/g2/armored-alliance/04-trox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 6,
+   "name": "Nillious",
+   "src": "BakuganImg/Posters/08- Armored Alliance/06- Nillious.png",
+   "file": "photos/g2/armored-alliance/06-nillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 9,
+   "name": "Barbetra",
+   "src": "BakuganImg/Posters/08- Armored Alliance/09- Barbetra.png",
+   "file": "photos/g2/armored-alliance/09-barbetra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 13,
+   "name": "Maxodon",
+   "src": "BakuganImg/Posters/08- Armored Alliance/13- Maxodon.png",
+   "file": "photos/g2/armored-alliance/13-maxodon.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 17,
+   "name": "Gillator",
+   "src": "BakuganImg/Posters/08- Armored Alliance/17- Gillator.png",
+   "file": "photos/g2/armored-alliance/17-gillator.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 21,
+   "name": "Cloptor x Apollyon",
+   "src": "BakuganImg/Posters/08- Armored Alliance/21- Cloptor x Apollyon.png",
+   "file": "photos/g2/armored-alliance/21-cloptor-x-apollyon.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 26,
+   "name": "Garganoid x Webam",
+   "src": "BakuganImg/Posters/08- Armored Alliance/26- Garganoid x Webam.png",
+   "file": "photos/g2/armored-alliance/26-garganoid-x-webam.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 32,
+   "name": "Maxotaur x Zentaur",
+   "src": "BakuganImg/Posters/08- Armored Alliance/32- Maxotaur x Zentaur.png",
+   "file": "photos/g2/armored-alliance/32-maxotaur-x-zentaur.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 28,
+   "name": "Howlkor x Serpenteze",
+   "src": "BakuganImg/Posters/08- Armored Alliance/28- Howlkor x Serpenteze.png",
+   "file": "photos/g2/armored-alliance/28-howlkor-x-serpenteze.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 37,
+   "name": "Sabra x Pyravian",
+   "src": "BakuganImg/Posters/08- Armored Alliance/37- Sabra x Pyravian.png",
+   "file": "photos/g2/armored-alliance/37-sabra-x-pyravian.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 23,
+   "name": "Dragonoid x Auxillataur",
+   "src": "BakuganImg/Posters/08- Armored Alliance/23- Dragonoid x Auxillataur.png",
+   "file": "photos/g2/armored-alliance/23-dragonoid-x-auxillataur.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 65,
+   "name": "Hydorous Ultra",
+   "src": "BakuganImg/Posters/08- Armored Alliance/65- Hydorous Ultra.png",
+   "file": "photos/g2/armored-alliance/65-hydorous-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 67,
+   "name": "Trox Ultra",
+   "src": "BakuganImg/Posters/08- Armored Alliance/67- Trox Ultra.png",
+   "file": "photos/g2/armored-alliance/67-trox-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 69,
+   "name": "Nillious Ultra",
+   "src": "BakuganImg/Posters/08- Armored Alliance/69- Nillious Ultra.png",
+   "file": "photos/g2/armored-alliance/69-nillious-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 10,
+   "name": "Centipod",
+   "src": "BakuganImg/Posters/08- Armored Alliance/10- Centipod.png",
+   "file": "photos/g2/armored-alliance/10-centipod.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 14,
+   "name": "Ryerazu",
+   "src": "BakuganImg/Posters/08- Armored Alliance/14- Ryerazu.png",
+   "file": "photos/g2/armored-alliance/14-ryerazu.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 18,
+   "name": "Ramparian",
+   "src": "BakuganImg/Posters/08- Armored Alliance/18- Ramparian.png",
+   "file": "photos/g2/armored-alliance/18-ramparian.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 22,
+   "name": "Cyndeous x Skorporos",
+   "src": "BakuganImg/Posters/08- Armored Alliance/22- Cyndeous x Skorporos.png",
+   "file": "photos/g2/armored-alliance/22-cyndeous-x-skorporos.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 27,
+   "name": "Howlkor x Ramparian",
+   "src": "BakuganImg/Posters/08- Armored Alliance/27- Howlkor x Ramparian.png",
+   "file": "photos/g2/armored-alliance/27-howlkor-x-ramparian.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 33,
+   "name": "Nillious x Eenoch",
+   "src": "BakuganImg/Posters/08- Armored Alliance/33- Nillious x Eenoch.png",
+   "file": "photos/g2/armored-alliance/33-nillious-x-eenoch.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 30,
+   "name": "Hydorous x Trhyno",
+   "src": "BakuganImg/Posters/08- Armored Alliance/30- Hydorous x Trhyno.png",
+   "file": "photos/g2/armored-alliance/30-hydorous-x-trhyno.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Armored Alliance",
+   "code": "",
+   "n": 38,
+   "name": "Trox x Nobilious",
+   "src": "BakuganImg/Posters/08- Armored Alliance/38- Trox x Nobilious.png",
+   "file": "photos/g2/armored-alliance/38-trox-x-nobilious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 1,
+   "name": "Dragonoid",
+   "src": "BakuganImg/Posters/09- Geogan Rising/01- Dragonoid.png",
+   "file": "photos/g2/geogan-rising/01-dragonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 5,
+   "name": "Sharktar",
+   "src": "BakuganImg/Posters/09- Geogan Rising/05- Sharktar.png",
+   "file": "photos/g2/geogan-rising/05-sharktar.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 7,
+   "name": "Falcron",
+   "src": "BakuganImg/Posters/09- Geogan Rising/07- Falcron.png",
+   "file": "photos/g2/geogan-rising/07-falcron.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 9,
+   "name": "Pincitaur",
+   "src": "BakuganImg/Posters/09- Geogan Rising/09- Pincitaur.png",
+   "file": "photos/g2/geogan-rising/09-pincitaur.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 3,
+   "name": "Cubbo",
+   "src": "BakuganImg/Posters/09- Geogan Rising/03- Cubbo.png",
+   "file": "photos/g2/geogan-rising/03-cubbo.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 13,
+   "name": "Crackanoid",
+   "src": "BakuganImg/Posters/09- Geogan Rising/13- Crackanoid.png",
+   "file": "photos/g2/geogan-rising/13-crackanoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 17,
+   "name": "Ninjiton",
+   "src": "BakuganImg/Posters/09- Geogan Rising/17- Ninjiton.png",
+   "file": "photos/g2/geogan-rising/17-ninjiton.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 21,
+   "name": "Apophix",
+   "src": "BakuganImg/Posters/09- Geogan Rising/21- Apophix.png",
+   "file": "photos/g2/geogan-rising/21-apophix.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 46,
+   "name": "Dragonoid Ultra",
+   "src": "BakuganImg/Posters/09- Geogan Rising/46- Dragonoid Ultra.png",
+   "file": "photos/g2/geogan-rising/46-dragonoid-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 48,
+   "name": "Sharktar Ultra",
+   "src": "BakuganImg/Posters/09- Geogan Rising/48- Sharktar Ultra.png",
+   "file": "photos/g2/geogan-rising/48-sharktar-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 50,
+   "name": "Falcron Ultra",
+   "src": "BakuganImg/Posters/09- Geogan Rising/50- Falcron Ultra.png",
+   "file": "photos/g2/geogan-rising/50-falcron-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 51,
+   "name": "Pincitaur Ultra",
+   "src": "BakuganImg/Posters/09- Geogan Rising/51- Pincitaur Ultra.png",
+   "file": "photos/g2/geogan-rising/51-pincitaur-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 4,
+   "name": "Cyndeous",
+   "src": "BakuganImg/Posters/09- Geogan Rising/04- Cyndeous.png",
+   "file": "photos/g2/geogan-rising/04-cyndeous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 14,
+   "name": "Crustillion",
+   "src": "BakuganImg/Posters/09- Geogan Rising/14- Crustillion.png",
+   "file": "photos/g2/geogan-rising/14-crustillion.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 18,
+   "name": "Oxidox",
+   "src": "BakuganImg/Posters/09- Geogan Rising/18- Oxidox.png",
+   "file": "photos/g2/geogan-rising/18-oxidox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 22,
+   "name": "Demorc",
+   "src": "BakuganImg/Posters/09- Geogan Rising/22- Demorc.png",
+   "file": "photos/g2/geogan-rising/22-demorc.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 2,
+   "name": "Nillious",
+   "src": "BakuganImg/Posters/09- Geogan Rising/02- Nillious.png",
+   "file": "photos/g2/geogan-rising/02-nillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 6,
+   "name": "Fenneca",
+   "src": "BakuganImg/Posters/09- Geogan Rising/06- Fenneca.png",
+   "file": "photos/g2/geogan-rising/06-fenneca.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 8,
+   "name": "Ferascal",
+   "src": "BakuganImg/Posters/09- Geogan Rising/08- Ferascal.png",
+   "file": "photos/g2/geogan-rising/08-ferascal.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 10,
+   "name": "Viloch",
+   "src": "BakuganImg/Posters/09- Geogan Rising/10- Viloch.png",
+   "file": "photos/g2/geogan-rising/10-viloch.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 11,
+   "name": "Auratoa",
+   "src": "BakuganImg/Posters/09- Geogan Rising/11- Auratoa.png",
+   "file": "photos/g2/geogan-rising/11-auratoa.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 15,
+   "name": "Harperion",
+   "src": "BakuganImg/Posters/09- Geogan Rising/15- Harperion.png",
+   "file": "photos/g2/geogan-rising/15-harperion.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 20,
+   "name": "Spear Fin",
+   "src": "BakuganImg/Posters/09- Geogan Rising/20- Spear Fin.png",
+   "file": "photos/g2/geogan-rising/20-spear-fin.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 23,
+   "name": "Serpillious",
+   "src": "BakuganImg/Posters/09- Geogan Rising/23- Serpillious.png",
+   "file": "photos/g2/geogan-rising/23-serpillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 47,
+   "name": "Nillious Ultra",
+   "src": "BakuganImg/Posters/09- Geogan Rising/47- Nillious Ultra.png",
+   "file": "photos/g2/geogan-rising/47-nillious-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 49,
+   "name": "Fenneca Ultra",
+   "src": "BakuganImg/Posters/09- Geogan Rising/49- Fenneca Ultra.png",
+   "file": "photos/g2/geogan-rising/49-fenneca-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 52,
+   "name": "Ferascal Ultra",
+   "src": "BakuganImg/Posters/09- Geogan Rising/52- Ferascal Ultra.png",
+   "file": "photos/g2/geogan-rising/52-ferascal-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 53,
+   "name": "Viloch Ultra",
+   "src": "BakuganImg/Posters/09- Geogan Rising/53- Viloch Ultra.png",
+   "file": "photos/g2/geogan-rising/53-viloch-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 12,
+   "name": "Behemos",
+   "src": "BakuganImg/Posters/09- Geogan Rising/12- Behemos.png",
+   "file": "photos/g2/geogan-rising/12-behemos.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 16,
+   "name": "Jettra",
+   "src": "BakuganImg/Posters/09- Geogan Rising/16- Jettra.png",
+   "file": "photos/g2/geogan-rising/16-jettra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 25,
+   "name": "GeoForge Dragonoid",
+   "src": "BakuganImg/Posters/09- Geogan Rising/25- GeoForge Dragonoid.png",
+   "file": "photos/g2/geogan-rising/25-geoforge-dragonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Geogan Rising",
+   "code": "",
+   "n": 24,
+   "name": "Toronoid",
+   "src": "BakuganImg/Posters/09- Geogan Rising/24- Toronoid.png",
+   "file": "photos/g2/geogan-rising/24-toronoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 1,
+   "name": "Dragonoid",
+   "src": "BakuganImg/Posters/10- Evolutions/01- Dragonoid.png",
+   "file": "photos/g2/evolutions/01-dragonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 5,
+   "name": "Howlkor",
+   "src": "BakuganImg/Posters/10- Evolutions/05- Howlkor.png",
+   "file": "photos/g2/evolutions/05-howlkor.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 8,
+   "name": "Sharktar",
+   "src": "BakuganImg/Posters/10- Evolutions/08- Sharktar.png",
+   "file": "photos/g2/evolutions/08-sharktar.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 12,
+   "name": "Gorthion",
+   "src": "BakuganImg/Posters/10- Evolutions/12- Gorthion.png",
+   "file": "photos/g2/evolutions/12-gorthion.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 16,
+   "name": "Batrix",
+   "src": "BakuganImg/Posters/10- Evolutions/16- Batrix.png",
+   "file": "photos/g2/evolutions/16-batrix.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 20,
+   "name": "Tretorous",
+   "src": "BakuganImg/Posters/10- Evolutions/20- Tretorous.png",
+   "file": "photos/g2/evolutions/20-tretorous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 25,
+   "name": "Neo Pegatrix",
+   "src": "BakuganImg/Posters/10- Evolutions/25- Neo Pegatrix.png",
+   "file": "photos/g2/evolutions/25-neo-pegatrix.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 30,
+   "name": "Blitz Fox",
+   "src": "BakuganImg/Posters/10- Evolutions/30- Blitz Fox.png",
+   "file": "photos/g2/evolutions/30-blitz-fox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 34,
+   "name": "Warrior Whale",
+   "src": "BakuganImg/Posters/10- Evolutions/34- Warrior Whale.png",
+   "file": "photos/g2/evolutions/34-warrior-whale.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 37,
+   "name": "Genesis Trox",
+   "src": "BakuganImg/Posters/10- Evolutions/37- Genesis Trox.png",
+   "file": "photos/g2/evolutions/37-genesis-trox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 2,
+   "name": "Hydorous",
+   "src": "BakuganImg/Posters/10- Evolutions/02- Hydorous.png",
+   "file": "photos/g2/evolutions/02-hydorous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 58,
+   "name": "Howlkor Ultra",
+   "src": "BakuganImg/Posters/10- Evolutions/58- Howlkor Ultra.png",
+   "file": "photos/g2/evolutions/58-howlkor-ultra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 9,
+   "name": "Cubbo",
+   "src": "BakuganImg/Posters/10- Evolutions/09- Cubbo.png",
+   "file": "photos/g2/evolutions/09-cubbo.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 13,
+   "name": "Auxillataur",
+   "src": "BakuganImg/Posters/10- Evolutions/13- Auxillataur.png",
+   "file": "photos/g2/evolutions/13-auxillataur.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 17,
+   "name": "Eenoch",
+   "src": "BakuganImg/Posters/10- Evolutions/17- Eenoch.png",
+   "file": "photos/g2/evolutions/17-eenoch.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 21,
+   "name": "Serpillious",
+   "src": "BakuganImg/Posters/10- Evolutions/21- Serpillious.png",
+   "file": "photos/g2/evolutions/21-serpillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 26,
+   "name": "Neo Trox",
+   "src": "BakuganImg/Posters/10- Evolutions/26- Neo Trox.png",
+   "file": "photos/g2/evolutions/26-neo-trox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 31,
+   "name": "Colossus",
+   "src": "BakuganImg/Posters/10- Evolutions/31- Colossus.png",
+   "file": "photos/g2/evolutions/31-colossus.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 35,
+   "name": "Wrath",
+   "src": "BakuganImg/Posters/10- Evolutions/35- Wrath.png",
+   "file": "photos/g2/evolutions/35-wrath.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 38,
+   "name": "Genesis Nillious",
+   "src": "BakuganImg/Posters/10- Evolutions/38- Genesis Nillious.png",
+   "file": "photos/g2/evolutions/38-genesis-nillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 36,
+   "name": "Genesis Dragonoid",
+   "src": "BakuganImg/Posters/10- Evolutions/36- Genesis Dragonoid.png",
+   "file": "photos/g2/evolutions/36-genesis-dragonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 3,
+   "name": "Pegatrix",
+   "src": "BakuganImg/Posters/10- Evolutions/03- Pegatrix.png",
+   "file": "photos/g2/evolutions/03-pegatrix.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 6,
+   "name": "Nillious",
+   "src": "BakuganImg/Posters/10- Evolutions/06- Nillious.png",
+   "file": "photos/g2/evolutions/06-nillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 10,
+   "name": "Fade Ninja",
+   "src": "BakuganImg/Posters/10- Evolutions/10- Fade Ninja.png",
+   "file": "photos/g2/evolutions/10-fade-ninja.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 14,
+   "name": "Cimoga",
+   "src": "BakuganImg/Posters/10- Evolutions/14- Cimoga.png",
+   "file": "photos/g2/evolutions/14-cimoga.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 18,
+   "name": "Gillator",
+   "src": "BakuganImg/Posters/10- Evolutions/18- Gillator.png",
+   "file": "photos/g2/evolutions/18-gillator.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 23,
+   "name": "Neo Dragonoid",
+   "src": "BakuganImg/Posters/10- Evolutions/23- Neo Dragonoid.png",
+   "file": "photos/g2/evolutions/23-neo-dragonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 27,
+   "name": "Neo Nillious",
+   "src": "BakuganImg/Posters/10- Evolutions/27- Neo Nillious.png",
+   "file": "photos/g2/evolutions/27-neo-nillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 32,
+   "name": "Griswing",
+   "src": "BakuganImg/Posters/10- Evolutions/32- Griswing.png",
+   "file": "photos/g2/evolutions/32-griswing.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 22,
+   "name": "Dragonoid Evo",
+   "src": "BakuganImg/Posters/10- Evolutions/22- Dragonoid Evo.png",
+   "file": "photos/g2/evolutions/22-dragonoid-evo.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 39,
+   "name": "Genesis Pharol",
+   "src": "BakuganImg/Posters/10- Evolutions/39- Genesis Pharol.png",
+   "file": "photos/g2/evolutions/39-genesis-pharol.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 41,
+   "name": "Genesis Wrath",
+   "src": "BakuganImg/Posters/10- Evolutions/41- Genesis Wrath.png",
+   "file": "photos/g2/evolutions/41-genesis-wrath.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 4,
+   "name": "Trox",
+   "src": "BakuganImg/Posters/10- Evolutions/04- Trox.png",
+   "file": "photos/g2/evolutions/04-trox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 7,
+   "name": "Pharol",
+   "src": "BakuganImg/Posters/10- Evolutions/07- Pharol.png",
+   "file": "photos/g2/evolutions/07-pharol.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 11,
+   "name": "Fangzor",
+   "src": "BakuganImg/Posters/10- Evolutions/11- Fangzor.png",
+   "file": "photos/g2/evolutions/11-fangzor.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 15,
+   "name": "Ryerazu",
+   "src": "BakuganImg/Posters/10- Evolutions/15- Ryerazu.png",
+   "file": "photos/g2/evolutions/15-ryerazu.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 19,
+   "name": "Sairus",
+   "src": "BakuganImg/Posters/10- Evolutions/19- Sairus.png",
+   "file": "photos/g2/evolutions/19-sairus.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 24,
+   "name": "Neo Hydorous",
+   "src": "BakuganImg/Posters/10- Evolutions/24- Neo Hydorous.png",
+   "file": "photos/g2/evolutions/24-neo-hydorous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 28,
+   "name": "Neo Pharol",
+   "src": "BakuganImg/Posters/10- Evolutions/28- Neo Pharol.png",
+   "file": "photos/g2/evolutions/28-neo-pharol.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 33,
+   "name": "Sectanoid",
+   "src": "BakuganImg/Posters/10- Evolutions/33- Sectanoid.png",
+   "file": "photos/g2/evolutions/33-sectanoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 29,
+   "name": "Leonidas",
+   "src": "BakuganImg/Posters/10- Evolutions/29- Leonidas.png",
+   "file": "photos/g2/evolutions/29-leonidas.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Evolutions",
+   "code": "",
+   "n": 40,
+   "name": "Genesis Warrior Whale",
+   "src": "BakuganImg/Posters/10- Evolutions/40- Genesis Warrior Whale.png",
+   "file": "photos/g2/evolutions/40-genesis-warrior-whale.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 1,
+   "name": "Nova Hanoj",
+   "src": "BakuganImg/Posters/11- Legends/01- Nova Hanoj.png",
+   "file": "photos/g2/legends/01-nova-hanoj.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 6,
+   "name": "Nova Trox",
+   "src": "BakuganImg/Posters/11- Legends/06- Nova Trox.png",
+   "file": "photos/g2/legends/06-nova-trox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 47,
+   "name": "Fade Ninja",
+   "src": "BakuganImg/Posters/11- Legends/47- Fade Ninja.png",
+   "file": "photos/g2/legends/47-fade-ninja.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 10,
+   "name": "Skorporos",
+   "src": "BakuganImg/Posters/11- Legends/10- Skorporos.png",
+   "file": "photos/g2/legends/10-skorporos.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 13,
+   "name": "Auxillataur",
+   "src": "BakuganImg/Posters/11- Legends/13- Auxillataur.png",
+   "file": "photos/g2/legends/13-auxillataur.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 17,
+   "name": "Cycloid",
+   "src": "BakuganImg/Posters/11- Legends/17- Cycloid.png",
+   "file": "photos/g2/legends/17-cycloid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 21,
+   "name": "Sairus",
+   "src": "BakuganImg/Posters/11- Legends/21- Sairus.png",
+   "file": "photos/g2/legends/21-sairus.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 28,
+   "name": "Demorc",
+   "src": "BakuganImg/Posters/11- Legends/28- Demorc.png",
+   "file": "photos/g2/legends/28-demorc.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 32,
+   "name": "Blitz Fox",
+   "src": "BakuganImg/Posters/11- Legends/32- Blitz Fox.png",
+   "file": "photos/g2/legends/32-blitz-fox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 35,
+   "name": "Cloptor x Apollyon",
+   "src": "BakuganImg/Posters/11- Legends/35- Cloptor x Apollyon.png",
+   "file": "photos/g2/legends/35-cloptor-x-apollyon.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 39,
+   "name": "Garganoid x Webam",
+   "src": "BakuganImg/Posters/11- Legends/39- Garganoid x Webam.png",
+   "file": "photos/g2/legends/39-garganoid-x-webam.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 43,
+   "name": "Nillious x Eenoch",
+   "src": "BakuganImg/Posters/11- Legends/43- Nillious x Eenoch.png",
+   "file": "photos/g2/legends/43-nillious-x-eenoch.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 3,
+   "name": "Nova Drago",
+   "src": "BakuganImg/Posters/11- Legends/03- Nova Drago.png",
+   "file": "photos/g2/legends/03-nova-drago.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 7,
+   "name": "Nova Nillious",
+   "src": "BakuganImg/Posters/11- Legends/07- Nova Nillious.png",
+   "file": "photos/g2/legends/07-nova-nillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 48,
+   "name": "Fangzor",
+   "src": "BakuganImg/Posters/11- Legends/48- Fangzor.png",
+   "file": "photos/g2/legends/48-fangzor.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 11,
+   "name": "Trhyno",
+   "src": "BakuganImg/Posters/11- Legends/11- Trhyno.png",
+   "file": "photos/g2/legends/11-trhyno.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 14,
+   "name": "Barbetra",
+   "src": "BakuganImg/Posters/11- Legends/14- Barbetra.png",
+   "file": "photos/g2/legends/14-barbetra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 18,
+   "name": "Maxodon",
+   "src": "BakuganImg/Posters/11- Legends/18- Maxodon.png",
+   "file": "photos/g2/legends/18-maxodon.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 22,
+   "name": "Tretorous",
+   "src": "BakuganImg/Posters/11- Legends/22- Tretorous.png",
+   "file": "photos/g2/legends/22-tretorous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 31,
+   "name": "Leonidas",
+   "src": "BakuganImg/Posters/11- Legends/31- Leonidas.png",
+   "file": "photos/g2/legends/31-leonidas.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 33,
+   "name": "Colossus",
+   "src": "BakuganImg/Posters/11- Legends/33- Colossus.png",
+   "file": "photos/g2/legends/33-colossus.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 36,
+   "name": "Cyndeous x Skorporos",
+   "src": "BakuganImg/Posters/11- Legends/36- Cyndeous x Skorporos.png",
+   "file": "photos/g2/legends/36-cyndeous-x-skorporos.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 40,
+   "name": "Howlkor x Ramparian",
+   "src": "BakuganImg/Posters/11- Legends/40- Howlkor x Ramparian.png",
+   "file": "photos/g2/legends/40-howlkor-x-ramparian.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 44,
+   "name": "Pegatrix x Gillator",
+   "src": "BakuganImg/Posters/11- Legends/44- Pegatrix x Gillator.png",
+   "file": "photos/g2/legends/44-pegatrix-x-gillator.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 4,
+   "name": "Nova Hydorous",
+   "src": "BakuganImg/Posters/11- Legends/04- Nova Hydorous.png",
+   "file": "photos/g2/legends/04-nova-hydorous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 24,
+   "name": "Sharktar",
+   "src": "BakuganImg/Posters/11- Legends/24- Sharktar.png",
+   "file": "photos/g2/legends/24-sharktar.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 8,
+   "name": "Mantonoid",
+   "src": "BakuganImg/Posters/11- Legends/08- Mantonoid.png",
+   "file": "photos/g2/legends/08-mantonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 26,
+   "name": "Gorthion",
+   "src": "BakuganImg/Posters/11- Legends/26- Gorthion.png",
+   "file": "photos/g2/legends/26-gorthion.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 15,
+   "name": "Centipod",
+   "src": "BakuganImg/Posters/11- Legends/15- Centipod.png",
+   "file": "photos/g2/legends/15-centipod.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 19,
+   "name": "Ryerazu",
+   "src": "BakuganImg/Posters/11- Legends/19- Ryerazu.png",
+   "file": "photos/g2/legends/19-ryerazu.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 25,
+   "name": "Viloch",
+   "src": "BakuganImg/Posters/11- Legends/25- Viloch.png",
+   "file": "photos/g2/legends/25-viloch.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 29,
+   "name": "Neo Drago",
+   "src": "BakuganImg/Posters/11- Legends/29- Neo Drago.png",
+   "file": "photos/g2/legends/29-neo-drago.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 34,
+   "name": "Griswing",
+   "src": "BakuganImg/Posters/11- Legends/34- Griswing.png",
+   "file": "photos/g2/legends/34-griswing.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 37,
+   "name": "Dragonoid x Tretorous",
+   "src": "BakuganImg/Posters/11- Legends/37- Dragonoid x Tretorous.png",
+   "file": "photos/g2/legends/37-dragonoid-x-tretorous.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 41,
+   "name": "Hydranoid x Krakelios",
+   "src": "BakuganImg/Posters/11- Legends/41- Hydranoid x Krakelios.png",
+   "file": "photos/g2/legends/41-hydranoid-x-krakelios.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 45,
+   "name": "Trox x Sairus",
+   "src": "BakuganImg/Posters/11- Legends/45- Trox x Sairus.png",
+   "file": "photos/g2/legends/45-trox-x-sairus.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 5,
+   "name": "Nova Pegatrix",
+   "src": "BakuganImg/Posters/11- Legends/05- Nova Pegatrix.png",
+   "file": "photos/g2/legends/05-nova-pegatrix.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 23,
+   "name": "Fenneca",
+   "src": "BakuganImg/Posters/11- Legends/23- Fenneca.png",
+   "file": "photos/g2/legends/23-fenneca.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 9,
+   "name": "Serpenteze",
+   "src": "BakuganImg/Posters/11- Legends/09- Serpenteze.png",
+   "file": "photos/g2/legends/09-serpenteze.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 12,
+   "name": "Krakelios",
+   "src": "BakuganImg/Posters/11- Legends/12- Krakelios.png",
+   "file": "photos/g2/legends/12-krakelios.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 16,
+   "name": "Cimoga",
+   "src": "BakuganImg/Posters/11- Legends/16- Cimoga.png",
+   "file": "photos/g2/legends/16-cimoga.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 20,
+   "name": "Eenoch",
+   "src": "BakuganImg/Posters/11- Legends/20- Eenoch.png",
+   "file": "photos/g2/legends/20-eenoch.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 27,
+   "name": "Spartillion",
+   "src": "BakuganImg/Posters/11- Legends/27- Spartillion.png",
+   "file": "photos/g2/legends/27-spartillion.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 30,
+   "name": "Neo Nillious",
+   "src": "BakuganImg/Posters/11- Legends/30- Neo Nillious.png",
+   "file": "photos/g2/legends/30-neo-nillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 46,
+   "name": "Dragonoid x Auxillataur",
+   "src": "BakuganImg/Posters/11- Legends/46- Dragonoid x Auxillataur.png",
+   "file": "photos/g2/legends/46-dragonoid-x-auxillataur.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 38,
+   "name": "Fangzor x Mantonoid",
+   "src": "BakuganImg/Posters/11- Legends/38- Fangzor x Mantonoid.png",
+   "file": "photos/g2/legends/38-fangzor-x-mantonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 42,
+   "name": "Maxotaur x Zentaur",
+   "src": "BakuganImg/Posters/11- Legends/42- Maxotaur x Zentaur.png",
+   "file": "photos/g2/legends/42-maxotaur-x-zentaur.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Bakugan",
+   "series": "Legends",
+   "code": "",
+   "n": 2,
+   "name": "Drago x Nillious",
+   "src": "BakuganImg/Posters/11- Legends/02- Drago x Nillious.png",
+   "file": "photos/g2/legends/02-drago-x-nillious.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Combiners",
+   "code": "",
+   "n": 33,
+   "name": "Dragonoid Maximus",
+   "src": "BakuganImg/Posters/07- Battle Planet/33- Dragonoid Maximus.png",
+   "file": "photos/g2/combiners/33-dragonoid-maximus.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Combiners",
+   "code": "",
+   "n": 63,
+   "name": "Dragonoid Infinity",
+   "src": "BakuganImg/Posters/08- Armored Alliance/63- Dragonoid Infinity.png",
+   "file": "photos/g2/combiners/63-dragonoid-infinity.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Combiners",
+   "code": "",
+   "n": 26,
+   "name": "GeoForge Dragonoid",
+   "src": "BakuganImg/Posters/09- Geogan Rising/26- GeoForge Dragonoid.png",
+   "file": "photos/g2/combiners/26-geoforge-dragonoid.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Combiners",
+   "code": "",
+   "n": 27,
+   "name": "Ultimate Viloch",
+   "src": "BakuganImg/Posters/09- Geogan Rising/27- Ultimate Viloch.png",
+   "file": "photos/g2/combiners/27-ultimate-viloch.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 40,
+   "name": "Magma Blaster",
+   "src": "BakuganImg/Posters/08- Armored Alliance/40- Magma Blaster.png",
+   "file": "photos/g2/baku-gear/40-magma-blaster.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 44,
+   "name": "MechaClaws",
+   "src": "BakuganImg/Posters/08- Armored Alliance/44- MechaClaws.png",
+   "file": "photos/g2/baku-gear/44-mechaclaws.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 52,
+   "name": "Dark Sledge",
+   "src": "BakuganImg/Posters/08- Armored Alliance/52- Dark Sledge.png",
+   "file": "photos/g2/baku-gear/52-dark-sledge.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 48,
+   "name": "Twilight Axes",
+   "src": "BakuganImg/Posters/08- Armored Alliance/48- Twilight Axes.png",
+   "file": "photos/g2/baku-gear/48-twilight-axes.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 41,
+   "name": "Wings of Aquos",
+   "src": "BakuganImg/Posters/08- Armored Alliance/41- Wings of Aquos.png",
+   "file": "photos/g2/baku-gear/41-wings-of-aquos.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 45,
+   "name": "Scorching Swords",
+   "src": "BakuganImg/Posters/08- Armored Alliance/45- Scorching Swords.png",
+   "file": "photos/g2/baku-gear/45-scorching-swords.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 49,
+   "name": "Fire Launcher",
+   "src": "BakuganImg/Posters/08- Armored Alliance/49- Fire Launcher.png",
+   "file": "photos/g2/baku-gear/49-fire-launcher.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 53,
+   "name": "Aurelian Accelerator",
+   "src": "BakuganImg/Posters/08- Armored Alliance/53- Aurelian Accelerator.png",
+   "file": "photos/g2/baku-gear/53-aurelian-accelerator.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 42,
+   "name": "Lightning Striker",
+   "src": "BakuganImg/Posters/08- Armored Alliance/42- Lightning Striker.png",
+   "file": "photos/g2/baku-gear/42-lightning-striker.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 46,
+   "name": "Silent Spears",
+   "src": "BakuganImg/Posters/08- Armored Alliance/46- Silent Spears.png",
+   "file": "photos/g2/baku-gear/46-silent-spears.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 47,
+   "name": "Stealth Thruster",
+   "src": "BakuganImg/Posters/08- Armored Alliance/47- Stealth Thruster.png",
+   "file": "photos/g2/baku-gear/47-stealth-thruster.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 54,
+   "name": "Combo Cannon",
+   "src": "BakuganImg/Posters/08- Armored Alliance/54- Combo Cannon.png",
+   "file": "photos/g2/baku-gear/54-combo-cannon.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 43,
+   "name": "Cyclonator",
+   "src": "BakuganImg/Posters/08- Armored Alliance/43- Cyclonator.png",
+   "file": "photos/g2/baku-gear/43-cyclonator.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 51,
+   "name": "Bolt Bow",
+   "src": "BakuganImg/Posters/08- Armored Alliance/51- Bolt Bow.png",
+   "file": "photos/g2/baku-gear/51-bolt-bow.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 50,
+   "name": "Tempest Generator",
+   "src": "BakuganImg/Posters/08- Armored Alliance/50- Tempest Generator.png",
+   "file": "photos/g2/baku-gear/50-tempest-generator.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Baku-Gear",
+   "code": "",
+   "n": 70,
+   "name": "Sabre and Shield",
+   "src": "BakuganImg/Posters/08- Armored Alliance/70- Sabre and Shield.png",
+   "file": "photos/g2/baku-gear/70-sabre-and-shield.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 28,
+   "name": "Arcleon",
+   "src": "BakuganImg/Posters/09- Geogan Rising/28- Arcleon.png",
+   "file": "photos/g2/geogan/28-arcleon.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 32,
+   "name": "Montrapod",
+   "src": "BakuganImg/Posters/09- Geogan Rising/32- Montrapod.png",
+   "file": "photos/g2/geogan/32-montrapod.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 36,
+   "name": "Sluggler",
+   "src": "BakuganImg/Posters/09- Geogan Rising/36- Sluggler.png",
+   "file": "photos/g2/geogan/36-sluggler.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 40,
+   "name": "Amphrog",
+   "src": "BakuganImg/Posters/09- Geogan Rising/40- Amphrog.png",
+   "file": "photos/g2/geogan/40-amphrog.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 29,
+   "name": "Stingzer",
+   "src": "BakuganImg/Posters/09- Geogan Rising/29- Stingzer.png",
+   "file": "photos/g2/geogan/29-stingzer.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 33,
+   "name": "Hyenix",
+   "src": "BakuganImg/Posters/09- Geogan Rising/33- Hyenix.png",
+   "file": "photos/g2/geogan/33-hyenix.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 37,
+   "name": "Stardox",
+   "src": "BakuganImg/Posters/09- Geogan Rising/37- Stardox.png",
+   "file": "photos/g2/geogan/37-stardox.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 41,
+   "name": "Swarmer",
+   "src": "BakuganImg/Posters/09- Geogan Rising/41- Swarmer.png",
+   "file": "photos/g2/geogan/41-swarmer.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 44,
+   "name": "Ghost Beast",
+   "src": "BakuganImg/Posters/09- Geogan Rising/44- Ghost Beast.png",
+   "file": "photos/g2/geogan/44-ghost-beast.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 30,
+   "name": "Arachnia",
+   "src": "BakuganImg/Posters/09- Geogan Rising/30- Arachnia.png",
+   "file": "photos/g2/geogan/30-arachnia.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 34,
+   "name": "Titan King",
+   "src": "BakuganImg/Posters/09- Geogan Rising/34- Titan King.png",
+   "file": "photos/g2/geogan/34-titan-king.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 38,
+   "name": "Surturan",
+   "src": "BakuganImg/Posters/09- Geogan Rising/38- Surturan.png",
+   "file": "photos/g2/geogan/38-surturan.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 42,
+   "name": "Sky Horse",
+   "src": "BakuganImg/Posters/09- Geogan Rising/42- Sky Horse.png",
+   "file": "photos/g2/geogan/42-sky-horse.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 45,
+   "name": "Babadrill",
+   "src": "BakuganImg/Posters/09- Geogan Rising/45- Babadrill.png",
+   "file": "photos/g2/geogan/45-babadrill.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 31,
+   "name": "Talan",
+   "src": "BakuganImg/Posters/09- Geogan Rising/31- Talan.png",
+   "file": "photos/g2/geogan/31-talan.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 35,
+   "name": "Mutasect",
+   "src": "BakuganImg/Posters/09- Geogan Rising/35- Mutasect.png",
+   "file": "photos/g2/geogan/35-mutasect.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 39,
+   "name": "Viperagon",
+   "src": "BakuganImg/Posters/09- Geogan Rising/39- Viperagon.png",
+   "file": "photos/g2/geogan/39-viperagon.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Geogan",
+   "code": "",
+   "n": 43,
+   "name": "Insectra",
+   "src": "BakuganImg/Posters/09- Geogan Rising/43- Insectra.png",
+   "file": "photos/g2/geogan/43-insectra.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 43,
+   "name": "Fury",
+   "src": "BakuganImg/Posters/10- Evolutions/43- Fury.png",
+   "file": "photos/g2/nanogan/43-fury.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 47,
+   "name": "Shadow",
+   "src": "BakuganImg/Posters/10- Evolutions/47- Shadow.png",
+   "file": "photos/g2/nanogan/47-shadow.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 51,
+   "name": "Blade",
+   "src": "BakuganImg/Posters/10- Evolutions/51- Blade.png",
+   "file": "photos/g2/nanogan/51-blade.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 44,
+   "name": "Riptide",
+   "src": "BakuganImg/Posters/10- Evolutions/44- Riptide.png",
+   "file": "photos/g2/nanogan/44-riptide.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 48,
+   "name": "Widow",
+   "src": "BakuganImg/Posters/10- Evolutions/48- Widow.png",
+   "file": "photos/g2/nanogan/48-widow.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 52,
+   "name": "Clutch",
+   "src": "BakuganImg/Posters/10- Evolutions/52- Clutch.png",
+   "file": "photos/g2/nanogan/52-clutch.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 55,
+   "name": "Siphon",
+   "src": "BakuganImg/Posters/10- Evolutions/55- Siphon.png",
+   "file": "photos/g2/nanogan/55-siphon.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 45,
+   "name": "Chrysalin",
+   "src": "BakuganImg/Posters/10- Evolutions/45- Chrysalin.png",
+   "file": "photos/g2/nanogan/45-chrysalin.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 49,
+   "name": "Lancer",
+   "src": "BakuganImg/Posters/10- Evolutions/49- Lancer.png",
+   "file": "photos/g2/nanogan/49-lancer.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 53,
+   "name": "Echo",
+   "src": "BakuganImg/Posters/10- Evolutions/53- Echo.png",
+   "file": "photos/g2/nanogan/53-echo.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 56,
+   "name": "Sludgem",
+   "src": "BakuganImg/Posters/10- Evolutions/56- Sludgem.png",
+   "file": "photos/g2/nanogan/56-sludgem.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 46,
+   "name": "Sledge",
+   "src": "BakuganImg/Posters/10- Evolutions/46- Sledge.png",
+   "file": "photos/g2/nanogan/46-sledge.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 50,
+   "name": "Aura",
+   "src": "BakuganImg/Posters/10- Evolutions/50- Aura.png",
+   "file": "photos/g2/nanogan/50-aura.jpg"
+  },
+  {
+   "gen": 2,
+   "kind": "Accessories",
+   "series": "Nanogan",
+   "code": "",
+   "n": 54,
+   "name": "Scorcher",
+   "src": "BakuganImg/Posters/10- Evolutions/54- Scorcher.png",
+   "file": "photos/g2/nanogan/54-scorcher.jpg"
+  }
+ ]
+}
