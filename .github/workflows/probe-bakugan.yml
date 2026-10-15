@@ -1,0 +1,75 @@
+name: Probe BakuganDB
+
+# Run it from the Actions tab ("Run workflow").
+# Saves BakuganDB's pages (as the browser sees them) into the "bakugan/probe" folder so the Bakugan tab can be planned:
+# the home page, the BakuDex, every series page, and the first pages each series links to.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install browser
+        run: |
+          npm init -y >/dev/null
+          npm install playwright@1.47.2 >/dev/null
+          npx playwright install --with-deps chromium >/dev/null
+      - name: Save pages
+        run: |
+          mkdir -p bakugan/probe
+          cat > probe.js <<'JS'
+          const { chromium } = require('playwright');
+          const fs = require('fs');
+          const BASE = 'https://bakugandb.com';
+          const START = ['/', '/bakudex', '/battle-brawlers', '/new-vestroia', '/gundalian-invaders', '/mechtanium-surge', '/bakutech',
+                         '/battle-planet', '/armored-alliance', '/geogan-rising', '/evolutions', '/legends', '/generation-3'];
+          const slug = u => (u.replace(BASE, '').replace(/^\/+|\/+$/g, '').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'home').slice(0, 120);
+          (async () => {
+            const browser = await chromium.launch();
+            const page = await browser.newPage({ viewport: { width: 1400, height: 1000 } });
+            const seen = new Set(), summary = [];
+            async function save(url) {
+              if (seen.has(url)) return [];
+              seen.add(url);
+              const r = await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 }).catch(e => null);
+              for (let y = 0; y < 20; y++) { await page.evaluate(() => window.scrollBy(0, 1200)); await page.waitForTimeout(150); }
+              const html = await page.content();
+              fs.writeFileSync(`bakugan/probe/${slug(url)}.html`, html);
+              const info = await page.evaluate(() => ({
+                title: document.title,
+                links: [...new Set([...document.querySelectorAll('a[href]')].map(a => a.href))],
+                imgs: [...new Set([...document.querySelectorAll('img')].map(i => i.currentSrc || i.src))],
+              }));
+              summary.push({ url, status: r ? r.status() : 0, title: info.title, links: info.links.length, imgs: info.imgs.length,
+                             sampleLinks: info.links.slice(0, 60), sampleImgs: info.imgs.slice(0, 40) });
+              console.log(url, r && r.status(), info.links.length, 'links', info.imgs.length, 'imgs');
+              return info.links;
+            }
+            for (const p of START) {
+              const links = await save(BASE + p);
+              // follow the first site pages each series links to (detail / release pages)
+              const inner = links.filter(h => h.startsWith(BASE) && !START.includes(h.replace(BASE, '')) && !/#|\.(jpe?g|png|webp|gif)$/i.test(h));
+              for (const h of inner.slice(0, 8)) await save(h);
+            }
+            fs.writeFileSync('bakugan/probe/summary.json', JSON.stringify(summary, null, 1));
+            await browser.close();
+          })();
+          JS
+          node probe.js
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add bakugan
+          git commit -m "Probe BakuganDB" || echo "No changes"
+          git pull --rebase || true
+          git push
