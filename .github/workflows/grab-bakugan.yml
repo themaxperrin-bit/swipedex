@@ -1,0 +1,106 @@
+name: Grab Bakugan
+
+# Run it from the Actions tab ("Run workflow").
+# Reads BakuganDB's BakuDex (https://bakugandb.com/bakudex): every Bakugan and accessory of Generation 1 and 2,
+# one picture each, in the site's order. Saves:
+#   bakugan/photos/<gen>/<series>/<nn>-<name>.jpg   the pictures (max 900px)
+#   bakugan/index.json                              generation, Bakugan/accessory, series, number, name, picture
+# Safe to run again: pictures already saved are skipped.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+      - name: Install browser
+        run: |
+          npm init -y >/dev/null
+          npm install playwright@1.47.2 sharp@0.33.5 >/dev/null
+          npx playwright install --with-deps chromium >/dev/null
+          sudo apt-get install -y -q xvfb >/dev/null
+      - name: Save the BakuDex
+        run: |
+          mkdir -p bakugan/photos
+          cat > grab.js <<'JS'
+          const { chromium } = require('playwright');
+          const sharp = require('sharp');
+          const fs = require('fs');
+          const BASE = 'https://bakugandb.com';
+          const slug = s => s.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+          (async () => {
+            const browser = await chromium.launch({ headless: false, args: ['--disable-blink-features=AutomationControlled'] });
+            const ctx = await browser.newContext({ viewport: { width: 1400, height: 1000 }, locale: 'en-US',
+              userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36' });
+            await ctx.addInitScript(() => Object.defineProperty(navigator, 'webdriver', { get: () => undefined }));
+            const page = await ctx.newPage();
+            const blocked = async () => /just a moment|attention required/i.test(await page.title().catch(() => ''));
+            let ok = false;
+            for (let attempt = 1; attempt <= 6 && !ok; attempt++) {
+              await page.goto(BASE + '/bakudex', { waitUntil: 'domcontentloaded', timeout: 60000 }).catch(() => {});
+              for (let t = 0; t < 40 && await blocked(); t++) await page.waitForTimeout(1000);
+              ok = !await blocked();
+              if (!ok) { console.log('blocked, waiting', attempt); await page.waitForTimeout(20000 * attempt); }
+            }
+            if (!ok) throw new Error('BakuganDB kept showing its "Just a moment" check. Run the job again later.');
+            await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {});
+            // every picture under its generation and series heading, in page order
+            const items = await page.evaluate(() => {
+              const out = [], seen = new Set(); let gen = 0, kind = '', series = '';
+              for (const el of document.body.querySelectorAll('h3, img')) {
+                if (el.tagName === 'H3') {
+                  const t = (el.textContent || "").replace(/\s+/g, ' ').trim(), m = t.match(/^Generation (\d) (Bakugan|Accessories)/);
+                  if (m) { gen = +m[1]; kind = m[2]; } else if (gen) series = t;
+                  continue;
+                }
+                const src = el.getAttribute('src') || '';
+                if (!gen || !series || src.startsWith('data:') || src.startsWith('Images/') || seen.has(src)) continue;
+                seen.add(src);
+                const parts = src.split('/'), fn = parts.pop();
+                let m = fn.match(/^([A-Z]?)(\d+)-\s*(.+)\.(jpe?g|png|webp)$/i);
+                if (!m) { const d = parts[parts.length - 1].match(/^([A-Z]?)(\d+)-\s*(.+)$/); if (d) m = [0, d[1], d[2], d[3]]; }
+                if (!m) continue;
+                out.push({ gen, kind, series, code: m[1].toUpperCase(), n: +m[2], name: m[3].trim(), src });
+              }
+              return out;
+            });
+            console.log(items.length, 'pictures on the BakuDex');
+            const INDEX = 'bakugan/index.json';
+            let made = 0, kept = 0, failed = 0;
+            for (const it of items) {
+              const dir = `bakugan/photos/g${it.gen}/${slug(it.series)}`;
+              const file = `${dir}/${it.code}${String(it.n).padStart(2, '0')}-${slug(it.name)}.jpg`;
+              it.file = file.replace('bakugan/', '');
+              if (fs.existsSync(file)) { kept++; continue; }
+              try {
+                const r = await page.request.get(new URL(it.src, BASE).href, { timeout: 60000 });
+                if (!r.ok()) { console.log('  picture status', r.status(), it.src); failed++; delete it.file; continue; }
+                fs.mkdirSync(dir, { recursive: true });
+                await sharp(await r.body()).flatten({ background: '#ffffff' }).resize(900, 900, { fit: 'inside', withoutEnlargement: true })
+                  .jpeg({ quality: 86, progressive: true }).toFile(file);
+                made++;
+                await page.waitForTimeout(150);
+              } catch (e) { console.log('  picture error', it.src, String(e).slice(0, 80)); failed++; delete it.file; }
+            }
+            fs.writeFileSync(INDEX, JSON.stringify({ source: BASE + '/bakudex', items }, null, 1));
+            console.log(`Done: ${items.length} entries, ${made} new pictures, ${kept} already saved, ${failed} failed`);
+            await browser.close();
+          })();
+          JS
+          xvfb-run -a node grab.js
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add bakugan
+          git commit -m "Grab Bakugan" || echo "No changes"
+          git pull --rebase || true
+          git push
