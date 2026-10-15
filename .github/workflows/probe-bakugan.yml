@@ -12,7 +12,7 @@ permissions:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-node@v4
@@ -31,8 +31,8 @@ jobs:
           const { chromium } = require('playwright');
           const fs = require('fs');
           const BASE = 'https://bakugandb.com';
-          const START = ['/', '/bakudex', '/battle-brawlers', '/new-vestroia', '/gundalian-invaders', '/mechtanium-surge', '/bakutech',
-                         '/battle-planet', '/armored-alliance', '/geogan-rising', '/evolutions', '/legends', '/generation-3'];
+          const PAGES = ['/bakudex', '/battle-brawlers', '/battle-planet', '/new-vestroia', '/gundalian-invaders', '/mechtanium-surge', '/bakutech',
+                         '/armored-alliance', '/geogan-rising', '/evolutions', '/legends', '/generation-3'];
           const slug = u => (u.replace(BASE, '').replace(/^\/+|\/+$/g, '').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'home').slice(0, 120);
           (async () => {
             const browser = await chromium.launch({ headless: false, args: ['--disable-blink-features=AutomationControlled'] });
@@ -40,33 +40,38 @@ jobs:
               userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36' });
             await ctx.addInitScript(() => Object.defineProperty(navigator, 'webdriver', { get: () => undefined }));
             const page = await ctx.newPage();
-            const seen = new Set(), summary = [];
-            async function save(url) {
-              if (seen.has(url)) return [];
-              seen.add(url);
-              let r = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 }).catch(e => null);
-              // Cloudflare's "Just a moment..." check: wait for it to pass (up to 45s)
-              for (let t = 0; t < 45 && /just a moment|attention required/i.test(await page.title().catch(() => '')); t++) await page.waitForTimeout(1000);
-              await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {});
-              for (let y = 0; y < 20; y++) { await page.evaluate(() => window.scrollBy(0, 1200)); await page.waitForTimeout(150); }
-              const html = await page.content();
-              fs.writeFileSync(`bakugan/probe/${slug(url)}.html`, html);
-              const info = await page.evaluate(() => ({
-                title: document.title,
-                links: [...new Set([...document.querySelectorAll('a[href]')].map(a => a.href))],
-                imgs: [...new Set([...document.querySelectorAll('img')].map(i => i.currentSrc || i.src))],
-              }));
-              summary.push({ url, status: r ? r.status() : 0, finalTitle: info.title, title: info.title, links: info.links.length, imgs: info.imgs.length,
-                             sampleLinks: info.links.slice(0, 60), sampleImgs: info.imgs.slice(0, 40) });
-              console.log(url, r && r.status(), info.links.length, 'links', info.imgs.length, 'imgs');
-              return info.links;
+            const blocked = async () => /just a moment|attention required/i.test(await page.title().catch(() => ''));
+            async function open(url) {
+              for (let attempt = 1; attempt <= 5; attempt++) {
+                await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 }).catch(() => {});
+                for (let t = 0; t < 40 && await blocked(); t++) await page.waitForTimeout(1000);
+                if (!await blocked()) { await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {}); return true; }
+                console.log('  still blocked, attempt', attempt, url);
+                await page.waitForTimeout(15000 * attempt);
+              }
+              return false;
             }
-            for (const p of START) {
-              const links = await save(BASE + p);
-              // follow the first site pages each series links to (detail / release pages)
-              const inner = links.filter(h => h.startsWith(BASE) && !START.includes(h.replace(BASE, '')) && !/#|\.(jpe?g|png|webp|gif)$/i.test(h));
-              for (const h of inner.slice(0, 8)) await save(h);
+            const summary = [];
+            for (const p of PAGES) {
+              const ok = await open(BASE + p);
+              for (let y = 0; y < 40; y++) { await page.evaluate(() => window.scrollBy(0, 1500)); await page.waitForTimeout(100); }
+              fs.writeFileSync(`bakugan/probe/${slug(BASE + p)}.html`, await page.content());
+              const info = await page.evaluate(() => ({ title: document.title,
+                imgs: [...document.querySelectorAll('img')].map(i => i.getAttribute('src')),
+                links: [...new Set([...document.querySelectorAll('a[href]')].map(a => a.getAttribute('href')))] }));
+              console.log(p, ok ? 'OK' : 'BLOCKED', info.imgs.length, 'imgs', info.links.length, 'links');
+              summary.push({ page: p, ok, title: info.title, imgs: info.imgs.length, links: info.links, sampleImgs: info.imgs.slice(0, 80) });
+              await page.waitForTimeout(4000);
             }
+            // can the photos be downloaded (with the browser's cookies)?
+            const tests = [];
+            for (const s of summary) for (const src of (s.sampleImgs || []).filter(x => x && !x.startsWith('data:')).slice(20, 22)) {
+              const u = new URL(src, BASE).href;
+              const r = await page.request.get(u).catch(e => null);
+              tests.push({ u, status: r ? r.status() : 0, type: r ? r.headers()['content-type'] : '', bytes: r ? (await r.body()).length : 0 });
+            }
+            summary.push({ photoTests: tests });
+            console.log(JSON.stringify(tests, null, 1));
             fs.writeFileSync('bakugan/probe/summary.json', JSON.stringify(summary, null, 1));
             await browser.close();
           })();
