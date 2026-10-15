@@ -23,6 +23,7 @@ jobs:
           npm init -y >/dev/null
           npm install playwright@1.47.2 >/dev/null
           npx playwright install --with-deps chromium >/dev/null
+          sudo apt-get install -y -q xvfb >/dev/null
       - name: Save pages
         run: |
           mkdir -p bakugan/probe
@@ -34,13 +35,19 @@ jobs:
                          '/battle-planet', '/armored-alliance', '/geogan-rising', '/evolutions', '/legends', '/generation-3'];
           const slug = u => (u.replace(BASE, '').replace(/^\/+|\/+$/g, '').replace(/[^a-z0-9]+/gi, '-').toLowerCase() || 'home').slice(0, 120);
           (async () => {
-            const browser = await chromium.launch();
-            const page = await browser.newPage({ viewport: { width: 1400, height: 1000 } });
+            const browser = await chromium.launch({ headless: false, args: ['--disable-blink-features=AutomationControlled'] });
+            const ctx = await browser.newContext({ viewport: { width: 1400, height: 1000 }, locale: 'en-US',
+              userAgent: 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36' });
+            await ctx.addInitScript(() => Object.defineProperty(navigator, 'webdriver', { get: () => undefined }));
+            const page = await ctx.newPage();
             const seen = new Set(), summary = [];
             async function save(url) {
               if (seen.has(url)) return [];
               seen.add(url);
-              const r = await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 }).catch(e => null);
+              let r = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 }).catch(e => null);
+              // Cloudflare's "Just a moment..." check: wait for it to pass (up to 45s)
+              for (let t = 0; t < 45 && /just a moment|attention required/i.test(await page.title().catch(() => '')); t++) await page.waitForTimeout(1000);
+              await page.waitForLoadState('networkidle', { timeout: 30000 }).catch(() => {});
               for (let y = 0; y < 20; y++) { await page.evaluate(() => window.scrollBy(0, 1200)); await page.waitForTimeout(150); }
               const html = await page.content();
               fs.writeFileSync(`bakugan/probe/${slug(url)}.html`, html);
@@ -49,7 +56,7 @@ jobs:
                 links: [...new Set([...document.querySelectorAll('a[href]')].map(a => a.href))],
                 imgs: [...new Set([...document.querySelectorAll('img')].map(i => i.currentSrc || i.src))],
               }));
-              summary.push({ url, status: r ? r.status() : 0, title: info.title, links: info.links.length, imgs: info.imgs.length,
+              summary.push({ url, status: r ? r.status() : 0, finalTitle: info.title, title: info.title, links: info.links.length, imgs: info.imgs.length,
                              sampleLinks: info.links.slice(0, 60), sampleImgs: info.imgs.slice(0, 40) });
               console.log(url, r && r.status(), info.links.length, 'links', info.imgs.length, 'imgs');
               return info.links;
@@ -64,7 +71,9 @@ jobs:
             await browser.close();
           })();
           JS
-          node probe.js
+          xvfb-run -a node probe.js
+          # the photo folders (static files) may not be behind the check: try one directly
+          curl -s -o /dev/null -w 'photo status %{http_code}\n' 'https://bakugandb.com/Dex/01-%20BB/01-%20Dragonoid.jpg' || true
       - name: Save the results
         run: |
           git config user.name "swipedex-bot"
