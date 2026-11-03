@@ -1,0 +1,103 @@
+name: Grab Beyblade X anime pictures
+
+# Run it from the Actions tab ("Run workflow").
+# Goes through every page in https://beyblade.fandom.com/wiki/Category:Beyblade_X_Beyblades and saves the
+# pictures from each page's anime / gallery sections (the creature screenshots). Saves:
+#   spirits/x/<beyblade>/1.jpg, 2.jpg ...   anime pictures, in page order (up to 12 per Beyblade)
+#   spirits/x/index.json                   page, section and file name of every picture, plus the page's other pictures
+#   spirits/x/wikitext/<beyblade>.txt      each page, for checking
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Save the anime pictures
+        run: |
+          pip install requests pillow >/dev/null
+          python -u - <<'PY'
+          import io, json, os, re, shutil, time
+          import requests
+          from PIL import Image
+          API = "https://beyblade.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT = "spirits/x"
+          if os.path.isdir(OUT): shutil.rmtree(OUT)
+          os.makedirs(f"{OUT}/wikitext")
+          def api(**p):
+              p.update(format="json", formatversion="2")
+              for a in range(5):
+                  try:
+                      r = s.get(API, params=p, timeout=60)
+                      if r.status_code == 200: return r.json()
+                  except Exception as e: print("  api error", str(e)[:80])
+                  time.sleep(5 * (a + 1))
+              raise SystemExit("The wiki isn't answering, run the job again later")
+          def slug(t): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
+
+          titles, cont = [], {}
+          while True:
+              d = api(action="query", list="categorymembers", cmtitle="Category:Beyblade X Beyblades", cmlimit="500", cmtype="page", **cont)
+              titles += [m["title"] for m in d["query"]["categorymembers"]]
+              if "continue" not in d: break
+              cont = d["continue"]
+          print(len(titles), "Beyblade X pages")
+
+          FILE = re.compile(r"(?:\[\[(?:File|Image):([^\]|\n]+)|^\s*(?:File:|Image:)?([^|\[\]=\n<>]+\.(?:jpe?g|png|gif|webp))\s*(?:\|[^\n]*)?$)", re.I | re.M)
+          ANIME = re.compile(r"anime|gallery|episode|avatar|spirit|beast", re.I)
+          pages = []
+          for t in titles:
+              wt = api(action="parse", page=t, prop="wikitext")["parse"]["wikitext"]
+              open(f"{OUT}/wikitext/{slug(t)}.txt", "w").write(wt)
+              found, section = [], "(top)"
+              for part in re.split(r"\n(?===+[^=])", wt):
+                  h = re.match(r"==+\s*(.+?)\s*==+", part)
+                  if h: section = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]|'''?", r"\1", h.group(1)).strip()
+                  for m in FILE.finditer(part):
+                      fn = (m.group(1) or m.group(2) or "").strip()
+                      if fn and fn.lower() not in [f["file"].lower() for f in found]: found.append({"file": fn, "section": section})
+              anime = [f for f in found if ANIME.search(f["section"]) or re.search(r"anime|episode|ep\s?\d|avatar", f["file"], re.I)]
+              pages.append({"title": t, "slug": slug(t), "anime": anime, "all": found})
+              time.sleep(0.3)
+
+          made = failed = 0
+          for pg in pages:
+              pg["pictures"] = []
+              for f in pg["anime"][:12]:
+                  d = api(action="query", titles="File:" + f["file"], prop="imageinfo", iiprop="url")
+                  ii = d["query"]["pages"][0].get("imageinfo")
+                  if not ii: failed += 1; continue
+                  try:
+                      r = s.get(ii[0]["url"], timeout=60); r.raise_for_status()
+                      im = Image.open(io.BytesIO(r.content)); im.seek(0); im = im.convert("RGBA")
+                      if min(im.size) < 120: continue
+                      bg = Image.new("RGB", im.size, (0, 0, 0)); bg.paste(im, mask=im.split()[3]); bg.thumbnail((1000, 1000))
+                      out = f"{OUT}/{pg['slug']}/{len(pg['pictures']) + 1}.jpg"
+                      os.makedirs(os.path.dirname(out), exist_ok=True)
+                      bg.save(out, "JPEG", quality=86, optimize=True, progressive=True)
+                      pg["pictures"].append({"pic": out.replace("spirits/", ""), **f}); made += 1
+                  except Exception as e: print("  picture error", f["file"], str(e)[:80]); failed += 1
+                  time.sleep(0.3)
+              print(f"{pg['title'][:40]:40s} {len(pg['pictures']):2d} anime pictures  ({len(pg['all'])} on the page)")
+          json.dump({"source": "https://beyblade.fandom.com/wiki/Category:Beyblade_X_Beyblades", "pages": pages},
+                    open(f"{OUT}/index.json", "w"), indent=1, ensure_ascii=False)
+          print(f"Done: {len(pages)} pages, {made} pictures, {failed} failed")
+          PY
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A spirits
+          git commit -m "Grab Beyblade X anime pictures" || echo "No changes"
+          git pull --rebase || true
+          git push
