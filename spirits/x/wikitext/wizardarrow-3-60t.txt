@@ -1,0 +1,50 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image = WizardArrow 3-60T.png
+|JPName=ウィザードアロー3-60T
+|RomajiName=WizādoArō 3-60T
+|AKA=WizardArrow Three Sixty Taper
+|ProductCode=BX-14
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=September 9th, 2023
+|BladeX=WizardArrow
+|Ratchet=3-60
+|Bit=Taper
+|WBO=
+}}{{Translation|'''WizardArrow 3-60T'''|ウィザードアロー{{Ruby|3-60|スリーシクスティー}}{{Ruby|T|テーパー}}|WizādoArō Surī Shikusutī Tēpā|WizardArrow Three Sixty Taper}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released in Japan on September 9th, 2023 for 1400円 as one of six possible Beyblades in [[Random Booster Vol. 1]].
+
+==Blade - WizardArrow==
+{{Part|Blade - WizardArrow}}
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+==Bit - Taper==
+{{Part|Bit - Taper}}
+
+<!--==Recolors==-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 1 Box.jpeg|WizardArrow's box.
+</gallery>
+
+===Manga===
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

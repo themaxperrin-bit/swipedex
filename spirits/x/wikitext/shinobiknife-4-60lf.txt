@@ -1,0 +1,48 @@
+{{Beyblade Infobox
+|Image=ShinobiKnife 4-60LF (Metal Coat Blue).png
+|JPName=シノビナイフ{{Ruby|4-60|フォーシクスティー}}{{Ruby|LF|ローフラット}}
+|RomajiName=ShinobiNaifu Fō Shikusutī Rō Furatto
+|AKA=ShinobiKnife Four Sixty Low Flat<br>Knife Shinobi 4-60LF
+|ProductCode=BX-00
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=39.3 grams
+|Price=7480円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 14th, 2024
+|BladeX=ShinobiKnife
+|Ratchet=4-60
+|Bit=Low Flat
+|Owner=[[Sheer Kamikage]]
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Shadow Blade Walking]]
+|WBO=
+}}{{Translation|'''ShinobiKnife 4-60LF'''|シノビナイフ{{Ruby|4-60|フォーシクスティー}}{{Ruby|LF|ローフラット}}|ShinobiNaifu Fō Shikusutī Rō Furatto|ShinobiKnife Four Sixty Low Flat}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released with the [[Beyblade X: Xone]] Nintendo Switch game in Japan on November 14th, 2024 for 7480円.
+
+==Blade - ShinobiKnife==
+[[File:ShinobiKnife 4-60LF (Metal Coat Blue).png|left|150px]]
+{{Part|Blade - ShinobiKnife}}
+==Ratchet - 4-60==
+[[File:4-60 (Beyblade X Xone).png|left|150px]]
+{{Part|Ratchet - 4-60}}
+==Bit - Low Flat==
+[[File:Low Flat (Beyblade X Xone).png|left|100px]]
+{{Part|Bit - Low Flat}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+ShinobiKnife 4-60LF (Metal Coat Blue; Angled View).png|Angled View of ShinobiKnife.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

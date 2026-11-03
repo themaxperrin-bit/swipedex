@@ -1,0 +1,50 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image=HellsScythe 4-80LF.png
+|JPName=ヘルズサイズ{{Ruby|4-80|フォーエイティー}}{{Ruby|LF|ローフラット}}
+|RomajiName=Heruzu Saizu Fō Eitī Rō Furatto
+|AKA=HellsScythe Four Eighty Low Flat
+|ProductCode=BX-14
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=September 9th, 2023
+|BladeX=HellsScythe
+|Ratchet=4-80
+|Bit=Low Flat
+|WBO=
+}}{{Translation|'''HellsScythe 4-80LF'''|ヘルズサイズ{{Ruby|4-80|フォーエイティー}}{{Ruby|LF|ローフラット}}|Heruzu Saizu Fō Eitī Rō Furatto|Hells Scythe Four Eighty Low Flat}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan on September 9th, 2023 for 1400円 as one of six possible Beyblades in [[Random Booster Vol. 1]].
+
+==Blade - HellsScythe==
+{{Part|Blade - HellsScythe}}
+==Ratchet - 4-80==
+{{Part|Ratchet - 4-80}}
+==Bit - Low Flat==
+{{Part|Bit - Low Flat}}
+
+<!--==Recolors==-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 1 Box.jpeg|HellsScythe's box.
+</gallery>
+
+===Manga===
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

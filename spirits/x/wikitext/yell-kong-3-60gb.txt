@@ -1,0 +1,52 @@
+{{Beyblade Infobox
+|Image=Yell Kong 3-60GB.jpeg
+|JPName=
+|RomajiName=
+|AKA=
+|ProductCode=G0198
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=39.5 grams
+|Price=USD$14.99 ([[Yell Kong and Helm Knight Dual Pack]])<br>USD$7.99 (Booster Pack)
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=August 2024
+|ReleaseCA=September 11th, 2024
+|BladeX=Yell Kong
+|Ratchet=3-60
+|Bit=Gear Ball
+}}'''Yell Kong 3-60GB''' is a Stamina Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Yell Kong and Helm Knight Dual Pack]] for USD$14.99 in the United States. It was later reprinted as a standalone Booster Pack for USD$7.99 in the United States.
+
+==Blade - Yell Kong==
+{{Part|Blade - Yell Kong}}
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+==Bit - Gear Ball==
+{{Part|Bit - Gear Ball}}
+
+==Releases==
+===Hasbro===
+*G0198 [[Yell Kong and Helm Knight Dual Pack]] (green)
+*G1754 Booster Pack - (G0198 model; green)
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Yell Kong and Helm Knight Box.jpeg|Yell Kong and Helm Knight Dual Pack box.
+Yell Kong and Helm Knight Box Backside.jpeg|Backside of the Yell Kong and Helm Knight Dual Pack box.
+Yell Kong 3-60GB Box.jpeg|Yell Kong's Booster Pack box.
+Yell Kong 3-60GB Box Backside.jpeg|Backside of Yell Kong's Booster Pack box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+BEYBLADE X - Discover the new YELL KONG 3-60GB!!
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

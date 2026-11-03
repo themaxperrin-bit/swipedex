@@ -1,0 +1,45 @@
+{{About|the Hasbro release|WizardArrow 4-80N|the Takara Tomy release}}
+{{Beyblade Infobox
+|Image=Arrow Wizard 4-80O.jpeg
+|AKA=
+|ProductCode=G1755
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=
+|Price=USD$7.99<br>CAD$11.99<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=August 2025
+|ReleaseCA=August 2025
+|BladeX=Arrow Wizard
+|Ratchet=4-80
+|Bit=Orb
+}}'''Arrow Wizard 4-80O''' is a Stamina Type Beyblade released by [[Hasbro]]. It was released as a Booster Pack for USD$7.99 in the United States.
+
+==Blade - Arrow Wizard==
+[[File:WizardArrow (BX-21).png|left|150px]]
+{{Part|Blade - Arrow Wizard}}
+==Ratchet - 4-80==
+[[File:4-80 (BX-21).png|left|150px]]
+{{Part|Ratchet - 4-80}}
+==Bit - Orb==
+[[File:Orb (G1755).png|left|75px]]
+{{Part|Bit - Orb}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Arrow Wizard 4-80O Box.jpeg|Arrow Wizard's box
+Arrow Wizard 4-80O Box Backside.jpeg|Backside of Arrow Wizard's box
+WizardArrow 4-80N.jpeg|Arrow Wizard's CGI render
+Arrow Wizard 4-80O (Angled View).jpeg|Angled view of Arrow Wizard
+Arrow Wizard 4-80O Parts.jpeg|Arrow Wizard's parts
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

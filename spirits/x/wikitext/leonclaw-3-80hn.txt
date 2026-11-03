@@ -1,0 +1,42 @@
+{{Beyblade Infobox
+|Image = LeonClaw 3-80HN.jpeg
+|JPName=レオンクロー{{Ruby|3-80|スリーエイティー}}{{Ruby|HN|ハイニードル}}
+|RomajiName=ReonKurō Surī Eitī Hai Nīdoru
+|AKA=LeonClaw Three Eighty High Needle
+|ProductCode=BX-24
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=December 27th, 2023
+|BladeX=LeonClaw
+|Ratchet=3-80
+|Bit=High Needle
+}}{{Translation|'''LeonClaw 3-80HN'''|レオンクロー{{Ruby|3-80|スリーエイティー}}{{Ruby|HN|ハイニードル}}|ReonKurō Surī Eitī Hai Nīdoru|LeonClaw Three Eighty High Needle}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released on December 27th, 2023 for 1400円 as one of six possible Beyblades in [[Random Booster Vol. 2]].
+
+==Blade - LeonClaw==
+{{Part|Blade - LeonClaw}}
+==Ratchet - 3-80==
+{{Part|Ratchet - 3-80}}
+==Bit - High Needle==
+{{Part|Bit - High Needle}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 2 Box.jpeg|LeonClaw's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

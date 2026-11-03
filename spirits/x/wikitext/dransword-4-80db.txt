@@ -1,0 +1,39 @@
+{{Beyblade Infobox
+|Image=DranSword 4-80DB.png
+|JPName=ドランソード{{Ruby|4-80|フォーエイティー}}{{Ruby|DB|ディスクボール}}
+|RomajiName=DoranSōdo Fō Eitī Disuku Bōru
+|AKA=DranSword Four Eighty Disk Ball
+|ProductCode=UX-00
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1600円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 16th, 2024
+|BladeX=DranSword
+|Ratchet=4-80
+|Bit=Disk Ball
+|WBO=
+}}{{Translation|'''DranSword 4-80DB'''|ドランソード{{Ruby|4-80|フォーエイティー}}{{Ruby|DB|ディスクボール}}|DoranSōdo Fō Eitī Disuku Bōru|DranSword Four Eighty Disk Ball}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released as part of the [[Beyblade Battle Base|Beyblade Battle Base (B4)]] store exclusive [[Dran Deck Starter]] in Asia on November 9th, 2024.
+
+==Blade - DranSword==
+{{Part|Blade - DranSword}}
+==Ratchet - 4-80==
+{{Part|Ratchet - 4-80}}
+==Bit - Disk Ball==
+{{Part|Bit - Disk Ball}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranSword 4-80DB (Metal Coat White) Info.png|Info on DranSword (Metal Coat: White).
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

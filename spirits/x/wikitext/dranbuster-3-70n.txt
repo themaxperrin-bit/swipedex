@@ -1,0 +1,39 @@
+{{Beyblade Infobox
+|Image=DranBuster 3-70N.png
+|JPName=ドランバスター{{Ruby|3-70|スリーセブンティー}}{{Ruby|N|ニードル}}
+|RomajiName=DoranBasutā Surī Sebuntī Nīdoru
+|AKA=DranBuster Three Seventy Needle
+|ProductCode=UX-00
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=44.9 grams
+|Price=1600円
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseJP=November 16th, 2024
+|BladeX=DranBuster
+|Ratchet=3-70
+|Bit=Needle
+|WBO=
+}}{{Translation|'''DranBuster 3-70N'''|ドランバスター{{Ruby|3-70|スリーセブンティー}}{{Ruby|N|ニードル}}|DoranBasutā Surī Sebuntī Nīdoru|DranBuster Three Seventy Needle}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released as part of the [[Beyblade Battle Base|Beyblade Battle Base (B4)]] store exclusive [[Dran Deck Starter]] in Asia on November 9th, 2024.
+
+==Blade - DranBuster==
+{{Part|Blade - DranBuster}}
+==Ratchet - 3-70==
+{{Part|Ratchet - 3-70}}
+==Bit - Needle==
+{{Part|Bit - Needle}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranBuster 3-70N Info (Metal Coat White).png|Info on DranBuster (Metal Coat: White).
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+[[Category:Takara Tomy]]

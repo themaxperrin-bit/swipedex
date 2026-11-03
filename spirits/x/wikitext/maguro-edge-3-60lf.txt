@@ -1,0 +1,41 @@
+{{About|Taisho Sushiya's Beyblade|SharkEdge 3-60LF|the standard Beyblade}}
+{{Beyblade Infobox
+|Image=Beyblade X - MaguroEdge.png
+|JPName=マグロエッジ3-60LF
+|RomajiName=MaguroEjji 3-60LF
+|AKA=MaguroEdge Three Sixty Low Flat<br>Keel Maguro (anime, English)<br>TunaEdge (anime, Korean)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=43.0 grams
+|System=Basic Line
+|Series=Beyblade X
+|BladeX=MaguroEdge
+|Ratchet=3-60
+|Bit=Low Flat
+|Owner=[[Taisho Sushiya]]
+|Creator=[[Multi Nana-iro]]
+|AppearAnime=[[Beyblade X - Episode 29|Mask and Meat Buns]]
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Maguro Fang]]
+}}{{Translation|'''MaguroEdge 3-60LF'''|マグロエッジ3-60LF|MaguroEjji 3-60LF|MaguroEdge Three Sixty Low Flat}} or '''Keel Maguro 3-60LF''' is an Attack Type Beyblade that is owned by [[Taisho Sushiya]] in the ''[[Beyblade X]]'' anime.
+
+==Blade - MaguroEdge==
+'''MaguroEdge''' is the [[Blade - SharkEdge|SharkEdge]] Blade with a different Gear Chip sticker attached. The Gear Chip features the Blade's namesake, Maguro, the bluefin tuna.
+
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+
+==Bit - Low Flat==
+{{Part|Bit - Low Flat}}
+
+==Gallery==
+===Anime===
+<gallery widths="130">
+Beyblade X - MaguroEdge.png
+Beyblade X MaguroEdge 3-60LF Avatar.png|Avatar
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Anime Exclusive X Beyblades}}

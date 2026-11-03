@@ -1,0 +1,46 @@
+{{Beyblade Infobox
+|Image=WhaleWave 4-70HN.png
+|JPName=ホエールウェーブ{{Ruby|4-70|フォーセブンティー}}{{Ruby|HN|ハイニードル}}
+|RomajiName=HoēruUēbu Fō Sebuntī Hai Nīdoru
+|AKA=WhaleWave Four Seventy High Needle
+|ProductCode=BX-36
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=September 14th, 2024
+|BladeX=WhaleWave
+|Ratchet=4-70
+|Bit=High Needle
+|WBO=
+}}{{Translation|'''WhaleWave 4-70HN'''|ホエールウェーブ{{Ruby|4-70|フォーセブンティー}}{{Ruby|HN|ハイニードル}}|HoēruUēbu Fō Sebuntī Hai Nīdoru|WhaleWave Four Seventy High Needle}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released in Japan on September 14th, 2024 for 1400円 as one of three Beyblades in [[Random Booster WhaleWave Select]].
+
+==Blade - WhaleWave==
+{{Part|Blade - WhaleWave}}
+==Ratchet - 4-70==
+{{Part|Ratchet - 4-70}}
+==Bit - High Needle==
+{{Part|Bit - High Needle}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster WhaleWave Select Box.jpeg|WhaleWave's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

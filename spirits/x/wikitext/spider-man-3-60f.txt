@@ -1,0 +1,44 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image=Spider-Man 3-60F.jpg
+|JPName=スパイダーマン{{Ruby|3-60|スリーシクスティー}}{{Ruby|F|フラット}}
+|RomajiName=Supaidā-Man Surī Shikusutī Furatto
+|AKA=Spider-Man Three Sixty Flat
+|ProductCode=G0288 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=July 2024
+|ReleaseCA=October 2024
+|ReleaseAU=July 2024
+|ReleaseJP=April 26th, 2025
+|BladeX=Spider-Man
+|Ratchet=3-60
+|Bit=Flat
+}}{{Translation|'''Spider-Man 3-60F'''|スパイダーマン{{Ruby|3-60|スリーシクスティー}}{{Ruby|F|フラット}}|Supaidā-Man Surī Shikusutī Furatto|Spider-Man Three Sixty Flat}} is an Attack Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Spider-Man and Venom Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on April 26th, 2025 for 4180円 in Japan.
+
+==Blade - Spider-Man==
+{{Part|Blade - Spider-Man}}
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+==Bit - Flat==
+{{Part|Bit - Flat}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Spider-Man and Venom Box.jpeg|Spider-Man's box.
+Spider-Man and Venom Box Backside.jpeg|Backside of Spider-Man's box.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

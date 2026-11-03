@@ -1,0 +1,49 @@
+{{Beyblade Infobox
+|Image = SharkEdge 4-80N.png
+|JPName=シャークエッジ{{Ruby|4-80|フォーエイティー}}{{Ruby|N|ニードル}}
+|RomajiName=ShākuEjji Fō Eitī Nīdoru
+|AKA=SharkEdge Four Eighty Needle
+|ProductCode=BX-14
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=43.5 grams
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=September 9th, 2023
+|BladeX=SharkEdge
+|Ratchet=4-80
+|Bit=Needle
+|WBO=
+}}{{Translation|'''SharkEdge 4-80N'''|シャークエッジ{{Ruby|4-80|フォーエイティー}}{{Ruby|N|ニードル}}|ShākuEjji Fō Eitī Nīdoru|SharkEdge Four Eighty Needle}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released in Japan on September 9th, 2023 for 1400円 as one of six possible Beyblades in [[Random Booster Vol. 1]].
+
+==Blade - SharkEdge==
+{{Part|Blade - SharkEdge}}
+==Ratchet - 4-80==
+{{Part|Ratchet - 4-80}}
+==Bit - Needle==
+{{Part|Bit - Needle}}
+
+<!--==Recolors==-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 1 Box.jpeg|SharkEdge's box.
+</gallery>
+
+===Manga===
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

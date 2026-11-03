@@ -1,0 +1,74 @@
+{{Beyblade Infobox
+|Image=ImpactDrake 7-80GP.png
+|JPName=インパクトドレイク{{Ruby|7-80|セブンエイティー}}{{Ruby|GP|ギヤポイント}}
+|RomajiName=InpakutoDoreiku Sebun Eitī Giya Pointo
+|AKA=ImpactDrake Seven Eighty Gear Point<br>ImpactDrake Balance Custom (anime, Japanese)<br>Impact Drake Balance Paradigm (anime, English)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=49.1 grams
+|System=Unique Line
+|Series=Beyblade X
+|BladeX=ImpactDrake
+|Ratchet=7-80
+|Bit=Gear Point
+|Owner=[[Khrome Ryugu]]
+|Creator=[[Omega Shiroboshi]]<br>[[Megaoka]]
+|AppearAnime=[[Beyblade X - Episode 70|Dread Dragon]]
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Dragonic Drive]]<br>
+}}{{Translation|'''ImpactDrake 7-80GP'''|インパクトドレイク{{Ruby|7-80|セブンエイティー}}{{Ruby|GP|ギヤポイント}}|InpakutoDoreiku Sebun Eitī Giya Pointo|ImpactDrake Seven Eighty Gear Point}} is a Balance Type Beyblade that appears in ''[[Beyblade X (Season 2)|Beyblade X]]''. As an anime-exclusive Beyblade, it was not released.
+
+However, this toy can be created with the [[Blade - ImpactDrake|ImpactDrake]] Blade from Takara Tomy's [[ImpactDrake 9-60LR|ImpactDrake]] Starter or Hasbro's [[Drop Attack Battle Set]] and the [[Ratchet - 7-80|7-80]] Ratchet and [[Bit - Gear Point|Gear Point]] Bit from Takara Tomy's [[Random Booster ShelterDrake Select]] or Hasbro's [[ShelterDrake 7-80GP|Shelter Drake 7-80GP]] Starter Pack.
+
+It uses the parts of [[ShelterDrake 7-80GP]], making it the Balance custom of [[ImpactDrake 9-60LR]].
+
+==Blade - ImpactDrake==
+[[File:BladeImpactDrake.png|left|150px]]
+{{Part|Blade - ImpactDrake}}
+==Ratchet - 7-80==
+[[File:Ratchet7-80.png|left|150px]]
+{{Part|Ratchet - 7-80}}
+==Bit - Gear Point==
+[[File:Gear Point (BX-39).png|left|75px]]
+{{Part|Bit - Gear Point}}
+
+==Gallery==
+===Anime===
+<gallery widths="130">
+Beyblade X ImpactDrake 7-80GP Avatar 1.png
+Beyblade X ImpactDrake 7-80GP Avatar 2.png
+Beyblade X ImpactDrake 7-80GP Avatar 3.png
+Beyblade X ImpactDrake 7-80GP Avatar 4.png
+Beyblade X ImpactDrake 7-80GP Avatar 5.png
+ImpactDrake Balance Custom 1.png
+ImpactDrake Balance Custom 2.png
+ImpactDrake Balance Custom 3.png
+ImpactDrake Balance Custom 4.png
+ImpactDrake Balance Custom 5.png
+ImpactDrake Balance Custom 6.png
+BBX70 ImpactDrake Balance Custom.png
+BBX71 Khrome holding ImpactDrake Balance Custom.png
+X Dash Dragonic Drive.png
+BBX77 DranBuster and ImpactDrake avatars 2.png
+BBX77 DranBuster and ImpactDrake avatars 3.png
+BBX87 ImpactDrake glowing.png
+BBX87 Xtreme Dash Dragonic Drive.png
+BBX87 ImpactDrake glowing 2.png
+BBX87 ImpactDrake Balance Custom vs Defense Custom.png
+BBX122 Khrome holding ImpactDrake Balance Custom.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ランダムブースター シェルタードレイクセレクト|Takara Tomy product overview
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Anime Exclusive X Beyblades}}
+[[Category:Takara Tomy]]

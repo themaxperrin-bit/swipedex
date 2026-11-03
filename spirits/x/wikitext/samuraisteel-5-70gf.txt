@@ -1,0 +1,56 @@
+{{Beyblade Infobox
+|Image1=SamuraiSteel 5-70GF.jpg
+|Image1Label=Product
+|Image2=SamuraiSteel 5-70GF (Manga).jpg
+|Image2Label=Manga
+|JPName=サムライスチール{{Ruby|5-70|ファイブセブンティー}}{{Ruby|GF|ギヤフラット}}
+|RomajiName=SamuraiSuchīru Faibu Sebunti Giya Furatto
+|AKA=SamuraiSteel Five Seventy Gear Flat
+|ProductCode=BX-00
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=40.2 grams (first mold)<br>41.3 grams (second mold)
+|Price=2050円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=June 15th, 2025
+|BladeX=SamuraiSteel
+|Ratchet=5-70
+|Bit=Gear Flat
+|Owner=[[Tenka Shiroboshi]] (manga only)<br>[[Omega Shiroboshi]] (former, manga only)
+|Creator=[[Shiroboshi School]]
+|AppearManga=[[Beyblade X - Chapter 40]] (visioned)
+|WBO=https://worldbeyblade.org/Thread-SamuraiSteel-5-70GF-Metal-Coat-White-CoroCoro-Mail-Order-Bey
+}}{{Translation|'''SamuraiSteel 5-70GF'''|サムライスチール{{Ruby|5-70|ファイブセブンティー}}{{Ruby|GF|ギヤフラット}}|SamuraiSuchīru Faibu Sebunti Giya Furatto|SamuraiSteel Five Seventy Gear Flat}} is an Attack Type Beyblade released by [[Takara Tomy]] in Japan on June 15th, 2025 for 2050円. It can be obtained with a [[wikipedia:Mail order|mail order]] postcard included with the June 2025 issue of the [[CoroCoro Comic]] magazine, which released on May 15th, 2025.
+
+Although not shown in the manga, it appears in the May 2025 issue of the [[CoroCoro Comic]] magazine with a brief backstory: it is the predecessor of [[SamuraiSaber 2-70L]], and another heirloom Bey crafted by the [[Shiroboshi School]].<ref>CoroCoro Comic May 2025 Issue, page 23</ref>
+
+==Blade - SamuraiSteel==
+{{Part|Blade - SamuraiSteel}}
+==Ratchet - 5-70==
+{{Part|Ratchet - 5-70}}
+==Bit - Gear Flat==
+{{Part|Bit - Gear Flat}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+SamuraiSteel 5-70GF (Angled View).jpg|Angled view of SamuraiSteel
+SamuraiSteel CoroCoro promo.jpg|Promo image from CoroCoro website
+</gallery>
+
+===Manga===
+<gallery widths="130">
+SamuraiSteel 5-70GF Spread.jpg|Illustration card spread<ref>CoroCoro Comic June 2025 Issue</ref>
+</gallery>
+
+==Trivia==
+*[[Tenka Shiroboshi]] is prominently featured in all of this Bey's promotional materials.<ref>https://corocoro-news.jp/news/396091/</ref>
+**A checklist in the October 2025 issue of the CoroCoro Comic magazine shows Tenka as the current owner.<ref>CoroCoro Comic October 2025 Issue</ref>
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Metal Coat Beyblades]]

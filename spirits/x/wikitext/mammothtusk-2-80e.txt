@@ -1,0 +1,45 @@
+{{Beyblade Infobox
+|Image=MammothTusk 2-80E.png
+|JPName=マンモスタスク{{Ruby|2-80|ツーエイティー}}{{Ruby|E|エレベート}}
+|RomajiName=ManmosuTasuku Tsū Eitī Erebēto
+|AKA=MammothTusk Two Eighty Elevate
+|ProductCode=BX-00
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=42.1 grams
+|Price=1600円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=December 27th, 2024
+|BladeX=MammothTusk
+|Ratchet=2-80
+|Bit=Elevate
+|WBO=
+}}{{Translation|'''MammothTusk 2-80E'''|マンモスタスク{{Ruby|2-80|ツーエイティー}}{{Ruby|E|エレベート}}|ManmosuTasuku Tsū Eitī Erebēto|MammothTusk Two Eighty Elevate}} is a Balance Type Beyblade released by [[Takara Tomy]] in Japan for 1600円.
+
+It was first released in Japan as an exclusive to attendees of the [[Beyblade Park]] exhibit, which opened on December 27th, 2024. It was later re-released as part of the [[Rare Bey Get Battle]] in Japan on March 27th, 2025. Through the [[Beyblade X (app)|''Beyblade X'' app]], Bladers have a 3% chance of obtaining a "Limited Edition Purchase Ticket", which can be then redeemed with the local distributor.
+
+==Blade - MammothTusk==
+[[File:MammothTusk (BX-00).png|left|150px]]
+{{Part|Blade - MammothTusk}}
+==Ratchet - 2-80==
+[[File:2-80 (BX-00).png|left|150px]]
+{{Part|Ratchet - 2-80}}
+==Bit - Elevate==
+[[File:Elevate (BX-00).png||left|100px]]
+{{Part|Bit - Elevate}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+MammothTusk 2-80E (Angled View).png|Angled view of MammothTusk 2-80E (Metal Coat: Black).
+MammothTusk 2-80E (Metal Coat Black) Info.png|Info on MammothTusk (Metal Coat: Black).
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

@@ -1,0 +1,46 @@
+{{Beyblade Infobox
+|Image=TyrannoBeat 3-60S.jpeg
+|JPName=ティラノビート{{Ruby|3-60|スリーシクスティー}}{{Ruby|S|スパイク}}
+|RomajiName=TiranoBīto Surī Shikusutī Supaiku
+|AKA=TyrannoBeat Three Sixty Spike
+|ProductCode=BX-31
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=April 27th, 2024
+|BladeX=TyrannoBeat
+|Ratchet=3-60
+|Bit=Spike
+|WBO=
+}}{{Translation|'''TyrannoBeat 3-60S'''|ティラノビート{{Ruby|3-60|スリーシクスティー}}{{Ruby|S|スパイク}}|TiranoBīto Surī Shikusutī Supaiku|TyrannoBeat Three Sixty Spike}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released in Japan on April 27th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 3]].
+
+==Blade - TyrannoBeat==
+{{Part|Blade - TyrannoBeat}}
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+==Bit - Spike==
+{{Part|Bit - Spike}}<!--
+
+==Releases==
+===Takara Tomy===--->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 3 Box.jpeg|TyrannoBeat's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

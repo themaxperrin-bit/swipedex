@@ -1,0 +1,53 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image=HellsScythe 3-80B.jpeg
+|JPName=ヘルズサイズ{{Ruby|3-80|スリーエイティー}}{{Ruby|B|ボール}}
+|RomajiName=HeruzuSaizu Surī Eitī Bōru
+|AKA=HellsScythe Three Eighty Ball<br>Scythe Incendio 3-80B ([[Hasbro]])
+|ProductCode=BX-08 (Takara Tomy)<br>G0285 (Hasbro)
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Price=3960円<br>USD$7.99<br>CAD$11.99<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 15th, 2023
+|ReleaseUS=July 27th, 2024
+|ReleaseCA=August 29th, 2024
+|BladeX=HellsScythe
+|Ratchet=3-80
+|Bit=Ball
+}}{{Translation|'''HellsScythe 3-80B'''|ヘルズサイズ{{Ruby|3-80|スリーエイティー}}{{Ruby|B|ボール}}|HeruzuSaizu Surī Eitī Bōru|HellsScythe Three Eighty Ball}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released as a part of the [[3on3 Deck Set]] in Japan on July 15th, 2023 for 3960円. It later debuted in western countries as '''Scythe Incendio 3-80B''' in a Booster Pack released by [[Hasbro]] for USD$7.99 in the United States.
+
+==Blade - HellsScythe==
+[[File:HellsScythe (BX-08).png|left|150px]]
+{{Part|Blade - HellsScythe}}
+==Ratchet - 3-80==
+[[File:3-80 (BX-08).png|left|150px]]
+{{Part|Ratchet - 3-80}}
+==Bit - Ball==
+[[File:Ball (BX-08).png|left|75px]]
+{{Part|Bit - Ball}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+3on3 Deck Set Box.jpeg|3on3 Deck Set box.
+HellsScythe 3-80B (Angled View).jpeg|Angled view of HellsScythe.
+HellsScythe 3-80B Info.png|Info on HellsScythe.
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Scythe Incendio 3-80B.jpeg|Scythe Incendio 3-80B.
+Scythe Incendio 3-80B Box.jpeg|Scythe Incendio's box.
+Scythe Incendio 3-80B Box Backside.jpeg|Backside of Scythe Incendio's box.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

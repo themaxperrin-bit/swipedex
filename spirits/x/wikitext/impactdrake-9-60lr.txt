@@ -1,0 +1,116 @@
+{{Beyblade Infobox
+|Image1 = ImpactDrake 9-60LR.jpg
+|Image1Label = Product
+|Image2 = Beyblade X - ImpactDrake 9-60LR.png
+|Image2Label = Anime
+|Image3 = Beyblade X - ImpactDrake 9-60LR (Manga).jpeg
+|Image3Label = Manga
+|JPName=インパクトドレイク{{Ruby|9-60|ナインシクスティー}}{{Ruby|LR|ローラッシュ}}
+|RomajiName=InpakutoDoreiku Nain Shikusutī Rō Rasshu
+|AKA=ImpactDrake Nine Sixty Low Rush<br>Impact Drake 9-60LR ([[Hasbro]])<br>Impact Drake (anime, English)<br>Demon Dragon (anime, Japanese)<br>Dread Dragon (anime, English)
+|ProductCode=UX-11 (Takara Tomy)<br>G0842 (Hasbro)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=47.1 grams
+|Price=2420円<br>USD$49.99<br>CAD$69.99
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseJP=December 28th, 2024
+|ReleaseUS=May 2025
+|ReleaseCA=May 2025
+|ReleaseAU=May 2025
+|BladeX=ImpactDrake
+|Ratchet=9-60
+|Bit=Low Rush
+|Owner=[[Khrome Ryugu]]<br>'''Spin-Off:'''<br>[[Yaiba Sakai]] (''[[Beytrainer Kiba]]'')
+|Creator=[[Omega Shiroboshi]]<br>[[BEYSA]]
+|AppearAnime=[[Beyblade X - Episode 64|Formless Shadow]]
+|AppearManga=[[Beyblade X - Chapter 19|The Curse]]
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Dragonic Drive]] (manga only)
+|WBO=https://worldbeyblade.org/Thread-Product-UX-11-Starter-ImpactDrake-9-60LR
+}}{{Translation|'''ImpactDrake 9-60LR'''|インパクトドレイク{{Ruby|9-60|ナインシクスティー}}{{Ruby|LR|ローラッシュ}}|InpakutoDoreiku Nain Shikusutī Rō Rasshu|ImpactDrake Nine Sixty Low Rush}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released as a Starter in Japan on December 28th, 2024 for 2420円. It later debuted in western countries in the [[Drop Attack Battle Set]] released by [[Hasbro]].
+
+It is the successor to [[CobaltDrake 4-60F]] and is succeeded by [[ShelterDrake 7-80GP]] in the toyline and its Balance custom, [[ImpactDrake 7-80GP]], in the anime. It is the right-spinning counterpart to [[MeteorDragoon 3-70J]].
+
+==Blade - ImpactDrake==
+[[File:BladeImpactDrake.png|left|150px]]
+{{Part|Blade - ImpactDrake}}
+==Ratchet - 9-60==
+[[File:9-60 (UX-11).png|left|150px]]
+{{Part|Ratchet - 9-60}}
+==Bit - Low Rush==
+[[File:BitLowRush.png|left|75px]]
+{{Part|Bit - Low Rush}}
+
+==Releases==
+===Takara Tomy===
+*UX-11 Starter (blue)
+
+===Hasbro===
+*G0842 [[Drop Attack Battle Set]] (blue; UX-11 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+ImpactDrake 9-60LR Box.jpeg|ImpactDrake's box.
+ImpactDrake 9-60LR Contents.jpeg|ImpactDrake's contents.
+ImpactDrake 9-60LR (Angled View).jpeg|Angled view of ImpactDrake.
+Beyblade X String Launcher (Gunmetal×Red Ver.).jpeg|String Launcher (Gunmetal×Red Ver.).
+ImpactDrake 9-60LR Info.png|Info on ImpactDrake.
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Impact Drake 9-60LR.jpeg|Impact Drake 9-60LR
+Drop Attack Battle Set Box.jpeg|Drop Attack Battle Set's box.
+Drop Attack Battle Set Box Backside.jpeg|Backside of the Drop Attack Battle Set's box.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+BBX64 ImpactDrake developement.png
+BBX67 ImpactDrake floating mid-air.png
+BBX71 ImpactDrake revealed.png
+BBX71 ImpactDrake's first win.png
+BBX71 ImpactDrake's fast speed.png
+BBX71 ImpactDrake closeup.png
+BBX71 ImpactDrake's rubber repelling attack.png
+BBX71 ImpactDrake's rubber blades.png
+Impact Drake Defense Custom.png|Combining with ShelterDrake Defense Custom
+Impact Drake Stamina Custom.png|Combining with ShelterDrake Stamina Custom
+ImpactDrake Balance Custom 4.png|Combining with ShelterDrake Balance Custom
+BBX77 ImpactDrake's blueprints from BEYSA.png
+BBX122 Khrome holding ImpactDrake.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - ImpactDrake 9-60LR.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+BBX Chapter 19 - ImpactDrake the Demon Dragon.png
+Beyblade X - ImpactDrake 9-60LR (Manga).jpeg
+Khrome's eyes' sclera turning black.png
+BBX Chapter 20 - ImpactDrake transcends the laws of physics.png
+Xtreme Dash Dragonic Drive.jpg
+BBX Chapter 21 - ImpactDrake's multi-layer blade.png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【BEYBLADE X】インパクトドレイク9-60LR編|Product commercial
+【ベイブレード開発者レビュー】インパクトドレイク9-60LR|Takara Tomy product overview
+</gallery>
+
+==Trivia==
+*ImpactDrake is the second of three Beys in [[Beyblade X (Season 2)|the second season of ''Beyblade X'']] to retain its original name in both the Japanese and English Versions of the anime; the others being [[AeroPegasus 3-70A|Aero Pegasus]] and [[ShelterDrake 7-80GP|Shelter Drake]].
+*This is currently Khrome's only ''Drake'' Beyblade without a metal coat.
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

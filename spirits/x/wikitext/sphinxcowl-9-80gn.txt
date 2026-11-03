@@ -1,0 +1,117 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image1 = SphinxCowl 9-80GN.jpeg
+|Image1Label = Product
+|Image2 = Beyblade X - SphinxCowl 9-80GN.png
+|Image2Label = Anime
+|Image3 = Beyblade X - SphinxCowl 9-80GN (Manga).jpg
+|Image3Label = Manga
+|JPName=スフィンクスカウル{{Ruby|9-80|ナインエイティー}}{{Ruby|GN|ギヤニードル}}
+|RomajiName=SufinkusuKauru Nain Eitī Giya Nīdoru
+|AKA=SphinxCowl Nine Eighty Gear Needle<br>Cowl Sphinx 9-80GN ([[Hasbro]])<br>Cowl Sphinx (anime, English)
+|ProductCode=BX-27 (Takara Tomy)<br>G1530 (Hasbro)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=41.6 grams
+|Price=1400円<br>USD$7.99<br>CAD$11.99<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=February 22nd, 2024
+|ReleaseCA=December 17th, 2024
+|ReleaseUS=January 1st, 2025
+|BladeX=SphinxCowl
+|Ratchet=9-80
+|Bit=Gear Needle
+|Owner=[[Zonamos Nekoyama]]<br>[[Safa]]<br>[[Yeti]]
+|Creator=[[Zonamos House]]
+|AppearAnime=[[Beyblade X - Episode 15|Riddles and Beys]] (Recolored model)<br>[[Beyblade X - Episode 16|Noblesse Oblige]] (Zonamos')
+|AppearManga=[[Beyblade X - Chapter 08|Proof of the Fastest]]
+|SpecialMoves= [[Xtreme Dash|Combination Xtreme Dash]] (anime only)
+|WBO=https://worldbeyblade.org/Thread-Product-BX-27-Random-Booster-SphinxCowl-Select-Rare-SphinxCowl-9-80GN
+}}{{Translation|'''SphinxCowl 9-80GN'''|スフィンクスカウル{{Ruby|9-80|ナインエイティー}}{{Ruby|GN|ギヤニードル}}|SufinkusuKauru Nain Eitī Giya Nīdoru|SphinxCowl Nine Eighty Gear Needle}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released in Japan on February 22nd, 2024 for 1400円 as the prize Beyblade in [[Random Booster SphinxCowl Select]]. It was released by [[Hasbro]] as '''Cowl Sphinx 9-80GN''' in a Booster Pack for USD$7.99 in the United States.
+
+==Blade - SphinxCowl==
+[[File:BladeSphinxCowl.png|left|150px]]
+{{Part|Blade - SphinxCowl}}
+==Ratchet - 9-80==
+[[File:Ratchet9-80.png|left|150px]]
+{{Part|Ratchet - 9-80}}
+==Bit - Gear Needle==
+[[File:BitGearNeedle.png|left|75px]]
+{{Part|Bit - Gear Needle}}
+
+==Releases==
+===Takara Tomy===
+* BX-27 01 [[Random Booster SphinxCowl Select]] (brown)
+
+===Hasbro===
+* G1530 Booster Pack (brown; BX-27 01 model)
+* G3393 [[Yggdrasil Team Pack]] (brown; BX-27 01 and G1530 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster SphinxCowl Select Box.jpeg|SphinxCowl's box
+SphinxCowl 9-80GN (Angled View).png|Angled view of SphinxCowl
+SphinxCowl 9-80GN Info.png|Info on SphinxCowl
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Cowl Sphinx 9-80GN.jpeg|Cowl Sphinx 9-80GN
+Cowl Sphinx 9-80GN Box.jpeg|Cowl Sphinx's box
+Cowl Sphinx 9-80GN Box Backside.jpeg|Backside of Cowl Sphinx's box
+Yggdrasil Team Pack Box.jpeg|Yggdrasil Team Pack box
+Yggdrasil Team Pack Box Backside.jpeg|Backside of the Yggdrasil Team Pack's box
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X SphinxCowl 9-80GN 4X Summon.png
+Beyblade X SphinxCowl 9-80GN Avatar 1.png
+Beyblade X SphinxCowl 9-80GN Avatar 2.png
+Beyblade X SphinxCowl 9-80GN Avatar 3.png
+Beyblade X SphinxCowl 9-80GN Avatar 4.png
+Beyblade X SphinxCowl 9-80GN Avatar 5.png
+Beyblade X SphinxCowl 9-80GN Avatar 6.png
+Beyblade X SphinxCowl 9-80GN Avatar 7.png
+Beyblade X SphinxCowl 9-80GN Avatar 8.png
+Beyblade X SphinxCowl 9-80GN Avatar 9.png
+Beyblade X SphinxCowl 9-80GN Avatar 10.png
+BBX15 White Cowl on launcher.png
+BBX15 White Cowl 1.png
+BBX15 White Cowl creates a tornado.png
+Safa and black cowl.png|Safa holding her Black SphinxCowl.
+Yeti and white cowl.png|Yeti holding their White SphinxCowl.
+BBX 22- Sphinx Cowl, Black Cowl & White Cowl.png
+BBX24 Black and White Cowl.png
+BBX24 Black and White Cowl 4X avatars.png
+BBX24 Black and White Cowl burst 1.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - SphinxCowl 9-80GN.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - SphinxCowl 9-80GN (Manga).jpg
+BBX Chapter 8 - SphinxCowl parries HellsChain.jpeg
+BBX Chapter 8 - SphinxCowl's irregular shape.png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ランダムブースター スフィンクスカウルセレクト|Takara Tomy product overview.
+BEYBLADE X - Meet the All-New COWL SPHINX 9-80GN!!|Hasbro product overview.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

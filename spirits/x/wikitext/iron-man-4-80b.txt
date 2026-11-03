@@ -1,0 +1,43 @@
+{{Beyblade Infobox
+|Image=Iron Man 4-80B.jpg
+|JPName=アイアンマン{{Ruby|4-80|フォーエイティー}}{{Ruby|B|ボール}}
+|RomajiName=Aian Man Fō Eitī Bōru
+|AKA=Iron Man Four Eighty Ball
+|ProductCode=G0287 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=41.1 grams (first mold)<br>42.7 grams (second mold)
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=July 2024
+|ReleaseAU=July 2024
+|ReleaseCA=October 2024
+|ReleaseJP=April 26th, 2025
+|BladeX=Iron Man
+|Ratchet=4-80
+|Bit=Ball
+}}{{Translation|'''Iron Man 4-80B'''|アイアンマン{{Ruby|4-80|フォーエイティー}}{{Ruby|B|ボール}}|Aian Man Fō Eitī Bōru|Iron Man Four Eighty Ball}} is a Stamina Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Iron Man and Thanos Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on April 26th, 2025 for 4180円 in Japan.
+
+==Blade - Iron Man==
+{{Part|Blade - Iron Man}}
+==Ratchet - 4-80==
+{{Part|Ratchet - 4-80}}
+==Bit - Ball==
+{{Part|Bit - Ball}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Iron Man and Thanos Box.jpeg|Iron Man's box.
+Iron Man and Thanos Box Backside.jpeg|Backside of Iron Man's box.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

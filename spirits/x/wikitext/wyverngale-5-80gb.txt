@@ -1,0 +1,121 @@
+{{Beyblade Infobox
+|Image1 = WyvernGale 5-80GB.jpeg
+|Image1Label = Product
+|Image2 = Beyblade X - WyvernGale 5-80GB.png
+|Image2Label = Anime
+|Image3 = Beyblade X - WyvernGale 5-80GB (Manga).jpg
+|Image3Label = Manga
+|JPName=ワイバーンゲイル{{Ruby|5-80|ファイブエイティー}}{{Ruby|GB|ギヤボール}}
+|RomajiName=WaibānGeiru Faibu Eitī Giya Bōru
+|AKA=WyvernGale Five Eighty Gear Ball<br>Gale Wyvern 5-80GB ([[Hasbro]])<br>Gale Wyvern (anime, English)
+|ProductCode=BX-24 (Takara Tomy)<br>G0282 (Hasbro)
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=41.2 grams
+|Price=1400円<br>USD$14.99<br>CAD$22.99<br>AUD$29.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=December 27th, 2023
+|ReleaseUS=August 2024
+|ReleaseCA=September 11th, 2024
+|BladeX=WyvernGale
+|Ratchet=5-80
+|Bit=Gear Ball
+|Owner=[[Warden]]<br>[[Tsubasa Takaya]]<br>[[Kiwami Miyazukae]] (formerly)
+|AppearAnime=[[Beyblade X - Episode 11|Warden's Exam]]
+|AppearManga=[[Beyblade X - Chapter 06|Warden's Exam]]
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Thrashing Wings]] (Warden's)<br>[[Xtreme Dash|Xtreme Dash Swallow Flip]] (anime only; Tsubasa's)<br>[[True Swallow Flip]] (anime only; Tsubasa's)
+|WBO=https://worldbeyblade.org/Thread-Product-BX-24-Random-Booster-Vol-2-Rare-WyvernGale-5-80GB
+}}{{Translation|'''WyvernGale 5-80GB'''|ワイバーンゲイル{{Ruby|5-80|ファイブエイティー}}{{Ruby|GB|ギヤボール}}|WaibānGeiru Faibu Eitī Giya Bōru|WyvernGale Five Eighty Gear Ball}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released in Japan on December 27th, 2023 for 1400円 as the prize Beyblade in [[Random Booster Vol. 2]]. It later debuted in western countries as '''Gale Wyvern 5-80GB''' as part of the [[Gale Wyvern and Tail Viper Dual Pack]] released by [[Hasbro]] for USD$14.99 in the United States.
+
+It is succeeded by [[Hover Wyvern 3-85N]] in the Hasbro toyline, and [[WyvernHover 8-80B]] in the Takara Tomy toyline.
+
+==Blade - WyvernGale==
+[[File:BladeWyvernGale.png|left|150px]]
+{{Part|Blade - WyvernGale}}
+==Ratchet - 5-80==
+[[File:5-80 (BX-24; WyvernGale).png|left|150px]]
+{{Part|Ratchet - 5-80}}
+==Bit - Gear Ball==
+[[File:BitGearBall.png|left|75px]]
+{{Part|Bit - Gear Ball}}
+
+==Releases==
+===Takara Tomy===
+*BX-24 01 [[Random Booster Vol. 2|Random Booster Vol.2]] (green)
+
+===Hasbro===
+*G0282 [[Gale Wyvern and Tail Viper Dual Pack]] (green; BX-24 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 2 Box.jpeg|WyvernGale's box.
+Wyvern Gale 5-80GB (Angled View).png|Angled View of WyvernGale.
+WyvernGale 5-80GB Info.png|Info on WyvernGale.
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Gale Wyvern 5-80GB.jpeg|Gale Wyvern 5-80GB
+Gale Wyvern and Tail Viper Box.jpeg|Gale Wyvern's box.
+Gale Wyvern and Tail Viper Box Backside.jpeg|Backside of Gale Wyvern's box.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X WyvernGale 5-80GB 4X Summon.png
+Beyblade X WyvernGale 5-80GB Avatar 1.png
+Beyblade X WyvernGale 5-80GB Avatar 2.png
+Beyblade X WyvernGale 5-80GB Avatar 3.png
+Beyblade X WyvernGale 5-80GB Avatar 4.png
+Beyblade X WyvernGale 5-80GB Avatar 5.png
+Beyblade X WyvernGale 5-80GB Avatar 6.png
+Beyblade X WyvernGale 5-80GB Avatar 7.png
+Beyblade X WyvernGale 5-80GB Avatar 8.png
+Beyblade X WyvernGale 5-80GB Avatar 9.png
+Beyblade X WyvernGale 5-80GB Avatar 10.png
+Beyblade X WyvernGale 5-80GB Avatar 11.png
+Beyblade X WyvernGale 5-80GB Avatar 12.png
+X Dash Flapping Wings Anime.png
+BBX11 Kadovar loses in an instant.png
+BBX59 - WyvernGale reaches the inner Xtreme Line.png
+BBX59 - WyvernGale's Xtreme Turn 1.png
+BBX59 - WyvernGale's Xtreme Turn 2.png
+BBX59 - WyvernGale exits the inner Xtreme Line.png
+BBX59 - Xtreme Dash Flapping Wings.png
+BBX59 - Xtreme Dash Flapping Wings 2.png
+BBX59 - WyvernGale knocks Berry Berry Bomb.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - WyvernGale 5-80GB.png
+</gallery>
+
+===Concept Art===
+<gallery widths="130">
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - WyvernGale 5-80GB (Manga).jpg
+BBX Chapter 6 - WyvernGale endures.jpeg
+X Dash Flapping Wings.jpg
+BBX Chapter 6 - WyvernGale defeated instantly.jpeg
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ランダムブースターVol.2-2|Takara Tomy product overview.
+BEYBLADE X - Meet the new GALE WYVERN 5-80GB!!|Hasbro product overview.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

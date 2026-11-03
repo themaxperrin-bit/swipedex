@@ -1,0 +1,277 @@
+{{Beyblade Infobox
+|Image1 = <gallery>
+DranSword 3-60F.png|Original
+DranSword 3-60F (Version 2.0).png|Version 2.0
+</gallery>
+|Image1Label = Product
+|Image2 = <gallery>
+Beyblade X - DranSword 3-60F.png|Original
+Beyblade X - DranSword 3-60F (Metal Coat Blue).png|Metal Coat: Blue
+Beyblade X - DranSword 3-60F (Version 2.0).png|Version 2.0
+</gallery>
+|Image2Label = Anime
+|Image3 = <gallery>
+Beyblade X - DranSword 3-60F (Manga).png|Current
+Beyblade X - DranSword 3-60F Metal Coat Blue (Manga).jpg|Metal Coat: Blue
+Beyblade X - DranSword 3-60F V2 (Manga).png|Version 2.0
+</gallery>
+|Image3Label = Manga
+|Image4 = Beyblade X - DranSword 3-60F (Game).png
+|Image4Label = Game
+|JPName=ドランソード{{Ruby|3-60|スリーシクスティー}}{{Ruby|F|フラット}}
+|RomajiName=DoranSōdo Surī Shikusutī Furatto
+|AKA=DranSword Three Sixty Flat<br>Sword Dran 3-60F ([[Hasbro]])<br>Sword Dran (anime, English)<br>DranSword Metal Coat: Blue (Metal Coat: Blue; anime/manga, Japanese)<br>Blue Sword Dran (Metal Coat: Blue; anime, English)<br>Sword Dran Metal Coated Blue (Metal Coat: Blue, VIZ English manga)<br>Sword Dran Metal Coat: Blue (Metal Coat: Blue; video games, English)<br>DranSword V2 (Version 2.0; anime, Japanese)
+|ProductCode=BX-01 (Takara Tomy)<br>F9580 (Hasbro)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=43.2 grams (first mold)<br>43.7 grams (second mold)<br>46.02 (Version 2.0)
+|Price=1980円<br>USD$9.99<br>CAD$16.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=June 10th, 2023 (CoroCoro Spirit Festival)<br>July 15th, 2023 (regular release)<br> August 8th, 2026 (Version 2.0)
+|ReleaseUS=June 1st, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseAU=May 16th, 2024
+|BladeX=DranSword
+|Ratchet=3-60
+|Bit=Flat
+|Owner=[[Jaxon Cross]]<br>[[Khrome Ryugu]] (borrowed/replica)<br>[[Meiko Myoden]] (borrowed, anime only)<br>Beyblade Development Team Kosaka (Metal Coat: Blue, ''[[Beyblade X: Xone|Xone]]'')<br>'''Spin-Off:'''<br>[[Tsurugi Ryumai]] (''[[Beytrainer Kiba]]'')<br>[[Yaiba Sakai]] (Metal Coat: Blue, ''Beytrainer Kiba'')
+|Creator=[[Ginro]] (original)<br>[[Bey Kingdom]] (Version 2.0)
+|AppearAnime=[[Beyblade X - Episode 01|X]]<br>[[Beyblade X - Episode 135|Version 2.0]] (Version 2.0)
+|AppearManga=[[Beyblade X - Chapter 01|X]]<br>[[Beyblade X - Chapter 40]] (Version 2.0)
+|SpecialMoves=[[Xtreme Dash]]<br>[[Xtreme Dash Double]]<br>[[Xtreme Dash|4X Xtreme Dash]] (manga only)<br>[[Xtreme Dash|Sparking Xtreme Dash]] (anime only)<br>[[Xtreme Dash|Xtreme Dash Blizzard]] (anime only)<br>[[Xtreme Dash|Xtreme Dash The Sequel]] (anime only)<br>[[Xtreme Dash Dragonic Break|Xtreme Dash Dragonic Break X]]<br>[[Xtreme Dash|Xtreme Dash: Blue]] (Metal Coat: Blue)<br>[[Xtreme Dash Dragonic Break|Xtreme Dash Cosmo]]  (anime only)<ref name="X100">''[[Beyblade X (Season 2)|Beyblade X]]'' Episode 100, ''[[Beyblade X - Episode 100|Star Devourer]]''</ref><br>[[Xtreme Dash|Ultimate Infinity Xtreme Dash]]  (anime only)<ref name="X122">''[[Beyblade X (Season 3)|Beyblade X]]'' Episode 122, ''[[Beyblade X - Episode 122|The Future Beyond]]''</ref><br>[[Xtreme Dash|Xtreme Dash New]] (Version 2.0)
+|WBO=https://worldbeyblade.org/Thread-Product-BX-01-Starter-Dran-Sword-3-60F
+}}{{Translation|'''DranSword 3-60F'''|ドランソード{{Ruby|3-60|スリーシクスティー}}{{Ruby|F|フラット}}|DoranSōdo Surī Shikusutī Furatto|DranSword Three Sixty Flat}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released as a Starter in Japan on June 10th, 2023 during the CoroCoro Spirit Festival for 1980円. Its regular retail release in Japan was on July 15th, 2023. It later debuted in western countries as '''Sword Dran 3-60F''' in a Starter Pack released by [[Hasbro]] for USD$9.99 in the United States.
+
+DranSword would later get a ''Version 2.0'' release, which released in Japan as a BX-00 Booster on August 8th, 2026 for 1600円.
+
+In the anime and manga, it was given to a young [[Jaxon Cross]] as a parting gift from his mentor, [[Ginro]]; it originally had ''Metal Coat: Blue'' paint, although this gradually wore down over years into its current form. [[Khrome Ryugu]] also borrows this Bey for his match at the peak of [[The X]], and later uses a replica bought from a store. DranSword's ''Version 2.0'' release would later debut in the anime/manga series, which would be developed by the [[Bey Kingdom]].
+
+It is succeeded by [[DranDagger 4-60R]].
+
+==Blade - DranSword==
+<gallery type="slideshow" position="left" widths="150">
+BladeDranSword.png|left|Original DranSword Blade
+DranSword (BX-00; DranSword V2).png|DranSword V2 Blade
+</gallery>
+{{Part|Blade - DranSword}}
+==Ratchet - 3-60==
+[[File:Ratchet3-60.png|left|150px]]
+{{Part|Ratchet - 3-60}}
+==Bit - Flat==
+[[File:BitFlat.png|left|75px]]
+{{Part|Bit - Flat}}
+
+==Releases==
+===Takara Tomy===
+*BX-01 Starter (blue)
+*BX-01 Starter "''Katsushika City Collaboration Ver.''" (blue) - Reprint of BX-01 with two optional "Katsushika City" collaboration Gear Chip stickers.
+*BX-07 "''Special Ver.''" (opaque blue) - Released in the [[Start Dash Set]].
+* BX-17 "''Red Ver.''" - Released in the [[Battle Entry Set]].
+*BX-22 Entry Package - model is the same as featured in the BX-01 Starter.
+*BX-00 Booster "''Metal Coat: Bronze''" (bronze) - Released as a 3rd place G1 tournament prize.
+*BX-00 Booster "''Metal Coat: Silver''" (silver) - Released as a 2nd place G1 tournament prize.
+* BX-00 Booster "''Metal Coat: Gold''" (gold) - Released as a 1st place G1 tournament prize.
+*BX-00 Booster "''Sushiro Ver.''" - Released in Hong Kong at participating [[wikipedia:Sushiro|Sushiro]] restaurants.
+*BX-00 "''Holo Sticker Ver.''" - Released in the [[Beyblade 25th Anniversary Set]]
+*BX-00 "''Version 2.0"'' - Released as a B4 Store Exclusive.
+
+===Hasbro=== 
+*F9580 Starter Pack (blue)
+*G0197 "''Red Ver.''" - Released in the [[Tail Viper and Sword Dran Dual Pack]].
+*G1688 "''Red Ver.''" - Released in the [[Tackle Goat and Sword Dran Dual Pack]].
+*G1844 "''Holo Sticker Ver.''" - Released in the [[Beyblade 25th Anniversary Set]]
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranSword 3-60F Box.jpeg|DranSword's box.
+DranSword 3-60F Contents.jpeg|DranSword's BX-01 Starter contents.
+DranSword 3-60F (Angled View).jpg|Angled view of DranSword.
+Beyblade X Winder Launcher.jpeg|Winder Launcher (from BX-01).
+DranSword 3-60F Info.png|Info on DranSword (BX-01).
+DranSword 3-60F (Special Ver.).png|DranSword 3-60F ([[Start Dash Set|Special Ver.]]).
+DranSword 3-60F (Special Ver.; Angled View).jpeg|Angled view of DranSword (Special Ver.).
+DranSword 3-60F Info (Special Ver.).png|Info on DranSword (Special Ver.; BX-07).
+DranSword 3-60F (Red Ver.).jpeg|DranSword 3-60F ([[Battle Entry Set|Red Ver.]]).
+DranSword 3-60F (Red Ver.; Angled View).jpeg|Angled view of DranSword (Red Ver.).
+DranSword 3-60F Info (Red Ver.).png|Info on DranSword (Red Ver.; BX-15).
+DranSword 3-60F Entry Package Box.jpeg|DranSword's BX-22 Entry Package box.
+DranSword 3-60F Info (BX-22).png|Info on DranSword (BX-22).
+DranSword 3-60F (Katsushika City Collaboration Ver; 1).jpg|DranSword 3-60F (Katsushika City Collaboration Ver.)
+DranSword 3-60F (Katsushika City Collaboration Ver; 2).jpg|DranSword 3-60F (Katsushika City Collaboration Ver.)
+DranSword 3-60F Metal Coat Bronze.png|DranSword 3-60F (Metal Coat: Bronze)
+DranSword 3-60F Metal Coat Silver.png|DranSword 3-60F (Metal Coat: Silver)
+DranSword 3-60F Metal Coat Gold.png|DranSword 3-60F (Metal Coat: Gold)
+DranSword 3-60F (Sushiro Ver.).png|DranSword 3-60F (Sushiro Ver.)
+DranSword Metal Coat Blue.jpg|DranSword (Metal Coat: Blue)
+DranSword Metal Coat Blue Box Front.jpg|DranSword (Metal Coat: Blue) box front
+DranSword Metal Coat Blue Box Back.jpg|DranSword (Metal Coat: Blue) box back
+DranSword 3-60F (Holo Sticker Ver.).jpeg|DranSword 3-60F (Holo Sticker Ver.; BX-00/G1844 Beyblade 25th Anniversary Set)
+DranSword 3-60F (Holo Sticker Ver.; Angled View).jpeg|Angled view of DranSword (Holo Sticker Ver.; BX-00/G1844 Beyblade 25th Anniversary Set)
+Dran Sword 3-60F Holo Sticker Ver. (25th Anniversary Set - fully stickered).jpg
+DranSword 3-60F (Version 2.0).png|DranSword 3-60F (Version 2.0)
+DranSword 3-60F (Version 2.0; Angled View).png|Angled view of DranSword (Version 2.0)
+DranSword 3-60F (Version 2.0) Info.png|Info on DranSword (Version 2.0)
+DranSword 3-60F (Version 2.0) Box.png|DranSword Version 2.0's BX-00 Booster box
+DranSwordComparisonAbove.jpg|Original DranSword (left) compared to DranSword Version 2.0 (right)
+DranSwordComparisonBelow.jpg|Original DranSword (left) compared to DranSword Version 2.0 (right)
+Katsushika City Collaboration DranSword Stickers.png|Katsushika City Collaboration Ver. stickers
+Entforet Kofu Collaboration Stickers.png|Beyblade X x Entforet Kofu collaboration stickers
+Cote d'Azur Collaboration Stickers.png|Beyblade X x Cote d'Azur collaboration stickers
+Toys R Us Collaboration Stickers.png|Beyblade X x Toys R Us collaboration stickers
+Spacia X Collaboration Stickers.png|Beyblade X x Spacia X collaboration stickers
+Panasonic Panthers Collaboration Stickers.png|Beyblade X x Panasonic Panthers collaboration stickers
+DynaBoars Collaboration Stickers.png|Beyblade X x DynaBoars collaboration stickers
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Sword Dran 3-60F.jpeg|Sword Dran 3-60F
+Sword Dran 3-60F Box.jpeg|Sword Dran's box
+Sword Dran 3-60F Box Backside.jpeg|Backside of Sword Dran's box
+Sword Dran 3-60F Contents.jpeg|Sword Dran's Starter contents
+Sword Dran 3-60F (Red Ver.).jpeg|Sword Dran 3-60F (Red Ver.)
+Tail Viper and Sword Dran Box.jpeg|Tail Viper and Sword Dran (Red Ver.) box
+Tail Viper and Sword Dran Box Backside.jpeg|Backside of the Tail Viper and Sword Dran (Red Ver.) box
+Tackle Goat and Sword Dran Box.jpeg|Tackle Goat and Sword Dran (Red Ver.) box
+Tackle Goat and Sword Dran Box Backside.jpeg|Backside of the Tackle Goat and Sword Dran (Red Ver.) box
+Dran Sword 3-60F (Holo Sticker Ver.).jpeg|Dran Sword 3-60F (Holo Sticker Version)
+</gallery>
+
+===Anime===
+====Original====
+<gallery widths="130">
+Beyblade X DranSword 3-60F 4X Summon.png
+Beyblade X DranSword 3-60F Avatar 1.png
+Beyblade X DranSword 3-60F Avatar 2.png
+Beyblade X DranSword 3-60F Avatar 3.png
+Beyblade X DranSword 3-60F Avatar 4.png
+Beyblade X DranSword 3-60F Avatar 5.png
+Beyblade X DranSword 3-60F Avatar 6.png
+Beyblade X DranSword 3-60F Avatar 7.png
+Beyblade X DranSword 3-60F Avatar 8.png
+Beyblade X DranSword 3-60F Avatar 9.png
+Beyblade X DranSword 3-60F Avatar 10.png
+Beyblade X DranSword 3-60F Avatar 11.png
+Beyblade X DranSword 3-60F Avatar 12.png
+Beyblade X DranSword 3-60F Avatar 13.png
+Beyblade X DranSword 3-60F Avatar 14.png
+Beyblade X DranSword 3-60F Avatar 15.png
+Beyblade X DranSword 3-60F Avatar 16.png
+Beyblade X DranSword 3-60F X Dash.png|Using [[Xtreme Dash]]
+BBX01 I'll show you something extraordinary.png
+BBX01 - Khrome holding DranSword.png
+Dransword 3-60F (Anime).png|Using [[Xtreme Dash]]
+Double Xtreme Dash 6.png|Using [[Xtreme Dash Double]]
+Sparking X Dash DranSword.png|Using [[Xtreme Dash|Sparking Xtreme Dash]]
+X Dash Blizzard DranSword.png|Using [[Xtreme Dash|Xtreme Dash Blizzard]]
+Xtreme Dash Returns.png|Using [[Xtreme Dash|Xtreme Dash The Sequel]]
+Xtreme Dash Dragonic Break X 5.png|Using [[Xtreme Dash Dragonic Break|Xtreme Dash Dragonic Break X]]
+Xtreme Dash Dragonic Break X 12.png
+BBX97 Ekusu holding DranSword.png
+Beyblade X S2E46 - DranSword's Avatar in the Skylight 2.png
+Beyblade X S2E46 - DranSword in the Skylight.png
+Beyblade X S2E49 - DranSword Unleashing an Xtreme Dash on PegasusBlast 2.png
+Beyblade X S2E49 - DranSword Knocked Back.png
+Xtreme Dash Cosmo 13.png|Using [[Xtreme Dash Dragonic Break|Xtreme Dash Cosmo]]
+Beyblade X S2E49 - DranSword's Avatar.png
+Beyblade X S2E49 - Ekusu and DranSword's Avatar.png
+Ultimate Infinity Xtreme Dash.png
+</gallery>
+
+====Metal Coat: Blue====
+<gallery widths="130">
+Beyblade X DranSword 3-60F Metal Coat Blue Avatar 1.png
+Beyblade X DranSword 3-60F Metal Coat Blue Avatar 2.png
+Beyblade X DranSword 3-60F Metal Coat Blue Avatar 3.png
+Beyblade X DranSword 3-60F Metal Coat Blue Avatar 4.png
+Beyblade X DranSword 3-60F Metal Coat Blue Avatar 5.png
+Beyblade X DranSword 3-60F Metal Coat Blue Avatar 6.png
+Blue Sword Dran X Dash.jpg|Using [[Xtreme Dash|Xtreme Dash: Blue]]
+BBX68 - DranSword Metal Coat Blue painted chipped.png|DranSword Metal Coat: Blue chipped 
+</gallery>
+
+====Version 2.0====
+<gallery widths="130">
+Beyblade X DranSword 3-60F V2 4X Summon.png
+Beyblade X DranSword 3-60F V2 Avatar 1.png
+Beyblade X DranSword 3-60F V2 Avatar 2.png
+Beyblade X DranSword 3-60F V2 Avatar 3.png
+Beyblade X DranSword 3-60F V2 Avatar 4.png
+Beyblade X DranSword 3-60F V2 Avatar 5.png
+Beyblade X DranSword 3-60F V2 Avatar 6.png
+Beyblade X DranSword 3-60F V2 Avatar 7.png
+Beyblade X DranSword 3-60F V2 Avatar 8.png
+BBX137 DranSword V2 lands hard.png
+BBX135 DranSword V2 strikes harder.png
+Xtreme Dash (DranSword V2).png|Using [[Xtreme Dash]]
+Beyblade X DranSword 3-60F V2 Avatar 9.png
+Xtreme Dash New.png|Using [[Xtreme Dash|Xtreme Dash New]]
+Beyblade X DranSword 3-60F V2 Avatar 10.png
+Beyblade X DranSword 3-60F V2 Avatar 11.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - DranSword 3-60F.png|Original
+Beyblade X - DranSword 3-60F Spinning.png
+Beyblade X - DranSword 3-60F Spinning 2.png
+Beyblade X - DranSword 3-60F (Version 2.0).png|Version 2.0
+</gallery>
+
+===Concept Art===
+<gallery widths="130">
+Dragon Dagger Gear Chip.png|"Dragon Dagger" Gear Chip Concept Art<ref>[[Beyblade X App]]</ref>
+Beyblade-x-prototype-development-display-7.jpg|DranSword's Concept Art
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - DranSword 3-60F (Manga).png
+Khrome's X Dash with DranSword.jpg
+X Dash (Chapter 1).png
+BBX Chapter 2 - DranSword's sword.jpeg
+BBX Chapter 2 - DranSword's Xtreme Dash.jpeg
+BBX Chapter 2 - Double Xtreme Dash.jpg
+Double X Dash (Dran Sword).png
+XDash4XVersion.jpg
+CobaltDrake & DranSword using Xtreme Dash.png
+Dran Sword X Dash Dragonic Break.png
+Beyblade X - DranSword 3-60F Metal Coat Blue (Manga).jpg|DranSword Metal Coat: Blue with its full coat of paint.
+DranSword Metal Coat Blue avatar (manga).jpg
+X Dash Blue.jpg
+Beyblade X - DranSword 3-60F Metal Coat Blue - Damaged (Manga).jpg|DranSword Metal Coat: Blue with a piece of the paint chipped off.
+X Dash (Chapter 25).png
+Beyblade X - DranSword 3-60F V2 (Manga).png|DranSword Version 2.0
+BBX40 DranSword V2's blueprints from Bey Kingdom.png
+X Dash ν.png
+</gallery>
+
+===Game===
+<gallery widths="130">
+Sword Dran 3-60F (2024 Anime Expo).jpg|The Beyblade X App recolor of Sword Dran 3-60F, obtained using a QR code.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】スターター4種徹底解説|Takara Tomy product overview
+【ベイブレード開発者レビュー】ドランソード3-60F エントリーパッケージ|BX-22 Entry Package product overview
+【ベイブレード開発者レビュー】ベイブレード25周年記念セット|BX-00 Beyblade 25th Anniversary Set product overview
+【ベイブレード開発者レビュー】 ドランソード3-60F バージョン2.0|BX-00 Version 2.0 product overview
+BEYBLADE X - Meet the new SWORD DRAN 3-60F!!|Hasbro product overview
+</gallery>
+
+==Trivia==
+*DranSword's name is based on a "dragon" and a "sword"; the Bey combines the "movement of a dragon" with the "sharpness of a sword", hence the name "DranSword".<ref name="CoroCoro July 2023">CoroCoro July 2023 Issue</ref>
+*DranSword's name during development was originally "'''Dragon Dagger'''".<ref>[[Beyblade X App]] datamined file</ref>
+**"Dagger" was later used for DranSword's successor, [[DranDagger 4-60R]].
+*This is the only Dran Beyblade that was not crafted by Multi.
+*DranSword is the first Beyblade to be released as "Version 2.0".
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

@@ -1,0 +1,46 @@
+{{Beyblade Infobox
+|Image=WyvernGale 0-80C.png
+|JPName=ワイバーンゲイル{{Ruby|0-80|ゼロエイティー}}{{Ruby|C|サイクロン}}
+|RomajiName=WaibānGeiru Zero Eiti Saikuron
+|AKA=WyvernGale Zero Eighty Cyclone
+|ProductCode=UX-12
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=December 28th, 2024
+|BladeX=WyvernGale
+|Ratchet=0-80
+|Bit=Cyclone
+|WBO=
+}}{{Translation|'''WyvernGale 0-80C'''|ワイバーンゲイル{{Ruby|0-80|ゼロエイティー}}{{Ruby|C|サイクロン}}|WaibānGeiru Zero Eiti Saikuron|WyvernGale Zero Eighty Cyclone}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan on December 28th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 5]].
+
+==Blade - WyvernGale==
+{{Part|Blade - WyvernGale}}
+==Ratchet - 0-80==
+{{Part|Ratchet - 0-80}}
+==Bit - Cyclone==
+{{Part|Bit - Cyclone}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 5 Box.jpeg|WyvernGale's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

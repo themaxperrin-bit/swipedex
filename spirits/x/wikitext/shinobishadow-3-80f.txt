@@ -1,0 +1,46 @@
+{{Beyblade Infobox
+|Image=ShinobiShadow 3-80F.png
+|JPName=シノビシャドウ{{Ruby|3-80|スリーエイティー}}{{Ruby|F|フラット}}
+|RomajiName=ShinobiShadou Surī Eitī Furatto
+|AKA=ShinobiShadow Three Eighty Flat
+|ProductCode=UX-12
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=37.5 grams
+|Price=1400円
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseJP=December 28th, 2024
+|BladeX=ShinobiShadow
+|Ratchet=3-80
+|Bit=Flat
+|WBO=
+}}{{Translation|'''ShinobiShadow 3-80F'''|シノビシャドウ{{Ruby|3-80|スリーエイティー}}{{Ruby|F|フラット}}|ShinobiShadou Surī Eitī Furatto|ShinobiShadow Three Eighty Flat}} is a Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan on December 28th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 5]].
+
+==Blade - ShinobiShadow==
+{{Part|Blade - ShinobiShadow}}
+==Ratchet - 3-80==
+{{Part|Ratchet - 3-80}}
+==Bit - Flat==
+{{Part|Bit - Flat}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 5 Box.jpeg|ShinobiShadow's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+[[Category:Takara Tomy]]

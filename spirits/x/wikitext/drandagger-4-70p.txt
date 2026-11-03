@@ -1,0 +1,45 @@
+{{About|the Takara Tomy release|Dagger Dran 4-70Q|the Hasbro release}}
+{{Beyblade Infobox
+|Image = DranDagger 4-70P.jpeg 
+|JPName=ドランダガー{{Ruby|4-70|フォーセブンティー}}{{Ruby|P|ポイント}}
+|RomajiName=DoranDagā Fō Sebuntī Pointo
+|AKA=DranDagger Four Seventy Point
+|ProductCode=BX-31
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=April 27th, 2024
+|BladeX=DranDagger
+|Ratchet=4-70
+|Bit=Point
+|WBO=
+}}{{Translation|'''DranDagger 4-70P'''|ドランダガー{{Ruby|4-70|フォーセブンティー}}{{Ruby|P|ポイント}}|DoranDagā Fō Sebuntī Pointo|DranDagger Four Seventy Point}} is a Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan on April 27th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 3]].
+
+==Blade - DranDagger==
+{{Part|Blade - DranDagger}}
+==Ratchet - 4-70==
+{{Part|Ratchet - 4-70}}
+==Bit - Point==
+{{Part|Bit - Point}}<!--
+
+==Releases==-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

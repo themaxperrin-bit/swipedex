@@ -1,0 +1,91 @@
+{{Beyblade Infobox
+|Image=DranzerSpiral 3-80T.jpeg
+|JPName=ドランザースパイラル3-80T
+|RomajiName=DoranzāSupairaru 3-80T
+|AKA=DranzerSpiral Three Eighty Taper<br>Dranzer Spiral 3-80T ([[Hasbro]])
+|ProductCode=BX-00 (Takara Tomy, blue)<br>F9584 (Hasbro, red)<br>F9585 (Hasbro, green)<br>G1842 (Hasbro, blue)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=37.0 grams
+|Price=1600円<br>USD$12.99<br>CAD$19.99
+|System=Basic Line
+|System2=X-Over Project
+|Series=Beyblade X
+|ReleaseJP=July 15th, 2023
+|ReleaseUS=June 1st, 2024 (red)<br>May 2025 (blue)
+|ReleaseCA=May 30th, 2024 (red)<br>May 2025 (blue)
+|ReleaseAU=May 16th, 2024 (red)
+|ReleaseEU=May 2024 (green)
+|BladeX=DranzerSpiral
+|Ratchet=3-80
+|Bit=Taper
+|WBO=https://worldbeyblade.org/Thread-Product-BX-00-Booster-Dranzer-Spiral-3-80T
+}}{{Translation|'''DranzerSpiral 3-80T'''|ドランザースパイラル3-80T|DoranzāSupairaru 3-80T|DranzerSpiral Three Eighty Taper}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released as a Booster in Japan on July 15th, 2023 for 1600円. It later debuted in western countries as '''Dranzer Spiral 3-80T''' by [[Hasbro]] in Starter Packs with different color variations. It was released for USD$12.99 in the United States.
+
+As part of the [[X-Over Project]], it is the ''[[Beyblade X]]'' remake of the [[Spin Gear System]] Beyblade, [[Dranzer Spiral]].
+
+==Blade - DranzerSpiral==
+[[File:BladeDranzerSpiral.png|left|150px]]
+{{Part|Blade - DranzerSpiral}}
+==Ratchet - 3-80==
+[[File:3-80 (BX-00).png|left|150px]]
+{{Part|Ratchet - 3-80}}
+==Bit - Taper==
+[[File:Taper (BX-00).png|left|75px]]
+{{Part|Bit - Taper}}
+
+==Releases==
+===Takara Tomy===
+* BX-00 Booster (blue)
+* BX-00 Booster "''Black Ver.''" (black)
+
+===Hasbro===
+* F9584 North America and Australia Starter Pack (red)
+* F9585 Europe Starter Pack (green)
+* G1842 Starter Pack (blue) 
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranzerSpiral 3-80T Box.jpeg|DranzerSpiral's box.
+DranzerSpiral 3-80T (Angled View).jpeg|Angled view of DranzerSpiral.
+DranzerSpiral 3-80T Info.png|Info on DranzerSpiral.
+DranzerSpiral 3-80T Stickers.png|DranzerSpiral's stickers.
+DranzerSpiral 3-80T (Black Ver) Box.jpg|DranzerSpiral 3-80T (Black Ver.) box
+DranzerSpiral 3-80T (Black Ver).jpg|DranzerSpiral 3-80T (Black Ver.)
+DranzerSpiral 3-80T (Black Ver; Angled View).jpg|Angled view of DranzerSpiral 3-80T (Black Ver.)
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Dranzer Spiral 3-80T (F9584).jpeg|Dranzer Spiral 3-80T (F9584).
+Dranzer Spiral 3-80T Box (F9584).jpeg|Dranzer Spiral's box (F9584).
+Dranzer Spiral 3-80T Box Backside (F9584).jpeg|Backside of Dranzer Spiral's box (F9584).
+Dranzer Spiral 3-80T Contents (F9584).jpeg|Dranzer Spiral's contents (F9584).
+Dranzer Spiral 3-80T (F9585).jpeg|Dranzer Spiral 3-80T (F9585).
+Dranzer Spiral 3-80T Box (F9585).jpeg|Dranzer Spiral's box (F9585).
+Dranzer Spiral 3-80T Box Backside (F9585).jpeg|Backside of Dranzer Spiral's box (F9585).
+Dranzer Spiral 3-80T Contents (F9585).jpeg|Dranzer Spiral's contents (F9585).
+Dranzer Spiral 3-80T (G1842).jpeg|Dranzer Spiral 3-80T G1842).
+Dranzer Spiral 3-80T Box (G1842).jpeg|Dranzer Spiral's box (G1842).
+Dranzer Spiral 3-80T Box Backside (G1842).jpeg|Backside of Dranzer Spiral's box (G1842).
+Dranzer Spiral 3-80T Contents (G1842).jpeg|Dranzer Spiral's contents (G1842).
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【BEYBLADE X】ベイブレードエックス クロスオーバープロジェクト|Reveal Trailer
+【ベイブレード開発者レビュー】ドランザースパイラル3-80T
+</gallery>
+
+==Trivia==
+*The Takara Tomy BX-00 Black Version release was first available at official [[Beyblade Battle Base|Beyblade Battle Base (B4)]] G1 and G2 events. It was later re-released as part of the [[Rare Bey Get Battle]] in Japan on October 10th, 2024. Through the [[Beyblade X (app)|''Beyblade X'' app]], Bladers have a 3% chance of obtaining a "Limited Edition Purchase Ticket", which can be then redeemed with the local distributor.
+**Some Asian B4 stores also stocked this as a regular release, similar to releases like [[SharkEdge 5-60GF]].
+*Hasbro's red F9584 release is possibly based on the SB-02 [[Dranzer S]] (Suzaku Color Ver.) from Takara's [[Bey Booster S]].
+
+==References==
+{{Reflist}}
+{{X-Over Project Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

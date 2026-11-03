@@ -1,0 +1,165 @@
+{{Beyblade Infobox
+|Image1 = <gallery>
+KnightShield 3-80N.jpeg|Original
+KnightShield 3-80N (Version 2.0).png|Version 2.0
+</gallery>
+|Image1Label = Product
+|Image2 = <gallery>
+Beyblade X - KnightShield 3-80N.png|Original
+Beyblade X - KnightShield 3-80N (Version 2.0).png|Version 2.0
+</gallery>
+|Image2Label = Anime
+|Image3 = <gallery>
+Beyblade X - KnightShield 3-80N (Manga).png|Original
+Beyblade X - KnightShield 3-80N V2 (Manga).png|Version 2.0
+</gallery>
+|Image3Label = Manga
+|Image4 = Beyblade X - KnightShield 3-80N (Game).png
+|Image4Label = Game
+|JPName=ナイトシールド{{Ruby|3-80|スリーエイティー}}{{Ruby|N|ニードル}}
+|RomajiName=NaitoShīrudo Surī Eitī Nīdoru
+|AKA=KnightShield Three Eighty Needle<br>Helm Knight 3-80N ([[Hasbro]])<br>Helm Knight (anime, English)
+|ProductCode=BX-04 (Takara Tomy)<br>F9581 (Hasbro)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=41.5 grams (first mold)<br>43.9 grams (second mold)
+|Price=1980円<br>USD$9.99<br>CAD$16.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 15th, 2023
+|ReleaseUS=June 1st, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseAU=May 16th, 2024
+|BladeX=KnightShield
+|Ratchet=3-80
+|Bit=Needle
+|Owner=[[Multi Nana-iro]]<br>Beyblade Development Team Kamijo (Metal Coat: Gold, ''[[Beyblade X: Xone|Xone]]'')<br>[[Wikipedia:Kaito Kuroba|Kaito Kid]] (Version 2.0)
+|Creator=[[Bey Kingdom]] (Version 2.0)
+|AppearAnime=[[Beyblade X - Episode 02|Multi-Colored Ambush]]<br>[[Beyblade X - Episode 135|Version 2.0]] (Version 2.0)
+|AppearManga=[[Beyblade X - Chapter 02|Rainbow]]<br>[[Beyblade X - Chapter 40]] (Version 2.0)
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Helm Impact]] (anime only)<br>[[Xtreme Dash|Xtreme Dash Very Heavy Charge]] (Version 2.0; anime only)
+|WBO=https://worldbeyblade.org/Thread-Product-BX-04-Starter-Knight-Shield-3-80N
+}}{{Translation|'''KnightShield 3-80N'''|ナイトシールド{{Ruby|3-80|スリーエイティー}}{{Ruby|N|ニードル}}|NaitoShīrudo Surī Eitī Nīdoru|KnightShield Three Eighty Needle}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released as a Starter in Japan on July 15th, 2023 for 1980円. It later debuted in western countries as '''Helm Knight 3-80N''' in a Starter Pack released by [[Hasbro]] for USD$9.99 in the United States.
+
+KnightShield would later get a ''Version 2.0'' release, which released in Japan as a part of the BX-53 [[All In One Set]] on October 10th, 2026 for 7480円.
+
+While the primary version is owned by [[Multi Nana-iro]] in the ''[[Beyblade X]]'' anime and manga, recolored generic versions also appear in the anime. KnightShield's ''Version 2.0'' release would later debut in the anime/manga series, which would be developed by the [[Bey Kingdom]].
+
+It is succeeded by [[KnightLance 4-80HN]].
+
+==Blade - KnightShield==
+<gallery type="slideshow" position="left" widths="150">
+BladeKnightShield.png|Original KnightShield Blade
+KnightShield (BX-53; KnightShield V2).png|KnightShield Version 2.0
+</gallery>
+{{Part|Blade - KnightShield}}
+==Ratchet - 3-80==
+[[File:Ratchet3-80.png|left|150px]]
+{{Part|Ratchet - 3-80}}
+==Bit - Needle==
+[[File:BitNeedle.png|left|75px]]
+{{Part|Bit - Needle}}
+
+==Releases==
+===Takara Tomy===
+*BX-04 Starter (green)
+*BX-06 Booster (blue)
+*BX-53 "''Version 2.0''" - Released in the [[All In One Set]].
+*BX-00 Booster "''Metal Coat: Gold''" (gold) - Parts released individually as G3 tournament prizes.
+
+===Hasbro===
+*F9581 Starter Pack (green; BX-04 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+KnightShield 3-80N Box.jpeg|KnightShield's box
+KnightShield 3-80N Contents.jpeg|KnightShield BX-04 Starter contents
+KnightShield 3-80N (Angled View).jpeg|Angled view of KnightShield
+Beyblade X Winder Launcher.jpeg|Winder Launcher
+KnightShield 3-80N Info.png|Info on KnightShield (BX-04)
+KnightShield 3-80N (BX-06).jpeg|KnightShield 3-80N (BX-06)
+KnightShield 3-80N Box (BX-06).jpeg|KnightShield's box (BX-06)
+KnightShield 3-80N (BX-06; Angled View).jpeg|Angled view of KnightShield (BX-06)
+KnightShield 3-80N Info (BX-06).png|Info on KnightShield (BX-06)
+KnightShield 3-80N (Metal Coat Gold).png|KnightShield 3-80N (Metal Coat: Gold)
+KnightShield 3-80N (Version 2.0).png|KnightShield 3-80N (Version 2.0)
+KnightShield 3-80N (Version 2.0; Angled View).png|Angled view of KnightShield (Version 2.0)
+KnightShield 3-80N (Version 2.0) Info.png|Info on KnightShield (Version 2.0)
+KnightShield Comparison Above.png|Original KnightShield (left) compared to KnightShield Version 2.0 (right)
+KnightShield Comparison Below 1.png|Original KnightShield (left) compared to KnightShield Version 2.0 (right)
+KnightShield Comparison Below 2.png
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Helm Knight 3-80N.jpeg|Helm Knight 3-80N
+Helm Knight 3-80N Box.jpeg|Helm Knight's box
+Helm Knight 3-80N Box Backside.jpeg|Backside of Helm Knight's box
+Helm Knight 3-80N Contents.jpeg|Helm Knight's contents
+</gallery>
+
+===Anime===
+====Original====
+<gallery widths="130">
+BBX03 KnightShield spinning on a titled axis.png
+BBX03 KnightShield vs DranSword 2.png
+BBX03 KnightShield survives DranSword's Xtreme Dash.png
+BBX03 Multi loses.png
+BBX03 KnightShield spinning on its axis.png
+BBX03 HellsScythe vs KnightShield.png
+X Dash Shield Impact Knight Shield.png
+BBX37 KnightShield's angled spin.png
+BBX37 KnightShield bursts.png
+Shooting Star 16.png
+</gallery>
+
+====Version 2.0====
+<gallery widths="130">
+Beyblade X KnightShield 3-80N V2 4X Summon.png
+Beyblade X KnightShield 3-80N V2 Avatar 1.png
+Beyblade X KnightShield 3-80N V2 Avatar 2.png
+Beyblade X KnightShield 3-80N V2 Avatar 3.png
+Beyblade X KnightShield 3-80N V2 Avatar 4.png
+Beyblade X KnightShield 3-80N V2 Avatar 5.png
+Beyblade X KnightShield 3-80N V2 Avatar 6.png
+Beyblade X KnightShield 3-80N V2 Avatar 7.png
+BBX135 KnightShield V2's increased defenses.png
+Xtreme Dash Very Heavy Charge.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - KnightShield 3-80N.png|Original
+Beyblade X - KnightShield 3-80N (Version 2.0).png|Version 2.0
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - KnightShield 3-80N (Manga).png
+BBX Chapter 2 - KnightShield is unfazed.jpeg
+BBX Chapter 2 - KnightShield survives DranSword's Xtreme Dash.jpeg
+BBX Chapter 16 - KnightShield tanks SamuraiSaber.jpeg
+BBX Chapter 16 - KnightShield's chibi avatar.jpeg
+BBX Chapter 16 - KnightShield bursts.jpeg
+Beyblade X - KnightShield 3-80N V2 (Manga).png|KnightShield Version 2.0
+KnightShield 3-80N V2 (Beyblade X & Detective Conan manga).jpg|KnightShield V2 in [[Beyblade X - Special Chapter 02|''Beyblade X & Detective Conan'']] manga
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】スターター4種徹底解説|Takara Tomy product overview
+【ベイブレード開発者レビュー】 オールインワンセット|Takara Tomy product overview (Version 2.0)
+BEYBLADE X - Meet the new HELM KNIGHT 3-80N!!|Hasbro product overview
+</gallery>
+
+==Trivia==
+* In the anime prior to [[Beyblade X (Season 4)|Season 4]], the original Knight Shield Beyblade did not display a 4X Avatar.
+* KnightShield's name during development was originally "'''Cavalry'''".<ref>KnightFortress prototype</ref>
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

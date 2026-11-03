@@ -1,0 +1,47 @@
+{{About|the Takara Tomy release|Tail Viper 3-85LO|the Hasbro release}}
+{{Beyblade Infobox
+|Image = ViperTail 5-70D.jpeg
+|JPName=ヴァイパーテイル{{Ruby|5-70|ァイブセブンティー}}{{Ruby|D|ドット}}
+|RomajiName=VaipāTēru Faibu Sebunti Dotto
+|AKA=ViperTail Five Seventy Dot
+|ProductCode=BX-35
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 13th, 2024
+|BladeX=ViperTail
+|Ratchet=5-70
+|Bit=Dot
+|WBO=
+}}{{Translation|'''ViperTail 5-70D'''|ヴァイパーテイル{{Ruby|5-70|ァイブセブンティー}}{{Ruby|D|ドット}}|VaipāTēru Faibu Sebunti Dotto|ViperTail Five Seventy Dot}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released in Japan on July 13th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 4]].
+
+==Blade - ViperTail==
+{{Part|Blade - ViperTail}}
+==Ratchet - 5-70==
+{{Part|Ratchet - 5-70}}
+==Bit - Dot==
+{{Part|Bit - Dot}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 4 Box.jpeg|ViperTail's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

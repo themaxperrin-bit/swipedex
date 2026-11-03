@@ -1,0 +1,48 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image = SphinxCowl 5-60O.jpeg
+|JPName=スフィンクスカウル{{Ruby|5-60|ファイブシクスティー}}{{Ruby|O|オーブ}}
+|RomajiName=SufinkusuKauru Faibu Shikusutī Ōbu
+|AKA=SphinxCowl Five Sixty Orb
+|ProductCode=BX-27
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=41.1 grams
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=February 22nd, 2024
+|BladeX=SphinxCowl
+|Ratchet=5-60
+|Bit=Orb
+|WBO=https://worldbeyblade.org/Thread-Product-BX-27-Random-Booster-SphinxCowl-Select-Rare-SphinxCowl-9-80GN
+}}{{Translation|'''SphinxCowl 5-60O'''|スフィンクスカウル{{Ruby|5-60|ファイブシクスティー}}{{Ruby|O|オーブ}}|SufinkusuKauru Faibu Shikusutī Ōbu|SphinxCowl Five Sixty Orb}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released in Japan on February 22nd, 2024 for 1400円 in [[Random Booster SphinxCowl Select]].
+
+==Blade - SphinxCowl==
+{{Part|Blade - SphinxCowl}}
+==Ratchet - 5-60==
+{{Part|Ratchet - 5-60}}
+==Bit - Orb==
+{{Part|Bit - Orb}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster SphinxCowl Select Box.jpeg|SphinxCowl's box.
+</gallery>
+
+===Manga===
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

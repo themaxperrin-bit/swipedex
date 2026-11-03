@@ -1,0 +1,83 @@
+{{About|the anime/manga combo|PhoenixFeather 4-60LF|the video games combo}}
+{{Beyblade Infobox
+|Image1 = PhoenixFeather 3-60F.jpg
+|Image1Label = Product
+|Image2 = Beyblade X - PhoenixFeather 3-60F.png
+|Image2Label = Anime
+|Image3 = Beyblade X - PhoenixFeather 3-60F (manga).jpg
+|Image3Label = Manga
+|JPName=フェニックスフェザー{{Ruby|3-60|スリーシクスティー}}{{Ruby|F|フラット}}
+|RomajiName=FenikkusuFezā Surī Shikusutī Furatto
+|AKA=PhoenixFeather Three Sixty Flat<br>Feather Phoenix (anime, English)<br>Crested Phoenix (manga, English (Shogakukan))
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=42.0 grams
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=December 15th, 2023 (Blade only)
+|BladeX=PhoenixFeather
+|Ratchet=3-60
+|Bit=Flat
+|Owner=[[Blaze Fujiwara]]<br>[[Hina]]<br>[[Takumi Ishiyama]]<br>[[Bariki Jinnai]]<br>[[Genri Sayo]]
+|Creator=[[Blaze Fujiwara]] (Design)<br>[[Yggdrasil Inc.]] (Manufacturing)
+|AppearAnime=[[Beyblade X - Episode 12|The Final Battle]]
+|AppearManga=[[Beyblade X - Chapter 06|Warden's Exam]]
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Burning Avalanche]] (anime only)
+|WBO=https://worldbeyblade.org/Thread-Product-CoroCoro-Exclusive-PhoenixFeather-Blade
+}}{{Translation|'''PhoenixFeather 3-60F'''|フェニックスフェザー{{Ruby|3-60|スリーシクスティー}}{{Ruby|F|フラット}}|FenikkusuFezā Surī Shikusutī Furatto|PhoenixFeather Three Sixty Flat}} is an Attack Type Beyblade that appears in the ''[[Beyblade X]]'' anime and manga. In the anime and manga, it was originally created by [[Yggdrasil Inc.]] for [[Blaze Fujiwara]], and was subsequently mass-produced for the commercial market. It is succeeded by Blaze's [[PhoenixWing 9-60GF]].
+
+The toy can be created with the [[Blade - PhoenixFeather|PhoenixFeather]] Blade released in the January 2024 issue of the [[CoroCoro Comic]] magazine, and the red [[Ratchet - 3-60|3-60]] Ratchet and [[Bit - Flat|Flat]] Bit from Takara Tomy's [[Battle Entry Set]] or Hasbro's [[Tail Viper and Sword Dran Dual Pack]] or [[Tackle Goat and Sword Dran Dual Pack]].<ref>https://youtu.be/pbKqZsWXSdE</ref>
+
+==Blade - PhoenixFeather==
+[[File:BladePhoenixFeather.png|left|150px]]
+{{Part|Blade - PhoenixFeather}}
+==Ratchet - 3-60==
+[[File:3-60 (BX-17).png|left|150px]]
+{{Part|Ratchet - 3-60}}
+==Bit - Flat==
+[[File:Flat (BX-17).png|left|75px]]
+{{Part|Bit - Flat}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+PhoenixFeather 3-60F.jpg|Example combo from [[CoroCoro Comic]], using the 3-60 and Flat from the [[Battle Entry Set]].
+</gallery>
+
+===Anime===
+<gallery widths="130">
+BBX12 PhoenixFeather.png
+PhoenixFeather against 5 beys.png|Feather Phoenix against 5 beys
+PhoenixFeather's streamlined shape 1.png
+PhoenixFeather's streamlined shape 2.png
+PhoenixFeather, the Fastest Bey.png
+PhoenixFeather Box.png|Hina holding a Feather Phoenix Box from [[Yggdrasil Inc.]]
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - PhoenixFeather 3-60F.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - PhoenixFeather 3-60F (manga).jpg
+PhoenixFeather 3-60F Bursting.jpg|Bursting after being launched by Blaze.
+Beyblade X - Chapter 7 Cover Art.jpeg
+PhoenixFeather reaches the Fastest.png
+Beyblade X - PhoenixFeather 3-60F Avatar (Manga).png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ドランソード3-60F エントリーパッケージ
+</gallery>
+
+==Trivia==
+*This is the only ''Phoenix'' Beyblade in ''Beyblade X'' without a red Metal Coat.
+*This is the first ''Phoenix'' Beyblade in ''Beyblade X'', in the anime and manga, not to use the 9- series of Ratchets.
+
+==References==
+{{Reflist}}
+{{Anime Exclusive X Beyblades}}

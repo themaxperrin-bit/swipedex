@@ -1,0 +1,118 @@
+{{Beyblade Infobox
+|Image1 = RhinoHorn 3-80S.jpeg
+|Image1Label = Product
+|Image2 = Beyblade X - RhinoHorn 3-80S.png
+|Image2Label = Anime
+|Image3 = Beyblade X - RhinoHorn 3-80S (Manga).png
+|Image3Label = Manga
+|JPName=ライノホーン{{Ruby|3-80|スリーエイティー}}{{Ruby|S|スパイク}}
+|RomajiName=RainoHōn Surī Eitī Supaiku
+|AKA=RhinoHorn Three Eighty Spike<br>Horn Rhino 3-80S (Hasbro)<br>Horn Rhino (anime, English)
+|ProductCode=BX-19 (Takara Tomy)<br>G0192 (Hasbro)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=41.8 grams
+|Price=1400円<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 2nd, 2023
+|ReleaseUS=June 1st, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseAU=May 16th, 2024
+|BladeX=RhinoHorn
+|Ratchet=3-80
+|Bit=Spike
+|Owner=[[Jian Strong]]<br>'''Spin-Off:'''<br>[[Kakuzou Sai]] (''[[Beytrainer Kiba]]'')
+|Creator=[[Joka Manju]] (anime)
+|AppearAnime=[[Beyblade X - Episode 07|Team Zooganic]]
+|AppearManga=[[Beyblade X - Chapter 04|Zooganic]]
+|SpecialMoves=[[Rhino Rush]] (anime only)
+|WBO=https://worldbeyblade.org/Thread-Product-BX-19-Booster-RhinoHorn-3-80S
+}}{{Translation|'''RhinoHorn 3-80S'''|ライノホーン{{Ruby|3-80|スリーエイティー}}{{Ruby|S|スパイク}}|RainoHōn Surī Eitī Supaiku|RhinoHorn Three Eighty Spike}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released as a Booster in Japan on November 2nd, 2023 for 1400円. It later debuted in western countries as '''Horn Rhino 3-80S''' in a Booster Pack released by [[Hasbro]] for USD$9.99 in the United States.
+
+In the toyline, it is succeeded by [[RhinoReaper C4-55D]].
+
+==Blade - RhinoHorn==
+[[File:BladeRhinoHorn.png|left|150px]]
+{{Part|Blade - RhinoHorn}}
+==Ratchet - 3-80==
+[[File:3-80 (BX-19).png|left|150px]]
+{{Part|Ratchet - 3-80}}
+==Bit - Spike==
+[[File:BitSpike.png|left|75px]]
+{{Part|Bit - Spike}}
+
+==Releases==
+===Takara Tomy===
+*BX-19 Booster (white)
+
+===Hasbro===
+*G0192 Booster Pack (white; BX-19 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+RhinoHorn 3-80S Box.jpeg|RhinoHorn's box.
+RhinoHorn 3-80S (Angled View).jpeg|Angled view of RhinoHorn.
+RhinoHorn 3-80S Info.png|Info on RhinoHorn.
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Horn Rhino 3-80S.jpeg|Horn Rhino 3-80S.
+Horn Rhino 3-80S Box.jpeg|Horn Rhino's box.
+Horn Rhino 3-80S Box Backside.jpeg|Backside of Horn Rhino's box.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X RhinoHorn 3-80S 4X Summon.png
+Beyblade X RhinoHorn 3-80S Avatar 1.png
+Beyblade X RhinoHorn 3-80S Avatar 2.png
+Beyblade X RhinoHorn 3-80S Avatar 3.png
+Beyblade X RhinoHorn 3-80S Avatar 4.png
+Beyblade X RhinoHorn 3-80S Avatar 5.png
+Beyblade X RhinoHorn 3-80S Avatar 6.png
+Beyblade X RhinoHorn 3-80S Avatar 7.png
+Beyblade X RhinoHorn 3-80S Avatar 8.png
+Beyblade X RhinoHorn 3-80S Avatar 9.png
+Beyblade X RhinoHorn 3-80S Avatar 10.png
+Beyblade X RhinoHorn 3-80S Avatar 11.png
+BBX07 RhinoHorn landing hard.png
+BBX07 HellsScythe thrown upwards.png
+BBX29 RhinoHorn takes center.png
+Rhino Rush 3.png
+Rhino Rush 6.png
+BBX29 RhinoHorn gets knocked out.png
+BBX29 RhinoHorn gets knocked out 2.png
+BBX29 RhinoHorn clinging on the edge.png
+BBX29 RhinoHorn lost by Over Finish.png
+BBX115 RhinoHorn bursts.png
+</gallery>
+
+====Control art====
+<gallery widths="130">
+Beyblade X - RhinoHorn 3-80S.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - RhinoHorn 3-80S (Manga).png
+BBX Chapter 5 - RhinoHorn avatar.jpeg
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ライノホーン3-80S|Takara Tomy product overview
+BEYBLADE X - Discover the new HORN RHINO 3-80S!!|Hasbro product overview
+</gallery>
+
+==Trivia==
+*This Beyblade is a global shelfwarmer, lingering in both Takara Tomy and Hasbro region stores.
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

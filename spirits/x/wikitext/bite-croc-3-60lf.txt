@@ -1,0 +1,46 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image=Bite Croc 3-60LF.jpeg
+|JPName=
+|RomajiName=
+|AKA=
+|ProductCode=G0199
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=42.5 grams
+|Price=
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=August 2024
+|ReleaseCA=September 11th, 2024
+|BladeX=Bite Croc
+|Ratchet=3-60
+|Bit=Low Flat
+}}'''Bite Croc 3-60LF''' is a Attack Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Bite Croc and Sting Unicorn Dual Pack]] for USD$14.99 in the United States.
+
+==Blade - Bite Croc==
+{{Part|Blade - Bite Croc}}
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+==Bit - Low Flat==
+{{Part|Bit - Low Flat}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Bite Croc and Sting Unicorn Box.jpeg|Bite Croc's box.
+Bite Croc and Sting Unicorn Box Backside.jpeg|Backside of Bite Croc's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+BEYBLADE X - Discover the new BITE CROC 3-60LF!!|Hasbro product overview.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

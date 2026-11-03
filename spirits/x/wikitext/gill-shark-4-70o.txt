@@ -1,0 +1,53 @@
+{{Beyblade Infobox
+|Image=Gill Shark 4-70O.jpeg
+|JPName=
+|RomajiName=
+|AKA=
+|ProductCode=G1686
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=38.0 grams
+|Price=USD$14.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseCA=May 21st, 2025
+|ReleaseAU=May 2025
+|ReleaseUS=June 2025
+|BladeX=Gill Shark
+|Ratchet=4-70
+|Bit=Orb
+}}'''Gill Shark 4-70O''' is a Stamina Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Pearl Tiger and Gill Shark Dual Pack]] for USD$14.99 in the United States.
+
+==Blade - Gill Shark==
+{{Part|Blade - Gill Shark}}
+==Ratchet - 4-70==
+{{Part|Ratchet - 4-70}}
+==Bit - Orb==
+{{Part|Bit - Orb}}
+
+==Releases==
+===Hasbro===
+* G1686 [[Pearl Tiger and Gill Shark Dual Pack]] (orange)
+* G3084 [[Rival Rumble Pack]] (orange; G1686 model)
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Pearl Tiger and Gill Shark Box.jpeg|Gill Shark's box
+Pearl Tiger and Gill Shark Box Backside.jpeg|Backside of Gill Shark's box
+Gill Shark 4-70O (Angled View).jpeg
+Rival Rumble Pack Box.jpeg|Rival Rumble Pack's box
+Rival Rumble Pack Box Backside.jpeg|Backside of the Rival Rumble Pack's box
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

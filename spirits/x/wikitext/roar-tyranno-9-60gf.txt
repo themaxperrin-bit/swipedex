@@ -1,0 +1,45 @@
+{{Beyblade Infobox
+|Image=Roar Tyranno 9-60GF.jpeg
+|JPName=ティラノロア{{Ruby|9-60|ナインシクスティー}}{{Ruby|GF|ギヤフラット}}
+|RomajiName=TiranoRoa Nain Shikusutī Giya Furatto
+|AKA=TyrannoRoar 9-60GF (Takara Tomy)
+|ProductCode=G0284
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=44.5 grams
+|Price=USD$7.99<br>CAD$11.99<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=July 27th, 2024
+|ReleaseCA=August 29th, 2024
+|BladeX=Roar Tyranno
+|Ratchet=9-60
+|Bit=Gear Flat
+}}'''Roar Tyranno 9-60GF''' or {{Translation|'''TyrannoRoar 9-60GF'''|ティラノロア{{Ruby|9-60|ナインシクスティー}}{{Ruby|GF|ギヤフラット}}|TiranoRoa Nain Shikusutī Giya Furatto|TyrannoRoar Nine Sixty Gear Flat}}<ref>[https://chizai-watch.com/t/2024036423 Takara Tomy TyrannoRoar trademark filing]</ref><ref>Hasbro's [[Beyblade X App]] files</ref> is an Attack Type Beyblade released by [[Hasbro]]. It was released as a Booster Pack for USD$7.99 in the United States.
+
+==Blade - Roar Tyranno==
+{{Part|Blade - Roar Tyranno}}
+==Ratchet - 9-60==
+{{Part|Ratchet - 9-60}}
+==Bit - Gear Flat==
+{{Part|Bit - Gear Flat}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Roar Tyranno 9-60GF Box.jpeg|Roar Tyranno's box.
+Roar Tyranno 9-60GF Box Backside.jpeg|Backside of Roar Tyranno's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+BEYBLADE X - Discover the new ROAR TYRANNO 9-60GF!!
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

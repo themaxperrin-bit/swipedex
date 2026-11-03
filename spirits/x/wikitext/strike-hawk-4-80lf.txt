@@ -1,0 +1,67 @@
+{{Beyblade Infobox
+|Image1=Beyblade X - Strike Hawk (Anime).png
+|Image1Label=Anime
+|Image2=Beyblade X - Strike Hawk.png
+|Image2Label=Manga
+|JPName=ストライクホーク{{Ruby|4-80|フォーエイティー}}{{Ruby|LF|ローフラット}}
+|RomajiName=Sutoraiku Hōku 4-80LF
+|AKA=Strike Hawk Four Eighty Low Flat<br>Strike Hawk (anime/manga, English)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=40.9 grams
+|System=Basic Line
+|Series=Beyblade X
+|BladeX=Strike Hawk
+|Ratchet=4-80
+|Bit=Low Flat
+|Owner=[[Robin Kazami]]<br>[[Carlo Maruko]]<br>[[Million Mizu]]
+|AppearAnime=[[Beyblade X - Episode 01|X]]
+|AppearManga=[[Beyblade X - Special Chapter 01]]
+|SpecialMoves=[[Hawk Dive]] (Carlo's)
+}}{{Translation|'''Strike Hawk 4-80LF'''|ストライクホーク{{Ruby|4-80|フォーエイティー}}{{Ruby|LF|ローフラット}}|Sutoraiku Hōku 4-80LF|Strike Hawk Four Eighty Low Flat}} is an Attack Type Beyblade that was previously owned by [[Robin Kazami]] in the ''[[Beyblade X]]'' anime and manga, and [[Carlo Maruko]] in the ''Beyblade X'' anime.
+
+In the anime, Robin's Strike Hawk was given to him by Tsubasa Takano.
+
+==Blade - Strike Hawk==
+In the anime, '''Strike Hawk''' is the [[Blade - WizardArrow|WizardArrow]] Blade with a different Gear Chip sticker attached. The Gear Chip features the Blade's namesake, the [[wikipedia:Hawk|Hawk]], a bird of prey.
+
+In the manga, the '''Strike Hawk''' Blade has three blades acting as the main contact points. The Gear Chip features a hawk, with "ストライク", the Katakana for "strike" written on it.
+
+==Ratchet - 4-80==
+{{Part|Ratchet - 4-80}}
+
+==Bit - Low Flat==
+{{Part|Bit - Low Flat}}
+
+==Gallery==
+===Anime===
+<gallery widths="130">
+Beyblade X Strike Hawk 4-80LF Avatar 1.png
+Beyblade X Strike Hawk 4-80LF Avatar 2.png
+Beyblade X Strike Hawk 4-80LF Avatar 3.png
+Beyblade X Strike Hawk 4-80LF Avatar 4.png
+Beyblade X Strike Hawk 4-80LF Avatar 5.png
+Beyblade X Strike Hawk 4-80LF Avatar 6.png
+Beyblade X Strike Hawk 4-80LF Avatar 7.png
+Beyblade X Strike Hawk 4-80LF Avatar 8.png
+Beyblade X Strike Hawk 4-80LF Avatar 9.png
+Beyblade X Strike Hawk 4-80LF Avatar 10.png
+Beyblade X Strike Hawk 4-80LF Avatar 11.png
+Beyblade X Strike Hawk 4-80LF Avatar 12.png
+BBX01 Strike Hawk destroyed by Takumi.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - Strike Hawk.png|Manga design
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Anime Exclusive X Beyblades}}

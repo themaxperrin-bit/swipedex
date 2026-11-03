@@ -1,0 +1,50 @@
+{{About|the Takara Tomy release|Arrow Wizard 4-80O|the Hasbro release}}
+{{Provisional}}
+{{Beyblade Infobox
+|Image = WizardArrow 4-80N.jpeg
+|JPName=ウィザードアロー{{Ruby|4-80|フォーエイティー}}{{Ruby|N|ニードル}}
+|RomajiName=WizādoArō Fō Eitī Nīdoru
+|AKA=WizardArrow Four Eighty Needle
+|ProductCode=BX-21 (Takara Tomy)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=
+|Price=3960円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 2nd, 2023
+|BladeX=WizardArrow
+|Ratchet=4-80
+|Bit=Needle
+|WBO=https://worldbeyblade.org/Thread-Product-BX-21-HellsChain-Deck-Set-HellsChain-5-60HT
+}}{{Translation|'''WizardArrow 4-80N'''|ウィザードアロー{{Ruby|4-80|フォーエイティー}}{{Ruby|N|ニードル}}|WizādoArō Fō Eitī Nīdoru|WizardArrow Four Eighty Needle}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released as a part of the [[HellsChain Deck Set]] in Japan on November 2nd, 2023 for 3960円.
+
+==Blade - WizardArrow==
+[[File:WizardArrow (BX-21).png|left|150px]]
+{{Part|Blade - WizardArrow}}
+==Ratchet - 4-80==
+[[File:4-80 (BX-21).png|left|150px]]
+{{Part|Ratchet - 4-80}}
+==Bit - Needle==
+[[File:Needle (BX-21).png|left|75px]]
+{{Part|Bit - Needle}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+HellsChain Deck Set Box.jpeg|WizardArrow's box.
+WizardArrow 4-80N Info.png|Info on WizardArrow.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ドランダガーデッキセット＆ヘルズチェインデッキセット
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

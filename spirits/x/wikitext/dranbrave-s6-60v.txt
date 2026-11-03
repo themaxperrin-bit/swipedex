@@ -1,0 +1,159 @@
+{{Beyblade Infobox
+|Image1 = DranBrave S6-60V.png
+|Image1Label = Product
+|Image2 = Beyblade X - DranBrave S6-60V.png
+|Image2Label = Anime
+|Image3 = Beyblade X - DranBrave S6-60V (Manga).png
+|Image3Label = Manga
+|JPName=ドランブレイブ{{Ruby|S|スラッシュ}}{{Ruby|6-60|シックスシックスティ}}{{Ruby|V|ボルテックス}}
+|RomajiName=DoranBureibu Surasshu Shikkusu Shikkusuti Borutekkusu
+|AKA=DranBrave Slash Six Sixty Vortex<br>Courage Dran S 6-60V ([[Hasbro]])<br>Courage Dran (anime, English)
+|ProductCode=CX-01 (Takara Tomy)<br>G1677 (Hasbro)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=45.9 grams
+|Price=2200円<br>USD$12.99<br>CAD$19.99
+|System=Custom Line
+|Series=Beyblade X
+|ReleaseJP=March 29th, 2025
+|ReleaseUS=June 2025
+|ReleaseCA=May 21st, 2025
+|ReleaseEU=May 2025
+|ReleaseAU=May 2025
+|LockChip=Dran
+|MainBlade=Brave
+|AssistBlade=Slash
+|Ratchet=6-60
+|Bit=Vortex
+|Owner=[[Jaxon Cross]]<br>'''Spin-Off:'''<br>[[Tsurugi Ryumai]] (''[[Beytrainer Kiba]]'')
+|Creator=[[Multi Nana-iro]]
+|AppearAnime=[[Beyblade X - Episode 81|All In]]
+|AppearManga=[[Beyblade X - Chapter 22|Multi-Colored Battle]]
+|SpecialMoves=[[Xtreme Dash Max]]<br>[[Xtreme Dash]] (replica)
+|WBO=https://worldbeyblade.org/Thread-Product-CX-01-Starter-DranBrave-S6-60V
+}}{{Translation|'''DranBrave S6-60V'''|ドランブレイブ{{Ruby|S|スラッシュ}}{{Ruby|6-60|シックスシックスティ}}{{Ruby|V|ボルテックス}}|DoranBureibu Surasshu Shikkusu Shikkusuti Borutekkusu|DranBrave Slash Six Sixty Vortex}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released as a Starter in Japan on March 29th, 2025 for 2200円. It later debuted in western countries as '''Courage Dran S 6-60V''' in a Custom Line Starter Pack released by [[Hasbro]] for USD$12.99 in the United States.
+
+It is the successor to [[DranBuster 1-60A]] and is succeeded by its upgrade, [[DranBrave H6-60V]], and [[DranStrike 4-50FF]].
+
+==Lock Chip - Dran==
+[[File:LockChipDran.png|left|75px]]
+{{Part|Lock Chip - Dran}}
+==Main Blade - Brave==
+[[File:MainBladeBrave.png|left|150px]]
+{{Part|Main Blade - Brave}}
+==Assist Blade - Slash==
+[[File:AssistBladeSlash.png|left|150px]]
+{{Part|Assist Blade - Slash}}
+==Ratchet - 6-60==
+[[File:Ratchet6-60.png|left|150px]]
+{{Part|Ratchet - 6-60}}
+==Bit - Vortex==
+[[File:BitVortex.png|left|75px]]
+{{Part|Bit - Vortex}}
+
+==Releases==
+===Takara Tomy===
+* CX-01 Starter (blue)
+* CX-04 "''Special Ver.''" (orange) - Released in the [[Battle Entry Set C]].
+* CX-00 "''Metal Coat: Black''" (black) - Released as a Booster to commemorate the [[Beyblade X World Championship 2025]].
+* CX-00 Booster "Metal Coat: Bronze" (bronze) - Released as a 3rd place G1 tournament prize.
+* CX-00 Booster "Metal Coat: Silver" (silver) - Released as a 2nd place G1 tournament prize.
+* CX-00 Booster "Metal Coat: Gold" (gold) - Released as a 1st place G1 tournament prize.
+
+===Hasbro===
+* G1677 Starter Pack (blue; CX-01 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranBrave S6-60V Box.jpeg|DranBrave's CX-01 Starter box
+DranBrave S6-60V Contents.jpeg|DranBrave's CX-01 Starter contents
+DranBrave S6-60V (Angled View).jpeg|Angled view of DranBrave
+Beyblade X Winder Launcher (Black×White Ver.).jpeg|Winder Launcher (Black×White Ver.)
+DranBrave S6-60V Info.png|Info on DranBrave
+CX-01 Starter - DranBrave S6-60V Promo.jpeg|DranBrave S6-60V CX-01 Starter promo
+DranBrave S6-60V (Special Ver.).png|DranBrave S6-60V (Special Ver.)
+DranBrave S6-60V (Special Ver.) Info.png|Info on DranBrave (Special Ver.)
+CX-04 Battle Entry Set C Promo.jpeg|CX-04 Battle Entry Set C promo
+DranBrave S6-60V Metal Coat Bronze.png|DranBrave S6-60V (Metal Coat: Bronze)
+DranBrave S6-60V Metal Coat Silver.png|DranBrave S6-60V (Metal Coat: Silver)
+DranBrave S6-60V Metal Coat Gold.png|DranBrave S6-60V (Metal Coat: Gold)
+DranBrave S6-60V (Metal Coat Black).png|DranBrave S6-60V (Metal Coat: Black)
+DranBrave S6-60V (Metal Coat Black; Angled View).jpg|Angled view of DranBrave (Metal Coat: Black)
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Courage Dran S 6-60V.jpeg|Courage Dran S 6-60V
+Courage Dran S 6-60V Box.jpeg|Courage Dran's box (wave 5 revision)
+Courage Dran S 6-60V Box Reprint.jpg|Courage Dran's box (wave 7 reprint)
+Courage Dran S 6-60V Box Backside.jpeg|Backside of Courage Dran's box
+Courage Dran S 6-60V Contents.jpeg|Courage Dran's contents
+Courage Dran S 6-60V Parts.jpeg|Courage Dran's parts
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X DranBrave S6-60V 4X Summon.png
+Beyblade X DranBrave S6-60V Avatar 1.png
+Beyblade X DranBrave S6-60V Avatar 2.png
+Beyblade X DranBrave S6-60V Avatar 3.png
+Beyblade X DranBrave S6-60V Avatar 4.png
+Beyblade X DranBrave S6-60V Avatar 5.png
+Beyblade X DranBrave S6-60V Avatar 6.png
+Beyblade X DranBrave S6-60V Avatar 7.png
+Beyblade X DranBrave S6-60V Avatar 8.png
+Beyblade X DranBrave S6-60V Avatar 9.png
+Beyblade X DranBrave S6-60V Avatar 10.png
+BBX81 DranBrave's Down Force Boost.png
+Xtreme Dash Max 3.png|Using [[Xtreme Dash Max]]
+BBX94 DranBrave's downforce.png
+BBX102 DranBrave's downforce.png
+Beyblade X DranBrave S6-60V Avatar 11.png
+BBX103 Xtreme Dash Max.png
+Beyblade X DranBrave S6-60V Avatar 12.png
+Beyblade X DranBrave S6-60V Avatar 13.png
+BBX103 DranBrave's claw.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - DranBrave S6-60V.png
+Beyblade X - DranBrave S6-60V (Angled View).png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - DranBrave S6-60V (Manga).png
+BBX Chapter 23 - DranBrave burst.jpg
+BBX Chapter 23 - DranBrave fast attacking.jpg
+Xtreme Dash Max.jpg
+X Dash DranBrave.jpg
+BBX Chapter 28 - DranBrave wobbling.jpg
+Xtreme Dash Max (Chapter 28).png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【BEYBLADE X】カスタムライン登場編|Product commercial
+【ベイブレード開発者レビュー】カスタムライン登場！ドランブレイブ＆ウィザードアーク＆ペルセウスダーク|Takara Tomy product overview.
+BEYBLADE X - Everything You Need to Know About the New CX Line & COURAGE DRAN S 6-60V!|Hasbro product overview.
+</gallery>
+
+==Trivia==
+*The Dran Lock Chip design was first erroneously revealed on the cover of ''Beyblade X'' volume 5, which placed it on [[DranBuster 1-60A]]'s Gear Chip.
+*There are three variants of Hasbro's Courage Dran starter pack:
+**Initial prints of the wave 5 packaging feature Courage Dran with red printed detailing rather than its normal blue ones. The renders used are likely from a prototype version of Courage Dran.
+**Revised prints of the wave 5 packaging feature the normal blue detailing.
+**The wave 7 reprint of the Courage Dran starter pack, with the "let it rip!" perforation removed.
+*DranBrave's avatar is an upgrade version of DranSword/Dagger/Buster's with several alterations:
+**Blue armor is added to the nose, neck, wrists, abdomen and tail.
+**A dragon-shaped hilt is added to the sword.
+**The manga illustrates the ''Dran'' avatar with a full body armor.
+
+==References==
+{{Reflist}}
+{{Custom Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

@@ -1,0 +1,116 @@
+{{Beyblade Infobox
+|Image1 = CrimsonGaruda 4-70TP.png
+|Image1Label = Product
+|Image2 = Beyblade X - CrimsonGaruda 4-70TP.png
+|Image2Label = Anime
+|Image3 = Beyblade X - CrimsonGaruda 4-70TP (Manga).jpg
+|Image3Label = Manga
+|JPName=クリムゾンガルーダ{{Ruby|4-70|フォーセブンティ}}{{Ruby|TP|トランスポイント}}
+|RomajiName=KurimuzonGarūda Fō Sebunti Toransu Pointo
+|AKA=CrimsonGaruda Four Seventy Trans Point<br>Scarlet Garuda 4-70TP ([[Hasbro]])<br>Scarlet Garuda (anime; English)
+|ProductCode=BX-38 (Takara Tomy)<br>G1673 (Hasbro)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円<br>USD$9.99<br>CAD$16.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 2nd, 2024
+|ReleaseUS=June 2025
+|ReleaseCA=August 2025
+|BladeX=CrimsonGaruda
+|Ratchet=4-70
+|Bit=Trans Point
+|Owner=[[Karla Konjiki]]
+|AppearAnime=[[Beyblade X - Episode 55|Advanced Bey Timeshift]]
+|AppearManga=[[Beyblade X - Chapter 18|Star Battle]]
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Scarlet Burning]]<br>[[Xtra Shoot Crimson Maneuver|Xtreme Dash Scarlet Maneuver]]
+|WBO=
+}}{{Translation|'''CrimsonGaruda 4-70TP'''|クリムゾンガルーダ{{Ruby|4-70|フォーセブンティ}}{{Ruby|TP|トランスポイント}}|KurimuzonGarūda Fō Sebunti Toransu Pointo|CrimsonGaruda Four Seventy Trans Point}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released as a Booster in Japan on November 2nd, 2024 for 1400円. It later debuted in western countries as '''Scarlet Garuda 4-70TP''' in a Starter Pack released by [[Hasbro]] for USD$9.99 in the United States.
+
+==Blade - CrimsonGaruda==
+[[File:BladeCrimsonGaruda.png|left|150px]]
+{{Part|Blade - CrimsonGaruda}}
+==Ratchet - 4-70==
+[[File:4-70 (BX-38).png|left|150px]]
+{{Part|Ratchet - 4-70}}
+==Bit - Trans Point==
+[[File:BitTransPoint.png|left|75px]]
+{{Part|Bit - Trans Point}}
+
+==Releases==
+===Takara Tomy===
+*BX-38 Booster (red)
+
+===Hasbro===
+*G1673 Starter Pack (red)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+CrimsonGaruda 4-70TP Box.jpeg|CrimsonGaruda's box
+CrimsonGaruda 4-70TP (Angled View).jpeg|Angled view of CrimsonGaruda
+CrimsonGaruda 4-70TP Info.png|Info on CrimsonGaruda
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Scarlet Garuda 4-70TP.jpeg|Scarlet Garuda 4-70TP
+Scarlet Garuda 4-70TP Box.jpeg|Scarlet Garuda's box
+Scarlet Garuda 4-70TP Box Backside.jpeg|Backside of Scarlet Garuda's box
+Scarlet Garuda 4-70TP Contents.jpeg|Scarlet Garuda's contents
+Scarlet Garuda 4-70TP Parts.jpeg|Scarlet Garuda's parts
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X CrimsonGaruda 4-70TP 4X Summon.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 1.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 2.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 3.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 4.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 5.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 6.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 7.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 8.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 9.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 10.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 11.png
+Beyblade X CrimsonGaruda 4-70TP Avatar 12.png
+Karura holding CrimsonGaruda.png
+X Dash Crimson Burning (Anime).png|Using [[Xtreme Dash|Xtreme Dash Scarlet Burning]]
+X Dash Crimson Manuever 1.png|Trans Point Bit in High Mode
+X Dash Crimson Manuever 2.png|Trans Point Bit switches to Low Mode
+X Dash Crimson Manuever.png|Using [[Xtra Shoot Crimson Maneuver|Xtreme Dash Scarlet Maneuver]]
+Beyblade X CrimsonGaruda 4-70TP Avatar 13.png
+BBX74 - Garuda on tablet.png|CrimsonGaruda's stats on [[Reiyu Kuwabara|Reiyu]]'s tablet
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - CrimsonGaruda 4-70TP.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - CrimsonGaruda 4-70TP (Manga).jpg
+X Dash Crimson Burning.jpg
+BBX Chapter 18 - CrimsonGaruda's height transforms.jpeg
+BBX Chapter 18 - CrimsonGaruda at a lower height.png
+Xtra Shoot Crimson Maneuver.jpg
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】クリムゾンガルーダ4-70TP|Takara Tomy product overview
+</gallery>
+
+==Trivia==
+*While CrimsonGaruda's name comes from [[wikipedia:Garuda|Garuda]], a bird-like divine creature from Hindu, Buddhist and Jain mythology, the gear chip and 4X avatar features the [[wikipedia:Vermillion Bird|Vermilion Bird]], one of the [[wikipedia:Four Symbols|Four Auspicious Beasts]] from Chinese mythology.
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

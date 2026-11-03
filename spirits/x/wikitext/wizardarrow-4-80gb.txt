@@ -1,0 +1,56 @@
+{{Beyblade Infobox
+|Image=WizardArrow 4-80GB.jpeg
+|JPName=ウィザードアロー{{Ruby|4-80|フォーエイティー}}{{Ruby|GB|ギヤボール}}
+|RomajiName=WizādoArō Fō Eitī Giya Bōru
+|AKA=WizardArrow Four Eighty Gear Ball<br>Arrow Wizard 4-80GB ([[Hasbro]])
+|ProductCode=BX-24 (Takara Tomy)<br>G1531 (Hasbro)
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円<br>USD$7.99<br>CAD$11.99<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=December 27th, 2023
+|ReleaseCA=December 17th, 2024
+|ReleaseUS=January 1st, 2025
+|BladeX=WizardArrow
+|Ratchet=4-80
+|Bit=Gear Ball
+|WBO=https://worldbeyblade.org/Thread-Product-BX-03-Starter-Wizard-Arrow-4-80B
+}}{{Translation|'''WizardArrow 4-80GB'''|ウィザードアロー{{Ruby|4-80|フォーエイティー}}{{Ruby|GB|ギヤボール}}|WizādoArō Fō Eitī Giya Bōru|WizardArrow Four Eighty Gear Ball}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released in Japan on December 27th, 2023 for 1400円 as one of six possible Beyblades in [[Random Booster Vol. 2]]. It was released by [[Hasbro]] as '''Arrow Wizard 4-80GB''' in a Booster Pack for USD$7.99 in the United States.
+
+== Blade - WizardArrow==
+[[File:WizardArrow (BX-24 06).png|left|150px]]
+{{Part|Blade - WizardArrow}}
+==Ratchet - 4-80==
+[[File:4-80 (BX-24 06).png|left|150px]]
+{{Part|Ratchet - 4-80}}
+==Bit - Gear Ball==
+[[File:Gear Ball (BX-24 06).png|left|75px]]
+{{Part|Bit - Gear Ball}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy ====
+<gallery widths="130">
+X Random Booster Vol. 2 Box.jpeg|WizardArrow's box
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Arrow Wizard 4-80GB.jpeg|Arrow Wizard 4-80GB
+Arrow Wizard 4-80GB Box.jpeg|Arrow Wizard's box
+Arrow Wizard 4-80GB Box Backside.jpeg|Backside of Arrow Wizard's box
+WizardArrow 4-80GB (Angled View).png|Angled view of Arrow Wizard
+Arrow Wizard 4-80GB Parts.jpeg|Arrow Wizard's parts
+</gallery>
+
+==Videos==
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

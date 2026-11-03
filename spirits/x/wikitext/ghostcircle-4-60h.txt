@@ -1,0 +1,47 @@
+{{About|the Takara Tomy release|Circle Ghost 4-60LR|the Hasbro release}}
+{{Beyblade Infobox
+|Image=GhostCircle 4-60H.png
+|JPName=ゴーストサークル{{Ruby|4-60|フォーシクスティー}}{{Ruby|H|ヘキサ}}
+|RomajiName=GōsutoSākuru Fō Shikusutī Hekisa
+|AKA=GhostCircle Four Sixty Hexa
+|ProductCode=UX-12
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseJP=December 28th, 2024
+|BladeX=GhostCircle
+|Ratchet=4-60
+|Bit=Hexa
+|WBO=
+}}{{Translation|'''GhostCircle 4-60H'''|ゴーストサークル{{Ruby|4-60|フォーシクスティー}}{{Ruby|H|ヘキサ}}|GōsutoSākuru Fō Shikusutī Hekisa|GhostCircle Four Sixty Hexa}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released in Japan on December 28th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 5]].
+
+==Blade - GhostCircle==
+{{Part|Blade - GhostCircle}}
+==Ratchet - 4-60==
+{{Part|Ratchet - 4-60}}
+==Bit - Hexa==
+{{Part|Bit - Hexa}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 5 Box.jpeg|GhostCircle's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+[[Category:Takara Tomy]]

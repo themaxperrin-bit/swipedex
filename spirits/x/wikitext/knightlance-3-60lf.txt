@@ -1,0 +1,68 @@
+{{Beyblade Infobox
+|Image=KnightLance 3-60LF.jpeg
+|JPName=ナイトランス{{Ruby|3-60|スリーシクスティー}}{{Ruby|LF|ローフラット}}
+|RomajiName=NaitoRansu Surī Shikusutī Rō Furatto
+|AKA=KnightLance Three Sixty Low Flat<br>Lance Knight 3-60LF ([[Hasbro]])
+|ProductCode=BX-21 (Takara Tomy)<br>G1671 (Hasbro)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=
+|Price=3960円<br>USD$7.99<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 2nd, 2023
+|ReleaseUS=August 2025
+|ReleaseCA=August 2025
+|BladeX=KnightLance
+|Ratchet=3-60
+|Bit=Low Flat
+|WBO=https://worldbeyblade.org/Thread-Product-BX-21-HellsChain-Deck-Set-HellsChain-5-60HT
+}}{{Translation|'''KnightLance 3-60LF'''|ナイトランス{{Ruby|3-60|スリーシクスティー}}{{Ruby|LF|ローフラット}}|NaitoRansu Surī Shikusutī Rō Furatto|KnightLance Three Sixty Low Flat}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released as a part of the [[HellsChain Deck Set]] in Japan on November 2nd, 2023 for 3960円. It was released by [[Hasbro]] as '''Lance Knight 3-60LF''' in a Booster Pack for USD$7.99 in the United States.
+
+==Blade - KnightLance==
+[[File:KnightLance (BX-21).png|left|150px]]
+{{Part|Blade - KnightLance}}
+==Ratchet - 3-60==
+[[File:3-60 (BX-21).png|left|150px]]
+{{Part|Ratchet - 3-60}}
+==Bit - Low Flat==
+[[File:Low Flat (BX-21).png|left|75px]]
+{{Part|Bit - Low Flat}}
+
+==Releases==
+===Takara Tomy===
+* BX-21 [[HellsChain Deck Set]] (yellow)
+
+===Hasbro===
+* G1671 Booster Pack (yellow; BX-21 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+HellsChain Deck Set Box.jpeg|KnightLance's box
+KnightLance 3-60LF Info.png|Info on KnightLance
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Lance Knight 3-60LF.jpeg|Lance Knight 3-60LF
+Lance Knight 3-60LF Box.jpeg|Lance Knight's box
+Lance Knight 3-60LF Box Backside.jpeg|Backside of Lance Knight's box
+Lance Knight 3-60LF (Angled View).jpeg|Angled view of Lance Knight
+Lance Knight 3-60LF (Side View).jpeg|Side view of Lance Knight
+Lance Knight 3-60LF Parts.jpeg|Lance Knight's parts
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ドランダガーデッキセット＆ヘルズチェインデッキセット
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

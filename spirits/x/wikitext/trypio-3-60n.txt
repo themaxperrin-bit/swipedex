@@ -1,0 +1,47 @@
+{{Canceled}}
+{{Beyblade Infobox
+|Image=Trypio 3-60N.png
+|JPName=トライピオ3-60N
+|RomajiName=Toraipio 3-60N
+|AKA=Trypio Three Sixty Needle
+|Type=Defense
+|SpinDirection=Right-Spin
+|System=Basic Line
+|System2=X-Over Project
+|Series=Beyblade X
+|BladeX=Trypio
+|Ratchet=3-60
+|Bit=Needle
+}}{{Translation|'''Trypio 3-60N'''|トライピオ3-60N|Toraipio 3-60N|Trypio Three Sixty Needle}} is a Defense Type Beyblade and the ''[[Beyblade X]]'' remake of the [[Spin Gear System]] Beyblade [[Trypio]].
+
+In an August 2023 poll conducted by [[Takara Tomy]] for the [[X-Over Project]], Trypio was voted as the #1 finalist. Two prototypes were developed, with the first one being unveiled at the ''X-Treme Cup'' G1 2023 event on December 9th, 2023.<ref>https://twitter.com/tbh_pr/status/1734043627796811908</ref>
+
+However, on January 29th, 2024 the development team announced that Trypio remake had been canceled due to various safety issues, along with concerns about the marketability of the product.<ref>https://www.beach.jp/circleboard/af10964/topictree/1100217168165</ref> A major concern was that a Blader's fingers could get entangled in the Trypio Blade during a [[Launch]], due to the wide diameter of Trypio's design. While a second prototype with a smaller diameter was considered, designers felt that this design deviated too much from the original look and feel of Trypio, so ultimately shelved the release entirely.
+
+==Blade - Trypio==
+{{Part|Blade - Trypio}}
+
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+
+==Bit - Needle==
+{{Part|Bit - Needle}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X-Over Project Display (X-Treme Cup 2023).jpeg|First prototype displayed at the ''X-Treme Cup'' G1 2023 event
+Trypio X Comparisons.png|Prototype comparisons with the original Trypio
+Trypio X First Prototype.jpg|First prototype
+Trypio X Second Prototype.jpg|Second prototype
+Trypio X Safety Issue.png|Potential safety issue
+</gallery>
+
+==Trivia==
+*This was the first known product in the ''Beyblade X'' toyline to be canceled.
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:X-Over Project]]

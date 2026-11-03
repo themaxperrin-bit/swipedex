@@ -1,0 +1,58 @@
+{{About|the Hasbro release|BucksAntlers B2-60D|the Takara Tomy release}}
+{{Beyblade Infobox
+|Image=Antler Stag B 2-60HN.jpeg
+|JPName=
+|RomajiName=
+|AKA=Antler Stag Bumper Two Sixty High Needle
+|ProductCode=G1684
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=44.2 grams
+|Price=USD$12.99<br>CAD$19.99
+|System=Custom Line
+|Series=Beyblade X
+|ReleaseUS=August 2025
+|ReleaseCA=August 2025
+|LockChip=Stag
+|MainBlade=Antler
+|AssistBlade=Bumper
+|Ratchet=2-60
+|Bit=High Needle
+|WBO=
+}}'''Antler Stag B 2-60HN''' is a Defense Type Beyblade released by [[Hasbro]]. It was released as a Custom Line Starter Pack for USD$12.99 in the United States.
+
+==Lock Chip - Stag==
+{{Part|Lock Chip - Stag}}
+==Main Blade - Antler==
+{{Part|Main Blade - Antler}}
+==Assist Blade - Bumper==
+{{Part|Assist Blade - Bumper}}
+==Ratchet - 2-60==
+{{Part|Ratchet - 2-60}}
+==Bit - High Needle==
+{{Part|Bit - High Needle}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Antler Stag B 2-60HN Box.jpeg|Antler Stag's box
+Antler Stag B 2-60HN Box Backside.jpeg|Backside of Antler Stag's box
+Antler Stag B 2-60HN Contents.jpeg|Antler Stag's contents
+Antler Stag B 2-60HN (Angled View).jpeg|Angled view of Antler Stag
+Antler Stag B 2-60HN (Side View).jpeg|Side view of Antler Stag
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Custom Line Beyblades}}
+[[Category:Hasbro]]

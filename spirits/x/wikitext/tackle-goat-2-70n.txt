@@ -1,0 +1,45 @@
+{{Beyblade Infobox
+|Image=Tackle Goat 2-70N.jpeg
+|JPName=ゴートタックル2-70N
+|RomajiName=
+|AKA=
+|ProductCode=G1688
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=39.8 grams
+|Price=USD$14.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=July 2025
+|ReleaseCA=October 2025
+|BladeX=Tackle Goat
+|Ratchet=2-70
+|Bit=Needle
+}}'''Tackle Goat 2-70N''' is a Defense Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Tackle Goat and Sword Dran Dual Pack]] for USD$14.99 in the United States.
+
+==Blade - Tackle Goat==
+{{Part|Blade - Tackle Goat}}
+==Ratchet - 2-70==
+{{Part|Ratchet - 2-70}}
+==Bit - Needle==
+{{Part|Bit - Needle}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Tackle Goat and Sword Dran Box.jpeg|Tackle Goat's box
+Tackle Goat and Sword Dran Box Backside.jpeg|Backside of Tackle Goat's box
+Tackle Goat 2-70N (Angled View).jpeg|Angled view of Tackle Goat
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

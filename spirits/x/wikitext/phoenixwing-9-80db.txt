@@ -1,0 +1,58 @@
+{{Beyblade Infobox
+|Image1 = PhoenixWing 9-80DB.jpg
+|Image1Label = Product
+|Image2 = PhoenixWing 9-80DB (Manga).jpg
+|Image2Label = Manga
+|JPName=フェニックスウイング{{Ruby|9-80|ナインエイティー}}{{Ruby|DB|ディスクボール}}
+|RomajiName=FenikkusuUingu Nain Eitī Disuku Bōru
+|AKA=PhoenixWing Nine Eighty Disk Ball<br>Bladers Select Bey
+|ProductCode=BX-00
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=48.1 grams
+|Price=1950円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 18th, 2024
+|BladeX=PhoenixWing
+|Ratchet=9-80
+|Bit=Disk Ball
+|Owner=[[Blaze Fujiwara]]
+|Creator=[[Blaze Fujiwara]]
+|WBO=https://worldbeyblade.org/Thread-Product-PhoenixWing-9-80DB-Metal-Coat-Navy-CoroCoro-Mail-Order-Bey
+}}{{Translation|'''PhoenixWing 9-80DB'''|フェニックスウイング{{Ruby|9-80|ナインエイティー}}{{Ruby|DB|ディスクボール}}|FenikkusuUingu Nain Eitī Disuku Bōru|PhoenixWing Nine Eighty Disk Ball}} is a Stamina Type Beyblade released by [[Takara Tomy]] in Japan on November 18th, 2024 for 1950円. It can be obtained with a [[wikipedia:Mail order|mail order]] postcard included with the October 2024 issue of the [[CoroCoro Comic]] magazine, which released on September 13th, 2024.<ref>[https://corocoro-news.jp/news/388872/ CoroCoro Online Post about PhoenixWing 9-80DB]</ref>
+
+The three parts of the Bey were selected in a vote held by CoroCoro Comic, and was dubbed the '''Bladers Select Bey'''.<ref>CoroCoro Comic October 2024 Issue, page 11</ref> Although not shown in the manga, it appears in promotional art with [[Blaze Fujiwara]] in the October 2024 issue of [[CoroCoro Comic]].
+
+==Blade - PhoenixWing==
+{{Part|Blade - PhoenixWing}}
+==Ratchet - 9-80==
+{{Part|Ratchet - 9-80}}
+==Bit - Disk Ball==
+{{Part|Bit - Disk Ball}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Bladers Select Bey Spread.jpg|Illustration card spread<ref>CoroCoro Comic October 2024 Issue</ref>
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Metal Coat Beyblades]]

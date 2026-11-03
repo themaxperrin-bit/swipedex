@@ -1,0 +1,53 @@
+{{Beyblade Infobox
+|Image=WyvernHover 2-80GN.png
+|JPName=ワイバーンホバー{{Ruby|2-80|ツーエイティー}}{{Ruby|GN|ギヤニードル}}
+|RomajiName=WaibānHobā Tsū Eitī Giya Nīdoru
+|AKA=WyvernHover Two Eighty Gear Needle
+|ProductCode=UX-00
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=44.3 grams
+|Price=770円 (for 1 lottery ticket)
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseJP=October 24th, 2025
+|BladeX=WyvernHover
+|Ratchet=2-80
+|Bit=Gear Needle
+|WBO=
+}}{{Translation|'''WyvernHover 2-80GN'''|ワイバーンホバー{{Ruby|2-80|ツーエイティー}}{{Ruby|GN|ギヤニードル}}|WaibānHobā Tsū Eitī Giya Nīdoru|WyvernHover Two Eighty Gear Needle}} is a Defense Type Beyblade released by [[Takara Tomy]] in Japan on October 24th, 2025. It can be obtained as the grand "A prize" from a DMM Lottery.
+
+==Blade - WyvernHover==
+{{Part|Blade - WyvernHover}}
+==Ratchet - 2-80==
+{{Part|Ratchet - 2-80}}
+==Bit - Gear Needle==
+{{Part|Bit - Gear Needle}}
+
+==Releases==
+===Takara Tomy===
+*UX-00 Booster (purple/gray) - Released as a DMM Lottery exclusive prize
+*UX-00 Booster "''Metal Coat: Violet''" (purple/gray) - Released as a DMM Lottery exclusive prize
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+WyvernHover 2-80GN.jpg
+WyvernHover 2-80GN.png
+WyvernHover 2-80GN (Angled View).png|Angled view of WyvernHover
+WyvernHover 2-80GN Metal Coat Violet.png|Angled view of WyvernHover (Metal Coat: Violet)
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】BEYBLADE X DMMくじ ワイバーンホバー2-80GN|Takara Tomy product overview
+</gallery>
+
+==Trivia==
+* The violet recolors of this Bey are said to be based on the [[Wyvern Armed Massive|Wyvern]] line from the ''[[Beyblade Burst]]'' series.<ref>https://youtu.be/0Xd46ORGCQA?t=192</ref>
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+[[Category:Takara Tomy]]

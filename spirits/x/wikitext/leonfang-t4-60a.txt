@@ -1,0 +1,75 @@
+{{About|the Takara Tomy release|Fang Leon T 4-60U|the Hasbro release}}
+{{Beyblade Infobox
+|Image=LeonFang T4-60A.jpg<!--
+|Image1Label=Product-->
+|JPName=レオンファング{{Ruby|T|ターン}}{{Ruby|4-60|フォーシクスティー}}{{Ruby|A|アクセル}}
+|RomajiName=ReonFangu Tān Fō Shikusutī Akuseru
+|AKA=LeonFang Turn Four Sixty Accel<br>Fang Leon T 4-60A
+|ProductCode=CX-00
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=46.4 grams
+|Price=8228円
+|System=Custom Line
+|Series=Beyblade X
+|ReleaseJP=November 13th, 2025
+|LockChip=Leon
+|MainBlade=Fang
+|AssistBlade=Turn
+|Ratchet=4-60
+|Bit=Accel
+|Owner=[[Line Shindo]]
+|Creator=
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Absolute Fang]]
+|WBO=
+}}{{Translation|'''LeonFang T4-60A'''|レオンファング{{Ruby|T|ターン}}{{Ruby|4-60|フォーシクスティー}}{{Ruby|A|アクセル}}|ReonFangu Tān Fō Shikusutī Akuseru|LeonFang Turn Four Sixty Accel}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan with the ''[[Beyblade X: Evobattle]]'' Nintendo Switch game on November 13th, 2025 for 8228円.
+
+==Lock Chip - Leon==
+[[File:LockChipLeon.png|left|150px]]
+{{Part|Lock Chip - Leon}}
+==Main Blade - Fang==
+[[File:MainBladeFang.png|left|150px]]
+{{Part|Main Blade - Fang}}
+==Assist Blade - Turn==
+[[File:Turn (Red Ver.; CX-00).png|left|150px]]
+{{Part|Assist Blade - Turn}}
+==Ratchet - 4-60==
+[[File:4-60 (Red Ver.; CX-00).png|left|150px]]
+{{Part|Ratchet - 4-60}}
+==Bit - Accel==
+[[File:Accel (Red Ver.; CX-00).png|left|75px]]
+{{Part|Bit - Accel}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+LeonFang T4-60A (Angled View).jpeg|Angled View of LeonFang.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+</gallery>
+
+===Manga===
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】レオンファングT4-60A レッドVer.【ベイブレードエックス エボバトル特典】|Takara Tomy product overview.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Custom Line Beyblades}}
+[[Category:Takara Tomy]]

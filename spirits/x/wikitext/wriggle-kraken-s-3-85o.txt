@@ -1,0 +1,63 @@
+{{About|the Hasbro release|KrakenWriggle S3-70O|the Takara Tomy release}}
+{{Beyblade Infobox
+|Image=Wriggle Kraken S 3-85O.jpeg
+|JPName=
+|RomajiName=
+|AKA=Wriggle Kraken Slash Three Eighty-Five Orb
+|ProductCode=G1683
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=
+|Price=USD$12.99<br>CAD$19.99
+|System=Custom Line
+|Series=Beyblade X
+|ReleaseUS=August 2025
+|ReleaseCA=August 2025
+|LockChip=Kraken
+|MainBlade=Wriggle
+|AssistBlade=Slash
+|Ratchet=3-85
+|Bit=Orb
+|WBO=
+}}'''Wriggle Kraken S 3-85O''' is a Stamina Type Beyblade released by [[Hasbro]]. It was released as a Custom Line Starter Pack for USD$12.99 in the United States.
+
+==Lock Chip - Kraken==
+{{Part|Lock Chip - Kraken}}
+==Main Blade - Wriggle==
+{{Part|Main Blade - Wriggle}}
+==Assist Blade - Slash==
+{{Part|Assist Blade - Slash}}
+==Ratchet - 3-85==
+{{Part|Ratchet - 3-85}}
+==Bit - Orb==
+{{Part|Bit - Orb}}
+
+==Releases==
+===Hasbro===
+* G1683 Custom Line Starter Pack (blue)
+* G3084 [[Rival Rumble Pack]] (blue; G1683 model)
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Wriggle Kraken S 3-85O Box.jpeg|Wriggle Kraken's box
+Wriggle Kraken S 3-85O Box Backside.jpeg|Backside of Wriggle Kraken's box
+Wriggle Kraken S 3-85O Contents.jpeg|Wriggle Kraken's contents
+Wriggle Kraken S 3-85O (Angled View).jpeg|Angled view of Wriggle Kraken
+Wriggle Kraken S 3-85O (Side View).jpeg|Side view of Wriggle Kraken
+Rival Rumble Pack Box.jpeg|Rival Rumble Pack's box
+Rival Rumble Pack Box Backside.jpeg|Backside of the Rival Rumble Pack's box
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+*The colors of the Lock Chip motif differ between the packaging, 3D render, and final product. While the packaging and 3D render show pink under the "BEYBLADE X" text and the background, the final product has two tones of blue instead.
+
+==References==
+{{Reflist}}
+{{Custom Line Beyblades}}
+[[Category:Hasbro]]

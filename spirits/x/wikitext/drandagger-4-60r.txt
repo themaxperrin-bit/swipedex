@@ -1,0 +1,148 @@
+{{Beyblade Infobox
+|Image1 = DranDagger 4-60R.jpeg
+|Image1Label = Product
+|Image2 = Beyblade X - DranDagger 4-60R.png
+|Image2Label = Anime
+|Image3 = Beyblade X - DranDagger 4-60R (Manga).png
+|Image3Label = Manga
+|Image4 = Beyblade X - DranDagger 4-60R (Game).png
+|Image4Label = Game
+|JPName=ドランダガー{{Ruby|4-60|フォーシクスティー}}{{Ruby|R|ラッシュ}}
+|RomajiName=DoranDagā Fō Shikusutī Rasshu
+|AKA=DranDagger Four Sixty Rush<br>Dagger Dran 4-60R ([[Hasbro]])<br>Dagger Dran (anime, English)
+|ProductCode=BX-20 (Takara Tomy)<br>F9588 (Hasbro)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=43.2 grams (first mold)<br>43.7 grams (second mold)<br>44.4 grams (third mold)
+|Price=3960円<br>USD$49.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 2nd, 2023
+|ReleaseUS=June 1st, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseAU=May 16th, 2024
+|BladeX=DranDagger
+|Ratchet=4-60
+|Bit=Rush
+|Owner=[[Jaxon Cross]]<br>[[Khrome Ryugu]] (replica)<br>'''Spin-Off:'''<br>[[Nagi Ryumai]] (''[[Beytrainer Kiba]]'')
+|Creator=[[Multi Nana-iro]]
+|AppearAnime=[[Beyblade X - Episode 10|The Pro Realm]]
+|AppearManga=[[Beyblade X - Chapter 06|Warden's Exam]]
+|SpecialMoves=[[Xtreme Dash]]<br>[[Xtreme Dash Double]]<br>[[Triple Xtreme Dash]]<br>[[Xtreme Dash Infinite]]<br>[[Xtreme Dash|Double Thrust Xtreme Dash]] (anime only)<br>[[Xtreme Dash|Triple Thrust Xtreme Dash]] (anime only)
+|WBO=https://worldbeyblade.org/Thread-Product-BX-20-DranDagger-Deck-Set-DranDagger-4-60R
+}}{{Translation|'''DranDagger 4-60R'''|ドランダガー{{Ruby|4-60|フォーシクスティー}}{{Ruby|R|ラッシュ}}|DoranDagā Fō Shikusutī Rasshu|DranDagger Four Sixty Rush}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released as a part of the [[DranDagger Deck Set]] in Japan on November 2nd, 2023 for 3960円. It later debuted in western countries as '''Dagger Dran 4-60R''' in the [[Xtreme Battle Set]] released by [[Hasbro]] for USD$49.99 in the United States.
+
+It is the successor to [[DranSword 3-60F]] and is succeeded by [[DranBuster 1-60A]].
+
+==Blade - DranDagger==
+[[File:BladeDranDagger.png|left|150px]]
+{{Part|Blade - DranDagger}}
+==Ratchet - 4-60==
+[[File:4-60 (BX-20).png|left|150px]]
+{{Part|Ratchet - 4-60}}
+==Bit - Rush==
+[[File:BitRush.png|left|75px]]
+{{Part|Bit - Rush}}
+
+==Releases==
+===Takara Tomy===
+*BX-20 [[DranDagger Deck Set]] (blue)
+*BX-00 BBLD Booster - 01 (Black-BBLD)
+*BX-00 BBLD Booster - 02 (Blue-BBLD)
+
+===Hasbro===
+*F9588 [[Xtreme Battle Set]] (blue; BX-20 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranDagger Deck Set Box.jpeg|DranDagger's box.
+DranDagger 4-60R (Angled View).png|Angled view of DranDagger.
+DranDagger 4-60R Info.png|Info on DranDagger.
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Dagger Dran 4-60R.jpeg|Dagger Dran 4-60R
+Xtreme Battle Set Box.jpeg|Xtreme Battle Set's box.
+Xtreme Battle Set Box Backside.jpeg|Backside of the Xtreme Battle Set's box.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X DranDagger 4-60R 4X Summon.png
+Beyblade X DranSword 3-60F Avatar 1.png
+Beyblade X DranSword 3-60F Avatar 2.png
+Beyblade X DranSword 3-60F Avatar 3.png
+Beyblade X DranSword 3-60F Avatar 4.png
+Beyblade X DranSword 3-60F Avatar 5.png
+Beyblade X DranSword 3-60F Avatar 6.png
+Beyblade X DranSword 3-60F Avatar 7.png
+Beyblade X DranSword 3-60F Avatar 8.png
+Beyblade X DranSword 3-60F Avatar 9.png
+Beyblade X DranSword 3-60F Avatar 10.png
+Beyblade X DranSword 3-60F Avatar 11.png
+Beyblade X DranSword 3-60F Avatar 12.png
+Beyblade X DranDagger 4-60R Avatar 1.png
+Beyblade X DranDagger 4-60R Avatar 2.png
+Beyblade X DranDagger 4-60R Avatar 3.png
+Beyblade X DranDagger 4-60R Avatar 4.png
+Beyblade X DranDagger 4-60R Avatar 5.png
+Beyblade X DranDagger 4-60R Avatar 6.png
+Beyblade X DranDagger 4-60R Avatar 7.png
+Beyblade X DranDagger 4-60R Avatar 8.png
+Beyblade X DranDagger 4-60R Avatar 9.png
+Beyblade X DranDagger 4-60R Avatar 10.png
+Beyblade X DranDagger 4-60R Avatar 11.png
+Beyblade X DranDagger 4-60R Avatar 12.png
+Beyblade X DranDagger 4-60R Avatar 13.png
+Beyblade X DranDagger 4-60R Avatar 14.png
+X Dash DranDagger Anime.png
+BBX24 DranDagger's Xtreme Dash.png|Using [[Xtreme Dash]]
+BBX25 DranDagger's 6 compact barrage blades.png
+BBX25 Rush Bit's reduced gear ratio.png
+Kuromu's Xtreme Dash ∞ 2.png|Using [[Xtreme Dash]]
+BBX50 Ekusu holding damaged DranDagger.png
+Ekusu using Two Accel Driver Xtreme Dash - 2.png
+Ekusu using Three Accel Driver Xtreme Dash.png
+</gallery>
+
+===Control Art===
+<gallery widths="130">
+Beyblade X - DranDagger 4-60R.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - DranDagger 4-60R (Manga).png
+X Dash DranDagger.jpg
+BBX Chapter 8 - DranDagger can be seen.jpeg
+BBX Chapter 8 - DranDagger's Xtreme Dash.jpeg
+Dran Dagger Double X Dash.png
+Triple Xtreme Dash.jpg
+BBX Chapter 8 - DranDagger's Blade and Rush Bit.png
+BBX Chapter 8 - DranDagger's Infinite attacks.jpeg
+Xtreme Dash Infinity.jpg
+Khrome's X Dash Infinity.jpg
+Xtreme Dash Infinity (Chapter 15).png
+BBX Chapter 15 - Damaged DranDagger.png
+BBX Chapter 16 - DranDagger's Xtreme Dash.jpeg
+Dran Dagger Double X Dash 2.png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ドランダガーデッキセット＆ヘルズチェインデッキセット|Takara Tomy product overview
+Discover the Next Level of BEYBLADE- BEYBLADE X!|Hasbro product overview
+</gallery>
+
+==Trivia==
+*This is currently the only ''Dran'' Beyblade to not be released as a Starter in both Takara Tomy and Hasbro releases.
+*Coincidentally, this is the ''Dran'' Beyblade that Jaxon uses when first trying out a new stadium.<ref>''[[Beyblade X (Season 2)|Beyblade X]]'' Episode 61, ''[[Beyblade X - Episode 61|Invincible]]''</ref><ref>[[Beyblade X (Season 2)|''Beyblade X'']] Episode 72, ''[[Beyblade X - Episode 72|Labyrinth of Riddles and Terror]]''</ref><ref>''[[Beyblade X (Season 3)|Beyblade X]]'' Episode 114, [[Beyblade X - Episode 114|''Towards the Future'']]</ref>
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

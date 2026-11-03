@@ -1,0 +1,51 @@
+{{Beyblade Infobox
+|Image=Quetzalcoatlus 4-55D.png
+|JPName=ケツァルコアトルス{{Ruby|4-55|フォーフィフティーファイブ}}{{Ruby|D|ドット}}
+|RomajiName=Ketsuarukoatorusu Fō Fifutī Faibu Dotto
+|AKA=Quetzalcoatlus Four Fifty Five Dot<br>Talon Ptera 4-55D (Jurassic World Ver.)<br>PteraSwing 4-55D (Jurassic World Ver.)
+|ProductCode=G1899 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=41.1 grams
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 19th, 2025
+|ReleaseUS=June 2025
+|ReleaseCA=August 2025
+|ReleaseAU=June 2025
+|BladeX=Quetzalcoatlus
+|Ratchet=4-55
+|Bit=Dot
+}}{{Translation|'''Quetzalcoatlus 4-55D'''|ケツァルコアトルス{{Ruby|4-55|フォーフィフティーファイブ}}{{Ruby|D|ドット}}|Ketsuarukoatorusu Fō Fifutī Faibu Dotto|Quetzalcoatlus Four Fifty Five Dot}} is a Defense Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Spinosaurus and Quetzalcoatlus Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on July 19th, 2025 for 4180円 in Japan.
+
+The Takara Tomy release refers to this Beyblade's full name as '''Quetzalcoatlus PteraSwing 4-55D Jurassic World Version'''.
+
+==Blade - Quetzalcoatlus==
+{{Part|Blade - Quetzalcoatlus}}
+==Ratchet - 4-55==
+{{Part|Ratchet - 4-55}}
+==Bit - Dot==
+{{Part|Bit - Dot}}
+
+==Gallery==
+<gallery widths="130">
+Spinosaurus and Quetzalcoatlus Box.jpeg|Quetzalcoatlus's box (Hasbro).
+Spinosaurus and Quetzalcoatlus Box Backside.jpeg|Backside of Quetzalcoatlus's box (Hasbro).
+Spinosaurus and Quetzalcoatlus Box (Takara Tomy).jpeg|Quetzalcoatlus's box (Takara Tomy).
+Quetzalcoatlus 4-55D (Angled View).png|Angled view of Quetzalcoatlus.
+Quetzalcoatlus 4-55D (Angled View) 2.png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ジュラシック・ワールドコラボ！T-レックス-モササウルス＆スピノサウルス-ケツァルコアトルス|Takara Tomy product overview
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

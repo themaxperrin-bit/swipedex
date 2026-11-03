@@ -1,0 +1,79 @@
+{{Beyblade Infobox
+|Image1=HellsScythe 3-80F.jpg
+|Image1Label=Product
+|Image2=HellsScythe 3-80F (Manga).jpg
+|Image2Label=Manga
+|JPName=ヘルズサイズ3-80F
+|RomajiName=HeruzuSaizu 3-80F
+|AKA=HellsScythe Three Eighty Flat<br>SP X Bey<br>Special Cross Bey
+|ProductCode=BX-00
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=42.2 grams
+|Price=1750円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=January 27th, 2024
+|BladeX=HellsScythe
+|Ratchet=3-80
+|Bit=Flat
+|Owner=[[Robin Kazami]]
+|Creator=[[Robin Kazami]]<br>[[Jaxon Cross]] (Assistance)<br>[[Multi Nana-iro]] (Assistance)
+|AppearAnime=
+|AppearManga=
+|SpecialMoves=
+|WBO=https://worldbeyblade.org/Thread-Product-HellsScythe-3-80F-SP-X-Bey-CoroCoro-Mail-Order-Bey
+}}{{Translation|'''HellsScythe 3-80F'''|ヘルズサイズ3-80F|HeruzuSaizu 3-80F|HellsScythe Three Eighty Flat}} or {{Translation|'''SP X Bey'''|スペシャルクロスベイ|Supesharu Kurosu Bei|Special Cross Bey}} is an Attack Type Beyblade released by [[Takara Tomy]] in Japan for 1750円. It can be obtained with a [[wikipedia:Mail order|mail order]] postcard included with the February 2024 issue of the [[CoroCoro Comic]] magazine, which released on January 15th, 2024.<ref>[https://corocoro.jp/news/377976/ CoroCoro Online Post about HellsScythe 3-80F]</ref> The first batch of orders were shipped on January 27th, 2024. The deadline for the mail order was February 17th, 2024.<ref>CoroCoro Comic February 2024 Issue, mail order postcard</ref>
+
+The coloring is based on Team [[Persona]]'s colors and the Gear Chip design is by ''Beyblade X'' manga artist [[wikipedia:Posuka Demizu|Posuka Demizu]]. Included with the Beyblade is a "dress-up" sticker sheet and an illustration card.
+
+In the manga, the Beyblade is owned by [[Robin Kazami]], who created it with the help of [[Jaxon Cross]] and [[Multi Nana-iro]]. It is intended to represent the friendship of Team Persona, and contains a part from each of their first Beys when they met.<ref>CoroCoro Comic January 2024 Issue, page 40</ref>
+
+==Blade - HellsScythe==
+{{Part|Blade - HellsScythe}}
+==Ratchet - 3-80==
+{{Part|Ratchet - 3-80}}
+==Bit - Flat==
+{{Part|Bit - Flat}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+HellsScythe 3-80F.jpg
+HellsScythe 3-80F Stickers.png
+</gallery>
+
+===Anime===
+<gallery widths="130">
+</gallery>
+
+===Manga===
+<gallery widths="130">
+HellsScythe 3-80F (Manga).jpg
+SP X Bey completed.jpg|Completed
+SP X Bey Burst Finish.jpg|[[Burst Finish]] against [[Jaxon Cross|Jaxon]]'s [[DranSword 3-60F]]
+SP X Bey Spread.jpg|Illustration card spread<ref>CoroCoro Comic February 2024 Issue</ref>
+SP X Bey Gear Chip.jpg|Gear Chip
+</gallery>
+
+===Video Game===
+<gallery widths="130">
+Beyblade X App HellsScythe 3-80F.png|[[Beyblade X App]] model.
+Beyblade X App HellsScythe 3-80F Top View.png|Beyblade X App model, top view.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+*The Beyblade incorporates a part from each member of Team Persona:
+**Robin's [[Blade - HellsScythe|HellsScythe]] Blade from [[HellsScythe 4-60T]].
+**Multi's [[Ratchet - 3-80|3-80]] Ratchet from [[KnightShield 3-80N]].
+**Jaxon's [[Bit - Flat|Flat]] Bit from [[DranSword 3-60F]].
+*On the cover of chapter 8 of the manga, the members of Persona can be seen in a "Bey customization meeting" that resulted in this Bey.
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}

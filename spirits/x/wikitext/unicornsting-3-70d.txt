@@ -1,0 +1,46 @@
+{{Beyblade Infobox
+|Image=UnicornSting 3-70D.jpeg
+|JPName=ユニコーンスティング{{Ruby|3-70|スリーセブンティー}}{{Ruby|D|ドット}}
+|RomajiName=YunikōnSutingu Surī Sebuntī Dotto
+|AKA=UnicornSting Three Seventy Dot
+|ProductCode=BX-35
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 13th, 2024
+|BladeX=UnicornSting
+|Ratchet=3-70
+|Bit=Dot
+|WBO=
+}}{{Translation|'''UnicornSting 3-70D'''|ユニコーンスティング{{Ruby|3-70|スリーセブンティー}}{{Ruby|D|ドット}}|YunikōnSutingu Surī Sebuntī Dotto|UnicornSting Three Seventy Dot}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released in Japan on July 13th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 4]].
+
+==Blade - UnicornSting==
+{{Part|Blade - UnicornSting}}
+==Ratchet - 3-70==
+{{Part|Ratchet - 3-70}}
+==Bit - Dot==
+{{Part|Bit - Dot}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 4 Box.jpeg|UnicornSting's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

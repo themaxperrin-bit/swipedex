@@ -1,0 +1,51 @@
+{{Beyblade Infobox
+|Image=Mosasaurus 9-60U.png
+|JPName=モササウルス{{Ruby|9-60|ナインシクスティー}}{{Ruby|U|ユナイト}}
+|RomajiName=Mosasaurusu Nain Shikusutī Yunaito
+|AKA=Mosasaurus Nine Sixty Unite<!--<br>Ridge Triceratops 9-60U (Jurassic World Ver.)--><br>TriceraSpiky 9-60U (Jurassic World Ver.)
+|ProductCode=G1898 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 19th, 2025
+|ReleaseUS=June 2025
+|ReleaseCA=August 2025
+|ReleaseAU=June 2025
+|BladeX=Mosasaurus
+|Ratchet=9-60
+|Bit=Unite
+}}{{Translation|'''Mosasaurus 9-60U'''|モササウルス{{Ruby|9-60|ナインシクスティー}}{{Ruby|U|ユナイト}}|Mosasaurusu Nain Shikusutī Yunaito|Mosasaurus Nine Sixty Unite}} is a Balance Type Beyblade released by [[Hasbro]]. It was released as a part of the [[T. Rex and Mosasaurus Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on July 19th, 2025 for 4180円 in Japan.
+
+The Takara Tomy release refers to this Beyblade's full name as '''Mosasaurus TriceraSpiky 9-60U Jurassic World Version'''.
+
+==Blade - Mosasaurus==
+{{Part|Blade - Mosasaurus}}
+==Ratchet - 9-60==
+{{Part|Ratchet - 9-60}}
+==Bit - Unite==
+{{Part|Bit - Unite}}
+
+==Gallery==
+<gallery widths="130">
+T. Rex and Mosasaurus Box.jpeg|Mosasaurus's box (Hasbro).
+T. Rex and Mosasaurus Box Backside.jpeg|Backside of Mosasaurus's box (Hasbro).
+T. Rex and Mosasaurus Box (Takara Tomy).jpeg|Mosasaurus's box (Takara Tomy).
+Mosasaurus 9-60U (Angled View).png|Angled view of Mosasaurus.
+Mosasaurus 9-60U (Angled View) 2.png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ジュラシック・ワールドコラボ！T-レックス-モササウルス＆スピノサウルス-ケツァルコアトルス|Takara Tomy product overview
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

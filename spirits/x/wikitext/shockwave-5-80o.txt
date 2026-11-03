@@ -1,0 +1,39 @@
+{{Beyblade Infobox
+|Image=Shockwave 5-80O.jpeg
+|AKA=Shockwave Five Eighty Orb
+|ProductCode=G1692
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=
+|Price=USD$24.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=September 2025
+|ReleaseCA=November 2025
+|BladeX=Shockwave
+|Ratchet=5-80
+|Bit=Orb
+}}'''Shockwave 5-80O''' is a Balance Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Bumblebee and Shockwave Multipack Set]] for USD$24.99 in the United States.
+
+==Blade - Shockwave==
+{{Part|Blade - Shockwave}}
+==Ratchet - 5-80==
+{{Part|Ratchet - 5-80}}
+==Bit - Orb==
+{{Part|Bit - Orb}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Bumblebee and Shockwave Box.jpeg|Shockwave's box
+Bumblebee and Shockwave Box Backside.jpeg|Backside of Shockwave's box
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Hasbro Exclusives]]

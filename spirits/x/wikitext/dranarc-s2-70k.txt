@@ -1,0 +1,68 @@
+{{Beyblade Infobox
+|Image=DranArc S2-70K.jpg
+|JPName=ドランアーク{{Ruby|S|スラッシュ}}{{Ruby|2-70|ツーセブンティー}}{{Ruby|K|キック}}
+|RomajiName=DoranĀku Surasshu Tsū Sebuntī Kikku
+|AKA=DranArc Slash Two Seventy Kick
+|ProductCode=CX-00
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=<!--TBA円-->
+|System=Custom Line
+|Series=Beyblade X
+|ReleaseJP=2025
+|LockChip=Dran
+|MainBlade=Arc
+|AssistBlade=Slash
+|Ratchet=2-70
+|Bit=Kick
+|Owner=
+|Creator=
+|AppearManga=
+|SpecialMoves=
+|WBO=
+}}{{Translation|'''DranArc S2-70K'''|ドランアーク{{Ruby|S|スラッシュ}}{{Ruby|2-70|ツーセブンティー}}{{Ruby|K|キック}}|DoranĀku Surasshu Tsū Sebuntī Kikku|DranArc Slash Two Seventy Kick}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released in Japan in 2025 as a [[CoroCoro Comic]] lottery prize in Japan, with only 100 units being given away.
+
+==Lock Chip - Dran==
+{{Part|Lock Chip - Dran}}
+==Main Blade - Arc==
+{{Part|Main Blade - Arc}}
+==Assist Blade - Slash==
+{{Part|Assist Blade - Slash}}
+==Ratchet - 2-70==
+{{Part|Ratchet - 2-70}}
+==Bit - Kick==
+{{Part|Bit - Kick}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranArc S2-70K (Angled View).jpeg|Angled view of DranArc S2-70K
+</gallery>
+
+===Anime===
+<gallery widths="130">
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+</gallery>
+
+===Manga===
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Custom Line Beyblades}}
+[[Category:Takara Tomy]]

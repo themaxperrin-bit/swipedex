@@ -1,0 +1,44 @@
+{{Beyblade Infobox
+|Image = RhinoHorn 5-80Q.jpeg 
+|JPName=ライノホーン{{Ruby|5-80|ファイブエイティー}}{{Ruby|Q|クエイク}}
+|RomajiName=RainoHōn Faibu Eitī Kueiku
+|AKA=RhinoHorn Five Eighty Quake
+|ProductCode=BX-31
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=April 27th, 2024
+|BladeX=RhinoHorn
+|Ratchet=5-80
+|Bit=Quake
+|WBO=
+}}{{Translation|'''RhinoHorn 5-80Q'''|ライノホーン{{Ruby|5-80|ファイブエイティー}}{{Ruby|Q|クエイク}}|RainoHōn Faibu Eitī Kueiku|RhinoHorn Five Eighty Quake}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan on April 27th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 3]].
+
+==Blade - RhinoHorn==
+{{Part|Blade - RhinoHorn}}
+==Ratchet - 5-80==
+{{Part|Ratchet - 5-80}}
+==Bit - Quake==
+{{Part|Bit - Quake}}<!--
+
+==Releases==-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

@@ -1,0 +1,43 @@
+{{Beyblade Infobox
+|Image = ShinobiShadow 9-60LF (UX-05 02).jpeg
+|JPName=シノビシャドウ{{Ruby|9-60|ナインシクスティー}}{{Ruby|LF|ローフラット}}
+|RomajiName=ShinobiShadou Nain Shikusutī Rō Furatto
+|AKA=ShinobiShadow Nine Sixty Low Flat
+|ProductCode=UX-05
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseJP=May 18th, 2024
+|BladeX=ShinobiShadow
+|Ratchet=9-60
+|Bit=Low Flat
+|WBO=https://worldbeyblade.org/Thread-Product-UX-05-Random-Booster-ShinobiShadow-Select-Rare-ShinobiShadow-1-80MN
+}}{{Translation|'''ShinobiShadow 9-60LF'''|シノビシャドウ{{Ruby|9-60|ナインシクスティー}}{{Ruby|LF|ローフラット}}|ShinobiShadou Nain Shikusutī Rō Furatto|ShinobiShadow Nine Sixty Low Flat}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan on May 18th, 2024 for 1400円 as one of three Beyblades in [[Random Booster ShinobiShadow Select]].
+
+==Blade - ShinobiShadow==
+{{Part|Blade - ShinobiShadow}}
+==Ratchet - 9-60==
+{{Part|Ratchet - 9-60}}
+==Bit - Low Flat==
+{{Part|Bit - Low Flat}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster ShinobiShadow Select Box.jpeg|ShinobiShadow's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+[[Category:Takara Tomy]]

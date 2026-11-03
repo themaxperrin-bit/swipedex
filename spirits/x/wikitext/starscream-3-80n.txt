@@ -1,0 +1,42 @@
+{{Beyblade Infobox
+|Image=Starscream 3-80N.jpeg
+|JPName=スタースクリーム{{Ruby|3-80|スリーエイティー}}{{Ruby|N|ニードル}}
+|RomajiName=Sutāsukurīmu Surī Eitī Nīdoru
+|AKA=Starscream Three Eighty Needle
+|ProductCode=G0352 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=38.6 grams
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=July 13th, 2024
+|ReleaseCA=July 19th, 2024
+|ReleaseJP=May 17th, 2025
+|BladeX=Starscream
+|Ratchet=3-80
+|Bit=Needle
+}}{{Translation|'''Starscream 3-80N'''|スタースクリーム{{Ruby|3-80|スリーエイティー}}{{Ruby|N|ニードル}}|Sutāsukurīmu Surī Eitī Nīdoru|Starscream Three Eighty Needle}} is a Defense Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Optimus Primal and Starscream Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on May 17th, 2025 for 4180円 in Japan.
+
+==Blade - Starscream==
+{{Part|Blade - Starscream}}
+==Ratchet - 3-80==
+{{Part|Ratchet - 3-80}}
+==Bit - Needle==
+{{Part|Bit - Needle}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Optimus Primal and Starscream Box.jpeg|Starscream's box.
+Optimus Primal and Starscream Box Backside.jpeg|Backside of Starscream's box.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

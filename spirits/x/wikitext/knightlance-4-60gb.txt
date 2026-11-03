@@ -1,0 +1,43 @@
+{{Beyblade Infobox
+|Image=KnightLance 4-60GB.jpeg
+|JPName=ナイトランス{{Ruby|4-60|フォーシクスティー}}{{Ruby|GB|ギヤボール}}
+|RomajiName=NaitoRansu Fō Shikusutī Giya Bōru
+|AKA=KnightLance Four Sixty Gear Ball
+|ProductCode=BX-24
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=December 27th, 2023
+|BladeX=KnightLance
+|Ratchet=4-60
+|Bit=Gear Ball
+|WBO=https://worldbeyblade.org/Thread-Product-BX-24-Random-Booster-Vol-2-Rare-WyvernGale-5-80GB
+}}{{Translation|'''KnightLance 4-60GB'''|ナイトランス{{Ruby|4-60|フォーシクスティー}}{{Ruby|GB|ギヤボール}}|NaitoRansu Fō Shikusutī Giya Bōru|KnightLance Four Sixty Gear Ball}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released in Japan on December 27th, 2023 for 1400円 as one of six possible Beyblades in [[Random Booster Vol. 2]].
+
+== Blade - KnightLance==
+{{Part|Blade - KnightLance}}
+==Ratchet - 4-60 ==
+{{Part|Ratchet - 4-60}}
+==Bit - Gear Ball==
+{{Part|Bit - Gear Ball}}
+
+==Gallery ==
+=== Toyline===
+====Takara Tomy ====
+<gallery widths="130">
+X Random Booster Vol. 2 Box.jpeg|KnightLance's Box
+</gallery>
+
+==Videos ==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

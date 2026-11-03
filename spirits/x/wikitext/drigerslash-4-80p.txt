@@ -1,0 +1,67 @@
+{{Beyblade Infobox
+|Image=DrigerSlash 4-80P.jpeg
+|JPName=ドライガースラッシュ{{Ruby|4-80|フォーエイティー}}{{Ruby|P|ポイント}}
+|RomajiName=DoraigāSurasshu Fō Eitī Pointo
+|AKA=DrigerSlash Four Eighty Point<br>Driger Slash 4-80P ([[Hasbro]])
+|ProductCode=BX-00 (Takara Tomy)<br>G1843 (Hasbro)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=37.8 grams
+|Price=1600円<br>USD$12.99<br>CAD$19.99
+|System=Basic Line
+|System2=X-Over Project
+|Series=Beyblade X
+|ReleaseJP=April 27th, 2024
+|ReleaseUS=May 2025
+|ReleaseCA=May 2025
+|BladeX=DrigerSlash
+|Ratchet=4-80
+|Bit=Point
+|WBO=https://worldbeyblade.org/Thread-Product-BX-00-Booster-Driger-Slash-4-80P
+}}{{Translation|'''DrigerSlash 4-80P'''|ドライガースラッシュ{{Ruby|4-80|フォーエイティー}}{{Ruby|P|ポイント}}|DoraigāSurasshu Fō Eitī Pointo|DrigerSlash Four Eighty Point}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released as a Booster in Japan on April 27th, 2024 for 1600円. It later debuted in western countries as '''Driger Slash 4-80P''' in a Starter Pack released by [[Hasbro]] for USD$12.99 in the United States.
+
+As part of the [[X-Over Project]], it is the ''[[Beyblade X]]'' remake of the [[Spin Gear System]] Beyblade, [[Driger Slash]].
+
+==Blade - DrigerSlash==
+[[File:BladeDrigerSlash.png|left|150px]]
+{{Part|Blade - DrigerSlash}}
+==Ratchet - 4-80==
+[[File:4-80 (BX-00).png|left|150px]]
+{{Part|Ratchet - 4-80}}
+==Bit - Point==
+[[File:Point (BX-00).png|left|75px]]
+{{Part|Bit - Point}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DrigerSlash 4-80P Box.jpeg|DrigerSlash's box.
+DrigerSlash 4-80P (Angled View).jpeg|Angled view of DrigerSlash.
+DrigerSlash 4-80P Info.png|Info on DrigerSlash.
+DrigerSlash 4-80P.png|At the ''X-Treme Cup'' G1 2023 event
+DrigerSlash 4-80P Stickers.png|DrigerSlash's Stickers
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Driger Slash 4-80P.jpeg|Driger Slash 4-80P.
+Driger Slash 4-80P Box.jpeg|Driger Slash's box.
+Driger Slash 4-80P Box Backside.jpeg|Backside of Driger Slash's box.
+Driger Slash 4-80P Contents.jpeg|Driger Slash's contents.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【BEYBLADE X】クロスオーバープロジェクト2024-2|Reveal trailer.
+【ベイブレード開発者レビュー】ドライガースラッシュ4-80P|Takara Tomy product overview.
+</gallery>
+
+==Trivia==
+* The prototype was first displayed at the ''X-Treme Cup'' G1 2023 event.<ref>https://twitter.com/tbh_pr/status/1734043627796811908</ref>
+
+==References==
+{{Reflist}}
+{{X-Over Project Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

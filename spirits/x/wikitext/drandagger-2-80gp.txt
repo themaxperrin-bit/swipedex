@@ -1,0 +1,51 @@
+{{Beyblade Infobox
+|Image = DranDagger 2-80GP.jpeg
+|JPName=ドランダガー{{Ruby|2-80|ツーエイティー}}{{Ruby|GP|ギヤポイント}}
+|RomajiName=DoranDagā Tsū Eitī Giya Pointo
+|AKA=DranDagger Two Eighty Gear Point
+|ProductCode=BX-00
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=2400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=August 3rd, 2024
+|BladeX=DranDagger
+|Ratchet=2-80
+|Bit=Gear Point
+|WBO=
+}}{{Translation|'''DranDagger 2-80GP'''|ドランダガー{{Ruby|2-80|ツーエイティー}}{{Ruby|GP|ギヤポイント}}|DoranDagā Tsū Eitī Giya Pointo|DranDagger Two Eighty Gear Point}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released as a [[Beyblade Battle Base|Beyblade Battle Base (B4)]] store exclusive Starter in Japan on August 3rd, 2024 for 2400円.
+
+==Blade - DranDagger==
+{{Part|Blade - DranDagger}}
+==Ratchet - 2-80==
+{{Part|Ratchet - 2-80}}
+==Bit - Gear Point==
+{{Part|Bit - Gear Point}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranDagger 2-80GP Box.jpeg|DranDagger's box.
+DranDagger 2-80GP Contents.jpeg|DranDagger's contents.
+DranDagger 2-80GP (Metal Coat Black Giants; Angled View).jpeg|Angled view of DranDagger (Metal Coat: Black, Giants Version).
+Beyblade X Winder Launcher (Orange Ver.).jpeg|[[Winder Launcher]] (Orange Ver.)
+DranDagger 2-80GP Gear Chip Stickers.jpeg|Included Tokyo Giants Gear Chip stickers.
+DranDagger 2-80GP (Metal Coat Black Giants) Info.png|Info on DranDagger (Metal Coat: Black, Giants Version).
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

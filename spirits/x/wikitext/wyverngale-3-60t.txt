@@ -1,0 +1,59 @@
+{{Beyblade Infobox
+|Image=WyvernGale 3-60T.jpeg
+|JPName=ワイバーンゲイル{{Ruby|3-60|スリーシクスティー}}{{Ruby|T|テーパー}}
+|RomajiName=WaibānGeiru Surī Shikusutī Tēpā
+|AKA=WyvernGale Three Sixty Taper<br>Gale Wyvern 3-60T ([[Hasbro]])
+|ProductCode=BX-24 (Takara Tomy)<br>G1543 (Hasbro)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円<br>USD$14.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=December 27th, 2023
+|ReleaseUS=November 16th, 2024
+|BladeX=WyvernGale
+|Ratchet=3-60
+|Bit=Taper
+|WBO=https://worldbeyblade.org/Thread-Product-BX-24-Random-Booster-Vol-2-Rare-WyvernGale-5-80GB
+}}{{Translation|'''WyvernGale 3-60T'''|ワイバーンゲイル{{Ruby|3-60|スリーシクスティー}}{{Ruby|T|テーパー}}|WaibānGeiru Surī Shikusutī Tēpā|WyvernGale Three Sixty Taper}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released in Japan on December 27th, 2023 for 1400円 as the prize Beyblade in [[Random Booster Vol. 2]]. It was released by [[Hasbro]] as '''Gale Wyvern 3-60T''' as part of the [[Gale Wyvern and Sword Dran Dual Pack]] for USD$14.99 in the United States.
+
+==Blade - WyvernGale==
+[[File:WyvernGale (BX-24 02).png|left|150px]]
+{{Part|Blade - WyvernGale}}
+==Ratchet - 3-60==
+[[File:3-60 (BX-24 02).png|left|150px]]
+{{Part|Ratchet - 3-60}}
+==Bit - Taper==
+[[File:Taper (BX-24 02).png|left|75px]]
+{{Part|Bit - Taper}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 2 Box.jpeg|WyvernGale's box
+WyvernGale 3-60T (Angled View).jpeg|Angled view of WyvernGale
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Gale Wyvern and Sword Dran Box.jpg|Gale Wyvern's box
+Gale Wyvern and Sword Dran Box Backside.jpg|Backside of Gale Wyvern's box
+</gallery>
+
+===Manga===
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

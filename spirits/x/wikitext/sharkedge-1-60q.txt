@@ -1,0 +1,58 @@
+{{Beyblade Infobox
+|Image=SharkEdge 1-60Q.jpeg 
+|JPName=シャークエッジ{{Ruby|1-60|ワンシクスティー}}{{Ruby|Q|クエイク}}
+|RomajiName=ShākuEjji Wan Shikusutī Kueiku
+|AKA=SharkEdge One Sixty Quake<br>Keel Shark 1-60Q ([[Hasbro]])
+|ProductCode=BX-31 (Takara Tomy)<br>G1534 (Hasbro)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=42.7 grams
+|Price=1400円<br>USD$7.99<br>CAD$11.99<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=April 27th, 2024
+|ReleaseUS=February 2025
+|ReleaseCA=March 13th, 2025
+|BladeX=SharkEdge
+|Ratchet=1-60
+|Bit=Quake
+|WBO=
+}}{{Translation|'''SharkEdge 1-60Q'''|シャークエッジ{{Ruby|1-60|ワンシクスティー}}{{Ruby|Q|クエイク}}|ShākuEjji Wan Shikusutī Kueiku|SharkEdge One Sixty Quake}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan on April 27th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 3]]. It was released by [[Hasbro]] as '''Keel Shark 1-60Q''' in a Booster Pack for USD$7.99 in the United States.
+
+==Blade - SharkEdge==
+[[File:SharkEdge (BX-31 05).png|left|150px]]
+{{Part|Blade - SharkEdge}}
+==Ratchet - 1-60==
+[[File:1-60 (BX-31 05).png|left|150px]]
+{{Part|Ratchet - 1-60}}
+==Bit - Quake==
+[[File:Quake (BX-31 05).png|left|75px]]
+{{Part|Bit - Quake}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 3 Box.jpeg|SharkEdge's box
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Keel Shark 1-60Q.jpeg|Keel Shark 1-60Q
+Keel Shark 1-60Q Box.jpeg|Keel Shark's box
+Keel Shark 1-60Q Box Backside.jpeg|Backside of Keel Shark's box
+Keel Shark 1-60Q (Angled View).jpeg|Angled view of Keel Shark
+Keel Shark 1-60Q Parts.jpeg|Keel Shark's parts
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

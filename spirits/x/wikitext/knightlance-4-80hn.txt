@@ -1,0 +1,108 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image1 = KnightLance 4-80HN.jpeg
+|Image1Label = Product
+|Image2 = Beyblade X - KnightLance 4-80HN (Anime).png
+|Image2Label = Anime
+|Image3 = Beyblade X - KnightLance 4-80HN (Manga).png
+|Image3Label = Manga
+|Image4 = Beyblade X - KnightLance 4-80HN (Game).png
+|Image4Label = Game
+|JPName=ナイトランス{{Ruby|4-80|フォーエイティー}}{{Ruby|HN|ハイニードル}}
+|RomajiName=NaitoRansu Fō Eitī Hai Nīdoru
+|AKA=KnightLance Four Eighty High Needle<br>Lance Knight 4-80HN (Hasbro)<br>Lance Knight (anime, English)
+|ProductCode=BX-13 (Takara Tomy)<br>G0184 (Hasbro)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=42.1 grams
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=August 10th, 2023
+|ReleaseUS=July 9th, 2024
+|ReleaseCA=September 2nd, 2024
+|BladeX=KnightLance
+|Ratchet=4-80
+|Bit=High Needle
+|Owner=[[Multi Nana-iro]]
+|AppearAnime=[[Beyblade X - Episode 04|Bey Sponsor]]
+|AppearManga=[[Beyblade X - Chapter 03|Bey Sponsor]]
+|SpecialMoves=[[Raining Lance]]
+|WBO=https://worldbeyblade.org/Thread-Product-BX-13-Booster-KnightLance-4-80HN
+}}{{Translation|'''KnightLance 4-80HN'''|ナイトランス{{Ruby|4-80|フォーエイティー}}{{Ruby|HN|ハイニードル}}|NaitoRansu Fō Eitī Hai Nīdoru|KnightLance Four Eighty High Needle}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released as a Booster in Japan on August 10th, 2023 for 1400円. It later debuted in western countries as '''Lance Knight 4-80HN''' in a Starter Pack released by [[Hasbro]] for USD$9.99 in the United States.
+
+It is the successor to [[KnightShield 3-80N]] and is succeeded by [[KnightMail 3-85BS]].
+
+==Blade - KnightLance==
+[[File:BladeKnightLance.png|left|150px]]
+{{Part|Blade - KnightLance}}
+==Ratchet - 4-80==
+[[File:4-80 (BX-13).png|left|150px]]
+{{Part|Ratchet - 4-80}}
+==Bit - High Needle==
+[[File:BitHighNeedle.png|left|75px]]
+{{Part|Bit - High Needle}}
+
+==Releases==
+===Takara Tomy===
+*BX-13 Booster (green)
+
+===Hasbro===
+*G0184 Starter Pack (BX-13 model; green)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+KnightLance 4-80HN Box.jpeg|KnightLance's box.
+KnightLance 4-80HN (Angled View).jpeg|Angled view of KnightLance.
+KnightLance 4-80HN Info.png|Info on KnightLance.
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Lance Knight 4-80HN.jpeg|Lance Knight 4-80HN.
+Lance Knight 4-80HN Box.jpeg|Lance Knight's box.
+Lance Knight 4-80HN Box Backside.jpeg|Backside of Lance Knight's box.
+Lance Knight 4-80HN Contents.jpeg|Lance Knight's contents.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Raining Lance 1.png
+Rainy Lance 2.png
+Rainy Lance 3.png
+Rainy Lance 4.png
+Rainy Lance 5.png
+BBX04 KnightLance deflecting SharkEdge 3.png
+BBX04 KnightLance tilting heavily.png
+Rainy Lance 6.png
+BBX18 Rainy Lance.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - KnightLance 4-80HN (Anime).png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Knight using Rainy Lance (Chapter 3).jpg
+BBX Chapter 3 - KnightLance's tiled movement.jpeg
+RainyLance.jpg
+RainyLanceManga (Chapter 8).png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ナイトランス4-80HN|Takara Tomy product overview
+BEYBLADE X - Meet the new LANCE KNIGHT 4-80HN!!|Hasbro product overview
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

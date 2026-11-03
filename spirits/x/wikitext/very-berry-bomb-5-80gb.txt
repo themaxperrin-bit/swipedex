@@ -1,0 +1,43 @@
+{{About|Number One's Beyblade|WyvernGale 5-80GB|the standard Beyblade}}
+{{Beyblade Infobox
+|Image=Beyblade X - Very Berry Bomb.png
+|JPName=ベリーベリーボム5-80GB
+|RomajiName=Berī Berī Bomu 5-80GB
+|AKA=Very Berry Bomb Five Eighty Gear Ball<br>Very Berry Cherry (anime, English)
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=41.2 grams
+|System=Basic Line
+|Series=Beyblade X
+|BladeX=Very Berry Bomb
+|Ratchet=5-80
+|Bit=Gear Ball
+|Owner=[[Number One]]
+|Creator=
+|AppearAnime=[[Beyblade X - Episode 29|Mask and Meat Buns]]
+|SpecialMoves=[[Very Berry Boom]]
+}}{{Translation|'''Very Berry Bomb 5-80GB'''|ベリーベリーボム5-80GB|Berī Berī Bomu 5-80GB|Very Berry Bomb Five Eighty Gear Ball}} or '''Very Berry Cherry 5-80GB''' is a Stamina Type Beyblade that is owned by [[Number One]] in the ''[[Beyblade X]]'' anime.
+
+==Blade - Very Berry Bomb==
+'''Very Berry Bomb''' is the [[Blade - WyvernGale|WyvernGale]] Blade with a different Gear Chip sticker attached. The Gear Chip features the Blade's namesake, the [[wikipedia:Strawberry|Berry]] fruit.
+
+==Ratchet - 5-80==
+{{Part|Ratchet - 5-80}}
+
+==Bit - Gear Ball==
+{{Part|Bit - Gear Ball}}
+
+==Gallery==
+===Anime===
+<gallery widths="130">
+Beyblade X - Very Berry Bomb.png
+Beyblade X Very Berry Bomb 5-80GB Avatar (Season 1).png
+Beyblade X Very Berry Bomb 5-80GB Avatar (Season 3).png
+</gallery>
+
+==Trivia==
+*Very Berry Cherry is the first Beyblade to have its localized name place the model name after the motif name, the second being [[SharkEdge 3-60LF|Very Berry Jelly]].
+
+==References==
+{{Reflist}}
+{{Anime Exclusive X Beyblades}}

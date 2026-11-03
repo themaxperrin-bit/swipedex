@@ -1,0 +1,43 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image=Megatron 4-80B.jpeg
+|JPName=メガトロン{{Ruby|4-80|フォーエイティー}}{{Ruby|B|ボール}}
+|RomajiName=Megatoron Fō Eitī Bōru
+|AKA=Megatron Four Eighty Ball
+|ProductCode=G0353 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=July 13th, 2024
+|ReleaseCA=July 19th, 2024
+|ReleaseJP=May 17th, 2025
+|BladeX=Megatron
+|Ratchet=4-80
+|Bit=Ball
+}}{{Translation|'''Megatron 4-80B'''|メガトロン{{Ruby|4-80|フォーエイティー}}{{Ruby|B|ボール}}|Megatoron Fō Eitī Bōru|Megatron Four Eighty Ball}} is a Stamina Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Optimus Prime and Megatron Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on May 17th, 2025 for 4180円 in Japan.
+
+==Blade - Megatron==
+{{Part|Blade - Megatron}}
+==Ratchet - 4-80==
+{{Part|Ratchet - 4-80}}
+==Bit - Ball==
+{{Part|Bit - Ball}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Optimus Prime and Megatron Box.jpeg|Megatron's box.
+Optimus Prime and Megatron Box Backside.jpeg|Backside of Megatron's box.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

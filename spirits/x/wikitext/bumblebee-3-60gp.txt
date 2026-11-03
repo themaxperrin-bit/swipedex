@@ -1,0 +1,37 @@
+{{Beyblade Infobox
+|Image=Bumblebee 3-60GP.jpeg
+|AKA=Bumblebee Three Sixty Gear Point
+|ProductCode=G1692
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=USD$24.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=September 2025
+|ReleaseCA=November 2025
+|BladeX=Bumblebee
+|Ratchet=3-60
+|Bit=Gear Point
+}}'''Bumblebee 3-60GP''' is a Balance Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Bumblebee and Shockwave Multipack Set]] for USD$24.99 in the United States.
+
+==Blade - Bumblebee==
+{{Part|Blade - Bumblebee}}
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+==Bit - Gear Point==
+{{Part|Bit - Gear Point}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Bumblebee and Shockwave Box.jpeg|Bumblebee's box
+Bumblebee and Shockwave Box Backside.jpeg|Backside of Bumblebee's box
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}

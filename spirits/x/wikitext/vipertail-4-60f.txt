@@ -1,0 +1,47 @@
+{{Beyblade Infobox
+|Image = ViperTail 4-60F.jpg
+|JPName=ヴァイパーテイル{{Ruby|4-60|フォーシクスティー}}{{Ruby|F|フラット}}
+|RomajiName=VaipāTeiru Fō Shikusutī Furatto
+|AKA=ViperTail Four Sixty Flat
+|ProductCode=BX-16
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=43.2 grams
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=October 7th, 2023
+|BladeX=ViperTail
+|Ratchet=4-60
+|Bit=Flat
+|WBO=https://worldbeyblade.org/Thread-Product-BX-16-Random-Booster-ViperTail-Select-Rare-ViperTail-5-80O
+}}{{Translation|'''ViperTail 4-60F'''|ヴァイパーテイル{{Ruby|4-60|フォーシクスティー}}{{Ruby|F|フラット}}|VaipāTeiru Fō Shikusutī Furatto|ViperTail Four Sixty Flat}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan on October 7th, 2023 for 1400円 in [[Random Booster ViperTail Select]].
+
+==Blade - ViperTail==
+{{Part|Blade - ViperTail}}
+==Ratchet - 4-60==
+{{Part|Ratchet - 4-60}}
+==Bit - Flat==
+{{Part|Bit - Flat}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster ViperTail Select Box.jpeg|ViperTail's box.
+</gallery>
+
+===Manga===
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

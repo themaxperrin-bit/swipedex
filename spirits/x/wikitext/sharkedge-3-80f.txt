@@ -1,0 +1,66 @@
+{{Beyblade Infobox
+|Image=SharkEdge 3-80F.jpeg
+|JPName=シャークエッジ{{Ruby|3-80|スリーエイティー}}{{Ruby|F|フラット}}
+|RomajiName=ShākuEjji Surī Eitī Furatto
+|AKA=SharkEdge Three Eighty Flat<br>Keel Shark 3-80F ([[Hasbro]])
+|ProductCode=BX-20 (Takara Tomy)<br>G0190 (Hasbro)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=43.8 grams
+|Price=3960円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 2nd, 2023
+|ReleaseAU=May 16th, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseUS=June 1st, 2024
+|BladeX=SharkEdge
+|Ratchet=3-80
+|Bit=Flat
+|WBO=https://worldbeyblade.org/Thread-Product-BX-20-DranDagger-Deck-Set-DranDagger-4-60R
+}}{{Translation|'''SharkEdge 3-80F'''|シャークエッジ{{Ruby|3-80|スリーエイティー}}{{Ruby|F|フラット}}|ShākuEjji Surī Eitī Furatto|SharkEdge Three Eighty Flat}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released as a part of the [[DranDagger Deck Set]] in Japan on November 2nd, 2023 for 3960円. It was released by [[Hasbro]] as '''Keel Shark 3-80F''' in the [[Knife Shinobi and Keel Shark Dual Pack]] for USD$14.99 in the United States.
+
+==Blade - SharkEdge==
+[[File:SharkEdge (BX-20).png|left|150px]]
+{{Part|Blade - SharkEdge}}
+==Ratchet - 3-80==
+[[File:3-80 (BX-20).png|left|150px]]
+{{Part|Ratchet - 3-80}}
+==Bit - Flat==
+[[File:Flat (BX-20).png|left|75px]]
+{{Part|Bit - Flat}}
+
+==Releases==
+===Takara Tomy===
+* BX-20 [[DranDagger Deck Set]] (green)
+
+===Hasbro===
+* G0190 [[Knife Shinobi and Keel Shark Dual Pack]] (green; BX-20 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranDagger Deck Set Box.jpeg|[[DranDagger Deck Set]]
+SharkEdge 3-80F Info.png|Info on SharkEdge
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Keel Shark 3-80F.jpg|Keel Shark 3-80F
+Knife Shinobi and Keel Shark Box.jpeg|Keel Shark's box
+Knife Shinobi and Keel Shark Box Backside.jpeg|Backside of Keel Shark's box
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ドランダガーデッキセット＆ヘルズチェインデッキセット
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

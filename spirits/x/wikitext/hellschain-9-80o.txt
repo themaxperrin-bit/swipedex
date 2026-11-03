@@ -1,0 +1,44 @@
+{{Beyblade Infobox
+|Image=HellsChain 9-80O.jpeg
+|JPName=ヘルズチェイン{{Ruby|9-80|ナインエイティー}}{{Ruby|O|オーブ}}
+|RomajiName=HeruzuChein Nain Eitī Ōbu
+|AKA=HellsChain Nine Eighty Orb
+|ProductCode=BX-31
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=April 27th, 2024
+|BladeX=HellsChain
+|Ratchet=9-80
+|Bit=Orb
+|WBO=
+}}{{Translation|'''HellsChain 9-80O'''|ヘルズチェイン{{Ruby|9-80|ナインエイティー}}{{Ruby|O|オーブ}}|HeruzuChein Nain Eitī Ōbu|HellsChain Nine Eighty Orb}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan on April 27th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 3]].
+
+==Blade - HellsChain==
+{{Part|Blade - HellsChain}}
+==Ratchet - 9-80==
+{{Part|Ratchet - 9-80}}
+==Bit - Orb==
+{{Part|Bit - Orb}}<!--
+
+==Releases==-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

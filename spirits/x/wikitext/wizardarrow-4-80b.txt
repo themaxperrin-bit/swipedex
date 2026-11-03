@@ -1,0 +1,158 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image1 = <gallery>
+WizardArrow 4-80B.jpeg|Original
+WizardArrow 4-80B (Version 2.0).png|Version 2.0
+</gallery>
+|Image1Label = Product
+|Image2 = <gallery>
+Beyblade X - WizardArrow 4-80B (Anime).png|Original
+Beyblade X - WizardArrow 4-80B Version 2.0.png|Version 2.0
+</gallery>
+|Image2Label = Anime
+|Image3 = <gallery>
+Beyblade X - WizardArrow 4-80B (Manga).png|Original
+Beyblade X - WizardArrow 4-80B V2 (Manga).jpg|Version 2.0
+</gallery>
+|Image3Label = Manga
+|Image4 = Beyblade X - WizardArrow 4-80B (Game).png
+|Image4Label = Game
+|JPName=ウィザードアロー{{Ruby|4-80|フォーエイティー}}{{Ruby|B|ボール}}
+|RomajiName=WizādoArō Fō Eitī Bōru
+|AKA=WizardArrow Four Eighty Ball<br>Arrow Wizard 4-80B ([[Hasbro]])<br>Arrow Mysterious 4-80B (ToyPro)<br>Arrow Wizard (anime, English)
+|ProductCode=BX-03 (Takara Tomy)<br>F9582 (Hasbro)
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=41.0 grams
+|Price=1980円<br>USD$9.99<br>CAD$16.99<br>AUD$28.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 15th, 2023
+|ReleaseUS=June 1st, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseAU=May 16th, 2024
+|BladeX=WizardArrow
+|Ratchet=4-80
+|Bit=Ball
+|Owner=[[Multi Nana-iro]]<br>[[Nine Cross]] (replica)<br>'''Spin-Off:'''<br>[[Meiji Jumon]] (''[[Beytrainer Kiba]]'')
+|Creator=[[Multi Nana-iro]] (Manga)<br>[[Bey Kingdom]] (Version 2.0)
+|AppearAnime=[[Beyblade X - Episode 02|Multi-Colored Ambush]]<br>[[Beyblade X - Episode 135|Version 2.0]] (Version 2.0)
+|AppearManga=[[Beyblade X - Chapter 02|Rainbow]]<br>[[Beyblade X - Chapter 40]] (Version 2.0)
+|SpecialMoves=[[Mirage Parry]]<br>[[Xtra Shoot Mirage Parry New]] (Version 2.0)
+|WBO=https://worldbeyblade.org/Thread-Product-BX-03-Starter-Wizard-Arrow-4-80B
+}}{{Translation|'''WizardArrow 4-80B'''|ウィザードアロー{{Ruby|4-80|フォーエイティー}}{{Ruby|B|ボール}}|WizādoArō Fō Eitī Bōru|WizardArrow Four Eighty Ball}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released as a Starter in Japan on July 15th, 2023 for 1980円. It later debuted in western countries as '''Arrow Wizard 4-80B''' in a Starter Pack released by [[Hasbro]] for USD$9.99 in the United States.
+
+WizardArrow would later get a ''Version 2.0'' release, which released in Japan as a part of the BX-53 [[All In One Set]] on October 10th, 2026 for 7480円.
+
+While the primary version is owned by [[Multi Nana-iro]] in the ''[[Beyblade X]]'' anime and manga, recolored generic versions also appear in the anime. WizardArrow's ''Version 2.0'' release would later debut in the anime/manga series, which would be developed by the [[Bey Kingdom]].
+
+It is succeeded by [[WizardRod 5-70DB]].
+
+==Blade - WizardArrow==
+<gallery type="slideshow" position="left" widths="150">
+BladeWizardArrow.png|Original WizardArrow Blade
+WizardArrow (BX-53; WizardArrow V2).png|WizardArrow Version 2.0
+</gallery> 
+{{Part|Blade - WizardArrow}}
+==Ratchet - 4-80==
+[[File:Ratchet4-80.png|left|150px]]
+{{Part|Ratchet - 4-80}}
+==Bit - Ball==
+[[File:BitBall.png|left|75px]]
+{{Part|Bit - Ball}}
+
+==Releases==
+===Takara Tomy===
+*BX-03 Starter (yellow)
+*BX-05 Booster (red)
+*BX-17 "''Blue Ver.''" - Released in the [[Battle Entry Set]].
+*BX-53 "''Version 2.0''" - Released in the [[All In One Set]].
+
+===Hasbro===
+* F9582 Starter Pack (yellow)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+WizardArrow 4-80B Box.jpeg|WizardArrow's box
+WizardArrow 4-80B Contents.jpeg|WizardArrow BX-03 Starter contents
+WizardArrow 4-80B (Angled View).jpeg|Angled view of WizardArrow
+Beyblade X Winder Launcher.jpeg|Winder Launcher
+WizardArrow 4-80B Info.png|Info on WizardArrow (BX-03)
+WizardArrow 4-80B (BX-05).jpeg|WizardArrow 4-80B (BX-05)
+WizardArrow 4-80B Box (BX-05).jpeg|WizardArrow's box (BX-05)
+WizardArrow 4-80B (BX-05; Angled View).jpeg|Angled view of WizardArrow (BX-05)
+WizardArrow 4-80B Info (BX-05).png|Info on WizardArrow 4-80B (BX-05)
+WizardArrow 4-80B (Blue Ver.).png|WizardArrow 4-80B ([[Battle Entry Set|Blue Version]])
+WizardArrow 4-80B (Blue Ver.; Angled View).png|Angled view of WizardArrow (Blue Version)
+WizardArrow 4-80B Info (Blue Ver.).png|Info on WizardArrow (Blue Ver.; BX-17)
+WizardArrow 4-80B (Version 2.0).png|WizardArrow 4-80B (Version 2.0)
+WizardArrow 4-80B (Version 2.0; Angled View).png|Angled view of WizardArrow (Version 2.0)
+WizardArrow 4-80B (Version 2.0) Info.png|Info on WizardArrow (Version 2.0)
+WizardArrow Comparison Above.png|Original WizardArrow (left) compared to WizardArrow Version 2.0 (right)
+WizardArrow Comparison Below.png|Original WizardArrow (left) compared to WizardArrow Version 2.0 (right)
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Arrow Wizard 4-80B.jpeg|Arrow Wizard 4-80B
+Arrow Wizard 4-80B Box.jpeg|Arrow Wizard's box.
+Arrow Wizard 4-80B Box Backside.jpeg|Backside of Arrow Wizard's box.
+Arrow Wizard 4-80B Contents.jpeg|Arrow Wizard's contents.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X WizardArrow 4-80B 4X Summon.png
+Beyblade X WizardArrow 4-80B Avatar 1.png
+Beyblade X WizardArrow 4-80B Avatar 2.png
+Beyblade X WizardArrow 4-80B Avatar 3.png
+Beyblade X WizardArrow 4-80B Avatar 4.png
+Beyblade X WizardArrow 4-80B Avatar 5.png
+Beyblade X WizardArrow 4-80B Avatar 6.png
+Beyblade X WizardArrow 4-80B Avatar 7.png
+Beyblade X WizardArrow 4-80B Avatar 8.png
+Beyblade X WizardArrow 4-80B Avatar 9.png
+Beyblade X WizardArrow 4-80B Avatar 10.png
+Beyblade X WizardArrow 4-80B Avatar 11.png
+Beyblade X WizardArrow 4-80B Avatar 12.png
+Beyblade X WizardArrow 4-80B Avatar 13.png
+Beyblade X WizardArrow 4-80B Avatar 14.png
+BBX02 Mirage Parry 2.png|Using [[Mirage Parry]]
+Beyblade X - WizardArrow (Generic).png|Generic version in the anime.
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - WizardArrow 4-80B (Anime).png
+Beyblade X - WizardArrow 4-80B Spinning.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - WizardArrow 4-80B (Manga).png
+MirageParryManga.png
+BBX Chapter 5 - WizardArrow's 4X Avatar.png
+BBX Chapter 5 - WizardArrow spinning strong.jpeg
+MirageParryManga (Chapter 5).png
+BBX Chapter 9 - WizardArrow bursts.jpeg
+Beyblade X - WizardArrow 4-80B V2 (Manga).jpg|WizardArrow Version 2.0
+Xtra Shoot Mirage Parry New.png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】スターター4種徹底解説|Takara Tomy product overview
+【ベイブレード開発者レビュー】 オールインワンセット|Takara Tomy product overview (Version 2.0)
+BEYBLADE X - Meet the new ARROW WIZARD 4-80B!!|Hasbro product overview
+</gallery>
+
+==Trivia==
+*This is the only Beyblade that belongs to team [[Persona]] not to get a second Basic Line variant.
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

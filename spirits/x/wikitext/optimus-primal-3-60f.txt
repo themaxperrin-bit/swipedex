@@ -1,0 +1,42 @@
+{{Beyblade Infobox
+|Image=Optimus Primal 3-60F.jpeg
+|JPName=オプティマスプライマル{{Ruby|3-60|スリーシクスティー}}{{Ruby|F|フラット}}
+|RomajiName=Oputimasu Puraimaru Surī Shikusutī Furatto
+|AKA=Optimus Primal Three Sixty Flat
+|ProductCode=G0352 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=43.6 grams (first mold)<br>44.3 grams (second mold)
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=July 13th, 2024
+|ReleaseCA=July 19th, 2024
+|ReleaseJP=May 17th, 2025
+|BladeX=Optimus Primal
+|Ratchet=3-60
+|Bit=Flat
+}}{{Translation|'''Optimus Primal 3-60F'''|オプティマスプライマル{{Ruby|3-60|スリーシクスティー}}{{Ruby|F|フラット}}|Oputimasu Puraimaru Surī Shikusutī Furatto|Optimus Primal Three Sixty Flat}} is an Attack Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Optimus Primal and Starscream Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on May 17th, 2025 for 4180円 in Japan.
+
+==Blade - Optimus Primal==
+{{Part|Blade - Optimus Primal}}
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+==Bit - Flat==
+{{Part|Bit - Flat}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Optimus Primal and Starscream Box.jpeg|Optimus Primal's box.
+Optimus Primal and Starscream Box Backside.jpeg|Backside of Optimus Primal's box.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

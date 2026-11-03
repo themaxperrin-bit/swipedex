@@ -1,0 +1,173 @@
+{{Beyblade Infobox
+|Image1 = <!--<gallery>-->
+HellsScythe 4-60T.jpeg <!--|Original
+HellsScythe 4-60T (Version 2.0).png|Version 2.0
+</gallery>-->
+|Image1Label = Product
+|Image2 = <!--<gallery>-->
+Beyblade X - HellsScythe 4-60T (Anime).png<!--|Original
+Beyblade X - HellsScythe 4-60T (Version 2.0).png|Version 2.0
+</gallery>-->
+|Image2Label = Anime
+|Image3 = <!--<gallery>-->
+Beyblade X - Hells Scythe 4-60T (Manga).png<!--|Original
+Beyblade X -  Hells Scythe 4-60T  V2 (Manga).png|Version 2.0
+</gallery>-->
+|Image3Label = Manga
+|Image4 = Beyblade X - Hells Scythe 4-60T (Game).png
+|Image4Label = Game
+|JPName=ヘルズサイズ{{Ruby|4-60|フォーシクスティー}}{{Ruby|T|テーパー}}
+|RomajiName=HeruzuSaizu Fō Shikusutī Tēpā
+|AKA=HellsScythe Four Sixty Taper<br>Scythe Incendio 4-60T ([[Hasbro]])<br>Scythe Incendio (anime, English)
+|ProductCode=BX-02 (Takara Tomy)<br>F9583 (Hasbro)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=41.4 grams
+|Price=1980円<br>USD$9.99<br>CAD$16.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=June 10th, 2023 (CoroCoro Spirit Festival)
+|ReleaseUS=June 1st, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseAU=May 16th, 2024
+|BladeX=HellsScythe
+|Ratchet=4-60
+|Bit=Taper
+|Owner=[[Robin Kazami]]<br>[[Multi Nana-iro]] (former)<br>[[Sigrid Nana-iro]] (borrowed) (prototype; anime only)<br>Beyblade Development Team Shinonaga (Metal Coat: Gold, ''[[Beyblade X: Xone|Xone]]'')<br>'''Spin-Off:'''<br>[[Kibajirou Deimon]] (''[[Beytrainer Kiba]]'')
+|Creator=[[Multi Nana-iro]]<!--(original)<br>[[Bey Kingdom]] (Version 2.0)-->
+|AppearAnime=[[Beyblade X - Episode 02|Multi-Colored Ambush]]
+|AppearManga=[[Beyblade X - Chapter 02|Rainbow]]
+|SpecialMoves=[[Xtreme Dash|Copy of Xtreme Dash]]<br>[[Xtreme Dash|Xtreme Dash Crescent Judgment]]<br>[[Xtreme Dash Dragonic Break|Xtreme Dash Revolving Judgment]] (anime only)
+|WBO=https://worldbeyblade.org/Thread-Product-BX-02-Starter-Hells-Scythe-4-60T
+}}{{Translation|'''HellsScythe 4-60T'''|ヘルズサイズ{{Ruby|4-60|フォーシクスティー}}{{Ruby|T|テーパー}}|HeruzuSaizu Fō Shikusutī Tēpā|HellsScythe Four Sixty Taper}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released as a Starter in Japan on June 10th, 2023 during the CoroCoro Spirit Festival for 1980円. Its regular retail release in Japan was on July 15th, 2023. It later debuted in western countries as '''Scythe Incendio 4-60T''' in a Starter Pack released by [[Hasbro]] for USD$9.99 in the United States.
+
+The HellsScythe Blade would later get a Version 2.0 release, which released in Japan as a part of the CX-20 [[Customize Set C]] on November 21st, 2026 for 6600円.
+
+In the anime and manga, it was given to Robin, following the destruction of his [[Strike Hawk 4-80LF|Strike Hawk]]. In the anime, Multi's older sister, [[Sigrid Nana-iro]] originally owned the prototype version of the Beyblade. The completed version was also originally meant to be for her. <!--HellsScythe's ''Version 2.0'' release would later debut in the anime/manga series, which would be developed by the [[Bey Kingdom]].-->
+
+It is succeeded by [[HellsChain 5-60HT]].
+
+==Blade - HellsScythe==
+<gallery type="slideshow" position="left" widths="150">
+BladeHellsScythe.png|Original HellsScythe Blade
+HellsScythe (CX-20; HellsScythe V2).png|HellsScythe V2 Blade
+</gallery>
+{{Part|Blade - HellsScythe}}
+==Ratchet - 4-60==
+[[File:Ratchet4-60.png|left|150px]]
+{{Part|Ratchet - 4-60}}
+==Bit - Taper==
+[[File:BitTaper.png|left|75px]]
+{{Part|Bit - Taper}}
+
+==Releases==
+===Takara Tomy===
+*BX-02 Starter (red)
+*BX-00 Booster "''Metal Coat: Gold''" (gold) - Released as a B4 Limited Booster from September 14th, 2023 to February 13th, 2024 for 1600円 through the [[Rare Bey Get Battle]].
+*CX-20 "''Version 2.0''" - V2 Blade released as part of the [[Customize Set C]].
+
+===Hasbro===
+*F9583 Starter Pack (BX-02 model; red)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+HellsScythe 4-60T Box.jpeg|HellsScythe's box.
+HellsScythe 4-60T Contents.jpeg|HellsScythe BX-02 Starter contents.
+HellsScythe 4-60T (Angled View).jpeg|Angled view of HellsScythe.
+Beyblade X Winder Launcher.jpeg|Winder Launcher.
+HellsScythe 4-60T Info.png|Info on HellsScythe (BX-02).
+HellsScythe 4-60T (Metal Coat Gold).jpg|HellsScythe 4-60T (Metal Coat: Gold).
+HellsScythe 4-60T Box (Metal Coat Gold).jpg|HellsScythe's box (Metal Coat: Gold).
+HellsScythe 4-60T (Metal Coat Gold; Angled View).jpeg|Angled view of HellsScythe (Metal Coat: Gold).
+HellsScythe 4-60T Info (Metal Coat Gold).png|Info on HellsScythe (Metal Coat: Gold; BX-00).
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Scythe Incendio 4-60T.jpeg|Scythe Incendio 4-60T
+Scythe Incendio 4-60T Box.jpeg|Scythe Incendio's box.
+Scythe Incendio 4-60T Box Backside.jpeg|Backside of Scythe Incendio's box.
+Scythe Incendio 4-60T Contents.jpeg|Scythe Incendio's contents.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X HellsScythe 4-60T 4X Summon.png
+Beyblade X - HellsScythe 4-60T Avatar 1.png
+Beyblade X - HellsScythe 4-60T Avatar 2.png
+Beyblade X - HellsScythe 4-60T Avatar 3.png
+Beyblade X - HellsScythe 4-60T Avatar 4.png
+Beyblade X - HellsScythe 4-60T Avatar 5.png
+Beyblade X - HellsScythe 4-60T Avatar 6.png
+Beyblade X - HellsScythe 4-60T Avatar 7.png
+Beyblade X - HellsScythe 4-60T Avatar 8.png
+BBX02 HellsScythe.png
+BBX02 HellsScythe losing spin.png
+BBX02 HellsScythe engaging with the Xtreme Line 2.png
+BBX04 Bird loses by Burst Finish.png
+BBX07 HellsScythe's Xtreme Dash.png
+BBX09 HellsScythe attacks first.png
+BBX09 HellsScythe's sickle blades.png
+BBX09 HellsScythe's sickle blades 2.png
+BBX09 Scythe doing damage on Chain.png
+Beyblade X - HellsScythe 4-60T Avatar 9.png
+Beyblade X - HellsScythe 4-60T Avatar 10.png
+Beyblade X - HellsScythe 4-60T Avatar 11.png
+Beyblade X - HellsScythe 4-60T Avatar 12.png
+Beyblade X - HellsScythe 4-60T Avatar 13.png
+Beyblade X - HellsScythe 4-60T Avatar 14.png
+Beyblade X - HellsScythe 4-60T Avatar 15.png
+Beyblade X - HellsScythe 4-60T Avatar 16.png
+Beyblade X - HellsScythe 4-60T Avatar 17.png
+Beyblade X - HellsScythe 4-60T Avatar 18.png
+Beyblade X - HellsScythe 4-60T Avatar 19.png
+Beyblade X - HellsScythe 4-60T Avatar 20.png
+Beyblade X - HellsScythe 4-60T Avatar 21.png
+Beyblade X - HellsScythe 4-60T Avatar 22.png
+Beyblade X - HellsScythe 4-60T Avatar 23.png
+Beyblade X - HellsScythe 4-60T Avatar 24.png
+BBX44- Proto Scythe Incendio.png|Multi holding the prototype Scythe Incendio
+Robin's Xtreme Dash Crescent Judgment HellsScythe.png
+Xtreme Dash Revolve Judgment 1.png
+Xtreme Dash Revolve Judgment 5.png
+BBX51 Damaged HellsScythe.png|Damaged Scythe Incendio
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - HellsScythe 4-60T (Anime).png
+Beyblade X - HellsScythe 4-60T Spinning.png
+Beyblade X - HellsScythe 4-60T Spinning 2.png
+</gallery>
+
+===Concept Art===
+<gallery widths="130">
+Inferno Bomber Gear Chip.png|"Inferno Bomber" Gear Chip Concept Art<ref>[[Beyblade X App]]</ref>
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - Hells Scythe 4-60T (Manga).png
+BBX Chapter 2 - HellsScythe losing spin.jpeg
+BBX Chapter 2 - HellsScythe reaches the Xtreme Line.jpg
+ImitationXDash.jpg
+Beyblade X Chapter 9 CoroCoro Version.webp
+X Dash Crescent Judgment.jpg
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】スターター4種徹底解説|Takara Tomy product overview.
+BEYBLADE X - Meet the new SCYTHE INCENDIO 4-60T!!|Hasbro product overview.
+</gallery>
+
+==Trivia==
+* HellsScythe's name during development was originally "'''Inferno Bomb'''".<ref>[[Beyblade X App]] datamined file</ref>
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

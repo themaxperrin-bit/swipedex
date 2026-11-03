@@ -1,0 +1,44 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image=Thanos 4-60P.jpg
+|JPName=サノス{{Ruby|4-60|フォーシクスティー}}{{Ruby|P|ポイント}}
+|RomajiName=Sanosu Fō Shikusutī Pointo
+|AKA=Thanos Four Sixty Point
+|ProductCode=G0287 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=July 2024
+|ReleaseAU=July 2024
+|ReleaseCA=October 2024
+|ReleaseJP=April 26th, 2025
+|BladeX=Thanos
+|Ratchet=4-60
+|Bit=Point
+}}{{Translation|'''Thanos 4-60P'''|サノス{{Ruby|4-60|フォーシクスティー}}{{Ruby|P|ポイント}}|Sanosu Fō Shikusutī Pointo|Thanos Four Sixty Point}} is a Balance Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Iron Man and Thanos Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on April 26th, 2025 for 4180円 in Japan.
+
+==Blade - Thanos==
+{{Part|Blade - Thanos}}
+==Ratchet - 4-60==
+{{Part|Ratchet - 4-60}}
+==Bit - Point==
+{{Part|Bit - Point}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Iron Man and Thanos Box.jpeg|Thanos' box.
+Iron Man and Thanos Box Backside.jpeg|Backside of Thanos' box.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

@@ -1,0 +1,66 @@
+{{Beyblade Infobox
+|Image1=ShelterDrake 3-60D.png
+|Image1Label=Product
+|Image2=Beyblade X - ShelterDrake 3-60D.png
+|Image2Label=Anime
+|JPName=シェルタードレイク{{Ruby|3-60|スリーシクスティー}}{{Ruby|D|クドットク}}
+|RomajiName=SherutāDoreiku Surī Shikusutī Dotto
+|AKA=ShelterDrake Three Sixty Dot<br>Shelter Drake (anime, English)
+|ProductCode=BX-39
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=February 15th, 2025
+|BladeX=ShelterDrake
+|Ratchet=3-60
+|Bit=Dot
+|Owner=[[Ciel Kaminari]]
+|Creator=
+|AppearAnime=[[Beyblade X - Episode 69|Shadowy Underground]]
+|WBO=
+}}{{Translation|'''ShelterDrake 3-60D'''|シェルタードレイク{{Ruby|3-60|スリーシクスティー}}{{Ruby|D|クドットク}}|SherutāDoreiku Surī Shikusutī Dotto|ShelterDrake Three Sixty Dot}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released in Japan on February 15th, 2025 for 1400円 as one of three Beyblades in [[Random Booster ShelterDrake Select]].
+
+==Blade - ShelterDrake==
+{{Part|Blade - ShelterDrake}}
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+==Bit - Dot==
+{{Part|Bit - Dot}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster ShelterDrake Select Box.jpeg|ShelterDrake's box
+BX-39 Random Booster ShelterDrake Select Promo.jpeg|BX-39 Random Booster ShelterDrake Select promo
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X ShelterDrake Set.jpg
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+</gallery>
+
+===Manga===
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

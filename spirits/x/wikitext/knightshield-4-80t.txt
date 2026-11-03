@@ -1,0 +1,44 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image = KnightShield 4-80T.jpeg
+|JPName=ナイトシールド{{Ruby|4-80|フォーエイティー}}{{Ruby|T|テーパー}}
+|RomajiName=NaitoShīrudo Fō Eitī Tēpā
+|AKA=KnightShield Four Eighty Taper
+|ProductCode=BX-08
+|Type=Balance
+|SpinDirection=Right-Spin
+|Price=3960円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 15th, 2023
+|BladeX=KnightShield
+|Ratchet=4-80
+|Bit=Taper
+|WBO=
+}}{{Translation|'''KnightShield 4-80T'''|ナイトシールド{{Ruby|4-80|フォーエイティー}}{{Ruby|T|テーパー}}|NaitoShīrudo Fō Eitī Tēpā|KnightShield Four Eighty Taper}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released as a part of the [[3on3 Deck Set]] in Japan on July 15th, 2023 for 3960円.
+
+==Blade - KnightShield==
+[[File:KnightShield (BX-08).png|left|150px]]
+{{Part|Blade - KnightShield}}
+==Ratchet - 4-80==
+[[File:4-80 (BX-08).png|left|150px]]
+{{Part|Ratchet - 4-80}}
+==Bit - Taper==
+[[File:Taper (BX-08).png|left|75px]]
+{{Part|Bit - Taper}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+3on3 Deck Set Box.jpeg|3on3 Deck Set box
+KnightShield 4-80T (Angled View).jpeg|Angled view of KnightShield
+KnightShield 4-80T Info.png|Info on KnightShield
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

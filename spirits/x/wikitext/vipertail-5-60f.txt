@@ -1,0 +1,43 @@
+{{Beyblade Infobox
+|Image = ViperTail 5-60F.jpeg
+|JPName=ヴァイパーテイル{{Ruby|5-60|ファイブシクスティー}}{{Ruby|F|フラット}}
+|RomajiName=VaipāTeiru Faibu Shikusutī Furatto
+|AKA=ViperTail Five Sixty Flat
+|ProductCode=BX-24
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=December 27th, 2023
+|BladeX=ViperTail
+|Ratchet=5-60
+|Bit=Flat
+|WBO=https://worldbeyblade.org/Thread-Product-BX-16-Random-Booster-ViperTail-Select-Rare-ViperTail-5-80O
+}}{{Translation|'''ViperTail 5-60F'''|ヴァイパーテイル{{Ruby|5-60|ファイブシクスティー}}{{Ruby|F|フラット}}|VaipāTeiru Faibu Shikusutī Furatto|ViperTail Five Sixty Flat}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released in Japan on December 27th, 2023 for 1400円 as one of six possible Beyblades in [[Random Booster Vol. 2]].
+
+==Blade - ViperTail==
+{{Part|Blade - ViperTail}}
+==Ratchet - 5-60==
+{{Part|Ratchet - 5-60}}
+==Bit - Flat==
+{{Part|Bit - Flat}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 2 Box.jpeg|ViperTail's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

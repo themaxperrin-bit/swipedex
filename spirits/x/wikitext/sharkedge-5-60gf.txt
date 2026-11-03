@@ -1,0 +1,49 @@
+{{Beyblade Infobox
+|Image=SharkEdge 5-60GF.jpg
+|JPName=シャークエッジ{{Ruby|5-60|ファイブシクスティー}}{{Ruby|GF|ギヤフラット}}
+|RomajiName=ShākuEjji Faibu Shikusutī Giya Furatto
+|AKA=SharkEdge Five Sixty Gear Flat
+|ProductCode=BX-00
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=43.5 grams
+|Price=1600円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=March 23rd, 2024
+|BladeX=SharkEdge
+|Ratchet=5-60
+|Bit=Gear Flat
+|Owner='''Spin-Off:'''<br>[[Shirona Karibu]] (''[[Beytrainer Kiba]]'')
+|WBO=https://worldbeyblade.org/Thread-Product-BX-00-Booster-SharkEdge-5-60GF-Metal-Coat-Blue-B4-Store-Exclusive
+}}{{Translation|'''SharkEdge 5-60GF'''|シャークエッジ{{Ruby|5-60|ファイブシクスティー}}{{Ruby|GF|ギヤフラット}}|ShākuEjji Faibu Shikusutī Giya Furatto|SharkEdge Five Sixty Gear Flat}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released as a [[Beyblade Battle Base|Beyblade Battle Base (B4)]] store exclusive Booster in Japan on March 23rd, 2024 for 1600円. It could only be purchased in-person at physical B4 affiliated store locations.<ref>[https://www.toysrus.co.jp/s/dsg-779776100 Toys "R" Us Japan listing]</ref>
+
+Although not shown in the manga, it appears in promotional art with [[Meiko Myoden]] in the February 2024 issue of [[CoroCoro Comic]].
+
+==Blade - SharkEdge==
+{{Part|Blade - SharkEdge}}
+==Ratchet - 5-60==
+{{Part|Ratchet - 5-60}}
+==Bit - Gear Flat==
+{{Part|Bit - Gear Flat}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+SharkEdge 5-60GF Box.jpg|SharkEdge's box
+SharkEdge 5-60GF (Angled View).jpg|Angled view of SharkEdge (Metal Coat: Blue)
+SharkEdge 5-60GF Info (Metal Coat Blue).png|Info on SharkEdge (Metal Coat: Blue)
+</gallery>
+
+===Manga===
+<gallery widths="130">
+SharkEdge 5-60GF (Beytrainer Kiba manga).jpg|SharkEdge in the ''[[Beytrainer Kiba]]'' manga
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

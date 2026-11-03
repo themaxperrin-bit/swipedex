@@ -1,0 +1,51 @@
+{{About|the Hasbro release|WyvernHover 8-80B|the Takara Tomy release}}
+{{Beyblade Infobox
+|Image=Hover Wyvern 3-85N.jpeg
+|JPName=ワイバーンホバー{{Ruby|3-85|スリーエイティーファイブ}}{{Ruby|N|ニードル}}
+|RomajiName=WaibānHobā Surī Eitī Faibu Nīdoru
+|AKA=Hover Wyvern Three Eighty Five Needle
+|ProductCode=G0842
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=41.7 grams
+|Price=USD$49.99<br>CAD$69.99
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseUS=May 2025
+|ReleaseCA=May 2025
+|ReleaseAU=May 2025
+|BladeX=Hover Wyvern
+|Ratchet=3-85
+|Bit=Needle
+|WBO=https://worldbeyblade.org/Thread-Product-G0842-Drop-Attack-Battle-Set-Hover-Wyvern-3-85N
+}}'''Hover Wyvern 3-85N''' is a Defense-type Beyblade released by [[Hasbro]]. It was released as a part of the [[Drop Attack Battle Set]].
+
+In the toyline, it is the successor to [[WyvernGale 5-80GB]].
+
+==Blade - Hover Wyvern==
+{{Part|Blade - Hover Wyvern}}
+==Ratchet - 3-85==
+{{Part|Ratchet - 3-85}}
+==Bit - Needle==
+{{Part|Bit - Needle}}
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Drop Attack Battle Set Box.jpeg|Drop Attack Battle Set box
+Drop Attack Battle Set Box Backside.jpeg|Backside of the Drop Attack Battle Set box
+Hover Wyvern 3-85N (Angled View).png|Angled view of Hover Wyvern
+</gallery>
+
+==Trivia==
+*Hover Wyvern is the first Hasbro debut release to have a Blade that is not a retool of an existing Blade.
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+[[Category:Hasbro]]

@@ -1,0 +1,50 @@
+{{Beyblade Infobox
+|Image=WyvernGale 2-60S.jpeg
+|JPName=ワイバーンゲイル{{Ruby|2-60|ツーシクスティー}}{{Ruby|S|スパイク}}
+|RomajiName=WaibānGeiru Tsū Shikusutī Supaiku
+|AKA=WyvernGale Two Sixty Spike
+|ProductCode=UX-07
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=
+|Price=4100円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=August 10th, 2024
+|BladeX=WyvernGale
+|Ratchet=2-60
+|Bit=Spike
+|WBO=
+}}{{Translation|'''WyvernGale 2-60S'''|ワイバーンゲイル{{Ruby|2-60|ツーシクスティー}}{{Ruby|S|スパイク}}|WaibānGeiru Tsū Shikusutī Supaiku|WyvernGale Two Sixty Spike}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released as part of the [[PhoenixRudder Deck Set]] in Japan on August 10th, 2024 for 4100円.
+
+==Blade - WyvernGale==
+[[File:WyvernGale (UX-07).png|left|150px]]
+{{Part|Blade - WyvernGale}}
+==Ratchet - 2-60==
+[[File:2-60 (UX-07).png|left|150px]]
+{{Part|Ratchet - 2-60}}
+==Bit - Spike==
+[[File:Spike (UX-07).png|left|75px]]
+{{Part|Bit - Spike}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+PhoenixRudder Deck Set Box.jpeg|PhoenixRudder Deck Set's box
+WyvernGale 2-60S Info.png|Info on WyvernGale
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

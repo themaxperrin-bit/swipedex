@@ -1,0 +1,56 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image=ViperTail 3-80HN.jpg
+|JPName=ヴァイパーテイル{{Ruby|3-80|スリーエイティー}}{{Ruby|HN|ハイニードル}}
+|RomajiName=VaipāTeiru Surī Eitī Hai Nīdoru
+|AKA=ViperTail Three Eighty High Needle
+|ProductCode=BX-16 (Takara Tomy)<br>G0282 (Hasbro)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=43.4 grams
+|Price=1400円<br>USD$14.99<br>CAD$22.99<br>AUD$29.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=October 7th, 2023
+|ReleaseUS=August 2024
+|ReleaseCA=September 11th, 2024
+|BladeX=ViperTail
+|Ratchet=3-80
+|Bit=High Needle
+|WBO=https://worldbeyblade.org/Thread-Product-BX-16-Random-Booster-ViperTail-Select-Rare-ViperTail-5-80O
+}}{{Translation|'''ViperTail 3-80HN'''|ヴァイパーテイル{{Ruby|3-80|スリーエイティー}}{{Ruby|HN|ハイニードル}}|VaipāTeiru Surī Eitī Hai Nīdoru|ViperTail Three Eighty High Needle}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released in Japan on October 7th, 2023 for 1400円 in [[Random Booster ViperTail Select]]. It later debuted in western countries as '''Tail Viper 3-80HN''' as part of the [[Gale Wyvern and Tail Viper Dual Pack]] released by [[Hasbro]] for USD$14.99 in the United States.
+
+==Blade - ViperTail==
+{{Part|Blade - ViperTail}}
+==Ratchet - 3-80==
+[[File:3-80 (BX-16).png|left|150px]]
+{{Part|Ratchet - 3-80}}
+==Bit - High Needle==
+[[File:High Needle (BX-16).png|left|75px]]
+{{Part|Bit - High Needle}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster ViperTail Select Box.jpeg|ViperTail's box.
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Tail Viper 3-80HN.jpeg|Tail Viper 3-80HN
+Gale Wyvern and Tail Viper Box.jpeg|Tail Viper's box.
+Gale Wyvern and Tail Viper Box Backside.jpeg|Backside of Tail Viper's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

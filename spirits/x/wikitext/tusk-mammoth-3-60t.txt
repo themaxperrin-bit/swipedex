@@ -1,0 +1,44 @@
+{{Beyblade Infobox
+|Image=Tusk Mammoth 3-60T.jpeg
+|JPName=マンモスタスク3-60T
+|RomajiName=ManmosuTasuku 3-60T
+|AKA=Tusk Mammoth Three Sixty Taper<br>MammothTusk 3-60T (Takara Tomy)
+|ProductCode=F9588
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=USD$49.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=June 1st, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseAU=May 16th, 2024
+|BladeX=Tusk Mammoth
+|Ratchet=3-60
+|Bit=Taper
+|WBO=
+}}'''Tusk Mammoth 3-60T''' or {{Translation|'''MammothTusk 3-60T'''|マンモスタスク{{Ruby|3-60|スリーシクスティー}}{{Ruby|T|テーパー}}|ManmosuTasuku 3-60T|MammothTusk Three Sixty Taper}} is a Balance Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Xtreme Battle Set]] for USD$49.99 in the United States.
+
+==Blade - Tusk Mammoth==
+{{Part|Blade - Tusk Mammoth}}
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+==Bit - Taper==
+{{Part|Bit - Taper}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Xtreme Battle Set Box.jpeg|Xtreme Battle Set's box.
+Xtreme Battle Set Box Backside.jpeg|Backside of the Xtreme Battle Set's box.
+Tusk Mammoth 3-60T Render.jpeg|Tusk Mammoth's CGI render.
+</gallery>
+
+==Trivia==
+*This Beyblade's colors are based on that of [[HellsChain 5-60HT]].
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

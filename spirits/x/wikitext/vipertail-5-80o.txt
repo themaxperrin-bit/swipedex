@@ -1,0 +1,103 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image1 = ViperTail 5-80O.jpeg
+|Image1Label = Product
+|Image2 = Beyblade X - ViperTail 5-80O.png
+|Image2Label = Anime
+|Image3 = Beyblade X - ViperTail 5-80O (Manga).jpg
+|Image3Label = Manga
+|JPName=ヴァイパーテイル{{Ruby|5-80|ファイブエイティー}}{{Ruby|O|オーブ}}
+|RomajiName=VaipāTeiru Faibu Eitī Ōbu
+|AKA=ViperTail Five Eighty Orb<br>Tail Viper 5-80O (Hasbro)<br>Tail Viper (anime, English)
+|ProductCode=BX-16 (Takara Tomy)<br>G0197 (Hasbro)
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=44.0 grams
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=October 7th, 2023
+|ReleaseAU=May 16th, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseUS=June 1st, 2024
+|BladeX=ViperTail
+|Ratchet=5-80
+|Bit=Orb
+|Owner=[[Toguro Okunaga]]
+|Creator=[[Joka Manju]] (anime)
+|AppearAnime=[[Beyblade X - Episode 07|Team Zooganic]]
+|AppearManga=[[Beyblade X - Chapter 04|Zooganic]]
+|WBO=https://worldbeyblade.org/Thread-Product-BX-16-Random-Booster-ViperTail-Select-Rare-ViperTail-5-80O
+}}{{Translation|'''ViperTail 5-80O'''|ヴァイパーテイル{{Ruby|5-80|ファイブエイティー}}{{Ruby|O|オーブ}}|VaipāTeiru Faibu Eitī Ōbu|ViperTail Five Eighty Orb}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released in Japan on October 7th, 2023 for 1400円 as the prize Beyblade in [[Random Booster ViperTail Select]]. It later debuted in western countries as '''Tail Viper 5-80O''' as part of the [[Tail Viper and Sword Dran Dual Pack]] released by [[Hasbro]] for USD$14.99 in the United States.
+
+==Blade - ViperTail==
+[[File:BladeViperTail.png|150px|left]]
+{{Part|Blade - ViperTail}}
+==Ratchet - 5-80==
+[[File:Ratchet5-80.png|150px|left]]
+{{Part|Ratchet - 5-80}}
+==Bit - Orb==
+[[File:BitOrb.png|75px|left]]
+{{Part|Bit - Orb}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster ViperTail Select Box.jpeg|ViperTail's box.
+ViperTail 5-80O (Angled View).png|Angled view of ViperTail.
+ViperTail 5-80O Info.png|Info on ViperTail.
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Tail Viper 5-80O.jpeg|Tail Viper 5-80O.
+Tail Viper and Sword Dran Box.jpeg|Tail Viper's box.
+Tail Viper and Sword Dran Box Backside.jpeg|Backside of Tail Viper's box.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X ViperTail 5-80O 4X Summon.png
+Beyblade X ViperTail 5-80O Avatar 1.png
+Beyblade X ViperTail 5-80O Avatar 2.png
+Beyblade X ViperTail 5-80O Avatar 3.png
+Beyblade X ViperTail 5-80O Avatar 4.png
+Beyblade X ViperTail 5-80O Avatar 5.png
+Beyblade X ViperTail 5-80O Avatar 7.png
+Beyblade X ViperTail 5-80O Avatar 8.png
+Beyblade X ViperTail 5-80O Avatar 9.png
+Beyblade X ViperTail 5-80O Avatar 10.png
+Beyblade X ViperTail 5-80O Avatar 11.png
+BBX07 ViperTail chipping WizardArrow's stamina 4.png
+BBX07 ViperTail chipping WizardArrow's stamina 5.png
+Beyblade X - ViperTail 5-80O Avatar (Punk's).png|Punk's ViperTail Avatar
+BBX146 GolemRock & ViperTail 4X avatars.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - ViperTail 5-80O.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - ViperTail 5-80O (Manga).jpg
+BBX Chapter 5 - ViperTail 4X Avatar.jpg
+BBX Chapter 5 - ViperTail attacks WizardArrow.jpeg
+BBX Chapter 5 - ViperTails's scaly Blade.jpeg
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ランダムブースター ヴァイパーテイルセレクト|Takara Tomy overview.
+BEYBLADE X - Discover the new TAIL VIPER 5-80O!!|Hasbro product overview.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

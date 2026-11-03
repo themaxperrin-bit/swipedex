@@ -1,0 +1,43 @@
+{{About|the video games combo|PhoenixFeather 3-60F|the anime/manga combo}}
+{{Beyblade Infobox
+|Image1=Feather Phoenix 4-60LF (Xone).png
+|Image1Label=Xone
+|Image2=Feather Phoenix 4-60LF (EvoBattle).png
+|Image2Label=EvoBattle
+|JPName=フェニックスフェザー{{Ruby|4-60|フォーシクスティー}}{{Ruby|LF|ローフラット}}
+|RomajiName=FenikkusuFezā Fō Shikusutī Rō Furatto
+|AKA=PhoenixFeather Four Sixty Low Flat<br>Feather Phoenix 4-60LF
+|Type=Attack
+|SpinDirection=Right-Spin
+|System=Basic Line
+|Series=Beyblade X
+|BladeX=PhoenixFeather
+|Ratchet=4-60
+|Bit=Low Flat
+|Owner=[[Blaze Fujiwara]]
+|SpecialMoves=
+}}{{Translation|'''PhoenixFeather 4-60LF'''|フェニックスフェザー{{Ruby|4-60|フォーシクスティー}}{{Ruby|LF|ローフラット}}|FenikkusuFezā Fō Shikusutī Rō Furatto|PhoenixFeather Four Sixty Low Flat}} is an Attack Type Beyblade that appears in the ''[[Beyblade X: Xone]]'' and ''[[Beyblade X: EvoBattle]]'' video games.
+
+==Blade - PhoenixFeather==
+[[File:BladePhoenixFeather.png|left|150px]]
+{{Part|Blade - PhoenixFeather}}
+==Ratchet - 4-60==
+[[File:Ratchet4-60.png|left|150px]]
+{{Part|Ratchet - 4-60}}
+==Bit - Low Flat==
+
+{{Part|Bit - Low Flat}}
+
+==Gallery==
+===Video Game===
+<gallery>
+Feather Phoenix 4-60LF (Xone).png|In Xone
+Feather Phoenix 4-60LF (EvoBattle).png|In EvoBattle
+</gallery>
+
+==Trivia==
+This is the only ''Phoenix'' Beyblade in ''Beyblade X'', from the games, not to use the 9- series of Ratchets.
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}

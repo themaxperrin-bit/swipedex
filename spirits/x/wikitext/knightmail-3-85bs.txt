@@ -1,0 +1,126 @@
+{{Beyblade Infobox
+|Image1 = KnightMail 3-85BS.jpeg
+|Image1Label = Product
+|Image2 = Beyblade X - KnightMail 3-85BS.png
+|Image2Label = Anime
+|Image3 = Beyblade X - KnightMail 3-85BS (Manga).png
+|Image3Label = Manga
+|JPName=ナイトメイル{{Ruby|3-85|スリーエイティーファイブ}}{{Ruby|BS|バウンドスパイク}}
+|RomajiName=NaitoMeiru Surī Eitī Faibu Baundo Supaiku
+|AKA=KnightMail Three Eighty-Five Bound Spike<br>Mail Knight 3-85BS ([[Hasbro]])<br>Mail Knight (anime, English)
+|ProductCode=UX-10 (Takara Tomy)<br>G3195 (Hasbro)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=43.4 grams
+|Price=5700円<br>USD$29.99
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseJP=November 2nd, 2024
+|ReleaseUS=January 1st, 2026
+|ReleaseCA=December 17th, 2025
+|BladeX=KnightMail
+|Ratchet=3-85
+|Bit=Bound Spike
+|Owner=[[Multi Nana-iro]]<br>[[Tenka Shiroboshi]] (borrowed)<br>[[Meiko Myoden]] (borrowed)
+|Creator=[[Multi Nana-iro]]
+|AppearAnime=[[Beyblade X - Episode 75|Return of the Knight]]
+|AppearManga=[[Beyblade X - Chapter 18|Star Battle]]
+|SpecialMoves=[[Hyper Boost Super Heavy Mail]]
+|WBO=https://worldbeyblade.org/Thread-Product-UX-10-Customize-Set-U-KnightMail-3-85BS-PteraSwing
+}}{{Translation|'''KnightMail 3-85BS'''|ナイトメイル{{Ruby|3-85|スリーエイティーファイブ}}{{Ruby|BS|バウンドスパイク}}|NaitoMeiru Surī Eitī Faibu Baundo Supaiku|KnightMail Three Eighty-Five Bound Spike}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released as a part of the [[Customize Set U]] in Japan on November 2nd, 2024 for 5700円. It later debuted in western countries as '''Mail Knight 3-85BS''' as part of the [[X-treme Expansion Pack]] released by [[Hasbro]] for USD$29.99 in the United States.
+
+It is the successor to [[KnightLance 4-80HN]] and is succeeded by [[KnightFortress GV8-70UN]].
+
+==Blade - KnightMail==
+[[File:BladeKnightMail.png|left|150px]]
+{{Part|Blade - KnightMail}}
+==Ratchet - 3-85==
+[[File:Ratchet3-85.png|left|150px]]
+{{Part|Ratchet - 3-85}}
+==Bit - Bound Spike==
+[[File:BitBoundSpike.png|left|75px]]
+{{Part|Bit - Bound Spike}}
+
+==Releases==
+===Takara Tomy===
+*UX-10 Customize Set U (green)
+*UX-00 "''Metal Coat Navy''" (navy) - Released as a B4 Limited Booster from July 17th, 2025 to December 1st, 2025 for 1800円 through the [[Rare Bey Get Battle]].
+
+===Hasbro===
+*G3195 [[X-treme Expansion Pack]] (green; UX-10 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+Customize Set U Box.jpeg|KnightMail's box
+KnightMail 3-85BS (Angled View).png|Angled view of KnightMail
+Customize Set U Info.png|Info on KnightMail
+KnightMail 3-85BS (Metal Coat Navy).png|KnightMail 3-85BS (Metal Coat: Navy)
+KnightMail 3-85BS (Metal Coat Navy; Angled View).png|Angled view of KnightMail (Metal Coat Navy)
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+X-treme Expansion Pack Box.jpeg|X-treme Expansion Pack box
+X-treme Expansion Pack Box Backside.jpeg|Backside of the X-treme Expansion Pack's box
+KnightMail 3-85BS (Side View).jpeg|Side view of Mail Knight
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X KnightMail 3-85BS 4X Summon.png
+Beyblade X KnightMail 3-85BS Avatar 1.png
+Beyblade X KnightMail 3-85BS Avatar 2.png
+Beyblade X KnightMail 3-85BS Avatar 3.png
+Beyblade X KnightMail 3-85BS Avatar 4.png
+Beyblade X KnightMail 3-85BS Avatar 5.png
+Beyblade X KnightMail 3-85BS Avatar 6.png
+Beyblade X KnightMail 3-85BS Avatar 7.png
+Beyblade X KnightMail 3-85BS Avatar 8.png
+BBX95 FoxBrush avatar vs KnightMail avatar 1.png
+BBX95 FoxBrush avatar vs KnightMail avatar 2.png
+BBX95 FoxBrush avatar vs KnightMail avatar 3.png
+BBX95 FoxBrush avatar vs KnightMail avatar 4.png
+BBX95 KnightMail avatar ready to defend.png
+BBX95 KnightMail avatar taking FoxBrush avatar head on.png
+BBX95 KnightMail loses its sheild.png
+BBX95 KnightMail blocking with its armor.png
+BBX95 KnightMail blocking FoxBrush with its armor.png
+BBX95 KnightMail regaining its shield 1.png
+BBX95 KnightMail regaining its shield 2.png
+KnightMail's Metal Balls.png
+KnightMail's Bound Spike Bit.png
+BBX95 Knightmail absorbing the landing impact.png
+BBX120 KnightMail avatar.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - KnightMail 3-85BS.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - KnightMail 3-85BS (Manga).png
+BBX Chapter 19 - KnightMail's vertical metal balls.png
+BBX Chapter 19 - KnightMail avatars.png
+Xtra Shoot Very Heavy Mail.jpg
+Xtra Shoot Very Heavy Mail (Chapter 24).jpg
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】カスタマイズセットU
+</gallery>
+
+==Trivia==
+*"''Mail''" is likely referring to [https://en.wikipedia.org/wiki/Chain_mail chain ''mail''], a type of armor consisting of small metal rings linked together in a pattern to form a mesh.
+**This is supported by the 4X Avatar's method of defending by using the armor to block attacks.
+*KnightMail's avatar carries both a shield and a lance, which are both suffices to its [[KnightShield 3-80N|predec]][[KnightLance 4-80HN|essors]].
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

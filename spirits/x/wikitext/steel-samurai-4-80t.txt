@@ -1,0 +1,51 @@
+{{Beyblade Infobox
+|Image=Steel Samurai 4-80T.jpeg
+|JPName=サムライスチール4-80T
+|RomajiName=SamuraiSuchīru 4-80T
+|AKA=Steel Samurai Four Eighty Taper<br>SamuraiSteel 4-80T (Takara Tomy)
+|ProductCode=G0188
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=40.4 grams
+|Price=USD$9.99<br>CAD$11.99<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=June 1st, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseAU=May 16th, 2024
+|BladeX=Steel Samurai
+|Ratchet=4-80
+|Bit=Taper
+|WBO=https://worldbeyblade.org/Thread-Product-G0188-Booster-Steel-Samurai-4-80T
+}}'''Steel Samurai 4-80T''' or {{Translation|'''SamuraiSteel 4-80T'''|サムライスチール4-80T|SamuraiSuchīru 4-80T|SamuraiSteel Four Eighty Taper}}<ref>[https://chizai-watch.com/t/2024036422 Takara Tomy SamuraiSteel trademark filing]</ref><ref>Hasbro's [[Beyblade X App]] files</ref> is a Balance Type Beyblade released by [[Hasbro]]. It was released as a Booster Pack for USD$9.99 in the United States.
+
+==Blade - Steel Samurai==
+[[File:BladeSteelSamurai.png|left|150px]]
+{{Part|Blade - Steel Samurai}}
+==Ratchet - 4-80==
+[[File:4-80 (G0188).png|left|150px]]
+{{Part|Ratchet - 4-80}}
+==Bit - Taper==
+[[File:Taper (G0188).png|left|75px]]
+{{Part|Bit - Taper}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Steel Samurai 4-80T Box.jpeg|Steel Samurai's box
+Steel Samurai 4-80T Box Backside.jpg|Backside of Steel Samurai's box
+Steel Samurai 4-80T (Angled View).jpeg|Angled view of Steel Samurai
+</gallery>
+
+==Videos==
+<gallery widths="130">
+BEYBLADE X - Meet the All-New STEEL SAMURAI 4-80T!!
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

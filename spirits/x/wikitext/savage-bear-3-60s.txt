@@ -1,0 +1,45 @@
+{{Beyblade Infobox
+|Image=Savage Bear 3-60S.jpg
+|JPName=
+|RomajiName=
+|AKA=
+|ProductCode=G0286
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=
+|Price=USD$7.99<br>CAD$11.99<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=July 27th, 2024
+|ReleaseCA=August 29th, 2024
+|BladeX=Savage Bear
+|Ratchet=3-60
+|Bit=Spike
+}}'''Savage Bear 3-60S''' is a Defense Type Beyblade released by [[Hasbro]]. It was released as a Booster Pack for USD$7.99 in the United States.
+
+==Blade - Savage Bear==
+{{Part|Blade - Savage Bear}}
+==Ratchet - 3-60==
+{{Part|Ratchet - 3-60}}
+==Bit - Spike==
+{{Part|Bit - Spike}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Savage Bear 3-60S Box.jpg|Savage Bear's box.
+Savage Bear 3-60S Box Backside.jpg|Backside of Savage Bear's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+BEYBLADE X - Discover the new SAVAGE BEAR 3-60S!!
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

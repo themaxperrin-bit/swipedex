@@ -1,0 +1,126 @@
+{{Beyblade Infobox
+|Image1 = WeissTiger 3-60U.jpeg
+|Image1Label = Product
+|Image2 = Beyblade X - WeissTiger 3-60U.png
+|Image2Label = Anime
+|Image3 = Beyblade X - WeissTiger 3-60U (Manga).jpg
+|Image3Label = Manga
+|JPName=ヴァイスタイガー{{Ruby|3-60|スリーシクスティー}}{{Ruby|U|ユナイト}}
+|RomajiName=VaisuTaigā Surī Shikusutī Yunaito
+|AKA=WeissTiger Three Sixty Unite<br>{{Ruby|白虎|ヴァイスタイガー}}<ref>CoroCoro Comic June 2024 issue</ref><br>PearlTiger 3-60U ([[Youngtoys]])<br>Pearl Tiger 3-60U ([[Hasbro]])<br>Pearl Tiger (anime, English)
+|ProductCode=BX-33 (Takara Tomy)<br>G1686 (Hasbro)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=43.1 grams
+|Price=1400円<br>USD$14.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=June 15th, 2024
+|ReleaseCA=May 21st, 2025
+|ReleaseAU=May 2025
+|ReleaseUS=June 2025
+|BladeX=WeissTiger
+|Ratchet=3-60
+|Bit=Unite
+|Owner=[[Sigrid Nana-iro]]
+|AppearAnime=[[Beyblade X - Episode 44|Family Back Then]]
+|AppearManga=[[Beyblade X - Chapter 13|Battle at the Top (Part 1)]]
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Strike Hunt]]
+|WBO=https://worldbeyblade.org/Thread-Product-BX-33-Booster-WeissTiger-3-60U
+}}{{Translation|'''WeissTiger 3-60U'''|ヴァイスタイガー{{Ruby|3-60|スリーシクスティー}}{{Ruby|U|ユナイト}}|VaisuTaigā Surī Shikusutī Yunaito|WeissTiger Three Sixty Unite}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released as a Booster in Japan on June 15th, 2024 for 1400円. It was released by [[Hasbro]] as '''Pearl Tiger 3-60U''' as part of the [[Pearl Tiger and Gill Shark Dual Pack]] for USD$14.99 in the United States.
+
+==Blade - WeissTiger==
+[[File:BladeWeissTiger.png|left|150px]]
+{{Part|Blade - WeissTiger}}
+==Ratchet - 3-60==
+[[File:3-60 (BX-33).png|left|150px]]
+{{Part|Ratchet - 3-60}}
+==Bit - Unite==
+[[File:BitUnite.png|left|75px]]
+{{Part|Bit - Unite}}
+
+==Releases==
+===Takara Tomy===
+*BX-33 Booster (white)
+
+===Hasbro===
+*G1686 [[Pearl Tiger and Gill Shark Dual Pack]] (white; BX-33 model))
+*G3084 [[Rival Rumble Pack]] (white; BX-33 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+WeissTiger 3-60U Box.jpeg|WeissTiger's box
+WeissTiger 3-60U (Angled View).jpeg|Angled view of WeissTiger
+WeissTiger 3-60U Info.png|Info on WeissTiger
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Pearl Tiger 3-60U.jpeg|Pearl Tiger 3-60U
+Pearl Tiger and Gill Shark Box.jpeg|Pearl Tiger's box
+Pearl Tiger and Gill Shark Box Backside.jpeg|Backside of Pearl Tiger's box
+Rival Rumble Pack Box.jpeg|Rival Rumble Pack box
+Rival Rumble Pack Box Backside.jpeg|Backside of the Rival Rumble Pack box
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X WeissTiger 3-60U 4X Summon.png
+Beyblade X WeissTiger 3-60U Avatar 1.png
+Beyblade X WeissTiger 3-60U Avatar 2.png
+Beyblade X WeissTiger 3-60U Avatar 3.png
+Beyblade X WeissTiger 3-60U Avatar 4.png
+Beyblade X WeissTiger 3-60U Avatar 5.png
+Beyblade X WeissTiger 3-60U Avatar 6.png
+Beyblade X WeissTiger 3-60U Avatar 7.png
+Beyblade X WeissTiger 3-60U Avatar 8.png
+Beyblade X WeissTiger 3-60U Avatar 9.png
+Beyblade X WeissTiger 3-60U Avatar 10.png
+Beyblade X WeissTiger 3-60U Avatar 11.png
+Beyblade X WeissTiger 3-60U Avatar 12.png
+Beyblade X WeissTiger 3-60U Avatar 13.png
+Beyblade X WeissTiger 3-60U Avatar 14.png
+WeissTiger's upper blades.png
+WeissTiger's smash blades.png
+WeissTiger's damper blades.png
+WeissTiger's upper blades attacking.png
+WeissTiger's smash blades chipping stamina.png
+Unite Bit act as a Attack & Stamina type.png
+WeissTiger's damper blades absorbing attacks.png
+X Dash Streich Hunt Anime.png|Using [[Xtreme Dash|Xtreme Dash Strike Hunt]].
+WeissTiger avatar in Mirror Reflection 1.png|WeissTiger's 4X Avatar reflected in [[Xtreme Dash|Xtreme Dash Mirror Reflection]].
+WeissTiger avatar in Mirror Reflection 2.png
+WeissTiger avatar in Mirror Reflection 3.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - WeissTiger 3-60U.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - WeissTiger 3-60U (Manga).jpg
+BBX Chapter 13 - WeissTiger attacking.png
+BBX Chapter 13 - WeissTiger smash attacking.jpeg
+BBX Chapter 13 - WeissTiger unfazed.jpeg
+BBX Chapter 13 - WeissTiger's 3 types of blades.png
+X Dash Streich Hunt.jpg
+BBX Chapter 21 - WeissTiger avatar.jpg
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ヴァイスタイガー3-60U|Takara Tomy product overview
+</gallery>
+
+==Trivia==
+*The word "''Weiss''" means white in German.
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

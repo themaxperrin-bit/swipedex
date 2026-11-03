@@ -1,0 +1,64 @@
+{{About|Takumi Ishiyama's Beyblade|KnightShield 3-80N|the standard Beyblade}}
+{{Beyblade Infobox
+|Image1 = Beyblade X - Stone Mont Blanc (Anime).png
+|Image1Label = Anime
+|Image2 = Beyblade X - Stone Mont Blanc.png
+|Image2Label = Manga
+|JPName=ストーンモンブラン3-80N
+|RomajiName=Sutōn Mon Buran 3-80N
+|AKA=Stone Mont Blanc Three Eighty Needle<br>Stone Mountain 3-80N (anime/manga, English)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=41.9 grams
+|System=Basic Line
+|Series=Beyblade X
+|BladeX=Stone Mont Blanc
+|Ratchet=3-80
+|Bit=Needle
+|Owner=[[Takumi Ishiyama]]
+|Creator=[[Takumi Ishiyama]]
+|AppearAnime=[[Beyblade X - Episode 01|X]]
+|AppearManga=[[Beyblade X - Chapter 01|X]]
+|SpecialMoves=[[Xtreme Dash|Xtreme Dash Stone Avalanche]]<br>[[Hyper Boost Stone Buckler]]
+}}{{Translation|'''Stone Mont Blanc 3-80N'''|ストーンモンブラン3-80N|Sutōn Mon Buran 3-80N|Stone Mont Blanc Three Eighty Needle}} or '''Stone Mountain 3-80N''' is a Defense Type Beyblade that is owned by [[Takumi Ishiyama]] in the ''[[Beyblade X]]'' anime and manga.
+
+Although this Beyblade did not receive a full release from [[Takara Tomy]], an official tournament legal Gear Chip sticker was distributed at [[Beyblade Battle Base]] (B4) events.
+
+==Blade - Stone Mont Blanc==
+In the anime, '''Stone Mont Blanc''' is the [[Blade - KnightShield|KnightShield]] Blade with a different Gear Chip sticker attached. The Gear Chip features the Blade's namesake, [[wikipedia:Mont Blanc|Mont Blanc]], the highest mountain in the Alps.
+
+In the manga, the '''Stone Mont Blanc''' Blade has a round shape, with six protrusions. The Gear Chip features a stone head, with two smaller stones next to it.
+
+==Ratchet - 3-80==
+{{Part|Ratchet - 3-80}}
+==Bit - Needle==
+{{Part|Bit - Needle}}
+
+==Gallery==
+===Toyline===
+<gallery widths="130">
+Stone Mont Blanc Gear Chip.png|Gear Chip sticker
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X - Stone Mont Blanc (Anime).png|Anime design
+Stone Mont Blanc 4X.png|Avatar ([[Beyblade X - Episode 01|''Episode 01 - X'']])
+Stone Mont Blanc 4X Second Version.png|Avatar, second version ([[Beyblade X - Episode 18|''Episode 18 - Pride'']])
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - Stone Mont Blanc.png|Manga design
+Beyblade X - Stone Mont Blanc (Color Vol 1).png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}

@@ -1,0 +1,151 @@
+{{Beyblade Infobox
+|Image1=DranBuster 1-60A.jpg
+|Image1Label=Product
+|Image2=Beyblade X - DranBuster 1-60A.png
+|Image2Label=Anime
+|Image3=Beyblade X - DranBuster 1-60A (Manga).png
+|Image3Label=Manga
+|Image4 = Beyblade X - DranBuster 1-60A (Game).png
+|Image4Label = Game
+|JPName=ドランバスター{{Ruby|1-60|ワンシクスティー}}{{Ruby|A|アクセル}}
+|RomajiName=DoranBasutā Wan Shikusutī Akuseru
+|AKA=DranBuster One Sixty Accel<br>Buster Dran 1-60A ([[Hasbro]])<br>Buster Dran (anime, English)<br>PackunBuster (Packun's; anime, Japanese)<br>Buster Packun (Packun's; anime, English)
+|ProductCode=UX-01 (Takara Tomy)<br>G1536 (Hasbro)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=45.1 grams
+|Price=1980円<br>USD$9.99<br>CAD$16.99
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseJP=March 30th, 2024
+|ReleaseUS=October 2024
+|ReleaseCA=January 6th, 2025
+|BladeX=DranBuster
+|Ratchet=1-60
+|Bit=Accel
+|Owner=[[Jaxon Cross]]<br>[[Ciel Kaminari]] (replica; anime only)<br>[[Packun]] (replica; anime only)<br>[[Byte]] (fake replica; anime only)<br>'''Spin-Off:'''<br>[[Tsurugi Ryumai]] (''[[Beytrainer Kiba]]'')
+|Creator=[[Multi Nana-iro]]
+|AppearAnime=[[Beyblade X - Episode 28|The King and the Phoenix]]
+|AppearManga=[[Beyblade X - Chapter 09|A Rainbow Guest]]
+|SpecialMoves=[[Xtreme Dash]]<br>[[Xtreme Dash Buster]]<br>[[Air Ride Xtreme Dash]] (fake replica; anime only)<br>[[Xtreme Dash Dragonic Break|Xtreme Dash Dragonic Break 0]] (envisioned)<br>[[Xtreme Dash Dragonic Break|Xtreme Dash Dragonic Break X]] (anime)<ref name="X101">''[[Beyblade X (Season 3)|Beyblade X]]'' Episode 101, ''[[Beyblade X - Episode 101|Destruction]]''</ref>
+|WBO=https://worldbeyblade.org/Thread-Product-UX-01-Starter-DranBuster-1-60A
+}}{{Translation|'''DranBuster 1-60A'''|ドランバスター{{Ruby|1-60|ワンシクスティー}}{{Ruby|A|アクセル}}|DoranBasutā Wan Shikusutī Akuseru|DranBuster One Sixty Accel}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released as a Starter in Japan on March 30th, 2024. It later debuted in western countries as '''Buster Dran 1-60A''' in a Starter Pack released by [[Hasbro]] for USD$9.99 in the United States.
+
+It is the successor to [[DranDagger 4-60R]] and is succeeded by [[DranBrave S6-60V]].
+
+==Blade - DranBuster==
+[[File:BladeDranBuster.png|left|150px]]
+{{Part|Blade - DranBuster}}
+==Ratchet - 1-60==
+[[File:Ratchet1-60.png|left|150px]]
+{{Part|Ratchet - 1-60}}
+==Bit - Accel==
+[[File:BitAccel.png|left|75px]]
+{{Part|Bit - Accel}}
+
+==Releases==
+===Takara Tomy===
+*UX-01 Starter (blue)
+*UX-04 "''Special Version''" (opaque blue) - Released in the [[Battle Entry Set U]].
+*UX-00 "''Metal Coat: Red''" - Released as a Booster as a [[CoroCoro Comic]] lottery prize in Japan. 100 units given away.
+*UX-00 "''Metal Coat: Red''" - Released as a Booster, reprint of the Metal Coat: Red release and bundled with the Japanese Special Edition release of Beyblade X manga volume 1.
+*UX-00 Starter "''Metal Coat: Blue FC Barcelona Version''"
+*UX-00 Color Choice Booster
+
+===Hasbro===
+*G1536 Starter Pack (UX-01 model; blue)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranBuster 1-60A Box.jpeg|DranBuster's box
+DranBuster 1-60A Contents.jpeg|DranBuster's UX-01 Starter contents
+DranBuster 1-60A (Angled View).jpg|Angled view of DranBuster
+Beyblade X Winder Launcher (Black×Blue Ver.).jpg|Winder Launcher (Black×Blue Version)
+DranBuster 1-60A Info.png|Info on DranBuster
+DranBuster 1-60A (Special Ver.).jpg|DranBuster 1-60A ([[Battle Entry Set U|Special Version]])
+DranBuster 1-60A (Special Ver.; Angled View).jpg|Angled view of DranBuster (Special Version)
+DranBuster 1-60A Info (Special Ver.).png|Info on DranBuster (Special Version)
+DranBuster 1-60A (Metal Coat Red).jpg|DranBuster 1-60A (Metal Coat: Red)
+DranBuster 1-60A (Metal Coat Red; Angled View).png|Angled view of DranBuster 1-60A (Metal Coat: Red)
+DranBuster 1-60A (Metal Coat Red) Banner.jpg|DranBuster 1-60A (Metal Coat: Red) website banner
+DranBuster 1-60A (Metal Coat Blue FC Barcelona Ver.).png|DranBuster 1-60A (Metal Coat: Blue FC Barcelona Version)
+DranBuster 1-60A (Metal Coat Blue FC Barcelona Ver.) Contents.png|DranBuster's (Metal Coat: Blue FC Barcelona Version) UX-00 Starter contents
+Beyblade X Winder Launcher (Blue×Red Ver.).png|Winder Launcher (Blue×Red Version)
+DranBuster 1-60A Info (Metal Coat Blue FC Barcelona Ver.).png|Info on DranBuster (Metal Coat: Blue FC Barcelona Version)
+DranBuster 1-60A Color Choice Booster Contents.png|DranBuster 1-60A Color Choice Booster contents
+Katsushika City Collaboration DranBuster Stickers.png|Katsushika City collaboration stickers
+DranBuster 1-60A Teaser.jpeg|DranBuster teaser<ref>https://twitter.com/tbh_pr/status/1757600558230515762/photo/</ref>
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Buster Dran 1-60A.jpeg|Buster Dran 1-60A.
+Buster Dran 1-60A Box.jpeg|Buster Dran's box.
+Buster Dran 1-60A Box Backside.jpeg|Backside of Buster Dran's box.
+Buster Dran 1-60A Contents.jpeg|Buster Dran's contents.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X DranBuster 1-60A 4X Summon.png
+Beyblade X DranSword 3-60F Avatar 1.png
+Beyblade X DranSword 3-60F Avatar 2.png
+Beyblade X DranSword 3-60F Avatar 3.png
+Beyblade X DranSword 3-60F Avatar 4.png
+Beyblade X DranSword 3-60F Avatar 5.png
+Beyblade X DranSword 3-60F Avatar 6.png
+Beyblade X DranSword 3-60F Avatar 7.png
+Beyblade X DranSword 3-60F Avatar 8.png
+Beyblade X DranSword 3-60F Avatar 9.png
+Beyblade X DranSword 3-60F Avatar 10.png
+Beyblade X DranSword 3-60F Avatar 11.png
+Beyblade X DranSword 3-60F Avatar 12.png
+Beyblade X DranBuster 1-60A Avatar 1.png
+Beyblade X DranBuster 1-60A Avatar 2.png
+Xtreme Dash Buster 2.png|Using [[Xtreme Dash Buster]]
+Xtreme Dash Buster 12.png
+BBX50 Ekusu holding damaged DranBuster.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - DranBuster 1-60A.png
+Beyblade X - DranBuster 1-60A (Front View).png
+Beyblade X - DranBuster 1-60A Spinning.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - DranBuster 1-60A (Manga).png
+BBX Chapter 11 - Ekusu's DranBuster.jpeg
+BBX Chapter 11 - DranBuster's single strike sword.jpeg
+BBX Chapter 11 - Most powerful strike.jpeg
+BBX Chapter 11 - An Xtreme Dash not seen before.jpeg
+The Shadow that Cannot Be Touched & Xtreme Dash Buster.png
+Xtreme Dash Buster.jpg
+Dragonic Break & Xtreme Dash Buster Clash.jpg
+BBX Chapter 15 - Damaged DranBuster.jpeg
+BBX Chapter 15 - Damaged DranBuster 2.jpeg
+Xtreme Dash Buster (Chapter 17).png
+Xtreme Dash Dragonic Break 0.jpg
+Xtreme Dash Buster (Chapter 21).jpg
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ユニークライン登場！ドランバスター＆ヘルズハンマー＆ウィザードロッド|Takara Tomy product overview (Japanese)
+BEYBLADE X - Learn everything about the New BEYBLADE X Unique Line!|Hasbro product overview
+</gallery>
+
+==Trivia==
+* According to the flyer included with [[Random Booster SphinxCowl Select]], the UX-01 Starter was supposed to release on March 23rd, 2024, but was delayed 1 week for unknown reasons.
+* The "Metal Coat: Red" release could be obtained via the May 2024 issue of the [[CoroCoro Comic]] magazine released on April 15th, 2024 in Japan. A "silver peel-off campaign" was held, with 100 winners receiving the Beyblade.<ref>[https://corocoro.jp/news/382326/ Metal Coat: Red release information]</ref> It was later rereleased together with ''Beyblade X'' manga Volume 1 Full Color Special Edition.
+*An officially licensed miniaturized version of this product was developed and released by American toy company Super Impulse in 2026 under their "World's Smallest" label, alongside [[HellsHammer 3-70H]] and [[WizardRod 5-70DB]].
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

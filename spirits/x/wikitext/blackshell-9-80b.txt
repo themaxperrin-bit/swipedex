@@ -1,0 +1,47 @@
+{{About|the Takara Tomy release|Obsidian Shell 3-85S|the Hasbro release}}
+{{Beyblade Infobox
+|Image=BlackShell 9-80B.jpeg
+|JPName=ブラックシェル{{Ruby|9-80|ナインエイティー}}{{Ruby|B|ボール}}
+|RomajiName=BurakkuSheru Nain Eitī Bōru
+|AKA=BlackShell Nine Eighty Ball
+|ProductCode=BX-35
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 13th, 2024
+|BladeX=BlackShell
+|Ratchet=9-80
+|Bit=Ball
+|WBO=
+}}{{Translation|'''BlackShell 9-80B'''|ブラックシェル{{Ruby|9-80|ナインエイティー}}{{Ruby|B|ボール}}|BurakkuSheru Nain Eitī Bōru|BlackShell Nine Eighty Ball}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released in Japan on July 13th, 2024 for 1400円 as one of six Beyblades in [[Random Booster Vol. 4]].
+
+==Blade - BlackShell==
+{{Part|Blade - BlackShell}}
+==Ratchet - 9-80==
+{{Part|Ratchet - 9-80}}
+==Bit - Ball==
+{{Part|Bit - Ball}}<!--
+
+==Releases==
+===Takara Tomy===-->
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 4 Box.jpeg|BlackShell's box.
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

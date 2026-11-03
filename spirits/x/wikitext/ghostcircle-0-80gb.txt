@@ -1,0 +1,112 @@
+{{Beyblade Infobox
+|Image1 = GhostCircle 0-80GB.jpeg
+|Image1Label = Product
+|Image2 = Beyblade X - GhostCircle 0-80GB.png
+|Image2Label = Anime
+|Image3 = Beyblade X - GhostCircle 0-80GB (Manga).png
+|Image3Label = Manga
+|JPName=ゴーストサークル{{Ruby|0-80|ゼロエイティー}}{{Ruby|GB|ギヤボール}}
+|RomajiName=GōsutoSākuru Zero Eitī Giya Bōru
+|AKA=GhostCircle Zero Eighty Gear Ball<br>Circle Ghost 0-80GB ([[Hasbro]])<br>Circle Ghost (anime/manga, English)
+|ProductCode=UX-12 (Takara Tomy)<br>G1687 (Hasbro)
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=36.3 grams
+|Price=1400円<br>USD$14.99<br>CAD$22.99<br>AUD$29.99
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseJP=December 28th, 2024
+|ReleaseUS=July 2025
+|BladeX=GhostCircle
+|Ratchet=0-80
+|Bit=Gear Ball
+|Owner=[[Reiyu Kuwabara]]
+|Creator=
+|AppearAnime=[[Beyblade X - Episode 72|Labyrinth of Riddles and Fear]]
+|AppearManga=[[Beyblade X - Chapter 19|The Curse]]
+|SpecialMoves=[[Hyper Boost Curse of the End]]<br>[[Xtreme Dash|Xtreme Dash Spell of the End]] (anime only)
+|WBO=
+}}{{Translation|'''GhostCircle 0-80GB'''|ゴーストサークル{{Ruby|0-80|ゼロエイティー}}{{Ruby|GB|ギヤボール}}|GōsutoSākuru Zero Eitī Giya Bōru|GhostCircle Zero Eighty Gear Ball}} is a Stamina Type Beyblade released by [[Takara Tomy]]. It was released in Japan on December 28th, 2024 for 1400円 as the prize Beyblade in [[Random Booster Vol. 5]]. It later debuted in western countries as '''Circle Ghost 0-80GB''' as part of the [[Circle Ghost and Chain Incendio Dual Pack]] released by [[Hasbro]] for USD$14.99 in the United States.
+
+==Blade - GhostCircle==
+[[File:BladeGhostCircle.png|left|150px]]
+{{Part|Blade - GhostCircle}}
+==Ratchet - 0-80==
+[[File:Ratchet0-80.png|left|150px]]
+{{Part|Ratchet - 0-80}}
+==Bit - Gear Ball==
+[[File:Gear Ball (UX-12 01).png|left|75px]]
+{{Part|Bit - Gear Ball}}
+
+==Releases==
+===Takara Tomy===
+* UX-12 01 [[Random Booster Vol. 5]] (pink)
+
+===Hasbro===
+* G1687 [[Circle Ghost and Chain Incendio Dual Pack]] (pink; UX-12 01 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Vol. 5 Box.jpeg|GhostCircle's box
+GhostCircle 0-80GB (Angled View).jpeg|Angled view of GhostCircle
+GhostCircle 0-80GB Info.png|Info on GhostCircle
+</gallery>
+
+====Hasbro====
+<gallery widths="140">
+Circle Ghost and Chain Incendio Box.jpeg|Circle Ghost's box
+Circle Ghost and Chain Incendio Box Backside.jpeg|Backside of Circle Ghost's box
+Circle Ghost 0-80GB (Side View).jpeg|Side view of Circle Ghost
+Circle Ghost 0-80GB Parts.jpeg|Circle Ghost's parts
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X GhostCircle 0-80GB 4X Summon.png
+Beyblade X GhostCircle 0-80GB Avatar 1.png
+Beyblade X GhostCircle 0-80GB Avatar 2.png
+Beyblade X GhostCircle 0-80GB Avatar 3.png
+Beyblade X GhostCircle 0-80GB Avatar 4.png
+Beyblade X GhostCircle 0-80GB Avatar 5.png
+Beyblade X GhostCircle 0-80GB Avatar 6.png
+Beyblade X GhostCircle 0-80GB Avatar 7.png
+Beyblade X GhostCircle 0-80GB Avatar 8.png
+Beyblade X GhostCircle 0-80GB Avatar 9.png
+BBX72 Reiyu showing GhostCircle to Bird.png
+BBX74 Reiyu explaining GhostCircle.png
+Reiyu putting a curse.png
+BBX74 GhostCircle parrying off HellsHammer 1.png
+BBX74 GhostCircle parrying off HellsHammer 2.png
+Xtra Shoot Curse of the End 2.png|Using [[Hyper Boost Curse of the End]]
+X Dash Spell of the End.png|Using [[Xtreme Dash|Xtreme Dash Spell of the End]]
+BBX85 Xtra Shoot Curse of the End.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - GhostCircle 0-80GB.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - GhostCircle 0-80GB (Manga).png
+BBX Chapter 19 GhostCircle.png
+BBX Chapter 19 As if fighting a ghost.jpg
+Xtra Shoot Curse of the End.jpg
+BBX Chapter 19 - GhostCircle stop spinning.jpg
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ランダムブースターVol.5-2|Takara Tomy product overview
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

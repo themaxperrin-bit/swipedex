@@ -1,0 +1,66 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image=KnightShield 5-80T.jpeg
+|JPName=ナイトシールド{{Ruby|5-80|ファイブエイティー}}{{Ruby|T|テーパー}}
+|RomajiName=NaitoShīrudo Faibu Eitī Tēpā
+|AKA=KnightShield Five Eighty Taper<br>Helm Knight 5-80T ([[Hasbro]])
+|ProductCode=BX-20 (Takara Tomy)<br>G0198 (Hasbro)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=
+|Price=3960円<br>USD$14.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 2nd, 2023
+|ReleaseUS=August 2024
+|ReleaseCA=September 11th, 2024
+|BladeX=KnightShield
+|Ratchet=5-80
+|Bit=Taper
+|WBO=https://worldbeyblade.org/Thread-Product-BX-20-DranDagger-Deck-Set-DranDagger-4-60R
+}}{{Translation|'''KnightShield 5-80T'''|ナイトシールド{{Ruby|5-80|ファイブエイティー}}{{Ruby|T|テーパー}}|NaitoShīrudo Faibu Eitī Tēpā|KnightShield Five Eighty Taper}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released as a part of the [[DranDagger Deck Set]] in Japan on November 2nd, 2023 for 3960円. It was released by [[Hasbro]] as '''Helm Knight 5-80T''' in the [[Yell Kong and Helm Knight Dual Pack]] for USD$14.99 in the United States.
+
+==Blade - KnightShield==
+[[File:KnightShield (BX-20).png|left|150px]]
+{{Part|Blade - KnightShield}}
+==Ratchet - 5-80==
+[[File:5-80 (BX-20).png|left|150px]]
+{{Part|Ratchet - 5-80}}
+==Bit - Taper==
+[[File:Taper (BX-20).png|left|75px]]
+{{Part|Bit - Taper}}
+
+==Releases==
+===Takara Tomy===
+* BX-20 [[DranDagger Deck Set]] (purple)
+
+===Hasbro===
+* G0198 [[Yell Kong and Helm Knight Dual Pack]] (purple; BX-20 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranDagger Deck Set Box.jpeg|KnightShield's box
+KnightShield 5-80T Info.png|Info on KnightShield
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Helm Knight 5-80T.jpeg|Helm Knight 5-80T
+Yell Kong and Helm Knight Box.jpeg|Helm Knight's box
+Yell Kong and Helm Knight Box Backside.jpeg|Backside of Helm Knight's box
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ドランダガーデッキセット＆ヘルズチェインデッキセット
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

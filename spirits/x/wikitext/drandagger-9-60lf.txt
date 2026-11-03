@@ -1,0 +1,39 @@
+{{Beyblade Infobox
+|Image=DranDagger 9-60LF.png
+|JPName=ドランダガー{{Ruby|9-60|ナインシクスティー}}{{Ruby|LF|ローフラット}}
+|RomajiName=DoranDagā Nain Shikusutī Rō Furatto
+|AKA=DranDagger Nine Sixty Low Flat
+|ProductCode=UX-00
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=
+|Price=1600円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=November 16th, 2024
+|BladeX=DranDagger
+|Ratchet=9-60
+|Bit=Low Flat
+|WBO=
+}}{{Translation|'''DranDagger 9-60LF'''|ドランダガー{{Ruby|9-60|ナインシクスティー}}{{Ruby|LF|ローフラット}}|DoranDagā Nain Shikusutī Rō Furatto|DranDagger Nine Sixty Low Flat}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released as part of the [[Beyblade Battle Base|Beyblade Battle Base (B4)]] store exclusive [[Dran Deck Starter]] in Asia on November 9th, 2024.
+
+==Blade - DranDagger==
+{{Part|Blade - DranDagger}}
+==Ratchet - 9-60==
+{{Part|Ratchet - 9-60}}
+==Bit - Low Flat==
+{{Part|Bit - Low Flat}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+DranDagger 9-60LF Info (Metal Coat White).png|Info on DranDagger (Metal Coat: White).
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]

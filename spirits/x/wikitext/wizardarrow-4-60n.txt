@@ -1,0 +1,55 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image = WizardArrow 4-60N.jpeg
+|JPName=ウィザードアロー{{Ruby|4-60|フォーシクスティー}}{{Ruby|N|ニードル}}
+|RomajiName=WizādoArō Fō Shikusutī Nīdoru
+|AKA=WizardArrow Four Sixty Needle<br>Arrow Wizard 4-60N (Hasbro)
+|ProductCode=BX-08 (Takara Tomy)<br>G0196 (Hasbro)
+|Type=Defense
+|SpinDirection=Right-Spin
+|Price=3960円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 15th, 2023
+|ReleaseAU=May 16th, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseUS=June 1st, 2024
+|BladeX=WizardArrow
+|Ratchet=4-60
+|Bit=Needle
+|WBO=
+}}{{Translation|'''WizardArrow 4-60N'''|ウィザードアロー{{Ruby|4-60|フォーシクスティー}}{{Ruby|N|ニードル}}|WizādoArō Fō Shikusutī Nīdoru|WizardArrow Four Sixty Needle}} is a Defense Type Beyblade released by [[Takara Tomy]]. It was released as a part of the [[3on3 Deck Set]] in Japan on July 15th, 2023 for 3960円. It later debuted in western countries as '''Arrow Wizard 4-60N''' as part of the [[Chain Incendio and Arrow Wizard Dual Pack]] released by [[Hasbro]] for USD$14.99 in the United States.
+
+==Blade - WizardArrow==
+[[File:WizardArrow (BX-08).png|left|150px]]
+{{Part|Blade - WizardArrow}}
+==Ratchet - 4-60==
+[[File:4-60 (BX-08).png|left|150px]]
+{{Part|Ratchet - 4-60}}
+==Bit - Needle==
+[[File:Needle (BX-08).png|left|75px]]
+{{Part|Bit - Needle}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+3on3 Deck Set Box.jpeg|3on3 Deck Set box.
+WizardArrow 4-60N (Angled View).jpeg|Angled view of WizardArrow.
+WizardArrow 4-60N Info.png|Info on WizardArrow.
+</gallery>
+
+====Hasbro====
+<gallery widths="140">
+Arrow Wizard 4-60N.jpeg|Arrow Wizard 4-60N
+Chain Incendio and Arrow Wizard Box.jpeg|Arrow Wizard's box.
+Chain Incendio and Arrow Wizard Box Backside.jpeg|Backside of Arrow Wizard's box.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

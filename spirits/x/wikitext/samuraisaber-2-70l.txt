@@ -1,0 +1,124 @@
+{{Beyblade Infobox
+|Image1 = SamuraiSaber 2-70L.png
+|Image1Label = Product
+|Image2 = Beyblade X - SamuraiSaber 2-70L.png
+|Image2Label = Anime
+|Image3 = Beyblade X - SamuraiSaber 2-70L (Manga).png
+|Image3Label = Manga
+|JPName=サムライセイバー{{Ruby|2-70|ツーセブンティー}}{{Ruby|L|レベル}}
+|RomajiName=SamuraiSeibā Tsū Sebuntī Reberu
+|AKA=SamuraiSaber Two Seventy Level<br>WarriorSaber 2-70L ([[Youngtoys]])<br>Saber Samurai 2-70L ([[Hasbro]])<br>Saber Samurai (anime; English)<br>PackunSaber (Packun's; anime, Japanese)<br>Saber Packun (Packun's; anime, English)
+|ProductCode=UX-09 (Takara Tomy)<br>G1862 (Hasbro)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=45.5 grams
+|Price=3300円<br>USD$24.99<br>CAD$34.99<br>AUD$39.99
+|System=Unique Line
+|Series=Beyblade X
+|ReleaseJP=November 2nd, 2024
+|ReleaseUS=July 2025
+|ReleaseCA=August 2025
+|ReleaseEU=June 2025
+|BladeX=SamuraiSaber
+|Ratchet=2-70
+|Bit=Level
+|Owner=[[Tenka Shiroboshi]]<br>[[Omega Shiroboshi]] (anime only, former)<br>[[Packun]] (anime only, replica)<br>'''Spin-Off:'''<br>[[Gekkamaru Mitsuya]] (''[[Beytrainer Kiba]]'')
+|Creator=[[Shiroboshi School]]
+|AppearAnime=[[Beyblade X - Episode 53|Signs of a New Era]]
+|AppearManga=[[Beyblade X - Chapter 16|Shiroboshi School]]
+|SpecialMoves=[[Glimmering Stars]]<br>[[Shooting Star]]<br>[[Xtreme Dash]]
+|WBO=https://worldbeyblade.org/Thread-Product-UX-09-Starter-SamuraiSaber-2-70L
+}}{{Translation|'''SamuraiSaber 2-70L'''|サムライセイバー{{Ruby|2-70|ツーセブンティー}}{{Ruby|L|レベル}}|SamuraiSeibā Tsū Sebuntī Reberu|SamuraiSaber Two Seventy Level}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released as a Starter in Japan on November 2nd, 2024. It later debuted in western countries as '''Saber Samurai 2-70L''' in the '''Victory Grip Launcher Set''' released by [[Hasbro]]<!-- for USD$TBA in the United States-->.
+
+It is the successor to [[SamuraiSteel 5-70GF]] and is succeeded by [[SamuraiCalibur 6-70M]].
+
+==Blade - SamuraiSaber==
+[[File:BladeSamuraiSaber.png|left|150px]]
+{{Part|Blade - SamuraiSaber}}
+==Ratchet - 2-70==
+[[File:Ratchet2-70.png|left|150px]]
+{{Part|Ratchet - 2-70}}
+==Bit - Level==
+[[File:BitLevel.png|left|75px]]
+{{Part|Bit - Level}}
+
+==Releases==
+===Takara Tomy===
+*UX-09 Starter (purple)
+*UX-00 "''Metal Coat: Orange''" (orange) - Released as a Booster as a [[CoroCoro Comic]] lottery prize. 100 units given away.
+*UX-00 "''Metal Coat: Orange''" (orange) - Released as a Booster, reprint of the Metal Coat: Orange release and bundled with the Japanese Special Edition release of Beyblade X manga volume 2.
+
+===Hasbro===
+*G1862 Victory Grip Launcher Set (purple; UX-09 model)
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+SamuraiSaber 2-70L Box.jpeg|SamuraiSaber's box
+SamuraiSaber 2-70L Contents.png|SamuraiSaber's contents
+SamuraiSaber 2-70L (Angled View).png|Angled view of SamuraiSaber
+Beyblade X Hold Launcher.png|Hold Launcher
+SamuraiSaber 2-70L Info.png|Info on SamuraiSaber
+SamuraiSaber 2-70L (Metal Coat Orange) (Angled View).jpg|Angled view of SamuraiSaber 2-70L (Metal Coat: Orange)
+</gallery>
+
+====Hasbro====
+<gallery widths="130">
+Saber Samurai 2-70L.jpeg|Saber Samurai 2-70L
+Victory Grip Launcher Set Box.jpeg|Victory Grip Launcher Set's box.
+Victory Grip Launcher Set Box Backside.jpeg|Backside of Victory Grip Launcher Set's box.
+Victory Grip Launcher Set.jpeg|Victory Grip Launcher Set.
+Beyblade X Victory Grip Launcher.jpeg|Victory Grip Launcher
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X SamuraiSaber 2-70L Avatar.png
+BBX53 SamuraiSaber closeup.png
+BBX56 Level Bit changes trajectory 1.png
+BBX56 Level Bit changes trajectory 2.png
+Glimmering Stars 4.png|Using [[Glimmering Stars]]
+Glimmering Stars 6.png
+X Dash SamuraiSaber.png
+Shooting Star 12.png|Using [[Shooting Star]]
+BBX60 SamuraiSaber avatar 1.png
+BBX60 SamuraiSaber avatar 2.png
+BBX61 SamuraiSaber's moveable blades.png
+Beyblade X SamuraiSaber 2-70L Avatar 2.png
+</gallery>
+
+====Control Art====
+<gallery widths="130">
+Beyblade X - SamuraiSaber 2-70L.png
+Beyblade X - SamuraiSaber 2-70L Spinning.png
+</gallery>
+
+===Manga===
+<gallery widths="130">
+Beyblade X - SamuraiSaber 2-70L (Manga).png
+BBX Chapter 15 Epilogue - Tenka holding SamuraiSaber.jpeg
+BBX Chapter 16 - SamuraiSaber weilding one large and one small sword.jpeg
+Glimmering Stars (manga).jpeg
+Shooting Star (manga).jpeg
+BBX Chapter 17 - SamuraiSaber's 2 Shiroboshi Style Special moves.jpeg
+Glimmering Stars (Chapter 17).png
+BBX Chapter 17 - SamuraiSaber taking heavy damage.png
+Shooting Star (Chapter 20).png
+Glimmering Stars (Chapter 24).jpg
+Shooting Star (Chapter 24).jpg
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】サムライセイバー2-70L|Takara Tomy product overview
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Unique Line Beyblades}}
+{{Beyblade X Products (Hasbro)}}
+[[Category:Takara Tomy]]
+[[Category:Hasbro]]

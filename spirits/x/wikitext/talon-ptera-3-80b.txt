@@ -1,0 +1,48 @@
+{{Beyblade Infobox
+|Image=Talon Ptera 3-80B.jpeg
+|JPName=プテラスイング3-80B
+|RomajiName=Putera Suingu 3-80B
+|AKA=Talon Ptera Three Eighty Ball<br>PteraSwing 3-80B (Takara Tomy)
+|ProductCode=G0195
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=43.5 grams
+|Price=USD$9.99<br>CAD$11.99<br>AUD$17.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=June 1st, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseAU=May 16th, 2024
+|BladeX=Talon Ptera
+|Ratchet=3-80
+|Bit=Ball
+|WBO=https://worldbeyblade.org/Thread-Product-G0195-Booster-Talon-Ptera-3-80B
+}}'''Talon Ptera 3-80B''' or {{Translation|'''PteraSwing 3-80B'''|プテラスイング3-80B|Putera Suingu 3-80B|PteraSwing Three Eighty Ball}} is a Stamina Type Beyblade released by [[Hasbro]]. It was released as a Booster Pack for USD$9.99 in the United States.
+
+==Blade - Talon Ptera==
+{{Part|Blade - Talon Ptera}}
+==Ratchet - 3-80==
+{{Part|Ratchet - 3-80}}
+==Bit - Ball==
+{{Part|Bit - Ball}}
+
+==Videos==
+<gallery widths="130">
+BEYBLADE X - Meet the All-New TALON PTERA 3-80B!!
+</gallery>
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Talon Ptera 3-80B Box.jpeg|Talon Ptera's box
+Talon Ptera 3-80B Box Backside.jpeg|Backside of Talon Ptera's box
+Talon Ptera 3-80B (Angled View).jpeg|Angled view of Talon Ptera
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

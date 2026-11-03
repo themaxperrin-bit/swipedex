@@ -1,0 +1,63 @@
+{{About|the Upper Type|Lightning L-Drago 1-60F (Rapid-Hit Type)|the Rapid-Hit Type}}
+{{Beyblade Infobox
+|Image=Lightning L-Drago 1-60F (Upper Type).jpeg
+|JPName=ライトニングエルドラゴ{{Ruby|1-60|ワンシクスティー}}{{Ruby|F|フラット}} (アッパー型)
+|RomajiName=Raitoningu Erudorago Wan Shikusutī Furatto (Appā Gata)
+|AKA=Lightning L-Drago One Sixty Flat (Upper Type)
+|ProductCode=BX-00
+|Type=Attack
+|SpinDirection=Left-Spin
+|Weight=42.2 grams
+|Price=1600円
+|System=Basic Line
+|System2=X-Over Project
+|Series=Beyblade X
+|ReleaseJP=September 14th, 2024
+|BladeX=Lightning L-Drago (Upper Type)
+|Ratchet=1-60
+|Bit=Flat
+|WBO=https://worldbeyblade.org/Thread-Product-BX-00-Random-Booster-LightningL-Drago-1-60F
+}}{{Translation|'''Lightning L-Drago 1-60F (Upper Type)'''|ライトニングエルドラゴ{{Ruby|1-60|ワンシクスティー}}{{Ruby|F|フラット}} (アッパー型)|Raitoningu Erudorago Wan Shikusutī Furatto (Appā Gata)|Lightning L-Drago One Sixty Flat (Upper Type)}} is an Attack Type Beyblade released by [[Takara Tomy]]. It was released in Japan on September 14th, 2024 for 1600円 as one of the two prize Beyblades in [[Random Booster Lightning L-Drago 1-60F]].
+
+As part of the [[X-Over Project]], it is the ''[[Beyblade X]]'' remake of the [[Hybrid Wheel System]] Beyblade, [[Lightning L-Drago 100HF]] in its "Upper Mode".
+
+==Blade - Lightning L-Drago==
+[[File:BladeLightningL-Drago(UpperType).png|left|150px]]
+{{Part|Blade - Lightning L-Drago (Upper Type)}}
+==Ratchet - 1-60==
+[[File:1-60 (BX-00 Lightning L Drago).png|left|150px]]
+{{Part|Ratchet - 1-60}}
+==Bit - Flat==
+[[File:Flat (BX-00 Lightning L-Drago).png|left|75px]]
+{{Part|Bit - Flat}}
+
+==Releases==
+===Takara Tomy===
+*BX-00 01 [[Random Booster Lightning L-Drago 1-60F]]
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster Lightning L-Drago 1-60F Box.jpeg|Lightning L-Drago's box
+Lightning L-Drago 1-60F (Upper Type; Angled View).png|Angled view of Lightning L-Drago (Upper Type).
+Lightning L-Drago 1-60F (Upper Type) Info.png|Info on Lightning L-Drago (Upper Type).
+Lightning L-Drago 1-60F Stickers.png|Lightning L-Drago's Stickers
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【BEYBLADE X】クロスオーバープロジェクト2024 -メタルファイト ベイブレード-|Reveal Trailer.
+【ベイブレード開発者レビュー】ランダムブースター ライトニングエルドラゴ1-60F
+</gallery>
+
+==Trivia==
+*Lighting L-Drago was the top Metal Fight Beyblade choice in a poll held from August 7 to August 13, 2023 to select the next Beys for the X Series X-Over Project.
+*The 1-60 Ratchet is chosen to mimic the 100 Spin Track in writing.
+*The Flat Bit is chosen to mimic the Hole Flat Performance Tip.
+*[[WizardArrow 4-80B]] is used to represent [[Flame Sagittario C145S]] on the box.
+
+==References==
+{{Reflist}}
+{{X-Over Project Beyblades}}
+[[Category:Takara Tomy]]

@@ -1,0 +1,51 @@
+{{Beyblade Infobox
+|Image=Spinosaurus 3-85A.png
+|JPName=スピノサウルス{{Ruby|3-85|スリーエイティーファイブ}}{{Ruby|A|アクセル}}
+|RomajiName=Supinosaurusu Surī Eitī Faibu Akuseru
+|AKA=Spinosaurus Three Eighty Five Accel<br>Roar Tyranno 3-85A (Jurassic World Ver.)<br>TyrannoRoar 3-85A (Jurassic World Ver.)
+|ProductCode=G1899 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Attack
+|SpinDirection=Right-Spin
+|Weight=43.3 grams
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=July 19th, 2025
+|ReleaseCA=August 2025
+|ReleaseUS=June 2025
+|ReleaseAU=June 2025
+|BladeX=Spinosaurus
+|Ratchet=3-85
+|Bit=Accel
+}}{{Translation|'''Spinosaurus 3-85A'''|スピノサウルス{{Ruby|3-85|スリーエイティーファイブ}}{{Ruby|A|アクセル}}|Supinosaurusu Surī Eitī Faibu Akuseru|Spinosaurus Three Eighty Five Accel}} is an Attack Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Spinosaurus and Quetzalcoatlus Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on July 19th, 2025 for 4180円 in Japan.
+
+The Takara Tomy release refers to this Beyblade's full name as '''Spinosaurus TyrannoRoar 3-85A Jurassic World Version'''.
+
+==Blade - Spinosaurus==
+{{Part|Blade - Spinosaurus}}
+==Ratchet - 3-85==
+{{Part|Ratchet - 3-85}}
+==Bit - Accel==
+{{Part|Bit - Accel}}
+
+==Gallery==
+<gallery widths="130">
+Spinosaurus and Quetzalcoatlus Box.jpeg|Spinosaurus's box (Hasbro).
+Spinosaurus and Quetzalcoatlus Box Backside.jpeg|Backside of Spinosaurus's box (Hasbro).
+Spinosaurus and Quetzalcoatlus Box (Takara Tomy).jpeg|Spinosaurus's box (Takara Tomy).
+Spinosaurus 3-85A (Angled View).png|Angled view of Spinosaurus.
+Spinosaurus 3-85A (Angled View) 2.png
+</gallery>
+
+==Videos==
+<gallery widths="130">
+【ベイブレード開発者レビュー】ジュラシック・ワールドコラボ！T-レックス-モササウルス＆スピノサウルス-ケツァルコアトルス|Takara Tomy product overview
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

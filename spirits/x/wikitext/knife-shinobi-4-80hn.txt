@@ -1,0 +1,88 @@
+{{Beyblade Infobox
+|Image1=Knife Shinobi 4-80HN.jpg
+|Image1Label=Product
+|Image2=Beyblade X - ShinobiKnife 4-80HN.png
+|Image2Label=Anime
+|JPName=シノビナイフ{{Ruby|4-80|フォーエイティー}}{{Ruby|HN|ハイニードル}}
+|RomajiName=ShinobiNaifu Fō Eitī Hai Nīdoru
+|AKA=Knife Shinobi Four Eighty High Needle<br>ShinobiKnife 4-80HN (Takara Tomy)<br>ShinobiKnife (anime, Japanese)<br>NinjaKnife (anime, Korean)
+|ProductCode=G0190
+|Type=Defense
+|SpinDirection=Right-Spin
+|Weight=40.1 grams
+|Price=USD$14.99<br>CAD$22.99<br>AUD$29.99
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseAU=May 16th, 2024
+|ReleaseCA=May 30th, 2024
+|ReleaseUS=June 1st, 2024
+|BladeX=Knife Shinobi
+|Ratchet=4-80
+|Bit=High Needle
+|Owner=[[Quinn Manju]] (anime)
+|Creator=[[Joka Manju]] (anime)
+|AppearAnime=[[Beyblade X - Episode 38|Return of the Queen]] (flashback)
+}}'''Knife Shinobi 4-80HN''' or {{Translation|'''ShinobiKnife 4-80HN'''|シノビナイフ{{Ruby|4-80|フォーエイティー}}{{Ruby|HN|ハイニードル}}|ShinobiNaifu Fō Eitī Hai Nīdoru|ShinobiKnife Four Eighty High Needle}} in Japan, is a Defense Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Knife Shinobi and Keel Shark Dual Pack]] for USD$14.99 in the United States.
+
+It is succeeded by [[ShinobiShadow 1-80MN]].
+
+==Blade - Knife Shinobi==
+[[File:BladeKnifeShinobi.png|left|150px]]
+{{Part|Blade - Knife Shinobi}}
+==Ratchet - 4-80==
+[[File:4-80 (G0190).png|left|150px]]
+{{Part|Ratchet - 4-80}}
+==Bit - High Needle==
+[[File:High Needle (G0190).png|left|75px]]
+{{Part|Bit - High Needle}}
+
+==Releases==
+===Hasbro===
+*G0190 [[Knife Shinobi and Keel Shark Dual Pack]] (purple)
+*G1542 [[Beat Tyranno and Knife Shinobi Dual Pack]] (G0190 model)
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Knife Shinobi and Keel Shark Box.jpeg|Knife Shinobi's box.
+Knife Shinobi and Keel Shark Box Backside.jpeg|Backside of Knife Shinobi's box.
+Knife Shinobi 4-80HN Render.jpeg|Knife Shinobi's box render.
+Knife Shinobi 4-80HN (Angled View).jpeg|Angled view of Knife Shinobi.
+Beat Tyranno and Knife Shinobi Box.jpeg|Knife Shinobi's box (G1542).
+Beat Tyranno and Knife Shinobi Box Backside.jpeg|Backside of Knife Shinobi's box.
+</gallery>
+
+===Anime===
+<gallery widths="130">
+Beyblade X ShinobiKnife 4-80HN 4X Summon.png
+Beyblade X ShinobiKnife 4-80HN Avatar 1.png
+Beyblade X ShinobiKnife 4-80HN Avatar 2.png
+Beyblade X ShinobiKnife 4-80HN Avatar 3.png
+Beyblade X ShinobiKnife 4-80HN Avatar 4.png
+Beyblade X ShinobiKnife 4-80HN Avatar 5.png
+Beyblade X ShinobiKnife 4-80HN Avatar 6.png
+Beyblade X ShinobiKnife 4-80HN Avatar 8.png
+Beyblade X ShinobiKnife 4-80HN Avatar 9.png
+ShinobiKnife's battles flashback 1.png
+ShinobiKnife's battles flashback 2.png
+ShinobiKnife's battles flashback 3.png
+ShinobiKnife's battles flashback 4.png
+Beyblade X Knife Shinobi 4-80HN 1.png
+Beyblade X Knife Shinobi VS Cobalt Drake 2.png|Knife Shinobi lose by Xtreme Finish
+</gallery>
+
+==Videos==
+<gallery widths="130">
+BEYBLADE X - Meet the All-New KNIFE SHINOBI 4-80HN!!
+</gallery>
+
+==Trivia==
+*Knife Shinobi is the first Bey to appear in the ''Beyblade X'' anime to be based on a Hasbro exclusive product.
+*Product renders show the inner part of the 4-80 Ratchet and HN Bit in pink and purple respectively, rather than the orange and blue used in the anime and actual toy.
+*Knife Shinobi shares the same stock combo as [[KnightLance 4-80HN]].
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]

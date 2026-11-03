@@ -1,0 +1,42 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image=Darth Vader 4-60P.jpg
+|JPName=ダース・ベイダー{{Ruby|4-60|フォーシクスティー}}{{Ruby|P|ポイント}}
+|RomajiName=Dāsu Beidā Fō Shikusutī Pointo
+|AKA=Darth Vader Four Sixty Point
+|ProductCode=G0290 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=39.2 grams
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=
+|ReleaseJP=April 26th, 2025
+|BladeX=Darth Vader
+|Ratchet=4-60
+|Bit=Point
+}}{{Translation|'''Darth Vader 4-60P'''|ダース・ベイダー{{Ruby|4-60|フォーシクスティー}}{{Ruby|P|ポイント}}|Dāsu Beidā Fō Shikusutī Pointo|Darth Vader Four Sixty Point}} is a Balance Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Luke Skywalker and Darth Vader Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on April 26th, 2025 for 4180円 in Japan.
+
+==Blade - Darth Vader==
+{{Part|Blade - Darth Vader}}
+==Ratchet - 4-60==
+{{Part|Ratchet - 4-60}}
+==Bit - Point==
+{{Part|Bit - Point}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Luke Skywalker and Darth Vader Box.jpeg|Darth Vader's box.
+Luke Skywalker and Darth Vader Box Backside.jpeg|Backside of Darth Vader's box.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

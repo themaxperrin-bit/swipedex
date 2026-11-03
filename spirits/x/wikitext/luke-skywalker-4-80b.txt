@@ -1,0 +1,41 @@
+{{Beyblade Infobox
+|Image=Luke Skywalker 4-80B.jpg
+|JPName=ルーク・スカイウォーカー{{Ruby|4-80|フォーエイティー}}{{Ruby|B|ボール}}
+|RomajiName=Rūku Sukaiuōkā Fō Eitī Bōru
+|AKA=Luke Skywalker Four Eighty Ball
+|ProductCode=G0290 (Hasbro)<br>BX-00 (Takara Tomy)
+|Type=Stamina
+|SpinDirection=Right-Spin
+|Weight=39.0 grams (first mold)<br>40.6 grams (second mold)
+|Price=USD$24.99<br>4180円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseUS=
+|ReleaseJP=April 26th, 2025
+|BladeX=Luke Skywalker
+|Ratchet=4-80
+|Bit=Ball
+}}{{Translation|'''Luke Skywalker 4-80B'''|ルーク・スカイウォーカー{{Ruby|4-80|フォーエイティー}}{{Ruby|B|ボール}}|Rūku Sukaiuōkā Fō Eitī Bōru|Luke Skywalker Four Eighty Ball}} is a Stamina Type Beyblade released by [[Hasbro]]. It was released as a part of the [[Luke Skywalker and Darth Vader Multipack Set]] for USD$24.99 in the United States. It later debuted as a part of the same set released by [[Takara Tomy]] on April 26th, 2025 for 4180円 in Japan.
+
+==Blade - Luke Skywalker==
+{{Part|Blade - Luke Skywalker}}
+==Ratchet - 4-80==
+{{Part|Ratchet - 4-80}}
+==Bit - Ball==
+{{Part|Bit - Ball}}
+
+==Gallery==
+===Toyline===
+====Hasbro====
+<gallery widths="130">
+Luke Skywalker and Darth Vader Box.jpeg|Luke Skywalker's box.
+Luke Skywalker and Darth Vader Box Backside.jpeg|Backside of Luke Skywalker's box.
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Hasbro]]
+[[Category:Takara Tomy]]

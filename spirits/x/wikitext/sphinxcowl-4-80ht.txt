@@ -1,0 +1,48 @@
+{{Provisional}}
+{{Beyblade Infobox
+|Image = SphinxCowl 4-80HT.jpeg
+|JPName=スフィンクスカウル{{Ruby|4-80|フォーエイティー}}{{Ruby|HT|ハイテーパー}}
+|RomajiName=SufinkusuKauru Fō Eitī Hai Tēpā
+|AKA=SphinxCowl Four Eighty High Taper
+|ProductCode=BX-27
+|Type=Balance
+|SpinDirection=Right-Spin
+|Weight=41.7 grams
+|Price=1400円
+|System=Basic Line
+|Series=Beyblade X
+|ReleaseJP=February 22nd, 2024
+|BladeX=SphinxCowl
+|Ratchet=4-80
+|Bit=High Taper
+|WBO=https://worldbeyblade.org/Thread-Product-BX-27-Random-Booster-SphinxCowl-Select-Rare-SphinxCowl-9-80GN
+}}{{Translation|'''SphinxCowl 4-80HT'''|スフィンクスカウル{{Ruby|4-80|フォーエイティー}}{{Ruby|HT|ハイテーパー}}|SufinkusuKauru Fō Eitī Hai Tēpā|SphinxCowl Four Eighty High Taper}} is a Balance Type Beyblade released by [[Takara Tomy]]. It was released in Japan on February 22nd, 2024 for 1400円 in [[Random Booster SphinxCowl Select]].
+
+==Blade - SphinxCowl==
+{{Part|Blade - SphinxCowl}}
+==Ratchet - 4-80==
+{{Part|Ratchet - 4-80}}
+==Bit - High Taper==
+{{Part|Bit - High Taper}}
+
+==Gallery==
+===Toyline===
+====Takara Tomy====
+<gallery widths="130">
+X Random Booster SphinxCowl Select Box.jpeg|SphinxCowl's box.
+</gallery>
+
+===Manga===
+<gallery widths="130">
+</gallery>
+
+==Videos==
+<gallery widths="130">
+</gallery>
+
+==Trivia==
+
+==References==
+{{Reflist}}
+{{Basic Line Beyblades}}
+[[Category:Takara Tomy]]
