@@ -1,0 +1,109 @@
+name: Grab Burst avatars
+
+# Run it from the Actions tab ("Run workflow").
+# Reads the Beyblade Wiki's "Avatar" page (https://beyblade.fandom.com/wiki/Avatar): every Burst avatar,
+# its owner, which Beyblades it lives in, and its pictures. Saves:
+#   spirits/burst/<avatar>/1.jpg, 2.jpg ...   pictures from the Image column, then the Beyblade Images column
+#   spirits/burst/index.json                 name, type, owner, Beyblades, pictures
+#   spirits/burst/avatar.wikitext            the page itself, for checking
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Save the avatars
+        run: |
+          pip install requests pillow >/dev/null
+          python -u - <<'PY'
+          import io, json, os, re, shutil, time
+          import requests
+          from PIL import Image
+          API = "https://beyblade.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT = "spirits/burst"
+          if os.path.isdir(OUT): shutil.rmtree(OUT)
+          os.makedirs(OUT)
+          def api(**p):
+              p.update(format="json", formatversion="2")
+              for a in range(5):
+                  try:
+                      r = s.get(API, params=p, timeout=60)
+                      if r.status_code == 200: return r.json()
+                  except Exception as e: print("  api error", str(e)[:80])
+                  time.sleep(5 * (a + 1))
+              raise SystemExit("The wiki isn't answering, run the job again later")
+          def slug(t): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
+          def plain(t): return re.sub(r"\s+", " ", re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]|'''?|<[^>]+>|\{\{[^}]*\}\}", r"\1", t)).strip()
+          def strip_attr(c):
+              m = re.match(r'^\s*(?:[a-z-]+\s*=\s*"[^"]*"\s*)+\|(?!\|)', c)
+              return c[m.end():] if m else c
+
+          wt = api(action="parse", page="Avatar", prop="wikitext")["parse"]["wikitext"]
+          open(f"{OUT}/avatar.wikitext", "w").write(wt)
+
+          avatars, section = [], ""
+          for block in re.split(r"\n(?===+[^=])", wt):
+              h = re.match(r"==+\s*(.+?)\s*==+", block)
+              if h: section = plain(h.group(1))
+              for row in re.split(r"\n\|-\s*(?=\n)", block)[1:]:
+                  cells = []
+                  for ln in row.split("\n"):
+                      if re.match(r"^[!|](?![-}+])", ln):
+                          for c in re.split(r"\|\||!!", ln[1:]): cells.append(strip_attr(c))
+                      elif ln.startswith("|}"): break
+                      elif cells: cells[-1] += "\n" + ln
+                  if len(cells) < 4: continue
+                  name = plain(cells[0])
+                  if not name or name.lower() == "name": continue
+                  img = re.findall(r"(?:File|Image):([^\]|\n]+)", cells[1])
+                  bimg = re.findall(r"(?:File|Image):([^\]|\n]+)", cells[4]) if len(cells) > 4 else []
+                  bimg += re.findall(r"^\s*([^|\[\]=\n]+\.(?:jpe?g|png|gif|webp))", cells[4] if len(cells) > 4 else "", re.I | re.M)
+                  beys = [l.split("|")[-1].strip() for l in re.findall(r"\[\[([^\]]+)\]\]", cells[3]) if not re.match(r"(File|Image):", l)]
+                  avatars.append({"section": section, "name": name, "slug": slug(name), "owner": plain(cells[2]),
+                                  "beyblades": beys, "image_files": [f.strip() for f in img], "bey_image_files": [f.strip() for f in bimg]})
+          print(len(avatars), "avatars on the page")
+
+          made = failed = 0
+          for a in avatars:
+              a["pictures"], a["picture_files"] = [], []
+              want = []
+              for fn in a["image_files"] + a["bey_image_files"]:
+                  if fn.lower() not in [w.lower() for w in want]: want.append(fn)
+              for fn in want[:10]:
+                  d = api(action="query", titles="File:" + fn, prop="imageinfo", iiprop="url")
+                  ii = d["query"]["pages"][0].get("imageinfo")
+                  if not ii: print("  not on the wiki:", fn); failed += 1; continue
+                  try:
+                      r = s.get(ii[0]["url"], timeout=60); r.raise_for_status()
+                      im = Image.open(io.BytesIO(r.content)); im.seek(0); im = im.convert("RGBA")
+                      bg = Image.new("RGB", im.size, (0, 0, 0)); bg.paste(im, mask=im.split()[3]); bg.thumbnail((1000, 1000))
+                      out = f"{OUT}/{a['slug']}/{len(a['pictures']) + 1}.jpg"
+                      os.makedirs(os.path.dirname(out), exist_ok=True)
+                      bg.save(out, "JPEG", quality=88, optimize=True, progressive=True)
+                      a["pictures"].append(out.replace("spirits/", "")); a["picture_files"].append(fn); made += 1
+                  except Exception as e: print("  picture error", fn, str(e)[:80]); failed += 1
+                  time.sleep(0.4)
+              print(f"{a['section'][:14]:14s} {a['name']:26s} {len(a['pictures'])} pictures -> {', '.join(a['beyblades'])[:70]}")
+          json.dump({"source": "https://beyblade.fandom.com/wiki/Avatar", "avatars": avatars},
+                    open(f"{OUT}/index.json", "w"), indent=1, ensure_ascii=False)
+          print(f"Done: {len(avatars)} avatars, {made} pictures, {failed} failed")
+          PY
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A spirits
+          git commit -m "Grab Burst avatars" || echo "No changes"
+          git pull --rebase || true
+          git push
