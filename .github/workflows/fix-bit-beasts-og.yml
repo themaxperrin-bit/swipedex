@@ -1,0 +1,81 @@
+name: Fix OG bit-beasts
+
+# Run it from the Actions tab ("Run workflow").
+# Reads the Beyblade Wiki's "List of Bit Beasts" (https://beyblade.fandom.com/wiki/List_of_Bit_Beasts):
+# every original-series bit-beast, its owner, which Beyblades it lives in, and its picture.
+# Saves:
+#   spirits/og/<bit-beast>/1.jpg, 2.jpg ...   picture from the list first, then the bit-beast's own wiki page
+#   spirits/og/index.json                    name, section, owner, Beyblades, pictures
+#   spirits/og/list.wikitext                 the list page itself, for checking
+# Downloads exactly the bit-beast pictures named in the list (replaces the first run's pictures).
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Save the bit-beast pictures
+        run: |
+          pip install requests pillow >/dev/null
+          cat > beasts.json <<'JSON'
+          [{"section": "Manga", "name": "Guardian Driger", "files": ["bitbeastgame.png"], "owner": "Kennosuke Shishi", "beyblades": ["Guardian Driger"], "slug": "guardian-driger"}, {"section": "Manga", "name": "Nightmare Dragoon", "files": ["Darkdragoon.png"], "owner": "None", "beyblades": [], "slug": "nightmare-dragoon"}, {"section": "Beyblade: 2000", "name": "Dragoon", "files": ["Dragoon10.jpg", "DragoonShot.jpg"], "owner": "Tyson Granger", "beyblades": ["Dragoon S", "Dragoon F", "Dragoon V", "Dragoon V2", "Dragoon G", "Dragoon GT", "Dragoon MS", "Dragoon MS Ultimate Version"], "slug": "dragoon"}, {"section": "Beyblade: 2000", "name": "Dranzer", "files": ["Ep5.59.PNG", "DranzerShot.jpg"], "owner": "Kai Hiwatari", "beyblades": ["Dranzer S", "Dranzer F", "Dranzer V", "Dranzer V2", "Dranzer G", "Dranzer GT", "Dranzer MS"], "slug": "dranzer"}, {"section": "Beyblade: 2000", "name": "Driger", "files": ["E6.52.JPG", "Driger.jpg"], "owner": "Ray Kon", "beyblades": ["Driger S", "Driger F", "Driger V", "Driger V2", "Driger G", "Driger MS"], "slug": "driger"}, {"section": "Beyblade: 2000", "name": "Draciel", "files": ["Ep5.57.PNG", "DracielShot.jpg"], "owner": "Max Tate", "beyblades": ["Draciel S", "Draciel F", "Draciel V", "Draciel V2", "Draciel G", "Draciel MS"], "slug": "draciel"}, {"section": "Beyblade: 2000", "name": "Galman", "files": ["Galman02.jpg"], "owner": "Kevin", "beyblades": ["Galman"], "slug": "galman"}, {"section": "Beyblade: 2000", "name": "Galux", "files": ["Tumblr ou9yaf6URx1w4q252o4 1280.png", "Galux04.jpg"], "owner": "Mariah", "beyblades": ["Galux"], "slug": "galux"}, {"section": "Beyblade: 2000", "name": "Galzzly", "files": ["Galzzly00.jpg"], "owner": "Gary", "beyblades": ["Galzzly"], "slug": "galzzly"}, {"section": "Beyblade: 2000", "name": "Galeon", "files": ["Galeon 02.jpg"], "owner": "Lee", "beyblades": ["Galeon Attacker", "Galeon 2"], "slug": "galeon"}, {"section": "Beyblade: 2000", "name": "Trygator", "files": ["Trygator.jpg"], "owner": "Emily Watson", "beyblades": ["Trygator (Anime)", "Trygator"], "slug": "trygator"}, {"section": "Beyblade: 2000", "name": "Tryhorn", "files": ["Tryhorn 2.jpg"], "owner": "Steven", "beyblades": ["Tryhorn"], "slug": "tryhorn"}, {"section": "Beyblade: 2000", "name": "Trypio", "files": ["Trypio01.jpg"], "owner": "Eddy", "beyblades": ["Trypio"], "slug": "trypio"}, {"section": "Beyblade: 2000", "name": "Trygle", "files": ["TrygleBeast.png"], "owner": "Michael Summers", "beyblades": ["Trygle", "Trygle 2"], "slug": "trygle"}, {"section": "Beyblade: 2000", "name": "Sarcophalon", "files": ["Sarcophalon.png"], "owner": "Cenotaph", "beyblades": ["Sarcophalon"], "slug": "sarcophalon"}, {"section": "Beyblade: 2000", "name": "Draculor", "files": ["Drac-Attack.png"], "owner": "Sanguinex", "beyblades": ["Draculor"], "slug": "draculor"}, {"section": "Beyblade: 2000", "name": "Lycanlor", "files": ["Wolf_Storm.png"], "owner": "Lupinex", "beyblades": ["Lycanlor"], "slug": "lycanlor"}, {"section": "Beyblade: 2000", "name": "Shamblor", "files": ["Shamblor.png"], "owner": "Zomb", "beyblades": ["Shamblor"], "slug": "shamblor"}, {"section": "Beyblade: 2000", "name": "Griffolyon", "files": ["GriffolyonShot.jpg"], "owner": "Robert Jürgens", "beyblades": ["Griffolyon"], "slug": "griffolyon"}, {"section": "Beyblade: 2000", "name": "Unicolyon", "files": ["Unicolyon.jpg"], "owner": "Oliver", "beyblades": ["Unicolyon"], "slug": "unicolyon"}, {"section": "Beyblade: 2000", "name": "Amphilyon", "files": ["Amphilyon00.jpg"], "owner": "Enrique", "beyblades": ["Amphilyon"], "slug": "amphilyon"}, {"section": "Beyblade: 2000", "name": "Salamalyon", "files": ["Salamlyon.png"], "owner": "Johnny McGregor", "beyblades": ["Salamalyon"], "slug": "salamalyon"}, {"section": "Beyblade: 2000", "name": "Wyborg", "files": ["Wyborgbeast.png"], "owner": "Ian Papov", "beyblades": ["Wyborg"], "slug": "wyborg"}, {"section": "Beyblade: 2000", "name": "Wolborg", "files": ["Animais35.jpg", "Wolborgbeast.png"], "owner": "Tala", "beyblades": ["Wolborg 2", "Wolborg 4"], "slug": "wolborg"}, {"section": "Beyblade: 2000", "name": "Seaborg", "files": ["Seaborg.png"], "owner": "Spencer", "beyblades": ["Seaborg 2"], "slug": "seaborg"}, {"section": "Beyblade: 2000", "name": "Falborg", "files": ["Falborg2.png"], "owner": "Bryan", "beyblades": ["Falborg", "Falborg 2"], "slug": "falborg"}, {"section": "Beyblade: 2000", "name": "Black Dranzer", "files": ["Bdranzer.JPG"], "owner": "Kai Hiwatari", "beyblades": ["Black Dranzer"], "slug": "black-dranzer"}, {"section": "Beyblade: V-Force", "name": "Flash Leopard", "files": ["Flash Leopard.png"], "owner": "Ozuma", "beyblades": ["Flash Leopard", "Flash Leopard 2"], "slug": "flash-leopard"}, {"section": "Beyblade: V-Force", "name": "Vortex Ape", "files": ["Vortex Ape.jpg"], "owner": "Dunga", "beyblades": ["Vortex Ape", "Vortex Ape 2"], "slug": "vortex-ape"}, {"section": "Beyblade: V-Force", "name": "Sharkrash", "files": ["Sharkrash Bit beast.png"], "owner": "Mariam", "beyblades": ["Sharkrash"], "slug": "sharkrash"}, {"section": "Beyblade: V-Force", "name": "Vanishing Moot", "files": ["Vanishing Moot Bit Beast.png"], "owner": "Joseph", "beyblades": ["Vanishing Moot"], "slug": "vanishing-moot"}, {"section": "Beyblade: V-Force", "name": "Fox", "files": ["Wild Fox.png"], "owner": "Foxy", "beyblades": ["Wild Fox"], "slug": "fox"}, {"section": "Beyblade: V-Force", "name": "Sickle Weasel", "files": ["Sickle Weasel.png"], "owner": "Jack", "beyblades": ["Sickle Weasel"], "slug": "sickle-weasel"}, {"section": "Beyblade: V-Force", "name": "Spider", "files": ["Phantom Spider.png"], "owner": "Net", "beyblades": ["Phantom Spider"], "slug": "spider"}, {"section": "Beyblade: V-Force", "name": "Tyranno", "files": ["Tyranno.jpg"], "owner": "Dennis", "beyblades": ["Tyranno"], "slug": "tyranno"}, {"section": "Beyblade: V-Force", "name": "Klarken", "files": ["Klarken.00.JPG"], "owner": "Denny", "beyblades": ["Klarken"], "slug": "klarken"}, {"section": "Beyblade: V-Force", "name": "Cyber Dragoon Prototype", "files": ["Animais52.jpg"], "owner": "Gerry", "beyblades": ["Talon"], "slug": "cyber-dragoon-prototype"}, {"section": "Beyblade: V-Force", "name": "Cyber Dranzer Prototype", "files": ["Cyber Dranzer Test.jpg"], "owner": "Wyatt Smithwright", "beyblades": ["Digital Bird"], "slug": "cyber-dranzer-prototype"}, {"section": "Beyblade: V-Force", "name": "Cyber Draciel", "files": ["Cyber Draciel.jpg"], "owner": "Jim", "beyblades": ["Cyber Draciel"], "slug": "cyber-draciel"}, {"section": "Beyblade: V-Force", "name": "Cyber Dranzer", "files": ["Cyber Dranzer.jpg"], "owner": "Goki", "beyblades": ["Cyber Dranzer"], "slug": "cyber-dranzer"}, {"section": "Beyblade: V-Force", "name": "Cyber Driger", "files": ["Cyber Driger.jpg"], "owner": "Salima", "beyblades": ["Cyber Driger"], "slug": "cyber-driger"}, {"section": "Beyblade: V-Force", "name": "Cyber Dragoon", "files": ["CyberDragoon2.jpg"], "owner": "Kane Yamashita", "beyblades": ["Cyber Dragoon"], "slug": "cyber-dragoon"}, {"section": "Beyblade: V-Force", "name": "Uriel", "files": ["Ariel1.png"], "owner": "King", "beyblades": ["Uriel 2"], "slug": "uriel"}, {"section": "Beyblade: V-Force", "name": "Gabriel", "files": ["Gabriel.jpg"], "owner": "Queen", "beyblades": ["Gabriel"], "slug": "gabriel"}, {"section": "Beyblade: V-Force", "name": "Cerberus", "files": ["Cerberus.png"], "owner": "Zeo Zagart", "beyblades": ["Burning Cerberus"], "slug": "cerberus"}, {"section": "Beyblade: V-Force", "name": "Orthros", "files": ["OrthrusShot.png"], "owner": "Gordo", "beyblades": ["Blizzard Orthrus"], "slug": "orthros"}, {"section": "Beyblade: V-Force", "name": "Unnamed mantis-type Bit Beast", "files": ["BeybladeVForce - MantisBitBeast.png"], "owner": "No one", "beyblades": [], "slug": "unnamed-mantis-type-bit-beast"}, {"section": "Beyblade: G-Revolution", "name": "Strata Dragoon", "files": ["Strata Dragoon Beast.png"], "owner": "Daichi Sumeragi", "beyblades": ["Strata Dragoon V", "Strata Dragoon G", "Strata Dragoon MS"], "slug": "strata-dragoon"}, {"section": "Beyblade: G-Revolution", "name": "Metal Driger", "files": ["Metal Driger.png"], "owner": "Jin of The Gale", "beyblades": ["Metal Driger"], "slug": "metal-driger"}, {"section": "Beyblade: G-Revolution", "name": "Rock Bison", "files": ["RockBison.png"], "owner": "Rick Anderson", "beyblades": ["Rock Bison"], "slug": "rock-bison"}, {"section": "Beyblade: G-Revolution", "name": "Torch Pegasus", "files": ["TorchPegasus.02.jpg"], "owner": "Raul Fernandez", "beyblades": ["Torch Pegasus"], "slug": "torch-pegasus"}, {"section": "Beyblade: G-Revolution", "name": "Thunder Pegasus", "files": ["TP-BB.png"], "owner": "Julia Fernandez", "beyblades": ["Thunder Pegasus"], "slug": "thunder-pegasus"}, {"section": "Beyblade: G-Revolution", "name": "Dark Gargoyle", "files": ["Death Gargoyle.png"], "owner": "Miguel", "beyblades": ["Dark Gargoyle"], "slug": "dark-gargoyle"}, {"section": "Beyblade: G-Revolution", "name": "Rapid Eagle", "files": ["Rapideagle .png"], "owner": "Claude", "beyblades": ["Rapid Eagle"], "slug": "rapid-eagle"}, {"section": "Beyblade: G-Revolution", "name": "Rushing Boar", "files": ["Rushing Boar.png"], "owner": "Aaron", "beyblades": ["Rushing Boar"], "slug": "rushing-boar"}, {"section": "Beyblade: G-Revolution", "name": "Pierce Hedgehog", "files": ["Pierce Hedgehog.png"], "owner": "Mathilda", "beyblades": ["Pierce Hedgehog"], "slug": "pierce-hedgehog"}, {"section": "Beyblade: G-Revolution", "name": "Venus", "files": ["Venus1.png"], "owner": "Ming-Ming", "beyblades": ["Venus"], "slug": "venus"}, {"section": "Beyblade: G-Revolution", "name": "Gigars", "files": ["Gigars.png"], "owner": "Crusher", "beyblades": ["Gigars"], "slug": "gigars"}, {"section": "Beyblade: G-Revolution", "name": "Apollon", "files": ["ApollonBeast.png"], "owner": "Garland Siebald", "beyblades": ["Apollon"], "slug": "apollon"}, {"section": "Beyblade: G-Revolution", "name": "Poseidon", "files": ["Posideon.png"], "owner": "Mystel", "beyblades": ["Poseidon"], "slug": "poseidon"}, {"section": "Beyblade: G-Revolution", "name": "Zeus", "files": ["Zues.png"], "owner": "Brooklyn", "beyblades": ["Zeus"], "slug": "zeus"}, {"section": "Beyblade: The Movie - Fierce Battle", "name": "Dark Dragoon", "files": ["Darkdragoon.jpg"], "owner": "Henry", "beyblades": ["Dark Dragoon"], "slug": "dark-dragoon"}, {"section": "Beyblade: The Movie - Fierce Battle", "name": "Dark Dranzer", "files": ["DarkDranzerBeast.png"], "owner": "Ashley", "beyblades": ["Dark Dranzer"], "slug": "dark-dranzer"}, {"section": "Beyblade: The Movie - Fierce Battle", "name": "Dark Draciel", "files": ["DarkDracielBeast.png"], "owner": "Steven", "beyblades": ["Dark Draciel"], "slug": "dark-draciel"}, {"section": "Beyblade: The Movie - Fierce Battle", "name": "Dark Driger", "files": ["DarkDrigerBeast.png"], "owner": "Daniel", "beyblades": ["Dark Driger"], "slug": "dark-driger"}, {"section": "Video Games", "name": "Pegasion", "files": ["Pegasion.png"], "owner": "Kaoru Amou", "beyblades": ["Wing Breaker", "Altios", "Altios C"], "slug": "pegasion"}, {"section": "Video Games", "name": "Vulpes", "files": ["Ullpace.png"], "owner": "Makoto Amou", "beyblades": ["Beygrap"], "slug": "vulpes"}, {"section": "Video Games", "name": "Agrios", "files": ["Agurios.png"], "owner": "Shougo Namba", "beyblades": ["Agrios"], "slug": "agrios"}, {"section": "Video Games", "name": "Grand Crone", "files": ["GrandCrone.png"], "owner": "Haruka Chizan", "beyblades": ["Grand Crow"], "slug": "grand-crone"}]
+          JSON
+          python -u - <<'PY'
+          import io, json, os, re, shutil, time
+          import requests
+          from PIL import Image
+          API = "https://beyblade.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT = "spirits/og"
+          for d in os.listdir(OUT):
+              if os.path.isdir(f"{OUT}/{d}"): shutil.rmtree(f"{OUT}/{d}")
+          beasts = json.load(open("beasts.json"))
+          def api(**p):
+              p.update(format="json", formatversion="2")
+              for a in range(5):
+                  try:
+                      r = s.get(API, params=p, timeout=60)
+                      if r.status_code == 200: return r.json()
+                  except Exception as e: print("  api error", str(e)[:80])
+                  time.sleep(5 * (a + 1))
+              raise SystemExit("The wiki isn't answering, run the job again later")
+          made = failed = 0
+          for b in beasts:
+              b["pictures"] = []
+              for fn in b["files"]:
+                  d = api(action="query", titles="File:" + fn, prop="imageinfo", iiprop="url")
+                  ii = d["query"]["pages"][0].get("imageinfo")
+                  if not ii: print("  not on the wiki:", fn); failed += 1; continue
+                  try:
+                      r = s.get(ii[0]["url"], timeout=60); r.raise_for_status()
+                      im = Image.open(io.BytesIO(r.content)); im.seek(0); im = im.convert("RGBA")
+                      bg = Image.new("RGB", im.size, (0, 0, 0)); bg.paste(im, mask=im.split()[3]); bg.thumbnail((1000, 1000))
+                      out = f"{OUT}/{b['slug']}/{len(b['pictures']) + 1}.jpg"
+                      os.makedirs(os.path.dirname(out), exist_ok=True)
+                      bg.save(out, "JPEG", quality=88, optimize=True, progressive=True)
+                      b["pictures"].append(out.replace("spirits/", "")); made += 1
+                  except Exception as e: print("  picture error", fn, str(e)[:80]); failed += 1
+                  time.sleep(0.4)
+              print(f"{b['name']:28s} {len(b['pictures'])} -> {', '.join(b['beyblades'])[:70]}")
+          json.dump({"source": "https://beyblade.fandom.com/wiki/List_of_Bit_Beasts", "beasts": beasts},
+                    open(f"{OUT}/index.json", "w"), indent=1, ensure_ascii=False)
+          print(f"Done: {len(beasts)} bit-beasts, {made} pictures, {failed} failed")
+          PY
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A spirits
+          git commit -m "Fix OG bit-beasts" || echo "No changes"
+          git pull --rebase || true
+          git push
