@@ -2,1163 +2,1081 @@
  "source": "https://beyblade.fandom.com/wiki/List_of_Bit_Beasts",
  "beasts": [
   {
-   "section": "Bakuten Shoot Beyblade (manga)|Manga",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Spike Lizard",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Bakuten Shoot Beyblade (manga)|Manga",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:bitbeastgame.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Guardian Driger",
+   "section": "Manga",
+   "name": "Guardian Driger",
+   "files": [
+    "bitbeastgame.png"
+   ],
+   "owner": "Kennosuke Shishi",
    "beyblades": [
-    "Bakuten Shoot Beyblade 2002 - Fierce Battle! Team Battle!!"
+    "Guardian Driger"
    ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |<!--Chapter (manga)!--><br />Bakuten Shoot Beyblade 2002 - Fierce Battle! Team Battle!! (Video Game)",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "slug": "guardian-driger",
+   "pictures": [
+    "og/guardian-driger/1.jpg"
+   ]
   },
   {
-   "section": "Bakuten Shoot Beyblade (manga)|Manga",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Thunder Serpent",
+   "section": "Manga",
+   "name": "Nightmare Dragoon",
+   "files": [
+    "Darkdragoon.png"
+   ],
+   "owner": "None",
    "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "slug": "nightmare-dragoon",
+   "pictures": [
+    "og/nightmare-dragoon/1.jpg"
+   ]
   },
   {
-   "section": "Bakuten Shoot Beyblade (manga)|Manga",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Darkdragoon.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Did not have one",
+   "section": "Beyblade: 2000",
+   "name": "Dragoon",
+   "files": [
+    "Dragoon10.jpg",
+    "DragoonShot.jpg"
+   ],
+   "owner": "Tyson Granger",
    "beyblades": [
-    "Beyblade Fighting Tournament",
-    "Beyblade Battle: Holy Dragon Legend"
+    "Dragoon S",
+    "Dragoon F",
+    "Dragoon V",
+    "Dragoon V2",
+    "Dragoon G",
+    "Dragoon GT",
+    "Dragoon MS",
+    "Dragoon MS Ultimate Version"
    ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Beyblade Fighting Tournament (video game) <br />Beyblade Battle: Holy Dragon Legend (manga)",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "Tyson Granger",
-   "page": "Tyson Granger",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "",
-   "first": "",
-   "page_image": "HD-wallpaper-beyblade-dragon-beybalde-anime-cartoon-blue.jpg",
-   "page_images": [
-    "DragoonShot.jpg",
-    "HD-wallpaper-beyblade-dragon-beybalde-anime-cartoon-blue.jpg",
-    "Images.jpgggggg.jpg",
-    "TysonGRev2.jpeg",
-    "TysonGrangerBeyblade1.png",
-    "TysonGrangerBeyblade2.png",
-    "TysonGrangerBeyblade3.png",
-    "TysonGrangerBeyblade4.png",
-    "TysonSeason1.jpg",
-    "TysonVForceUpdated.jpg",
-    "Tyson Granger Infobox.png",
-    "Tyson Vs. Daichi for the first time.png"
-   ],
+   "slug": "dragoon",
    "pictures": [
-    "og/tyson-granger/1.jpg",
-    "og/tyson-granger/2.jpg",
-    "og/tyson-granger/3.jpg",
-    "og/tyson-granger/4.jpg",
-    "og/tyson-granger/5.jpg",
-    "og/tyson-granger/6.jpg"
-   ],
-   "picture_files": [
-    "HD-wallpaper-beyblade-dragon-beybalde-anime-cartoon-blue.jpg",
-    "DragoonShot.jpg",
-    "Images.jpgggggg.jpg",
-    "TysonGRev2.jpeg",
-    "TysonGrangerBeyblade1.png",
-    "TysonGrangerBeyblade2.png"
+    "og/dragoon/1.jpg",
+    "og/dragoon/2.jpg"
    ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "Kai Hiwatari",
-   "page": "Kai Hiwatari",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "",
-   "first": "",
-   "page_image": "KaiHiwatari(2000).jpg",
-   "page_images": [
-    "DranzerShot.jpg",
-    "Hiwatari Kai.png",
-    "Kai's Last moments.jpg",
-    "KaiHiwatari(2000).jpg",
-    "KaiHiwatariVForce.jpg",
-    "Kai Hiwatari (G-Revolution).jpg",
-    "Kai Hiwatariiii V-FORCE.png"
+   "section": "Beyblade: 2000",
+   "name": "Dranzer",
+   "files": [
+    "Ep5.59.PNG",
+    "DranzerShot.jpg"
    ],
+   "owner": "Kai Hiwatari",
+   "beyblades": [
+    "Dranzer S",
+    "Dranzer F",
+    "Dranzer V",
+    "Dranzer V2",
+    "Dranzer G",
+    "Dranzer GT",
+    "Dranzer MS"
+   ],
+   "slug": "dranzer",
    "pictures": [
-    "og/kai-hiwatari/1.jpg",
-    "og/kai-hiwatari/2.jpg",
-    "og/kai-hiwatari/3.jpg",
-    "og/kai-hiwatari/4.jpg",
-    "og/kai-hiwatari/5.jpg",
-    "og/kai-hiwatari/6.jpg"
-   ],
-   "picture_files": [
-    "KaiHiwatari(2000).jpg",
-    "DranzerShot.jpg",
-    "Hiwatari Kai.png",
-    "Kai's Last moments.jpg",
-    "KaiHiwatariVForce.jpg",
-    "Kai Hiwatari (G-Revolution).jpg"
+    "og/dranzer/1.jpg",
+    "og/dranzer/2.jpg"
    ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "Ray Kon",
-   "page": "Ray Kon",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "",
-   "first": "",
-   "page_image": "RAY_KON_2000_PROMO.png",
-   "page_images": [
-    "RAY KON 2000 PROMO.png",
-    "RAY KON G-REVOLUTION PROMO.jpg",
-    "RayKonVForce.jpeg",
-    "Ray and Hilary.png"
+   "section": "Beyblade: 2000",
+   "name": "Driger",
+   "files": [
+    "E6.52.JPG",
+    "Driger.jpg"
    ],
+   "owner": "Ray Kon",
+   "beyblades": [
+    "Driger S",
+    "Driger F",
+    "Driger V",
+    "Driger V2",
+    "Driger G",
+    "Driger MS"
+   ],
+   "slug": "driger",
    "pictures": [
-    "og/ray-kon/1.jpg",
-    "og/ray-kon/2.jpg",
-    "og/ray-kon/3.jpg",
-    "og/ray-kon/4.jpg"
-   ],
-   "picture_files": [
-    "RAY_KON_2000_PROMO.png",
-    "RAY KON G-REVOLUTION PROMO.jpg",
-    "RayKonVForce.jpeg",
-    "Ray and Hilary.png"
+    "og/driger/1.jpg",
+    "og/driger/2.jpg"
    ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "Max Tate",
-   "page": "Max Tate",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "",
-   "first": "",
-   "page_image": "MaxSeason1.jpg",
-   "page_images": [
-    "DracielShot.jpg",
-    "MaxSeason1.jpg",
-    "MaxVForce.jpg",
-    "Max G Rev 1.jpg",
-    "Max gets serious.png"
+   "section": "Beyblade: 2000",
+   "name": "Draciel",
+   "files": [
+    "Ep5.57.PNG",
+    "DracielShot.jpg"
    ],
+   "owner": "Max Tate",
+   "beyblades": [
+    "Draciel S",
+    "Draciel F",
+    "Draciel V",
+    "Draciel V2",
+    "Draciel G",
+    "Draciel MS"
+   ],
+   "slug": "draciel",
    "pictures": [
-    "og/max-tate/1.jpg",
-    "og/max-tate/2.jpg",
-    "og/max-tate/3.jpg",
-    "og/max-tate/4.jpg",
-    "og/max-tate/5.jpg"
-   ],
-   "picture_files": [
-    "MaxSeason1.jpg",
-    "DracielShot.jpg",
-    "MaxVForce.jpg",
-    "Max G Rev 1.jpg",
-    "Max gets serious.png"
+    "og/draciel/1.jpg",
+    "og/draciel/2.jpg"
    ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Galman02.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Galman",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "Mariah",
-   "page": "Mariah",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "",
-   "first": "",
-   "page_image": "Mariah-Model-Sheet-cropped.png",
-   "page_images": [
-    "Galux04.jpg",
-    "Mariah-Model-Sheet-cropped.png",
-    "MariahGRev.jpg"
+   "section": "Beyblade: 2000",
+   "name": "Galman",
+   "files": [
+    "Galman02.jpg"
    ],
+   "owner": "Kevin",
+   "beyblades": [
+    "Galman"
+   ],
+   "slug": "galman",
    "pictures": [
-    "og/mariah/1.jpg",
-    "og/mariah/2.jpg",
-    "og/mariah/3.jpg"
-   ],
-   "picture_files": [
-    "Mariah-Model-Sheet-cropped.png",
-    "Galux04.jpg",
-    "MariahGRev.jpg"
+    "og/galman/1.jpg"
    ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Galzzly00.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Galzzly",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Galux",
+   "files": [
+    "Tumblr ou9yaf6URx1w4q252o4 1280.png",
+    "Galux04.jpg"
+   ],
+   "owner": "Mariah",
+   "beyblades": [
+    "Galux"
+   ],
+   "slug": "galux",
+   "pictures": [
+    "og/galux/1.jpg",
+    "og/galux/2.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Galeon 02.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Galzzly",
+   "files": [
+    "Galzzly00.jpg"
+   ],
+   "owner": "Gary",
+   "beyblades": [
+    "Galzzly"
+   ],
+   "slug": "galzzly",
+   "pictures": [
+    "og/galzzly/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Trygator.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Galeon",
+   "files": [
+    "Galeon 02.jpg"
+   ],
+   "owner": "Lee",
+   "beyblades": [
+    "Galeon Attacker",
+    "Galeon 2"
+   ],
+   "slug": "galeon",
+   "pictures": [
+    "og/galeon/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Tryhorn 2.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Tryhorn",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Trygator",
+   "files": [
+    "Trygator.jpg"
+   ],
+   "owner": "Emily Watson",
+   "beyblades": [
+    "Trygator (Anime)",
+    "Trygator"
+   ],
+   "slug": "trygator",
+   "pictures": [
+    "og/trygator/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Trypio01.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Trypio",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Tryhorn",
+   "files": [
+    "Tryhorn 2.jpg"
+   ],
+   "owner": "Steven",
+   "beyblades": [
+    "Tryhorn"
+   ],
+   "slug": "tryhorn",
+   "pictures": [
+    "og/tryhorn/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:TrygleBeast.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Trypio",
+   "files": [
+    "Trypio01.jpg"
+   ],
+   "owner": "Eddy",
+   "beyblades": [
+    "Trypio"
+   ],
+   "slug": "trypio",
+   "pictures": [
+    "og/trypio/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Sarcophalon.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Sarcophalon",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Trygle",
+   "files": [
+    "TrygleBeast.png"
+   ],
+   "owner": "Michael Summers",
+   "beyblades": [
+    "Trygle",
+    "Trygle 2"
+   ],
+   "slug": "trygle",
+   "pictures": [
+    "og/trygle/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Drac-Attack.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Draculor",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Sarcophalon",
+   "files": [
+    "Sarcophalon.png"
+   ],
+   "owner": "Cenotaph",
+   "beyblades": [
+    "Sarcophalon"
+   ],
+   "slug": "sarcophalon",
+   "pictures": [
+    "og/sarcophalon/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Wolf_Storm.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Lycanlor",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Draculor",
+   "files": [
+    "Drac-Attack.png"
+   ],
+   "owner": "Sanguinex",
+   "beyblades": [
+    "Draculor"
+   ],
+   "slug": "draculor",
+   "pictures": [
+    "og/draculor/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Shamblor.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Shamblor",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Lycanlor",
+   "files": [
+    "Wolf_Storm.png"
+   ],
+   "owner": "Lupinex",
+   "beyblades": [
+    "Lycanlor"
+   ],
+   "slug": "lycanlor",
+   "pictures": [
+    "og/lycanlor/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:GriffolyonShot.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Griffolyon",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Shamblor",
+   "files": [
+    "Shamblor.png"
+   ],
+   "owner": "Zomb",
+   "beyblades": [
+    "Shamblor"
+   ],
+   "slug": "shamblor",
+   "pictures": [
+    "og/shamblor/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Unicolyon.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Unicolyon",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Griffolyon",
+   "files": [
+    "GriffolyonShot.jpg"
+   ],
+   "owner": "Robert Jürgens",
+   "beyblades": [
+    "Griffolyon"
+   ],
+   "slug": "griffolyon",
+   "pictures": [
+    "og/griffolyon/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Amphilyon00.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Amphilyon",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Unicolyon",
+   "files": [
+    "Unicolyon.jpg"
+   ],
+   "owner": "Oliver",
+   "beyblades": [
+    "Unicolyon"
+   ],
+   "slug": "unicolyon",
+   "pictures": [
+    "og/unicolyon/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Salamlyon.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Salamalyon",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Amphilyon",
+   "files": [
+    "Amphilyon00.jpg"
+   ],
+   "owner": "Enrique",
+   "beyblades": [
+    "Amphilyon"
+   ],
+   "slug": "amphilyon",
+   "pictures": [
+    "og/amphilyon/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Wyborgbeast.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Wyborg",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "section": "Beyblade: 2000",
+   "name": "Salamalyon",
+   "files": [
+    "Salamlyon.png"
+   ],
+   "owner": "Johnny McGregor",
+   "beyblades": [
+    "Salamalyon"
+   ],
+   "slug": "salamalyon",
+   "pictures": [
+    "og/salamalyon/1.jpg"
+   ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "Tala",
-   "page": "Tala",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "",
-   "first": "",
-   "page_image": "Wolborgbeast.png",
-   "page_images": [
-    "112463.jpg",
-    "Neo-Borg 05.jpg",
-    "Tala-GRevolution.jpg",
-    "Tala.jpg",
-    "TalaGRev.jpg",
-    "Tala Infobox.png",
+   "section": "Beyblade: 2000",
+   "name": "Wyborg",
+   "files": [
+    "Wyborgbeast.png"
+   ],
+   "owner": "Ian Papov",
+   "beyblades": [
+    "Wyborg"
+   ],
+   "slug": "wyborg",
+   "pictures": [
+    "og/wyborg/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: 2000",
+   "name": "Wolborg",
+   "files": [
+    "Animais35.jpg",
     "Wolborgbeast.png"
    ],
-   "pictures": [
-    "og/tala/1.jpg",
-    "og/tala/2.jpg",
-    "og/tala/3.jpg",
-    "og/tala/4.jpg",
-    "og/tala/5.jpg",
-    "og/tala/6.jpg"
+   "owner": "Tala",
+   "beyblades": [
+    "Wolborg 2",
+    "Wolborg 4"
    ],
-   "picture_files": [
-    "Wolborgbeast.png",
-    "112463.jpg",
-    "Neo-Borg 05.jpg",
-    "Tala-GRevolution.jpg",
-    "Tala.jpg",
-    "TalaGRev.jpg"
+   "slug": "wolborg",
+   "pictures": [
+    "og/wolborg/1.jpg",
+    "og/wolborg/2.jpg"
    ]
   },
   {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Seaborg.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Seaborg 2",
+   "section": "Beyblade: 2000",
+   "name": "Seaborg",
+   "files": [
+    "Seaborg.png"
+   ],
+   "owner": "Spencer",
+   "beyblades": [
+    "Seaborg 2"
+   ],
+   "slug": "seaborg",
+   "pictures": [
+    "og/seaborg/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: 2000",
+   "name": "Falborg",
+   "files": [
+    "Falborg2.png"
+   ],
+   "owner": "Bryan",
+   "beyblades": [
+    "Falborg",
+    "Falborg 2"
+   ],
+   "slug": "falborg",
+   "pictures": [
+    "og/falborg/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: 2000",
+   "name": "Black Dranzer",
+   "files": [
+    "Bdranzer.JPG"
+   ],
+   "owner": "Kai Hiwatari",
+   "beyblades": [
+    "Black Dranzer"
+   ],
+   "slug": "black-dranzer",
+   "pictures": [
+    "og/black-dranzer/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Flash Leopard",
+   "files": [
+    "Flash Leopard.png"
+   ],
+   "owner": "Ozuma",
+   "beyblades": [
+    "Flash Leopard",
+    "Flash Leopard 2"
+   ],
+   "slug": "flash-leopard",
+   "pictures": [
+    "og/flash-leopard/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Vortex Ape",
+   "files": [
+    "Vortex Ape.jpg"
+   ],
+   "owner": "Dunga",
+   "beyblades": [
+    "Vortex Ape",
+    "Vortex Ape 2"
+   ],
+   "slug": "vortex-ape",
+   "pictures": [
+    "og/vortex-ape/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Sharkrash",
+   "files": [
+    "Sharkrash Bit beast.png"
+   ],
+   "owner": "Mariam",
+   "beyblades": [
+    "Sharkrash"
+   ],
+   "slug": "sharkrash",
+   "pictures": [
+    "og/sharkrash/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Vanishing Moot",
+   "files": [
+    "Vanishing Moot Bit Beast.png"
+   ],
+   "owner": "Joseph",
+   "beyblades": [
+    "Vanishing Moot"
+   ],
+   "slug": "vanishing-moot",
+   "pictures": [
+    "og/vanishing-moot/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Fox",
+   "files": [
+    "Wild Fox.png"
+   ],
+   "owner": "Foxy",
+   "beyblades": [
+    "Wild Fox"
+   ],
+   "slug": "fox",
+   "pictures": [
+    "og/fox/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Sickle Weasel",
+   "files": [
+    "Sickle Weasel.png"
+   ],
+   "owner": "Jack",
+   "beyblades": [
+    "Sickle Weasel"
+   ],
+   "slug": "sickle-weasel",
+   "pictures": [
+    "og/sickle-weasel/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Spider",
+   "files": [
+    "Phantom Spider.png"
+   ],
+   "owner": "Net",
+   "beyblades": [
+    "Phantom Spider"
+   ],
+   "slug": "spider",
+   "pictures": [
+    "og/spider/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Tyranno",
+   "files": [
+    "Tyranno.jpg"
+   ],
+   "owner": "Dennis",
+   "beyblades": [
+    "Tyranno"
+   ],
+   "slug": "tyranno",
+   "pictures": [
+    "og/tyranno/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Klarken",
+   "files": [
+    "Klarken.00.JPG"
+   ],
+   "owner": "Denny",
+   "beyblades": [
+    "Klarken"
+   ],
+   "slug": "klarken",
+   "pictures": [
+    "og/klarken/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Cyber Dragoon Prototype",
+   "files": [
+    "Animais52.jpg"
+   ],
+   "owner": "Gerry",
+   "beyblades": [
+    "Talon"
+   ],
+   "slug": "cyber-dragoon-prototype",
+   "pictures": [
+    "og/cyber-dragoon-prototype/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Cyber Dranzer Prototype",
+   "files": [
+    "Cyber Dranzer Test.jpg"
+   ],
+   "owner": "Wyatt Smithwright",
+   "beyblades": [
+    "Digital Bird"
+   ],
+   "slug": "cyber-dranzer-prototype",
+   "pictures": [
+    "og/cyber-dranzer-prototype/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Cyber Draciel",
+   "files": [
+    "Cyber Draciel.jpg"
+   ],
+   "owner": "Jim",
+   "beyblades": [
+    "Cyber Draciel"
+   ],
+   "slug": "cyber-draciel",
+   "pictures": [
+    "og/cyber-draciel/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Cyber Dranzer",
+   "files": [
+    "Cyber Dranzer.jpg"
+   ],
+   "owner": "Goki",
+   "beyblades": [
+    "Cyber Dranzer"
+   ],
+   "slug": "cyber-dranzer",
+   "pictures": [
+    "og/cyber-dranzer/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Cyber Driger",
+   "files": [
+    "Cyber Driger.jpg"
+   ],
+   "owner": "Salima",
+   "beyblades": [
+    "Cyber Driger"
+   ],
+   "slug": "cyber-driger",
+   "pictures": [
+    "og/cyber-driger/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Cyber Dragoon",
+   "files": [
+    "CyberDragoon2.jpg"
+   ],
+   "owner": "Kane Yamashita",
+   "beyblades": [
+    "Cyber Dragoon"
+   ],
+   "slug": "cyber-dragoon",
+   "pictures": [
+    "og/cyber-dragoon/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Uriel",
+   "files": [
+    "Ariel1.png"
+   ],
+   "owner": "King",
+   "beyblades": [
+    "Uriel 2"
+   ],
+   "slug": "uriel",
+   "pictures": [
+    "og/uriel/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Gabriel",
+   "files": [
+    "Gabriel.jpg"
+   ],
+   "owner": "Queen",
+   "beyblades": [
+    "Gabriel"
+   ],
+   "slug": "gabriel",
+   "pictures": [
+    "og/gabriel/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Cerberus",
+   "files": [
+    "Cerberus.png"
+   ],
+   "owner": "Zeo Zagart",
+   "beyblades": [
+    "Burning Cerberus"
+   ],
+   "slug": "cerberus",
+   "pictures": [
+    "og/cerberus/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Orthros",
+   "files": [
+    "OrthrusShot.png"
+   ],
+   "owner": "Gordo",
+   "beyblades": [
+    "Blizzard Orthrus"
+   ],
+   "slug": "orthros",
+   "pictures": [
+    "og/orthros/1.jpg"
+   ]
+  },
+  {
+   "section": "Beyblade: V-Force",
+   "name": "Unnamed mantis-type Bit Beast",
+   "files": [
+    "BeybladeVForce - MantisBitBeast.png"
+   ],
+   "owner": "No one",
    "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Falborg2.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade (First Anime Series)|Beyblade: 2000",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Bdranzer.JPG|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Black Dranzer",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Flash Leopard.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Flash Leopard",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Vortex Ape.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Vortex Ape",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 12"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Bring Me Dranzer!",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Sharkrash Bit beast.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Sharkrash",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 13"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Testing One, Two, Three",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Vanishing Moot Bit Beast.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Vanishing Moot",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 13"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Testing One, Two, Three",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Wild Fox.png|150px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Wild Fox",
-   "beyblades": [
-    "Attack of The Rock Bit Beast"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Attack of The Rock Bit Beast",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Sickle Weasel.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Sickle Weasel",
-   "beyblades": [
-    "See No Bit Beast, Hear No Bit Beast"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |See No Bit Beast, Hear No Bit Beast",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Phantom Spider.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Phantom Spider",
-   "beyblades": [
-    "Itzy Bey-Itzy Spider"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Itzy Bey-Itzy Spider",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Tyranno.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Tyranno",
-   "beyblades": [
-    "Friends and Enemies"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Friends and Enemies",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Klarken.00.JPG|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Klarken",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |'''Squeeze Play'''",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Animais52.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Talon",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |'''Gideon Raises Gerry'''",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Cyber Dranzer Test.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Digital Bird",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 16"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Team Psykick's New Recruit",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Cyber Draciel.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Cyber Draciel",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 18"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |When Friends Become Foes",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Cyber Dranzer.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Cyber Dranzer",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 16"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Team Psykick's New Recruit",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Cyber Driger.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Cyber Driger",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 20"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |The Power Half Hour!",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:CyberDragoon2.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Cyber Dragoon",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 20"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |The Power Half Hour!",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Ariel1.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Uriel 2",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 42"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Fortunes Dear and Dire",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Gabriel.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Gabriel",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 42"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Fortunes Dear and Dire",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Cerberus.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Burning Cerberus",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 42"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Fortunes Dear and Dire",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:OrthrusShot.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Blizzard Orthrus",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 43"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Kai's Royal Flush",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
-  },
-  {
-   "section": "Beyblade: V-Force",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:BeybladeVForce - MantisBitBeast.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |None",
-   "beyblades": [
-    "Beyblade: V-Force - Episode 33"
-   ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Rock Bottom!",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "slug": "unnamed-mantis-type-bit-beast",
+   "pictures": [
+    "og/unnamed-mantis-type-bit-beast/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Strata Dragoon Beast.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [
-    "Beyblade: G-Revolution - Episode 01"
+   "name": "Strata Dragoon",
+   "files": [
+    "Strata Dragoon Beast.png"
    ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |New Kid in Town",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "owner": "Daichi Sumeragi",
+   "beyblades": [
+    "Strata Dragoon V",
+    "Strata Dragoon G",
+    "Strata Dragoon MS"
+   ],
+   "slug": "strata-dragoon",
+   "pictures": [
+    "og/strata-dragoon/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Metal Driger.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Metal Driger",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Invitation to Battle",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Metal Driger",
+   "files": [
+    "Metal Driger.png"
+   ],
+   "owner": "Jin of The Gale",
+   "beyblades": [
+    "Metal Driger"
+   ],
+   "slug": "metal-driger",
+   "pictures": [
+    "og/metal-driger/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:RockBison.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Rock Bison",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" | Take your best Shot",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Rock Bison",
+   "files": [
+    "RockBison.png"
+   ],
+   "owner": "Rick Anderson",
+   "beyblades": [
+    "Rock Bison"
+   ],
+   "slug": "rock-bison",
+   "pictures": [
+    "og/rock-bison/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:TorchPegasus.02.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Torch Pegasus",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Torch Pegasus",
+   "files": [
+    "TorchPegasus.02.jpg"
+   ],
+   "owner": "Raul Fernandez",
+   "beyblades": [
+    "Torch Pegasus"
+   ],
+   "slug": "torch-pegasus",
+   "pictures": [
+    "og/torch-pegasus/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:TP-BB.png|150px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Thunder Pegasus",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Thunder Pegasus",
+   "files": [
+    "TP-BB.png"
+   ],
+   "owner": "Julia Fernandez",
+   "beyblades": [
+    "Thunder Pegasus"
+   ],
+   "slug": "thunder-pegasus",
+   "pictures": [
+    "og/thunder-pegasus/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Death Gargoyle.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Dark Gargoyle",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Dark Gargoyle",
+   "files": [
+    "Death Gargoyle.png"
+   ],
+   "owner": "Miguel",
+   "beyblades": [
+    "Dark Gargoyle"
+   ],
+   "slug": "dark-gargoyle",
+   "pictures": [
+    "og/dark-gargoyle/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Rapideagle .png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Rapid Eagle",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Rapid Eagle",
+   "files": [
+    "Rapideagle .png"
+   ],
+   "owner": "Claude",
+   "beyblades": [
+    "Rapid Eagle"
+   ],
+   "slug": "rapid-eagle",
+   "pictures": [
+    "og/rapid-eagle/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Rushing Boar.png|150px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Rushing Boar",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Rushing Boar",
+   "files": [
+    "Rushing Boar.png"
+   ],
+   "owner": "Aaron",
+   "beyblades": [
+    "Rushing Boar"
+   ],
+   "slug": "rushing-boar",
+   "pictures": [
+    "og/rushing-boar/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Pierce Hedgehog.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Pierce Hedgehog",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Pierce Hedgehog",
+   "files": [
+    "Pierce Hedgehog.png"
+   ],
+   "owner": "Mathilda",
+   "beyblades": [
+    "Pierce Hedgehog"
+   ],
+   "slug": "pierce-hedgehog",
+   "pictures": [
+    "og/pierce-hedgehog/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Venus1.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Venus",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Venus",
+   "files": [
+    "Venus1.png"
+   ],
+   "owner": "Ming-Ming",
+   "beyblades": [
+    "Venus"
+   ],
+   "slug": "venus",
+   "pictures": [
+    "og/venus/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Gigars.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Gigars",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Gigars",
+   "files": [
+    "Gigars.png"
+   ],
+   "owner": "Crusher",
+   "beyblades": [
+    "Gigars"
+   ],
+   "slug": "gigars",
+   "pictures": [
+    "og/gigars/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:ApollonBeast.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Apollon",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Apollon",
+   "files": [
+    "ApollonBeast.png"
+   ],
+   "owner": "Garland Siebald",
+   "beyblades": [
+    "Apollon"
+   ],
+   "slug": "apollon",
+   "pictures": [
+    "og/apollon/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Posideon.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Poseidon",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Poseidon",
+   "files": [
+    "Posideon.png"
+   ],
+   "owner": "Mystel",
+   "beyblades": [
+    "Poseidon"
+   ],
+   "slug": "poseidon",
+   "pictures": [
+    "og/poseidon/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: G-Revolution",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Zues.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Zeus",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Zeus",
+   "files": [
+    "Zues.png"
+   ],
+   "owner": "Brooklyn",
+   "beyblades": [
+    "Zeus"
+   ],
+   "slug": "zeus",
+   "pictures": [
+    "og/zeus/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: The Movie - Fierce Battle",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Darkdragoon.jpg|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Dark Dragoon",
+   "files": [
+    "Darkdragoon.jpg"
+   ],
+   "owner": "Henry",
+   "beyblades": [
+    "Dark Dragoon"
+   ],
+   "slug": "dark-dragoon",
+   "pictures": [
+    "og/dark-dragoon/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: The Movie - Fierce Battle",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:DarkDranzerBeast.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Dark Dranzer",
+   "files": [
+    "DarkDranzerBeast.png"
+   ],
+   "owner": "Ashley",
+   "beyblades": [
+    "Dark Dranzer"
+   ],
+   "slug": "dark-dranzer",
+   "pictures": [
+    "og/dark-dranzer/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: The Movie - Fierce Battle",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:DarkDracielBeast.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Dark Draciel",
+   "files": [
+    "DarkDracielBeast.png"
+   ],
+   "owner": "Steven",
+   "beyblades": [
+    "Dark Draciel"
+   ],
+   "slug": "dark-draciel",
+   "pictures": [
+    "og/dark-draciel/1.jpg"
+   ]
   },
   {
    "section": "Beyblade: The Movie - Fierce Battle",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:DarkDrigerBeast.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "beyblades": [],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "name": "Dark Driger",
+   "files": [
+    "DarkDrigerBeast.png"
+   ],
+   "owner": "Daniel",
+   "beyblades": [
+    "Dark Driger"
+   ],
+   "slug": "dark-driger",
+   "pictures": [
+    "og/dark-driger/1.jpg"
+   ]
   },
   {
    "section": "Video Games",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Pegasion.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Wing Breaker",
-   "beyblades": [
-    "Bakuten Shoot Beyblade - Gekitou! Saikyou Blader"
+   "name": "Pegasion",
+   "files": [
+    "Pegasion.png"
    ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Bakuten Shoot Beyblade - Gekitou! Saikyou Blader",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "owner": "Kaoru Amou",
+   "beyblades": [
+    "Wing Breaker",
+    "Altios",
+    "Altios C"
+   ],
+   "slug": "pegasion",
+   "pictures": [
+    "og/pegasion/1.jpg"
+   ]
   },
   {
    "section": "Video Games",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Ullpace.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Beygrap",
-   "beyblades": [
-    "Bakuten Shoot Beyblade 2002 - Ikuze! Gekitou! Chou Jiryoku Battle!"
+   "name": "Vulpes",
+   "files": [
+    "Ullpace.png"
    ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Bakuten Shoot Beyblade 2002 - Ikuze! Gekitou! Chou Jiryoku Battle!",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "owner": "Makoto Amou",
+   "beyblades": [
+    "Beygrap"
+   ],
+   "slug": "vulpes",
+   "pictures": [
+    "og/vulpes/1.jpg"
+   ]
   },
   {
    "section": "Video Games",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:Agurios.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Agrios",
-   "beyblades": [
-    "Bakuten Shoot Beyblade 2002 - Fierce Battle! Team Battle!!"
+   "name": "Agrios",
+   "files": [
+    "Agurios.png"
    ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Bakuten Shoot Beyblade 2002 - Fierce Battle! Team Battle!!",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "owner": "Shougo Namba",
+   "beyblades": [
+    "Agrios"
+   ],
+   "slug": "agrios",
+   "pictures": [
+    "og/agrios/1.jpg"
+   ]
   },
   {
    "section": "Video Games",
-   "name": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |[[File:GrandCrone.png|200px]]",
-   "page": "Colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid",
-   "list_image": null,
-   "owner": "Grand Crow",
-   "beyblades": [
-    "Bakuten Shoot Beyblade 2002 - Fierce Battle! Team Battle!!"
+   "name": "Grand Crone",
+   "files": [
+    "GrandCrone.png"
    ],
-   "beyblades_text": "colspan=\"1\" style=\"text-align:center; background-color:white; border:2px solid #2bbae1\" |Bakuten Shoot Beyblade 2002 - Fierce Battle! Team Battle!!",
-   "first": "",
-   "page_image": null,
-   "page_images": [],
-   "pictures": [],
-   "picture_files": []
+   "owner": "Haruka Chizan",
+   "beyblades": [
+    "Grand Crow"
+   ],
+   "slug": "grand-crone",
+   "pictures": [
+    "og/grand-crone/1.jpg"
+   ]
   }
  ]
 }
