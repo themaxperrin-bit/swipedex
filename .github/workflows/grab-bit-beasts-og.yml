@@ -1,0 +1,142 @@
+name: Grab OG bit-beasts
+
+# Run it from the Actions tab ("Run workflow").
+# Reads the Beyblade Wiki's "List of Bit Beasts" (https://beyblade.fandom.com/wiki/List_of_Bit_Beasts):
+# every original-series bit-beast, its owner, which Beyblades it lives in, and its picture.
+# Saves:
+#   spirits/og/<bit-beast>/1.jpg, 2.jpg ...   picture from the list first, then the bit-beast's own wiki page
+#   spirits/og/index.json                    name, section, owner, Beyblades, pictures
+#   spirits/og/list.wikitext                 the list page itself, for checking
+# Safe to run again: pictures already saved are skipped.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Save the bit-beasts
+        run: |
+          pip install requests pillow >/dev/null
+          python -u - <<'PY'
+          import io, json, os, re, time
+          import requests
+          from PIL import Image
+
+          API = "https://beyblade.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT = "spirits/og"
+          os.makedirs(OUT, exist_ok=True)
+
+          def api(**p):
+              p.update(format="json", formatversion="2")
+              for a in range(5):
+                  try:
+                      r = s.get(API, params=p, timeout=60)
+                      if r.status_code == 200: return r.json()
+                      print("  api status", r.status_code)
+                  except Exception as e: print("  api error", str(e)[:100])
+                  time.sleep(5 * (a + 1))
+              raise SystemExit("The wiki isn't answering, run the job again later")
+
+          def slug(t): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
+          def links(cell): return [m.group(1).strip() for m in re.finditer(r"\[\[(?!File:|Image:|Category:)([^\]|#]+)(?:#[^\]|]*)?(?:\|[^\]]*)?\]\]", cell)]
+          def label(cell):
+              m = re.search(r"\[\[(?!File:|Image:)[^\]|]+\|([^\]]+)\]\]", cell) or re.search(r"\[\[(?!File:|Image:)([^\]|]+)\]\]", cell)
+              t = m.group(1) if m else re.sub(r"<[^>]+>|'''?|\{\{[^}]*\}\}", "", cell)
+              return t.strip()
+          def files(cell): return [m.group(1).strip() for m in re.finditer(r"(?:File|Image):([^\]|]+)", cell)] + \
+                                  [m.group(1).strip() for m in re.finditer(r"^\s*([^|\[\]=]+\.(?:jpe?g|png|gif|webp))", cell, re.I | re.M)]
+
+          wt = api(action="parse", page="List of Bit Beasts", prop="wikitext")["parse"]["wikitext"]
+          open(f"{OUT}/list.wikitext", "w").write(wt)
+
+          # 1) the tables: one per section, columns Name | Image | Owner | Beyblades | First appearance
+          beasts, section = [], ""
+          for block in re.split(r"\n(?===+[^=])", wt):
+              h = re.match(r"==+\s*(.+?)\s*==+", block)
+              if h: section = re.sub(r"\[\[|\]\]|'''?", "", h.group(1)).strip()
+              for row in re.split(r"\n\|-[^\n]*", block)[1:]:
+                  row = row.split("\n|}")[0]
+                  cells = []
+                  for line in row.split("\n"):
+                      line = line.strip()
+                      if not line.startswith("|") or line.startswith("|}") or line.startswith("|+"): continue
+                      for c in re.split(r"\|\|", line[1:]):
+                          c = c.strip()
+                          # drop cell attributes like style="..." |
+                          if re.match(r'^[a-z\-]+\s*=\s*"[^"]*"\s*\|', c): c = c.split("|", 1)[1]
+                          cells.append(c)
+                  if len(cells) < 3: continue
+                  name = label(cells[0])
+                  if not name or name.lower() in ("name", "bit-beast", "bit beast"): continue
+                  beasts.append({"section": section, "name": name, "page": (links(cells[0]) or [name])[0],
+                                 "list_image": (files(cells[1]) or [None])[0],
+                                 "owner": label(cells[2]) if len(cells) > 2 else "",
+                                 "beyblades": links(cells[3]) if len(cells) > 3 else [],
+                                 "beyblades_text": re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", cells[3]) if len(cells) > 3 else "",
+                                 "first": re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]", r"\1", cells[4]) if len(cells) > 4 else ""})
+          print(len(beasts), "bit-beasts on the list")
+
+          # 2) each bit-beast's own page: its main picture and the other pictures on it
+          for b in beasts:
+              d = api(action="query", titles=b["page"], redirects="1", prop="pageimages|images", piprop="name", imlimit="50")
+              pg = d["query"]["pages"][0]
+              b["page"] = pg.get("title", b["page"])
+              b["page_image"] = pg.get("pageimage")
+              b["page_images"] = [i["title"].split(":", 1)[1] for i in pg.get("images", [])
+                                  if re.search(r"\.(jpe?g|png|webp|gif)$", i["title"], re.I)]
+              time.sleep(0.4)
+
+          # 3) download: list picture first, then the page's main picture, then up to 4 more from the page
+          def file_url(fn):
+              d = api(action="query", titles="File:" + fn, prop="imageinfo", iiprop="url|size|mime")
+              ii = d["query"]["pages"][0].get("imageinfo")
+              return ii[0] if ii else None
+          made = kept = failed = 0
+          for b in beasts:
+              want = []
+              for fn in [b["list_image"], b["page_image"]] + b["page_images"]:
+                  if fn and fn.replace(" ", "_").lower() not in [w.replace(" ", "_").lower() for w in want]: want.append(fn)
+              want = [w for w in want if not re.search(r"(logo|icon|badge|wiki|flag|stub|cleanup)", w, re.I)][:6]
+              d = f"{OUT}/{slug(b['name'])}"
+              b["pictures"], b["picture_files"] = [], []
+              for fn in want:
+                  out = f"{d}/{len(b['pictures']) + 1}.jpg"
+                  if os.path.exists(out):
+                      b["pictures"].append(out.replace("spirits/", "")); b["picture_files"].append(fn); kept += 1; continue
+                  ii = file_url(fn)
+                  if not ii: continue
+                  try:
+                      r = s.get(ii["url"], timeout=60); r.raise_for_status()
+                      im = Image.open(io.BytesIO(r.content)); im.seek(0)
+                      if min(im.size) < 80: continue
+                      im = im.convert("RGBA"); bg = Image.new("RGB", im.size, (0, 0, 0)); bg.paste(im, mask=im.split()[3])
+                      bg.thumbnail((1000, 1000))
+                      os.makedirs(d, exist_ok=True); bg.save(out, "JPEG", quality=88, optimize=True, progressive=True)
+                      b["pictures"].append(out.replace("spirits/", "")); b["picture_files"].append(fn); made += 1
+                  except Exception as e:
+                      print("  picture error", fn, str(e)[:80]); failed += 1
+                  time.sleep(0.4)
+              print(f"{b['section'][:20]:20s} {b['name']:28s} {len(b['pictures'])} pictures  -> {b['beyblades_text'][:60]}")
+          json.dump({"source": "https://beyblade.fandom.com/wiki/List_of_Bit_Beasts", "beasts": beasts},
+                    open(f"{OUT}/index.json", "w"), indent=1, ensure_ascii=False)
+          print(f"Done: {len(beasts)} bit-beasts, {made} new pictures, {kept} already saved, {failed} failed")
+          PY
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add spirits
+          git commit -m "Grab OG bit-beasts" || echo "No changes"
+          git pull --rebase || true
+          git push
