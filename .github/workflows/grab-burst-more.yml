@@ -1,0 +1,112 @@
+name: Grab more Burst Beyblades
+
+# Run it from the Actions tab ("Run workflow").
+# The first Burst job only found the first two seasons. This one goes through every "... System Beyblades"
+# category on the Beyblade Wiki from the Burst era (Dual Layer, Cho-Z, GT, Sparking/Superking, DB, BU ...)
+# and saves each Beyblade that isn't saved yet. Saves:
+#   burst-small/bey/<beyblade>/main.jpg   its main picture (max 900px)
+#   burst-wiki/more.json                  title, categories, page text (info box) and picture of each one
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Save the later Burst Beyblades
+        run: |
+          pip install requests pillow >/dev/null
+          python -u - <<'PY'
+          import io, json, os, re, time
+          import requests
+          from PIL import Image
+          API = "https://beyblade.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          def api(**p):
+              p.update(format="json", formatversion="2")
+              for a in range(5):
+                  try:
+                      r = s.get(API, params=p, timeout=60)
+                      if r.status_code == 200: return r.json()
+                  except Exception as e: print("  api error", str(e)[:80])
+                  time.sleep(5 * (a + 1))
+              raise SystemExit("The wiki isn't answering, run the job again later")
+          def slug(t): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
+          def members(cat):
+              out, cont = [], {}
+              while True:
+                  d = api(action="query", list="categorymembers", cmtitle=cat, cmlimit="500", cmtype="page", **cont)
+                  out += [m["title"] for m in d["query"]["categorymembers"]]
+                  if "continue" not in d: return out
+                  cont = d["continue"]
+
+          # 1) the Burst-era system categories
+          NOT_BURST = re.compile(r"metal|plastic|heavy metal|engine gear|hard metal|magnacore|\bbx\b|\bux\b|\bcx\b|beyblade x|hybrid wheel|4d", re.I)
+          cats = set()
+          for q in ["System Beyblades", "Layer System Beyblades", "Burst Beyblades"]:
+              d = api(action="query", list="search", srsearch=q, srnamespace="14", srlimit="100")
+              for r in d["query"]["search"]:
+                  t = r["title"]
+                  if re.search(r"(System|Burst).*Beyblades$", t) and not NOT_BURST.search(t): cats.add(t)
+          for c in ["Category:Dual Layer System Beyblades", "Category:God Layer System Beyblades", "Category:Cho-Z Layer System Beyblades",
+                    "Category:Gatinko Layer System Beyblades", "Category:GT Layer System Beyblades", "Category:Sparking System Beyblades",
+                    "Category:Superking Beyblades", "Category:DB System Beyblades", "Category:Dynamite Battle Beyblades",
+                    "Category:BU System Beyblades", "Category:QuadDrive Beyblades", "Category:QuadStrike Beyblades",
+                    "Category:Beyblade Burst Evolution Beyblades", "Category:Beyblade Burst Turbo Beyblades", "Category:Beyblade Burst Rise Beyblades",
+                    "Category:Beyblade Burst Surge Beyblades", "Category:Beyblade Burst QuadDrive Beyblades", "Category:Beyblade Burst QuadStrike Beyblades"]:
+              if not api(action="query", titles=c)["query"]["pages"][0].get("missing"): cats.add(c)
+          print("Categories:", sorted(cats))
+
+          have = {b["title"] for b in json.load(open("burst-wiki/index.json"))["beyblades"]}
+          titles = set()
+          for c in sorted(cats):
+              m = members(c); print(f"  {c}: {len(m)}"); titles.update(m)
+          titles = sorted(t for t in titles if t not in have)
+          print(len(titles), "Beyblades not saved yet")
+
+          # 2) each page: text, categories, main picture
+          out, made = [], 0
+          for k in range(0, len(titles), 40):
+              batch = titles[k:k + 40]
+              d = api(action="query", titles="|".join(batch), prop="revisions|categories|pageimages", rvprop="content", rvslots="main",
+                      cllimit="max", piprop="name|original", redirects="1")
+              for pg in d["query"]["pages"]:
+                  if pg.get("missing"): continue
+                  text = pg["revisions"][0]["slots"]["main"]["content"] if pg.get("revisions") else ""
+                  item = {"title": pg["title"], "categories": [c["title"] for c in pg.get("categories", [])],
+                          "text": text[:4000], "main_image": pg.get("pageimage"), "img": None}
+                  url = (pg.get("original") or {}).get("source")
+                  if url:
+                      path = f"burst-small/bey/{slug(pg['title'])}/main.jpg"
+                      try:
+                          if not os.path.exists(path):
+                              r = s.get(url, timeout=60); r.raise_for_status()
+                              im = Image.open(io.BytesIO(r.content)); im.seek(0); im = im.convert("RGBA")
+                              bg = Image.new("RGB", im.size, (255, 255, 255)); bg.paste(im, mask=im.split()[3]); bg.thumbnail((900, 900))
+                              os.makedirs(os.path.dirname(path), exist_ok=True); bg.save(path, "JPEG", quality=86, optimize=True, progressive=True)
+                              made += 1
+                          item["img"] = path
+                      except Exception as e: print("  picture error", pg["title"], str(e)[:80])
+                      time.sleep(0.3)
+                  out.append(item)
+              print(f"  {min(k + 40, len(titles))}/{len(titles)}")
+          json.dump({"categories": sorted(cats), "beyblades": out}, open("burst-wiki/more.json", "w"), indent=1, ensure_ascii=False)
+          print(f"Done: {len(out)} Beyblades, {made} new pictures")
+          PY
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A burst-small burst-wiki
+          git commit -m "Grab more Burst Beyblades" || echo "No changes"
+          git pull --rebase || true
+          git push
