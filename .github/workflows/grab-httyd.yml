@@ -1,0 +1,143 @@
+name: Grab HTTYD dragons
+
+# Run it from the Actions tab ("Run workflow").
+# Reads https://howtotrainyourdragon.fandom.com/wiki/Dragon_Classes_(Franchise) fully rendered, takes every dragon
+# species listed under each class (Boulder, Mystery, Sharp, Stoker, Strike, Tidal, Tracker, Fear), then opens each
+# species page (and its Gallery subpage) and saves its pictures with their captions. Saves:
+#   httyd/dragons/<species>/1.jpg ...   the page's main picture first, then infobox / gallery pictures (up to 10)
+#   httyd/index.json                   class, species, page, media sections, and every picture with section + caption
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Save the dragons
+        run: |
+          pip install requests pillow beautifulsoup4 >/dev/null
+          python -u - <<'PY'
+          import io, json, os, re, shutil, time
+          import requests
+          from PIL import Image
+          from bs4 import BeautifulSoup
+          API = "https://howtotrainyourdragon.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT = "httyd"
+          if os.path.isdir(f"{OUT}/dragons"): shutil.rmtree(f"{OUT}/dragons")
+          os.makedirs(f"{OUT}/dragons", exist_ok=True)
+          def api(**p):
+              p.update(format="json", formatversion="2")
+              for a in range(5):
+                  try:
+                      r = s.get(API, params=p, timeout=60)
+                      if r.status_code == 200:
+                          j = r.json(); return {} if "error" in j else j
+                  except Exception as e: print("  api error", str(e)[:80])
+                  time.sleep(5 * (a + 1))
+              return {}
+          def slug(t): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
+          def parse(t): return api(action="parse", page=t, prop="text|categories", redirects="1").get("parse", {})
+
+          # 1) classes and their species from the rendered page
+          p = parse("Dragon Classes (Franchise)")
+          open(f"{OUT}/classes.html", "w").write(p.get("text", ""))
+          soup = BeautifulSoup(p.get("text", ""), "html.parser")
+          SKIP = re.compile(r"^(File|Category|Template|Special|User|Help|Dragon Classes|Rescue Riders|The Nine Realms|How to Train Your Dragon|Dragons:|School of Dragons|Rise of Berk|Titan Uprising)", re.I)
+          species, klass, sub = {}, None, ""
+          for el in soup.find_all(["h2", "h3", "h4", "a"]):
+              if el.name in ("h2", "h3", "h4"):
+                  t = el.get_text(" ", strip=True).replace("[edit]", "").strip()
+                  m = re.match(r"^(\w+)\s+Class", t)
+                  if el.name == "h2": klass = m.group(1) if m else None; sub = ""
+                  elif klass and m: klass = m.group(1); sub = ""
+                  elif klass: sub = t
+                  continue
+              if not klass: continue
+              href = el.get("href") or ""
+              if not href.startswith("/wiki/") or ":" in href.split("/wiki/", 1)[1].split("?")[0]: continue
+              title = requests.utils.unquote(href.split("/wiki/", 1)[1].split("#")[0]).replace("_", " ")
+              if SKIP.search(title) or re.search(r"class", title, re.I): continue
+              d = species.setdefault(title, {"title": title, "classes": [], "media": []})
+              if klass not in d["classes"]: d["classes"].append(klass)
+              if sub and sub not in d["media"]: d["media"].append(sub)
+          print(len(species), "species found under classes")
+          # also every page in the class categories, in case the page misses some
+          for c in ["Boulder", "Mystery", "Sharp", "Stoker", "Strike", "Tidal", "Tracker", "Fear"]:
+              cont = {}
+              while True:
+                  d = api(action="query", list="categorymembers", cmtitle=f"Category:{c} Class", cmlimit="500", cmtype="page", **cont)
+                  for m in d.get("query", {}).get("categorymembers", []):
+                      x = species.setdefault(m["title"], {"title": m["title"], "classes": [], "media": []})
+                      if c not in x["classes"]: x["classes"].append(c)
+                  if "continue" not in d: break
+                  cont = d["continue"]
+          print(len(species), "species after the class categories")
+
+          # 2) each species page + gallery subpage
+          TOY = re.compile(r"toy|figure|merch|lego|funko|book cover|card|package|box", re.I)
+          out = []
+          def save(): json.dump({"source": "https://howtotrainyourdragon.fandom.com/wiki/Dragon_Classes_(Franchise)", "dragons": out}, open(f"{OUT}/index.json", "w"), indent=1, ensure_ascii=False)
+          for t, d in sorted(species.items()):
+              try:
+                  pg = parse(t)
+                  if not pg: continue
+                  e = {**d, "page": pg.get("title", t), "categories": [c.get("category", "") for c in pg.get("categories", [])], "all": [], "pictures": []}
+                  subs = [x["title"] for x in api(action="query", list="allpages", apprefix=e["page"] + "/", aplimit="20").get("query", {}).get("allpages", [])]
+                  for tt in [e["page"]] + subs:
+                      html = pg.get("text", "") if tt == e["page"] else parse(tt).get("text", "")
+                      sp = BeautifulSoup(html, "html.parser"); section = "(top)"
+                      for el in sp.find_all(["h2", "h3", "h4", "img"]):
+                          if el.name != "img": section = el.get_text(" ", strip=True).replace("[edit]", "").strip(); continue
+                          fn = el.get("data-image-name") or ""
+                          if not re.search(r"\.(png|jpe?g|gif|webp)$", fn, re.I) or fn.lower() in [x["file"].lower() for x in e["all"]]: continue
+                          cap = ""; box = el.find_parent(class_=re.compile(r"wikia-gallery-item|gallerybox|thumb|pi-image|pi-item"))
+                          if box:
+                              c = box.find(class_=re.compile(r"lightbox-caption|gallerytext|thumbcaption|pi-caption"))
+                              if c: cap = c.get_text(" ", strip=True)[:140]
+                          infobox = bool(el.find_parent(class_=re.compile(r"portable-infobox")))
+                          tab = el.find_parent(class_="wds-tab__content")
+                          e["all"].append({"file": fn, "section": section, "caption": cap, "infobox": infobox, "where": tt.split("/", 1)[1] if "/" in tt else "page",
+                                           "w": int(el.get("width") or 0), "keep": not TOY.search(section + " " + cap + " " + fn)})
+                      time.sleep(0.2)
+                  want = [x for x in e["all"] if x["infobox"] and x["keep"]] + [x for x in e["all"] if not x["infobox"] and x["keep"] and (x["w"] == 0 or x["w"] >= 80)]
+                  for f in want[:10]:
+                      ii = (api(action="query", titles="File:" + f["file"], prop="imageinfo", iiprop="url").get("query", {}).get("pages") or [{}])[0].get("imageinfo")
+                      if not ii: continue
+                      try:
+                          r = s.get(ii[0]["url"], timeout=60); r.raise_for_status()
+                          im = Image.open(io.BytesIO(r.content)); im.seek(0); im = im.convert("RGBA")
+                          if min(im.size) < 100: continue
+                          bg = Image.new("RGB", im.size, (0, 0, 0)); bg.paste(im, mask=im.split()[3]); bg.thumbnail((1000, 1000))
+                          path = f"{OUT}/dragons/{slug(e['page'])}/{len(e['pictures']) + 1}.jpg"
+                          os.makedirs(os.path.dirname(path), exist_ok=True)
+                          bg.save(path, "JPEG", quality=86, optimize=True, progressive=True)
+                          e["pictures"].append({"pic": path.replace("httyd/", ""), **f})
+                      except Exception as ex: print("  picture error", f["file"], str(ex)[:80])
+                      time.sleep(0.25)
+                  out.append(e)
+                  if len(out) % 25 == 0: save()
+                  print(f"{'/'.join(e['classes']):16s} {e['page'][:40]:40s} {len(e['pictures'])} pictures")
+              except Exception as ex:
+                  print(f"  skipped {t}: {type(ex).__name__} {str(ex)[:100]}")
+          save()
+          print(f"Done: {len(out)} dragons, {sum(len(x['pictures']) for x in out)} pictures")
+          PY
+      - name: Save the results
+        if: always()
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A httyd
+          git commit -m "Grab HTTYD dragons" || echo "No changes"
+          git pull --rebase || true
+          git push
