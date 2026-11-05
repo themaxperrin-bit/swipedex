@@ -1,0 +1,119 @@
+name: Grab Bakugan galleries
+
+# Run it from the Actions tab ("Run workflow").
+# Follow-up to "Grab Bakugan forms v2": that job missed the wiki's Gallery tabs. For every Bakugan page it found
+# (bakugan/forms/index.json), this lists the page's subpages (Gallery, Image ...), reads each one fully rendered,
+# and saves every anime picture (ball form + creature form), skipping toy / card / package photos. Saves:
+#   bakugan/forms2/<gen>/<bakugan>/1.jpg ...   anime pictures, up to 10, in page order
+#   bakugan/forms2/index.json                 every picture on every subpage with its section, caption and kept/skipped
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Save the gallery pictures
+        run: |
+          pip install requests pillow beautifulsoup4 >/dev/null
+          python -u - <<'PY'
+          import io, json, os, re, shutil, time
+          import requests
+          from PIL import Image
+          from bs4 import BeautifulSoup
+          API = "https://bakugan.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT = "bakugan/forms2"
+          if os.path.isdir(OUT): shutil.rmtree(OUT)
+          os.makedirs(OUT)
+          def api(**p):
+              p.update(format="json", formatversion="2")
+              for a in range(5):
+                  try:
+                      r = s.get(API, params=p, timeout=60)
+                      if r.status_code == 200:
+                          j = r.json()
+                          return {} if "error" in j else j
+                  except Exception as e: print("  api error", str(e)[:80])
+                  time.sleep(5 * (a + 1))
+              return {}
+          def slug(t): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
+          ANIME = re.compile(r"anime|episode|\bep\.?\s?\d|season|battle brawlers|new vestroia|gundalian|mechtanium|battle planet|armored alliance|geogan|evolutions|legends|ball form|bakugan form|open|closed|screenshot|scene|cartoon|show", re.I)
+          TOY = re.compile(r"toy|physical|package|packaging|box|card|game|merch|prototype|mold|promo|advert|instruction|translucent|variation|figure|scan|stock|retail|ebay|collection", re.I)
+          src = json.load(open("bakugan/forms/index.json"))["bakugan"]
+          out = []
+          def save():
+              json.dump({"bakugan": out}, open(f"{OUT}/index.json", "w"), indent=1, ensure_ascii=False)
+          for e in src:
+              if not e.get("page"): continue
+              try:
+                  title = e["page"]
+                  subs = [p["title"] for p in api(action="query", list="allpages", apprefix=title + "/", aplimit="50").get("query", {}).get("allpages", [])]
+                  entry = {"gen": e["gen"], "name": e["name"], "page": title, "in_swipedex": e["in_swipedex"], "subpages": subs, "all": [], "pictures": []}
+                  for t in [title] + subs:
+                      html = api(action="parse", page=t, prop="text", redirects="1").get("parse", {}).get("text", "")
+                      if not html: continue
+                      soup = BeautifulSoup(html, "html.parser")
+                      section, tab = "(top)", ""
+                      for el in soup.find_all(["h2", "h3", "h4", "img", "li"]):
+                          if el.name in ("h2", "h3", "h4"):
+                              section = el.get_text(" ", strip=True).replace("[edit]", "").strip(); continue
+                          if el.name == "li" and "wds-tabs__tab" in (el.get("class") or []): tab = el.get_text(" ", strip=True); continue
+                          if el.name != "img": continue
+                          fn = el.get("data-image-name") or ""
+                          if not fn or not re.search(r"\.(png|jpe?g|gif|webp)$", fn, re.I): continue
+                          w = int(el.get("width") or 0)
+                          cap = ""
+                          box = el.find_parent(class_=re.compile(r"wikia-gallery-item|gallerybox|thumb|pi-image|tabber|wds-tab__content"))
+                          if box:
+                              c = box.find(class_=re.compile(r"lightbox-caption|gallerytext|thumbcaption|pi-caption"))
+                              if c: cap = c.get_text(" ", strip=True)[:140]
+                          tabname = ""
+                          tc = el.find_parent(class_="wds-tab__content")
+                          if tc: tabname = tc.get("data-hash", "") or ""
+                          where = t.split("/", 1)[1] if "/" in t else "page"
+                          if fn.lower() in [x["file"].lower() for x in entry["all"]]: continue
+                          ctx = " ".join([section, cap, tabname, where])
+                          keep = bool(ANIME.search(ctx) or re.search(r"\bep\s?\d|episode|anime|screenshot", fn, re.I)) and not TOY.search(section + " " + cap + " " + fn) and not (w and w < 60)
+                          entry["all"].append({"file": fn, "section": section, "caption": cap, "tab": tabname, "where": where, "keep": keep})
+                      time.sleep(0.2)
+                  for f in [x for x in entry["all"] if x["keep"]][:10]:
+                      ii = (api(action="query", titles="File:" + f["file"], prop="imageinfo", iiprop="url").get("query", {}).get("pages") or [{}])[0].get("imageinfo")
+                      if not ii: continue
+                      try:
+                          r = s.get(ii[0]["url"], timeout=60); r.raise_for_status()
+                          im = Image.open(io.BytesIO(r.content)); im.seek(0); im = im.convert("RGBA")
+                          if min(im.size) < 100: continue
+                          bg = Image.new("RGB", im.size, (0, 0, 0)); bg.paste(im, mask=im.split()[3]); bg.thumbnail((1000, 1000))
+                          path = f"{OUT}/g{e['gen']}/{slug(e['name'])}/{len(entry['pictures']) + 1}.jpg"
+                          os.makedirs(os.path.dirname(path), exist_ok=True)
+                          bg.save(path, "JPEG", quality=86, optimize=True, progressive=True)
+                          entry["pictures"].append({"pic": path.replace("bakugan/", ""), **f})
+                      except Exception as ex: print("  picture error", f["file"], str(ex)[:80])
+                      time.sleep(0.25)
+                  out.append(entry)
+                  if len(out) % 25 == 0: save()
+                  print(f"g{e['gen']} {e['name'][:28]:28s} subpages {len(subs)}  pictures on pages {len(entry['all']):3d}  kept {len(entry['pictures'])}")
+              except Exception as ex:
+                  print(f"  skipped {e['name']}: {type(ex).__name__} {str(ex)[:100]}")
+          save()
+          print(f"Done: {len(out)} Bakugan, {sum(1 for x in out if x['pictures'])} with anime pictures, {sum(len(x['pictures']) for x in out)} pictures")
+          PY
+      - name: Save the results
+        if: always()
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A bakugan/forms2
+          git commit -m "Grab Bakugan galleries" || echo "No changes"
+          git pull --rebase || true
+          git push
