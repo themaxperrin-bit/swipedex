@@ -1,0 +1,96 @@
+name: Grab Burst avatars from every page
+
+# Run it from the Actions tab ("Run workflow").
+# The wiki's "Avatar" page only covers 60 main characters. Most Burst Beyblade pages also have their own
+# avatar screenshots in their gallery. This goes through every Burst Beyblade page (the ones saved in
+# burst-wiki/index.json and burst-wiki/more.json) and saves each picture whose file name says "avatar". Saves:
+#   spirits/burst-pages/<beyblade>/1.jpg, 2.jpg ...   that Beyblade's avatar pictures (up to 8)
+#   spirits/burst-pages/index.json                    page, file name and gallery caption of each picture
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 150
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Save avatar pictures from each page
+        run: |
+          pip install requests pillow >/dev/null
+          python -u - <<'PY'
+          import io, json, os, re, shutil, time
+          import requests
+          from PIL import Image
+          API = "https://beyblade.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT = "spirits/burst-pages"
+          if os.path.isdir(OUT): shutil.rmtree(OUT)
+          os.makedirs(OUT)
+          def api(**p):
+              p.update(format="json", formatversion="2")
+              for a in range(5):
+                  try:
+                      r = s.get(API, params=p, timeout=60)
+                      if r.status_code == 200: return r.json()
+                  except Exception as e: print("  api error", str(e)[:80])
+                  time.sleep(5 * (a + 1))
+              raise SystemExit("The wiki isn't answering, run the job again later")
+          def slug(t): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
+          titles = [b["title"] for b in json.load(open("burst-wiki/index.json"))["beyblades"]]
+          titles += [b["title"] for b in json.load(open("burst-wiki/more.json"))["beyblades"]]
+          titles = sorted(set(titles))
+          print(len(titles), "pages")
+          # avatar picture names, with the caption the page gives them
+          AV = re.compile(r"(?:\[\[)?(?:File:|Image:)?([^\[\]|=\n]*avatar[^\[\]|=\n]*\.(?:png|jpe?g|gif|webp))\s*(?:\|([^\]\n]*))?", re.I)
+          pages = []
+          for k in range(0, len(titles), 40):
+              d = api(action="query", titles="|".join(titles[k:k + 40]), prop="revisions", rvprop="content", rvslots="main", redirects="1")
+              for pg in d["query"]["pages"]:
+                  if not pg.get("revisions"): continue
+                  wt = pg["revisions"][0]["slots"]["main"]["content"]
+                  found = []
+                  for m in AV.finditer(wt):
+                      fn = m.group(1).strip()
+                      if fn and fn.lower() not in [f["file"].lower() for f in found]:
+                          found.append({"file": fn, "caption": re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]|'''?", r"\1", (m.group(2) or "")).strip()[:120]})
+                  if found: pages.append({"title": pg["title"], "slug": slug(pg["title"]), "found": found})
+              print(f"  read {min(k + 40, len(titles))}/{len(titles)}")
+          print(len(pages), "pages have avatar pictures")
+          made = failed = 0
+          for pg in pages:
+              pg["pictures"] = []
+              for f in pg["found"][:8]:
+                  d = api(action="query", titles="File:" + f["file"], prop="imageinfo", iiprop="url")
+                  ii = d["query"]["pages"][0].get("imageinfo")
+                  if not ii: failed += 1; continue
+                  try:
+                      r = s.get(ii[0]["url"], timeout=60); r.raise_for_status()
+                      im = Image.open(io.BytesIO(r.content)); im.seek(0); im = im.convert("RGBA")
+                      if min(im.size) < 120: continue
+                      bg = Image.new("RGB", im.size, (0, 0, 0)); bg.paste(im, mask=im.split()[3]); bg.thumbnail((1000, 1000))
+                      out = f"{OUT}/{pg['slug']}/{len(pg['pictures']) + 1}.jpg"
+                      os.makedirs(os.path.dirname(out), exist_ok=True)
+                      bg.save(out, "JPEG", quality=86, optimize=True, progressive=True)
+                      pg["pictures"].append({"pic": out.replace("spirits/", ""), **f}); made += 1
+                  except Exception as e: print("  picture error", f["file"], str(e)[:80]); failed += 1
+                  time.sleep(0.3)
+              print(f"{pg['title'][:50]:50s} {len(pg['pictures'])} avatar pictures")
+          json.dump({"pages": pages}, open(f"{OUT}/index.json", "w"), indent=1, ensure_ascii=False)
+          print(f"Done: {len(pages)} pages, {made} pictures, {failed} failed")
+          PY
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A spirits
+          git commit -m "Grab Burst avatars from every page" || echo "No changes"
+          git pull --rebase || true
+          git push
