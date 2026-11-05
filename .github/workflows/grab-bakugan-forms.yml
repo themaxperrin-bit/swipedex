@@ -1,0 +1,169 @@
+name: Grab Bakugan creature forms
+
+# Run it from the Actions tab ("Run workflow").
+# 1) Every Bakugan in bakugan/index.json, PLUS Bakugan the Bakugan Wiki lists as anime-only / never released
+#    (found from the wiki's categories), e.g. Bakugan that only appear in the show.
+# 2) For each one, reads its page and its "/Gallery" subpage on https://bakugan.fandom.com and saves
+#    ball-form pictures and creature-form (anime) pictures separately. Saves:
+#   bakugan/forms/<gen>/<bakugan>/ball-1.jpg ...      ball form (closed) pictures, up to 4
+#   bakugan/forms/<gen>/<bakugan>/form-1.jpg ...      creature form (anime) pictures, up to 8
+#   bakugan/forms/index.json                         page matched, categories, anime-only or not, and the
+#                                                    section / caption / file name of every picture
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  grab:
+    runs-on: ubuntu-latest
+    timeout-minutes: 240
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Save ball forms and creature forms
+        run: |
+          pip install requests pillow >/dev/null
+          python -u - <<'PY'
+          import io, json, os, re, shutil, time
+          import requests
+          from PIL import Image
+          API = "https://bakugan.fandom.com/api.php"
+          s = requests.Session()
+          s.headers["User-Agent"] = "SwipeDexBot/1.0 (personal collection app; https://github.com/themaxperrin-bit/swipedex)"
+          OUT = "bakugan/forms"
+          if os.path.isdir(OUT): shutil.rmtree(OUT)
+          os.makedirs(OUT)
+          def api(**p):
+              p.update(format="json", formatversion="2")
+              for a in range(5):
+                  try:
+                      r = s.get(API, params=p, timeout=60)
+                      if r.status_code == 200: return r.json()
+                  except Exception as e: print("  api error", str(e)[:80])
+                  time.sleep(5 * (a + 1))
+              raise SystemExit("The wiki isn't answering, run the job again later")
+          def slug(t): return re.sub(r"-+", "-", re.sub(r"[^a-z0-9]+", "-", t.lower())).strip("-")
+          def members(cat):
+              out, cont = [], {}
+              while True:
+                  d = api(action="query", list="categorymembers", cmtitle=cat, cmlimit="500", cmtype="page", **cont)
+                  out += [m["title"] for m in d["query"]["categorymembers"]]
+                  if "continue" not in d: return out
+                  cont = d["continue"]
+
+          # ---- 1) the Bakugan to look up
+          items = json.load(open("bakugan/index.json"))["items"]
+          wanted = {(it["gen"], it["name"]): {"gen": it["gen"], "name": it["name"], "in_swipedex": True} for it in items if it["kind"] == "Bakugan"}
+          cats = set()
+          for q in ["anime Bakugan", "anime only", "anime exclusive", "unreleased Bakugan", "never released", "exclusive Bakugan", "manga Bakugan"]:
+              d = api(action="query", list="search", srsearch=q, srnamespace="14", srlimit="50")
+              for r in d["query"]["search"]:
+                  t = r["title"]
+                  if re.search(r"anime|exclusive|unreleased|never|non-?released|manga|unproduced", t, re.I) and not re.search(r"episode|character|card|gear|image|file|template|user", t, re.I):
+                      cats.add(t)
+          print("Anime-only categories:", sorted(cats))
+          extra = {}
+          for c in sorted(cats):
+              m = members(c); print(f"  {c}: {len(m)}")
+              for t in m: extra.setdefault(t, c)
+          have = {n.lower() for (_, n) in wanted}
+          for t, c in extra.items():
+              base = re.sub(r"\s*\(.*\)$", "", t)
+              if base.lower() in have or t.lower() in have: continue
+              gen = 2 if re.search(r"generation 2|battle planet|armored|geogan|evolutions|legends|reboot", t + " " + c, re.I) else 1
+              wanted[(gen, base)] = {"gen": gen, "name": base, "page_hint": t, "in_swipedex": False, "anime_category": c}
+          print(len(wanted), "Bakugan to look up,", sum(1 for w in wanted.values() if not w["in_swipedex"]), "not in SwipeDex yet")
+
+          # ---- 2) pages
+          def page(title):
+              d = api(action="query", titles=title, redirects="1", prop="revisions|pageimages|categories", rvprop="content", rvslots="main", piprop="name", cllimit="max")
+              pg = d["query"]["pages"][0]
+              if pg.get("missing") or not pg.get("revisions"): return None
+              wt = pg["revisions"][0]["slots"]["main"]["content"]
+              return {"title": pg["title"], "wt": wt, "main": pg.get("pageimage"), "categories": [c["title"] for c in pg.get("categories", [])],
+                      "disambig": bool(re.search(r"\{\{\s*disambig", wt, re.I))}
+          FILE = re.compile(r"(?:\[\[(?:File|Image):([^\]|\n]+)((?:\|[^\]\n]*)?)\]\]|^\s*(?:File:|Image:)?([^|\[\]=\n<>]+\.(?:jpe?g|png|gif|webp))\s*((?:\|[^\n]*)?)$)", re.I | re.M)
+          def files_in(wt, where):
+              found, section = [], "(top)"
+              for part in re.split(r"\n(?===+[^=])", wt):
+                  h = re.match(r"==+\s*(.+?)\s*==+", part)
+                  if h: section = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]|'''?", r"\1", h.group(1)).strip()
+                  for m in FILE.finditer(part):
+                      fn = (m.group(1) or m.group(3) or "").strip()
+                      cap = re.sub(r"\[\[(?:[^\]|]*\|)?([^\]]*)\]\]|'''?|\|?\d+px|\|?thumb|\|?left|\|?right|\|?center", "", (m.group(2) or m.group(4) or "")).strip(" |")
+                      if fn: found.append({"file": fn, "section": section, "caption": cap[:120], "where": where})
+              return found
+          BALL = re.compile(r"ball|closed|sphere|bakugan form \(closed\)|in ball", re.I)
+          FORM = re.compile(r"anime|creature|monster|open|bakugan form|episode|battle brawlers|new vestroia|gundalian|mechtanium|battle planet|armored|geogan|evolutions|legends|\bep\b|ep\.", re.I)
+          NOT = re.compile(r"toy|physical|game|card|package|packaging|box|merch|instruction|ad\b|advert|promo art|prototype|mold", re.I)
+          out = []
+          for (gen, name), w in sorted(wanted.items()):
+              tries = ([w["page_hint"]] if w.get("page_hint") else []) + [name] + (
+                  [f"{name} (Generation 2)", f"{name} (Battle Planet)", f"{name} (Reboot)"] if gen == 2 else [f"{name} (Generation 1)", f"{name} (Original Series)"])
+              pg = None
+              for t in tries:
+                  p = page(t)
+                  if p and p["disambig"]:
+                      links = re.findall(r"\[\[([^\]|#]+)", p["wt"])
+                      want = re.compile(r"generation 2|battle planet|reboot|armored|geogan|evolution|legends", re.I) if gen == 2 else re.compile(r"generation 1|battle brawlers|new vestroia|gundalian|mechtanium|original", re.I)
+                      pick = [l for l in links if want.search(l)] or links[:1]
+                      p = page(pick[0]) if pick else None
+                  if p and not p["disambig"]: pg = p; break
+              if not pg:
+                  d = api(action="query", list="search", srsearch=name, srlimit="5", srnamespace="0")
+                  hits = [h["title"] for h in d["query"]["search"] if name.lower() in h["title"].lower() and "/" not in h["title"]]
+                  if hits: pg = page(hits[0])
+              e = {**w, "page": pg["title"] if pg else None, "categories": pg["categories"] if pg else [], "ball": [], "form": [], "all": []}
+              if pg:
+                  e["anime_only"] = (not w["in_swipedex"]) or any(re.search(r"anime|exclusive|unreleased|never", c, re.I) for c in pg["categories"])
+                  e["all"] = files_in(pg["wt"], "page")
+                  g = page(pg["title"] + "/Gallery")
+                  if g: e["all"] += files_in(g["wt"], "gallery")
+                  main = pg.get("main")
+                  def kind(f):
+                      t = f["section"] + " " + f["caption"] + " " + f["file"]
+                      if NOT.search(f["section"]) or NOT.search(f["caption"]): return None
+                      if BALL.search(t): return "ball"
+                      if FORM.search(t): return "form"
+                      return None
+                  picks = {"ball": [], "form": []}
+                  if main: picks["form"].append({"file": main, "section": "(main picture)", "caption": "", "where": "page"})
+                  for f in e["all"]:
+                      k = kind(f)
+                      if k and f["file"].replace("_", " ").lower() not in [x["file"].replace("_", " ").lower() for x in picks[k]]: picks[k].append(f)
+                  for k, cap in (("ball", 4), ("form", 8)):
+                      for f in picks[k]:
+                          if len(e[k]) >= cap: break
+                          d = api(action="query", titles="File:" + f["file"], prop="imageinfo", iiprop="url")
+                          ii = d["query"]["pages"][0].get("imageinfo")
+                          if not ii: continue
+                          try:
+                              r = s.get(ii[0]["url"], timeout=60); r.raise_for_status()
+                              im = Image.open(io.BytesIO(r.content)); im.seek(0); im = im.convert("RGBA")
+                              if min(im.size) < 80: continue
+                              bg = Image.new("RGB", im.size, (0, 0, 0)); bg.paste(im, mask=im.split()[3]); bg.thumbnail((1000, 1000))
+                              path = f"{OUT}/g{gen}/{slug(name)}/{k}-{len(e[k]) + 1}.jpg"
+                              os.makedirs(os.path.dirname(path), exist_ok=True)
+                              bg.save(path, "JPEG", quality=86, optimize=True, progressive=True)
+                              e[k].append({"pic": path.replace("bakugan/", ""), **f})
+                          except Exception as ex: print("  picture error", f["file"], str(ex)[:80])
+                          time.sleep(0.25)
+              out.append(e)
+              print(f"g{gen} {name[:26]:26s} {'NEW ' if not w['in_swipedex'] else '    '}-> {str(e['page'])[:34]:34s} ball {len(e['ball'])} form {len(e['form'])}")
+          json.dump({"source": "https://bakugan.fandom.com", "anime_categories": sorted(cats), "bakugan": out},
+                    open(f"{OUT}/index.json", "w"), indent=1, ensure_ascii=False)
+          print(f"Done: {len(out)} Bakugan, {sum(1 for e in out if e['page'])} pages found, "
+                f"{sum(1 for e in out if not e['in_swipedex'])} anime-only added, {sum(len(e['ball']) for e in out)} ball pictures, {sum(len(e['form']) for e in out)} form pictures")
+          PY
+      - name: Save the results
+        run: |
+          git config user.name "swipedex-bot"
+          git config user.email "swipedex-bot@users.noreply.github.com"
+          git add -A bakugan/forms
+          git commit -m "Grab Bakugan creature forms" || echo "No changes"
+          git pull --rebase || true
+          git push
